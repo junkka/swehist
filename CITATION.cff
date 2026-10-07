@@ -3,6 +3,7 @@ message: "If you use swehist, please cite it as below."
 title: "swehist: Swedish Historical Administrative Boundaries"
 version: 1.1.1
 date-released: 2026-10-07
+doi: 10.5281/zenodo.23207968
 authors:
   - family-names: Junkka
     given-names: Johan
@@ -12,6 +13,13 @@ license:
   - MIT
   - CC-BY-4.0
 repository-code: "https://github.com/junkka/swehist"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23207968
+    description: This version (1.1.1)
+  - type: doi
+    value: 10.5281/zenodo.23207967
+    description: All versions
 abstract: >-
   Swedish historical administrative boundaries, hierarchies and matching
   tools for 11 administrative types (parishes, counties, municipalities,

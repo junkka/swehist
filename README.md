@@ -2,6 +2,8 @@
 
 # swehist
 
+[![DOI](https://zenodo.org/badge/1387147068.svg)](https://doi.org/10.5281/zenodo.23207967)
+
 Boundaries of Swedish administrative units 1600-1990, as `sf` objects:
 parishes, counties, municipalities, pastorships, deaneries, dioceses,
 hundreds, magistrates courts, district courts, courts of appeal and
@@ -125,7 +127,15 @@ sources.
 
 ## Citation
 
-`citation("swehist")` gives the reference.
+`citation("swehist")` gives the reference:
+
+Junkka, J. (2026). swehist: Swedish Historical Administrative
+Boundaries. R package version 1.1.1.
+<https://doi.org/10.5281/zenodo.23207968>
+
+Cite the version you used. The DOI
+[10.5281/zenodo.23207967](https://doi.org/10.5281/zenodo.23207967)
+always resolves to the latest version.
 
 ## History
 
