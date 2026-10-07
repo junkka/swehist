@@ -1,0 +1,2 @@
+
+Write the output as a single JSON array to {RESULT}. Process ALL lines. Every pid in the input must appear in at least one output row. For a large batch, write the JSON in several chunks (e.g. part files you then concatenate with python3) rather than one huge write. After writing, verify with a short python3 script that {RESULT} parses and that the set of pids in the output equals the set in the input; fix any gap and re-verify. Delete any temporary part files; write no other files. When done, reply only with: rows written, pids in input, pids in output.

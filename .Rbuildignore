@@ -1,0 +1,16 @@
+^data-raw$
+^README\.Rmd$
+^.*\.Rproj$
+^\.Rproj\.user$
+^\.Rhistory$
+^\.Rprofile$
+^\.vscode$
+^\.claude$
+^AUDIT_.*\.md$
+^VALIDATION\.md$
+^LICENSE\.md$
+^CITATION\.cff$
+^\.zenodo\.json$
+^doc$
+^Meta$
+^Screenshot

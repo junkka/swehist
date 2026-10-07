@@ -1,0 +1,14 @@
+# corrections_courts.csv - courts whose court of appeal the model gets wrong.
+#
+# C001 was found by the third held-out sample (case T070,
+# Tjurko 1928) after that sample had been measured and spent. It is corrected here
+# because it is a real fault with independent corroboration inside the dataset, not because
+# the sample scored it: Blekinge's three other domsagor and Karlskrona radhusratt are all
+# under Hovratten over Skane och Blekinge continuously from 1820 in this same build, and only
+# Ostra och Medelstads domsaga flaps to Gota (1866-1904 and 1915-1930). Every one of those
+# links is derived/chained: the containment fallback reads a Gota hovratt polygon that is too
+# big over eastern Blekinge, and that polygon is itself a union of the courts the bad link
+# gives it, so the error feeds itself. No number in VALIDATION.md may be re-measured on the
+# third sample after this change.
+id,kind,type_id,topo_id,name,start,end,value,source,note
+C001,membership,magistrates_court,{E8A326E7-4657-4FA5-A05A-BA7EB5CDA4CF},Östra och Medelstads domsaga,1820-01-01,1970-12-31,{4B8037AB-0598-4810-B027-12C2393846BC},"Hovrätten över Skåne och Blekinge was established in 1820 with Skåne and Blekinge as its domkrets (the unit's own start date in this dataset is 1820-01-01); Nordisk familjebok, 3:e upplagan, bd 3 (1923), art. Blekinge län: ""I judiciellt hänseende är länet indelat i 4 domsagor, var och en omfattande 1 tingslag och 1 härad, nämligen östra, Medelstads, Bräkne och Listers härad ... med vad till hovrätten över Skåne och Blekinge""; https://runeberg.org/nfdc/0318.html","All four Blekinge domsagor and Karlskrona rådhusrätt belonged to Hovrätten över Skåne och Blekinge from its creation in 1820 until the 1971 reform. The build already has that for the other four and only Östra och Medelstads flaps to Göta hovrätt in 1866-1904 and 1915-1930, which put about 23 of Blekinge's 40 parishes under the wrong court of appeal for some 80 years. Found by the third held-out sample after it was measured; the fault is confirmed by the dataset's own treatment of the neighbouring courts, independently of that sample."

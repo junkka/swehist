@@ -1,0 +1,13 @@
+bibentry(
+  bibtype = "Manual",
+  title   = "swehist: Swedish Historical Administrative Boundaries",
+  author  = person("Johan", "Junkka", comment = c(ORCID = "0000-0003-1527-279X")),
+  year    = "2026",
+  note    = "R package version 1.1.1",
+  url     = "https://github.com/junkka/swehist",
+  textVersion = paste(
+    "Junkka, J. (2026). swehist: Swedish Historical Administrative",
+    "Boundaries. R package version 1.1.1.",
+    "https://github.com/junkka/swehist"
+  )
+)

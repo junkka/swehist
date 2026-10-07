@@ -1,0 +1,10091 @@
+[
+ {
+  "pid": 685,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Eksjö stadsförsamling",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 687,
+  "parish_name": "Eksta",
+  "start_year": null,
+  "end_year": 1922,
+  "pastorat_name": "Eksta och Sproge",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 687,
+  "parish_name": "Eksta",
+  "start_year": 1922,
+  "end_year": 1940,
+  "pastorat_name": "Eksta, Sproge, Levide och Gerum",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 687,
+  "parish_name": "Eksta",
+  "start_year": 1941,
+  "end_year": 1961,
+  "pastorat_name": "Eksta, Levide och Gerum",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 687,
+  "parish_name": "Eksta",
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Klinte",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 688,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Eldsberga och Tönnersjö",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 688,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Eldsberga, Tönnersjö och Trönninge",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 689,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Floby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 690,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Bitterna",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 692,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Andrarum",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 692,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Ravlunda",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 693,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Mörrum",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 696,
+  "parish_name": null,
+  "start_year": 1939,
+  "end_year": 1961,
+  "pastorat_name": "Vissefjärda",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 696,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": 1978,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 696,
+  "parish_name": null,
+  "start_year": 1979,
+  "end_year": null,
+  "pastorat_name": "Emmaboda och Långasjö",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 697,
+  "parish_name": "Emmislöv",
+  "start_year": null,
+  "end_year": 1499,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "förr; end inferred from next period"
+ },
+ {
+  "pid": 697,
+  "parish_name": "Emmislöv",
+  "start_year": 1500,
+  "end_year": null,
+  "pastorat_name": "Östra Broby",
+  "is_own": false,
+  "notes": "ca"
+ },
+ {
+  "pid": 699,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Västerlövsta",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 700,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1798,
+  "pastorat_name": "Enånger och Njutånger",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 700,
+  "parish_name": null,
+  "start_year": 1798,
+  "end_year": 1915,
+  "pastorat_name": "Enånger, Njutånger och Nianfors",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 700,
+  "parish_name": null,
+  "start_year": 1915,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 701,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Hassle",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 703,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1928,
+  "pastorat_name": "Endre och Hejdeby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 703,
+  "parish_name": null,
+  "start_year": 1928,
+  "end_year": 1961,
+  "pastorat_name": "Barlingbo",
+  "is_own": false,
+  "notes": "beslut 1919-08-29 och 1927-06-09"
+ },
+ {
+  "pid": 703,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Roma",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 706,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 709,
+  "parish_name": "Enhörna",
+  "start_year": null,
+  "end_year": 1404,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "före 1405"
+ },
+ {
+  "pid": 709,
+  "parish_name": "Enhörna",
+  "start_year": 1405,
+  "end_year": null,
+  "pastorat_name": "Ytterenhörna och Husaby Enhörna",
+  "is_own": false,
+  "notes": "Husaby Enhörna = Överenhörna"
+ },
+ {
+  "pid": 709,
+  "parish_name": "Enhörna",
+  "start_year": null,
+  "end_year": 1920,
+  "pastorat_name": "Överenhörna",
+  "is_own": false,
+  "notes": "senare"
+ },
+ {
+  "pid": 709,
+  "parish_name": "Enhörna",
+  "start_year": 1920,
+  "end_year": 1947,
+  "pastorat_name": "Ytterenhörna och Överenhörna",
+  "is_own": false,
+  "notes": "source spelling Överenhörria (OCR)"
+ },
+ {
+  "pid": 709,
+  "parish_name": "Enhörna",
+  "start_year": 1948,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 711,
+  "parish_name": "Enköping",
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "medeltiden"
+ },
+ {
+  "pid": 711,
+  "parish_name": "Enköping",
+  "start_year": null,
+  "end_year": 1971,
+  "pastorat_name": "Enköping och Vårfrukyrka",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 711,
+  "parish_name": "Enköping",
+  "start_year": 1972,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 712,
+  "parish_name": "Enköpings-Näs",
+  "start_year": null,
+  "end_year": 1936,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 712,
+  "parish_name": "Enköpings-Näs",
+  "start_year": 1937,
+  "end_year": 1961,
+  "pastorat_name": "Svinnegarn",
+  "is_own": false,
+  "notes": "beslut 1917-07-13 och 1936-04-30"
+ },
+ {
+  "pid": 712,
+  "parish_name": "Enköpings-Näs",
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Tillinge",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 714,
+  "parish_name": null,
+  "start_year": 1931,
+  "end_year": 1931,
+  "pastorat_name": "Brännkyrka",
+  "is_own": false,
+  "notes": "1931-01-01 to 1931-04-30"
+ },
+ {
+  "pid": 714,
+  "parish_name": null,
+  "start_year": 1931,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 715,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1589,
+  "pastorat_name": "Enslöv och Breared",
+  "is_own": false,
+  "notes": "förr; end inferred from next period"
+ },
+ {
+  "pid": 715,
+  "parish_name": null,
+  "start_year": 1590,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "ca"
+ },
+ {
+  "pid": 716,
+  "parish_name": null,
+  "start_year": 1671,
+  "end_year": 1864,
+  "pastorat_name": "Svärdsjö",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 716,
+  "parish_name": null,
+  "start_year": 1864,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "beslut 1857-11-06"
+ },
+ {
+  "pid": 718,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Eriksberg, Mjäldrunga och Broddarp",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 718,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Skölvene",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 719,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 720,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Bolstad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 721,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1920,
+  "pastorat_name": "Tving",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 721,
+  "parish_name": null,
+  "start_year": 1920,
+  "end_year": 1961,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 721,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": 1970,
+  "pastorat_name": "Tving",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 721,
+  "parish_name": null,
+  "start_year": 1971,
+  "end_year": null,
+  "pastorat_name": "Backaryd",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 722,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Stora Mellby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 723,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Huddinge",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 724,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Näsby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 724,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Axberg",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 725,
+  "parish_name": "Esarp",
+  "start_year": null,
+  "end_year": 1530,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 725,
+  "parish_name": "Esarp",
+  "start_year": 1530,
+  "end_year": 1680,
+  "pastorat_name": "Bonderup",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 725,
+  "parish_name": "Esarp",
+  "start_year": 1680,
+  "end_year": 1961,
+  "pastorat_name": "Kyrkheddinge",
+  "is_own": false,
+  "notes": "beslut 1673-01-13"
+ },
+ {
+  "pid": 725,
+  "parish_name": "Esarp",
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Staffanstorp",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 726,
+  "parish_name": null,
+  "start_year": 1300,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "1300-talet"
+ },
+ {
+  "pid": 726,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Eskelhem och Tofta",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 726,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Eskelhem, Tofta, Vall, Hogrän och Atlingbo",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 727,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Millesvik",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 728,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Gässie",
+  "is_own": false,
+  "notes": "även Gessie"
+ },
+ {
+  "pid": 728,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Vellinge",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 729,
+  "parish_name": "Eskilstuna",
+  "start_year": 1659,
+  "end_year": 1930,
+  "pastorat_name": "Eskilstuna, Fors och Kloster",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 730,
+  "parish_name": "Eskilstuna Fors",
+  "start_year": 1659,
+  "end_year": 1930,
+  "pastorat_name": "Eskilstuna",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 730,
+  "parish_name": "Eskilstuna Fors",
+  "start_year": 1931,
+  "end_year": 1939,
+  "pastorat_name": "Eskilstuna Fors och Eskilstuna Kloster",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 730,
+  "parish_name": "Eskilstuna Fors",
+  "start_year": 1940,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 731,
+  "parish_name": "Eskilstuna Kloster",
+  "start_year": 1659,
+  "end_year": 1930,
+  "pastorat_name": "Eskilstuna",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 731,
+  "parish_name": "Eskilstuna Kloster",
+  "start_year": 1931,
+  "end_year": 1939,
+  "pastorat_name": "Eskilstuna Fors",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 731,
+  "parish_name": "Eskilstuna Kloster",
+  "start_year": 1940,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 733,
+  "parish_name": "Eslöv",
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Eslöv och Remmarlöv",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 733,
+  "parish_name": "Eslöv",
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 734,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Västra Sallerup",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 735,
+  "parish_name": null,
+  "start_year": 1955,
+  "end_year": 1961,
+  "pastorat_name": "Västerled",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 735,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 737,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1922,
+  "pastorat_name": "Lekåsa",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 737,
+  "parish_name": null,
+  "start_year": 1922,
+  "end_year": null,
+  "pastorat_name": "Essunga, Lekåsa, Barne-Åsaka, Fåglum och Kyrkås",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 739,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 739,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Söderby-Karl",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 740,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Garde",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 741,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1638,
+  "pastorat_name": "Daretorp",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 741,
+  "parish_name": null,
+  "start_year": 1638,
+  "end_year": 1691,
+  "pastorat_name": "Härja",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 743,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1555,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 743,
+  "parish_name": null,
+  "start_year": 1555,
+  "end_year": 1938,
+  "pastorat_name": "Everlöv och Slimminge",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 743,
+  "parish_name": null,
+  "start_year": 1939,
+  "end_year": null,
+  "pastorat_name": "Sövde",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 744,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Everöd och Östra Sönnarslöv",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 744,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Everöd, Östra Sönnarslöv och Lyngsjö",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 745,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Älvdalen",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 748,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Högsby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 749,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Torsö",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 750,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Lövestad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 750,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Ravlunda",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 753,
+  "parish_name": "Fagered",
+  "start_year": null,
+  "end_year": 1970,
+  "pastorat_name": "Fagered, Källsjö och Ullared",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 753,
+  "parish_name": "Fagered",
+  "start_year": 1971,
+  "end_year": null,
+  "pastorat_name": "Fagered, Källsjö, Ullared och Älvsered",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 755,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1863,
+  "pastorat_name": "Kråksmåla",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 755,
+  "parish_name": null,
+  "start_year": 1863,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 756,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Hova",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 758,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1922,
+  "pastorat_name": "Lekåsa",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 758,
+  "parish_name": null,
+  "start_year": 1922,
+  "end_year": null,
+  "pastorat_name": "Essunga",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 759,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1545,
+  "pastorat_name": "Fägre, Fimmerstad, Trästena och Säckestad",
+  "is_own": false,
+  "notes": "ca"
+ },
+ {
+  "pid": 759,
+  "parish_name": null,
+  "start_year": 1546,
+  "end_year": null,
+  "pastorat_name": "Fägre, Fimmerstad och Trästena",
+  "is_own": false,
+  "notes": "därefter; start inferred"
+ },
+ {
+  "pid": 759,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Fägre och Trästena",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 759,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Fägre, Trästena, Bällefors, Ekeskog, Beateberg, Hjälstad, Sveneby och Mo",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 760,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Slöta",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 761,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Falkenberg och Skrea",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 762,
+  "parish_name": "Falköping",
+  "start_year": null,
+  "end_year": 1400,
+  "pastorat_name": "Falköping, Agnestad och Luttra",
+  "is_own": false,
+  "notes": "till 1400-talet"
+ },
+ {
+  "pid": 762,
+  "parish_name": "Falköping",
+  "start_year": 1401,
+  "end_year": 1982,
+  "pastorat_name": "Falköpings stadsförsamling, Falköpings landsförsamling, Törbjörntorp, Friggeråker och Luttra",
+  "is_own": false,
+  "notes": "sedan; start inferred"
+ },
+ {
+  "pid": 762,
+  "parish_name": "Falköping",
+  "start_year": 1983,
+  "end_year": null,
+  "pastorat_name": "Falköping, Törbjörntorp, Friggeråker och Luttra",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 763,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Falköping",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 765,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Byske",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 766,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1555,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 766,
+  "parish_name": null,
+  "start_year": 1555,
+  "end_year": 1600,
+  "pastorat_name": "Falsterbo och Skanör",
+  "is_own": false,
+  "notes": "end: början av 1600-talet"
+ },
+ {
+  "pid": 766,
+  "parish_name": null,
+  "start_year": 1600,
+  "end_year": 1961,
+  "pastorat_name": "Skanör",
+  "is_own": false,
+  "notes": "start: början av 1600-talet"
+ },
+ {
+  "pid": 766,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Räng",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 768,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 769,
+  "parish_name": "Falu Kristine",
+  "start_year": null,
+  "end_year": 1746,
+  "pastorat_name": "Kristine, (Stora) Kopparberg och Aspeboda",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 769,
+  "parish_name": "Falu Kristine",
+  "start_year": 1746,
+  "end_year": 1961,
+  "pastorat_name": "Falu Kristine och Stora Kopparberg",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 769,
+  "parish_name": "Falu Kristine",
+  "start_year": 1962,
+  "end_year": 1976,
+  "pastorat_name": "Falu Kristine, Stora Kopparberg och Aspeboda",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 769,
+  "parish_name": "Falu Kristine",
+  "start_year": 1977,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 770,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Södra Ving",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 771,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1589,
+  "pastorat_name": "Fardhem och Linde",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 771,
+  "parish_name": null,
+  "start_year": 1589,
+  "end_year": 1961,
+  "pastorat_name": "Fardhem, Linde och Lojsta",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 771,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Fardhem, Linde, Lojsta, Levide och Gerum",
+  "is_own": false,
+  "notes": "source spelling Loista (OCR)"
+ },
+ {
+  "pid": 772,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Hassle",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 773,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "medeltiden"
+ },
+ {
+  "pid": 773,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1942,
+  "pastorat_name": "Färentuna och Hilleshög",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 773,
+  "parish_name": null,
+  "start_year": 1943,
+  "end_year": null,
+  "pastorat_name": "Sånga",
+  "is_own": false,
+  "notes": "beslut 1922-03-10 och 1940-05-10"
+ },
+ {
+  "pid": 774,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Långaryd",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 774,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Färgaryd, Långaryd och Femsjö",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 775,
+  "parish_name": "Färgelanda",
+  "start_year": null,
+  "end_year": 1670,
+  "pastorat_name": "Färgelanda, Ödeborg, Torp och (Valbo-) Ryr",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 775,
+  "parish_name": "Färgelanda",
+  "start_year": 1670,
+  "end_year": 1680,
+  "pastorat_name": "Färgelanda, Ödeborg och Torp",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 775,
+  "parish_name": "Färgelanda",
+  "start_year": 1680,
+  "end_year": 1961,
+  "pastorat_name": "Färgelanda och Ödeborg",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 775,
+  "parish_name": "Färgelanda",
+  "start_year": 1962,
+  "end_year": 1967,
+  "pastorat_name": "Färgelanda, Ödeborg, Torp och Valbo-Ryr",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 775,
+  "parish_name": "Färgelanda",
+  "start_year": 1968,
+  "end_year": null,
+  "pastorat_name": "Färgelanda, Ödeborg och Torp",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 776,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Jonstorp",
+  "is_own": false,
+  "notes": "medeltiden; möjligen"
+ },
+ {
+  "pid": 776,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Farhult och Jonstorp",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 777,
+  "parish_name": null,
+  "start_year": 1300,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "1300-talet"
+ },
+ {
+  "pid": 777,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1608,
+  "pastorat_name": "Ljusdal",
+  "is_own": false,
+  "notes": "senare"
+ },
+ {
+  "pid": 777,
+  "parish_name": null,
+  "start_year": 1608,
+  "end_year": 1747,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "end year garbled in source (17..); inferred from next period"
+ },
+ {
+  "pid": 777,
+  "parish_name": null,
+  "start_year": 1748,
+  "end_year": 1846,
+  "pastorat_name": "Färila och Los",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 777,
+  "parish_name": null,
+  "start_year": 1846,
+  "end_year": 1922,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 777,
+  "parish_name": null,
+  "start_year": 1923,
+  "end_year": null,
+  "pastorat_name": "Färila och Kårböle",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 778,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1499,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "medeltiden; end inferred from next period"
+ },
+ {
+  "pid": 778,
+  "parish_name": null,
+  "start_year": 1500,
+  "end_year": 1973,
+  "pastorat_name": "Knutby",
+  "is_own": false,
+  "notes": "åtminstone 1500-talet"
+ },
+ {
+  "pid": 778,
+  "parish_name": null,
+  "start_year": 1974,
+  "end_year": null,
+  "pastorat_name": "Almunge",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 779,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Riseberga",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 780,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Färlöv, Araslöv och (Norra) Strö",
+  "is_own": false,
+  "notes": "förr"
+ },
+ {
+  "pid": 780,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Färlöv och Norra Strö",
+  "is_own": false,
+  "notes": "därefter"
+ },
+ {
+  "pid": 780,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Färlöv, Norra Strö och Önnestad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 781,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "först"
+ },
+ {
+  "pid": 781,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Filipstad",
+  "is_own": false,
+  "notes": "snart efter Filipstads bildande annex till denna"
+ },
+ {
+  "pid": 784,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 784,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Bunge",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 785,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 786,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Hästveda",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 787,
+  "parish_name": "Fässberg",
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Fässberg, Råda och Kållered",
+  "is_own": false,
+  "notes": "medeltiden; troligen"
+ },
+ {
+  "pid": 787,
+  "parish_name": "Fässberg",
+  "start_year": null,
+  "end_year": 1603,
+  "pastorat_name": "Fässberg, Askim, (Västra) Frölunda, Råda och Kållered",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 787,
+  "parish_name": "Fässberg",
+  "start_year": 1603,
+  "end_year": 1731,
+  "pastorat_name": "Fässberg, Askim, Frölunda, Råda, Kållered och Styrsö",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 787,
+  "parish_name": "Fässberg",
+  "start_year": 1732,
+  "end_year": 1879,
+  "pastorat_name": "Fässberg, Askim, Frölunda, Råda och Kållered",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 787,
+  "parish_name": "Fässberg",
+  "start_year": 1879,
+  "end_year": 1961,
+  "pastorat_name": "Mölndal, Kållered och Råda",
+  "is_own": false,
+  "notes": "beslut 1872-07-05"
+ },
+ {
+  "pid": 787,
+  "parish_name": "Fässberg",
+  "start_year": 1962,
+  "end_year": 1976,
+  "pastorat_name": "Mölndal och Kållered",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 787,
+  "parish_name": "Fässberg",
+  "start_year": 1977,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 788,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Fasta och Esterna",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 789,
+  "parish_name": "Fasterna",
+  "start_year": null,
+  "end_year": 1797,
+  "pastorat_name": "Fasta",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 789,
+  "parish_name": "Fasterna",
+  "start_year": 1797,
+  "end_year": 1961,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 789,
+  "parish_name": "Fasterna",
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Rimbo",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 792,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1927,
+  "pastorat_name": "Källs-Nöbbelöv",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 792,
+  "parish_name": null,
+  "start_year": 1927,
+  "end_year": null,
+  "pastorat_name": "Svalöv",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 793,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1921,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 793,
+  "parish_name": null,
+  "start_year": 1922,
+  "end_year": null,
+  "pastorat_name": "Fellingsbro och Fellingsbro norra",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 794,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Fellingsbro",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 795,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1550,
+  "pastorat_name": "(Södra) Unnaryd",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 795,
+  "parish_name": null,
+  "start_year": 1550,
+  "end_year": 1579,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 795,
+  "parish_name": null,
+  "start_year": 1579,
+  "end_year": 1587,
+  "pastorat_name": "(Södra) Unnaryd",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 795,
+  "parish_name": null,
+  "start_year": 1587,
+  "end_year": 1918,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 795,
+  "parish_name": null,
+  "start_year": 1918,
+  "end_year": 1961,
+  "pastorat_name": "Långaryd",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 795,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Färgaryd",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 796,
+  "parish_name": null,
+  "start_year": 1300,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "1300-talet"
+ },
+ {
+  "pid": 796,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1939,
+  "pastorat_name": "Grötlingbo",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 796,
+  "parish_name": null,
+  "start_year": 1940,
+  "end_year": 1961,
+  "pastorat_name": "Havdhem",
+  "is_own": false,
+  "notes": "beslut 1932-09-16 och 1938-05-13"
+ },
+ {
+  "pid": 796,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Öja",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 798,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 799,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Färnebo",
+  "is_own": false,
+  "notes": "tidigast"
+ },
+ {
+  "pid": 799,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1661,
+  "pastorat_name": "Filipstad och Färnebo",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 799,
+  "parish_name": null,
+  "start_year": 1661,
+  "end_year": 1693,
+  "pastorat_name": "Filipstad, Färnebo och Brattfors",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 799,
+  "parish_name": null,
+  "start_year": 1693,
+  "end_year": 1731,
+  "pastorat_name": "Filipstad, Färnebo, Brattfors och Gåsborn",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 799,
+  "parish_name": null,
+  "start_year": 1731,
+  "end_year": 1777,
+  "pastorat_name": "Filipstad, Färnebo, Brattfors, Gåsborn och Nordmark",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 799,
+  "parish_name": null,
+  "start_year": 1777,
+  "end_year": 1859,
+  "pastorat_name": "Filipstad, Färnebo, Brattfors, Gåsborn, Rämmen och Nordmark",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 799,
+  "parish_name": null,
+  "start_year": 1859,
+  "end_year": 1863,
+  "pastorat_name": "Filipstad, Färnebo, Brattfors, Rämmen och Nordmark",
+  "is_own": false,
+  "notes": "beslut 1846-04-21"
+ },
+ {
+  "pid": 799,
+  "parish_name": null,
+  "start_year": 1863,
+  "end_year": 1878,
+  "pastorat_name": "Filipstad, Färnebo, Rämmen och Nordmark",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 799,
+  "parish_name": null,
+  "start_year": 1879,
+  "end_year": 1887,
+  "pastorat_name": "Filipstad, Färnebo och Nordmark",
+  "is_own": false,
+  "notes": "beslut 1859-07-22"
+ },
+ {
+  "pid": 799,
+  "parish_name": null,
+  "start_year": 1887,
+  "end_year": 1961,
+  "pastorat_name": "Filipstad och Färnebo",
+  "is_own": false,
+  "notes": "beslut 1872-10-04"
+ },
+ {
+  "pid": 799,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": 1970,
+  "pastorat_name": "Filipstad, Färnebo och Brattfors",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 799,
+  "parish_name": null,
+  "start_year": 1971,
+  "end_year": 1975,
+  "pastorat_name": "Filipstad och Brattfors",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 799,
+  "parish_name": null,
+  "start_year": 1976,
+  "end_year": null,
+  "pastorat_name": "Filipstad, Brattfors och Nordmark",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 802,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1942,
+  "pastorat_name": "Film (och Österbybruk)",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 802,
+  "parish_name": null,
+  "start_year": 1943,
+  "end_year": 1961,
+  "pastorat_name": "Film och Dannemora",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 802,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Film, Dannemora och Morkarla",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 803,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Fägre",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 804,
+  "parish_name": "Finja",
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Finja och Hörja",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 804,
+  "parish_name": "Finja",
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Finja, Hörja och Matteröd",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 805,
+  "parish_name": "Finnekumla",
+  "start_year": null,
+  "end_year": 1921,
+  "pastorat_name": "Gällstad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 805,
+  "parish_name": "Finnekumla",
+  "start_year": 1921,
+  "end_year": 1961,
+  "pastorat_name": "Tvärred",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 805,
+  "parish_name": "Finnekumla",
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Gällstad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 806,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1870,
+  "pastorat_name": "Hova",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 806,
+  "parish_name": null,
+  "start_year": 1870,
+  "end_year": 1961,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "beslut 1854-07-21"
+ },
+ {
+  "pid": 806,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Finnerödja och Tived",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 808,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 809,
+  "parish_name": "Finska gardes regementet",
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 810,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Risinge",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 811,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Habo",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 812,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Morlanda",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 815,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "medeltiden"
+ },
+ {
+  "pid": 815,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1867,
+  "pastorat_name": "Fittja och Hjälsta",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 815,
+  "parish_name": null,
+  "start_year": 1867,
+  "end_year": 1961,
+  "pastorat_name": "Hjälstaholms pastorat (Hjälsta)",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 815,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Gryta",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 816,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1540,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "åtminstone till 1540"
+ },
+ {
+  "pid": 816,
+  "parish_name": null,
+  "start_year": 1541,
+  "end_year": 1941,
+  "pastorat_name": "Hagebyhöga",
+  "is_own": false,
+  "notes": "sedan; start inferred"
+ },
+ {
+  "pid": 816,
+  "parish_name": null,
+  "start_year": 1942,
+  "end_year": 1961,
+  "pastorat_name": "Fivelstad, Hagebyhöga och Orlunda",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 816,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Varv och Styra",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 817,
+  "parish_name": "Fivlered",
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Böne",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 817,
+  "parish_name": "Fivlered",
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Norra Åsarp",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 818,
+  "parish_name": "Fjälkestad",
+  "start_year": null,
+  "end_year": 1836,
+  "pastorat_name": "Fjälkestad och Råbelöv",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 818,
+  "parish_name": "Fjälkestad",
+  "start_year": 1837,
+  "end_year": 1961,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 818,
+  "parish_name": "Fjälkestad",
+  "start_year": 1962,
+  "end_year": 1984,
+  "pastorat_name": "Österslöv",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 818,
+  "parish_name": "Fjälkestad",
+  "start_year": 1985,
+  "end_year": null,
+  "pastorat_name": "Nosaby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 819,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Fjälkinge och Nymö",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 819,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Fjälkinge, Nymö, Gustav Adolf och Rinkaby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 820,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Kville",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 821,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1837,
+  "pastorat_name": "Ramsele",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 821,
+  "parish_name": null,
+  "start_year": 1838,
+  "end_year": 1908,
+  "pastorat_name": "Bodum",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 821,
+  "parish_name": null,
+  "start_year": 1908,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "beslut 1902-11-28"
+ },
+ {
+  "pid": 822,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Fjärås och Förlanda",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 823,
+  "parish_name": "Fjärestad",
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Bårslöv",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 823,
+  "parish_name": "Fjärestad",
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Kvistofta",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 824,
+  "parish_name": "Fjelie",
+  "start_year": null,
+  "end_year": 1678,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "förr; end inferred from next period"
+ },
+ {
+  "pid": 824,
+  "parish_name": "Fjelie",
+  "start_year": 1679,
+  "end_year": 1869,
+  "pastorat_name": "Lomma",
+  "is_own": false,
+  "notes": "ca"
+ },
+ {
+  "pid": 824,
+  "parish_name": "Fjelie",
+  "start_year": 1870,
+  "end_year": 1972,
+  "pastorat_name": "Fjelie och Flädie",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 824,
+  "parish_name": "Fjelie",
+  "start_year": 1973,
+  "end_year": null,
+  "pastorat_name": "Fjelie, Flädie och Borgeby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 826,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Uppåkra",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 827,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 827,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Västerfärnebo",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 828,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1869,
+  "pastorat_name": "Lomma",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 828,
+  "parish_name": null,
+  "start_year": 1870,
+  "end_year": null,
+  "pastorat_name": "Fjelie",
+  "is_own": false,
+  "notes": "source spelling Fjelle (OCR)"
+ },
+ {
+  "pid": 829,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Särestad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 832,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 834,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1939,
+  "pastorat_name": "Mellösa",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 834,
+  "parish_name": null,
+  "start_year": 1940,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 835,
+  "parish_name": "Fleninge",
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Allerum",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 836,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Rute",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 836,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Bunge",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 837,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Flisby och Norra Solberga",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 837,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Norra Solberga",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 838,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 839,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1917,
+  "pastorat_name": "Flistad och Götlunda",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 839,
+  "parish_name": null,
+  "start_year": 1917,
+  "end_year": null,
+  "pastorat_name": "Götlunda",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 840,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "först"
+ },
+ {
+  "pid": 840,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Ljung",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 840,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Vreta kloster",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 841,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Åsle",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 842,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1671,
+  "pastorat_name": "Ås",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 842,
+  "parish_name": null,
+  "start_year": 1671,
+  "end_year": 1816,
+  "pastorat_name": "Flo, Ås, Sal och (Väners-) Näs",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 842,
+  "parish_name": null,
+  "start_year": 1816,
+  "end_year": 1961,
+  "pastorat_name": "Flo, Ås och Sal",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 842,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Särestad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 843,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1546,
+  "pastorat_name": "Floby, Göteve, Elin, Vist, Trävattna och Hällestad",
+  "is_own": false,
+  "notes": "åtminstone till 1546"
+ },
+ {
+  "pid": 843,
+  "parish_name": null,
+  "start_year": 1547,
+  "end_year": null,
+  "pastorat_name": "Floby, Vist, Göteve, Trävattna och Hällestad",
+  "is_own": false,
+  "notes": "sedan; start inferred"
+ },
+ {
+  "pid": 843,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Floby, Göteve, Trävattna och Hällestad",
+  "is_own": false,
+  "notes": "därefter"
+ },
+ {
+  "pid": 843,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Floby, Göteve, Trävattna, Hällestad, Grolanda och Jäla",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 844,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1612,
+  "pastorat_name": "Nås",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 844,
+  "parish_name": null,
+  "start_year": 1612,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 845,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1982,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 845,
+  "parish_name": null,
+  "start_year": 1983,
+  "end_year": null,
+  "pastorat_name": "Floda och Julita",
+  "is_own": false,
+  "notes": "source spelling Jullta (OCR)"
+ },
+ {
+  "pid": 850,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1976,
+  "pastorat_name": "Lösen",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 850,
+  "parish_name": null,
+  "start_year": 1976,
+  "end_year": null,
+  "pastorat_name": "Augerum",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 851,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Fogdö och Helgarö",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 851,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Vansö",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 854,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "medeltiden"
+ },
+ {
+  "pid": 854,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1925,
+  "pastorat_name": "Fole och Lokrume",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 854,
+  "parish_name": null,
+  "start_year": 1925,
+  "end_year": null,
+  "pastorat_name": "Väskinde",
+  "is_own": false,
+  "notes": "beslut 1919-08-29 och 1925-08-30"
+ },
+ {
+  "pid": 855,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Herrljunga",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 856,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1606,
+  "pastorat_name": "Folkärna och Grytnäs",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 856,
+  "parish_name": null,
+  "start_year": 1606,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 857,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Folkärna",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 858,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1920,
+  "pastorat_name": "Follingbo och Akebäck",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 858,
+  "parish_name": null,
+  "start_year": 1920,
+  "end_year": null,
+  "pastorat_name": "Roma",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 859,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1746,
+  "pastorat_name": "Lit",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 859,
+  "parish_name": null,
+  "start_year": 1746,
+  "end_year": 1842,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 859,
+  "parish_name": null,
+  "start_year": 1842,
+  "end_year": 1846,
+  "pastorat_name": "Föllinge och Frostviken",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 859,
+  "parish_name": null,
+  "start_year": 1846,
+  "end_year": 1861,
+  "pastorat_name": "Föllinge, Frostviken och Hotagen",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 859,
+  "parish_name": null,
+  "start_year": 1861,
+  "end_year": 1887,
+  "pastorat_name": "Föllinge och Hotagen",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 859,
+  "parish_name": null,
+  "start_year": 1887,
+  "end_year": null,
+  "pastorat_name": "Föllinge, Laxsjö och Hotagen",
+  "is_own": false,
+  "notes": "beslut 1872-06-21; 1746-1941 jämte Föllinge/Hotagens lappförsamling"
+ },
+ {
+  "pid": 861,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1554,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 861,
+  "parish_name": null,
+  "start_year": 1554,
+  "end_year": 1961,
+  "pastorat_name": "Persnäs",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 861,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Köping",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 863,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Listerby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 864,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Fjärås",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 865,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 865,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": 1976,
+  "pastorat_name": "Åby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 865,
+  "parish_name": null,
+  "start_year": 1977,
+  "end_year": null,
+  "pastorat_name": "Förlösa och Kläckeberga",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 866,
+  "parish_name": "Fornåsa",
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "medeltiden"
+ },
+ {
+  "pid": 866,
+  "parish_name": "Fornåsa",
+  "start_year": null,
+  "end_year": 1928,
+  "pastorat_name": "Fornåsa och Lönsås",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 866,
+  "parish_name": "Fornåsa",
+  "start_year": 1928,
+  "end_year": 1961,
+  "pastorat_name": "Fornåsa, Lönsås, Skeppsås och Älvestad",
+  "is_own": false,
+  "notes": "beslut 1918-04-05 och 1927-06-03"
+ },
+ {
+  "pid": 866,
+  "parish_name": "Fornåsa",
+  "start_year": 1962,
+  "end_year": 1973,
+  "pastorat_name": "Fornåsa, Lönsås, Ekebyborna och Ask",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 866,
+  "parish_name": "Fornåsa",
+  "start_year": 1974,
+  "end_year": null,
+  "pastorat_name": "Fornåsa, Lönsås, Ekebyborna, Ask och Älvestad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 867,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Rommele",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 868,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1881,
+  "pastorat_name": "Ragunda",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 868,
+  "parish_name": null,
+  "start_year": 1881,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "beslut 1871-02-03; husförhörslängd (1693), 1803-"
+ },
+ {
+  "pid": 870,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1918,
+  "pastorat_name": "Forsa och Hög",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 870,
+  "parish_name": null,
+  "start_year": 1918,
+  "end_year": 1961,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 870,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Forsa och Hög",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 872,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1861,
+  "pastorat_name": "Skövde",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 872,
+  "parish_name": null,
+  "start_year": 1862,
+  "end_year": 1961,
+  "pastorat_name": "Sventorp",
+  "is_own": false,
+  "notes": "beslut 1856-04-01"
+ },
+ {
+  "pid": 872,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Värsås",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 873,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1919,
+  "pastorat_name": "Järsnäs",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 873,
+  "parish_name": null,
+  "start_year": 1919,
+  "end_year": 1927,
+  "pastorat_name": "Forserum och Järsnäs",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 873,
+  "parish_name": null,
+  "start_year": 1927,
+  "end_year": 1961,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "beslut 1918-06-14 och 1925-08-21"
+ },
+ {
+  "pid": 873,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Forserum och Barkeryd",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 874,
+  "parish_name": null,
+  "start_year": 1908,
+  "end_year": 1919,
+  "pastorat_name": "Grava",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 874,
+  "parish_name": null,
+  "start_year": 1919,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 875,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Forshälla, Resteröd, Ljung och Grinneröd",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 876,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Forsheda, Torskinge och Bredaryd",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 876,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": 1973,
+  "pastorat_name": "Forsheda, Torskinge, Kärda, Hänger, Dannäs och Tannåker",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 876,
+  "parish_name": null,
+  "start_year": 1974,
+  "end_year": null,
+  "pastorat_name": "Forsheda, Torskinge, Kärda, Hänger och Dannäs",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 877,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1545,
+  "pastorat_name": "Forshem, Fullösa, Vedum och Bolum",
+  "is_own": false,
+  "notes": "ca"
+ },
+ {
+  "pid": 877,
+  "parish_name": null,
+  "start_year": 1546,
+  "end_year": 1961,
+  "pastorat_name": "Forshem, Kinne-Vedum och Fullösa",
+  "is_own": false,
+  "notes": "därefter; start inferred"
+ },
+ {
+  "pid": 877,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Forshem, Fullösa, Medelplana, Västerplana, Österplana och Kestad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 878,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Förslöv och Grevie",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 879,
+  "parish_name": null,
+  "start_year": 1612,
+  "end_year": 1629,
+  "pastorat_name": "Valö",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 879,
+  "parish_name": null,
+  "start_year": 1629,
+  "end_year": 1941,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 879,
+  "parish_name": null,
+  "start_year": 1942,
+  "end_year": 1971,
+  "pastorat_name": "Valö",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 879,
+  "parish_name": null,
+  "start_year": 1972,
+  "end_year": null,
+  "pastorat_name": "Östhammar",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 881,
+  "parish_name": "Forssa",
+  "start_year": null,
+  "end_year": 1976,
+  "pastorat_name": "Årdala",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 881,
+  "parish_name": "Forssa",
+  "start_year": 1977,
+  "end_year": null,
+  "pastorat_name": "Bettna",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 887,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1621,
+  "pastorat_name": "Lockarp",
+  "is_own": false,
+  "notes": "förr; end inferred from next period"
+ },
+ {
+  "pid": 887,
+  "parish_name": null,
+  "start_year": 1622,
+  "end_year": 1938,
+  "pastorat_name": "Fosie och Lockarp",
+  "is_own": false,
+  "notes": "ca"
+ },
+ {
+  "pid": 887,
+  "parish_name": null,
+  "start_year": 1939,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 888,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1921,
+  "pastorat_name": "Foss, Håby och Svarteborg",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 888,
+  "parish_name": null,
+  "start_year": 1921,
+  "end_year": 1967,
+  "pastorat_name": "Foss och Håby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 888,
+  "parish_name": null,
+  "start_year": 1968,
+  "end_year": null,
+  "pastorat_name": "Foss, Håby och Valbo-Ryr",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 889,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Surteby-Kattunga",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 890,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1646,
+  "pastorat_name": "Tengene",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 890,
+  "parish_name": null,
+  "start_year": 1646,
+  "end_year": null,
+  "pastorat_name": "Främmestad och Bäreberg",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 891,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Frändefors, Brålanda och Sundals-Ryr",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 891,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 892,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Fränninge och Vollsjö",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 892,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": 1973,
+  "pastorat_name": "Fränninge, Vollsjö och Brandstad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 892,
+  "parish_name": null,
+  "start_year": 1974,
+  "end_year": null,
+  "pastorat_name": "Fränninge, Vollsjö, Brandstad, Öved och Östra Kärrstorp",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 894,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 898,
+  "parish_name": "Fredrika",
+  "start_year": null,
+  "end_year": 1799,
+  "pastorat_name": "Åsele",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 898,
+  "parish_name": "Fredrika",
+  "start_year": 1799,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 900,
+  "parish_name": "Fredsberg",
+  "start_year": null,
+  "end_year": 1580,
+  "pastorat_name": "Fredsberg, Björkäng (Töreboda), Bäck och Kyrketorp",
+  "is_own": false,
+  "notes": "ca"
+ },
+ {
+  "pid": 900,
+  "parish_name": "Fredsberg",
+  "start_year": 1581,
+  "end_year": 1956,
+  "pastorat_name": "Fredsberg, Töreboda och Bäck",
+  "is_own": false,
+  "notes": "sedan; start inferred"
+ },
+ {
+  "pid": 900,
+  "parish_name": "Fredsberg",
+  "start_year": 1957,
+  "end_year": null,
+  "pastorat_name": "Töreboda",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 901,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Hammarby",
+  "is_own": false,
+  "notes": "medeltiden"
+ },
+ {
+  "pid": 901,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Fresta och Hammarby",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 901,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": 1981,
+  "pastorat_name": "Hammarby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 901,
+  "parish_name": null,
+  "start_year": 1982,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 902,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Fröjered",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 905,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1846,
+  "pastorat_name": "Fridlevstad och Rödeby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 905,
+  "parish_name": null,
+  "start_year": 1846,
+  "end_year": 1915,
+  "pastorat_name": "Fridlevstad, Sillhövda och Rödeby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 905,
+  "parish_name": null,
+  "start_year": 1915,
+  "end_year": 1974,
+  "pastorat_name": "Fridlevstad och Sillhövda",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 905,
+  "parish_name": null,
+  "start_year": 1975,
+  "end_year": null,
+  "pastorat_name": "Fridlevstad, Sillhövda och Tving",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 906,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Tun",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 907,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1400,
+  "pastorat_name": "Friggeråker och Törbjörntorp",
+  "is_own": false,
+  "notes": "till 1400-talet"
+ },
+ {
+  "pid": 907,
+  "parish_name": null,
+  "start_year": 1401,
+  "end_year": null,
+  "pastorat_name": "Falköping",
+  "is_own": false,
+  "notes": "sedan; start inferred"
+ },
+ {
+  "pid": 908,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Frillesås, Gällinge och Idala",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 908,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Frillesås, Gällinge, Idala, Ölmevalla och Landa",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 909,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1689,
+  "pastorat_name": "Ekeby",
+  "is_own": false,
+  "notes": "före 1690"
+ },
+ {
+  "pid": 909,
+  "parish_name": null,
+  "start_year": 1690,
+  "end_year": 1918,
+  "pastorat_name": "Frillestad och Ekeby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 909,
+  "parish_name": null,
+  "start_year": 1918,
+  "end_year": 1929,
+  "pastorat_name": "Ekeby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 909,
+  "parish_name": null,
+  "start_year": 1929,
+  "end_year": 1961,
+  "pastorat_name": "Bårslöv",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 909,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Kropp",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 911,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1641,
+  "pastorat_name": "Linderås",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 911,
+  "parish_name": null,
+  "start_year": 1641,
+  "end_year": 1930,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 911,
+  "parish_name": null,
+  "start_year": 1930,
+  "end_year": 1961,
+  "pastorat_name": "Linderås",
+  "is_own": false,
+  "notes": "beslut 1918-06-14 och 1928-06-08"
+ },
+ {
+  "pid": 911,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Bredestad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 913,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1574,
+  "pastorat_name": "Fristad, Torpa, Gingri, Längjum och Borgstena",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 913,
+  "parish_name": null,
+  "start_year": 1574,
+  "end_year": 1622,
+  "pastorat_name": "Fristad, Torpa, Borgstena och Gingri",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 913,
+  "parish_name": null,
+  "start_year": 1622,
+  "end_year": 1628,
+  "pastorat_name": "Fristad, Torpa, Borgstena, Gingri och Borås",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 913,
+  "parish_name": null,
+  "start_year": 1628,
+  "end_year": 1671,
+  "pastorat_name": "Borås",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 913,
+  "parish_name": null,
+  "start_year": 1672,
+  "end_year": 1689,
+  "pastorat_name": "Fristad, Borgstena och Gingri",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 913,
+  "parish_name": null,
+  "start_year": 1689,
+  "end_year": 1860,
+  "pastorat_name": "Borås",
+  "is_own": false,
+  "notes": "beslut 1680 och 1687"
+ },
+ {
+  "pid": 913,
+  "parish_name": null,
+  "start_year": 1860,
+  "end_year": 1961,
+  "pastorat_name": "Fristad, Borgstena och Gingri",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 913,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Fristad, Borgstena, Gingri, Tärby, Tämta och Vänga",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 914,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1939,
+  "pastorat_name": "Seglora",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 914,
+  "parish_name": null,
+  "start_year": 1940,
+  "end_year": 1961,
+  "pastorat_name": "Fritsla, Seglora, Kinnarumma och Skephult",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 914,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Fritsla och Skephult",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 915,
+  "parish_name": "Fröderyd",
+  "start_year": null,
+  "end_year": 1500,
+  "pastorat_name": "Fröderyd, Ramkvilla, Skärbäck och Bäckaby",
+  "is_own": false,
+  "notes": "-1500-talet"
+ },
+ {
+  "pid": 915,
+  "parish_name": "Fröderyd",
+  "start_year": 1501,
+  "end_year": 1961,
+  "pastorat_name": "Fröderyd, Ramkvilla och Bäckaby",
+  "is_own": false,
+  "notes": "sedan; start inferred"
+ },
+ {
+  "pid": 915,
+  "parish_name": "Fröderyd",
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Fröderyd, Ramkvilla, Bäckaby och Skepperstad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 916,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1972,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 916,
+  "parish_name": null,
+  "start_year": 1973,
+  "end_year": null,
+  "pastorat_name": "Frödinge och Locknevi",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 919,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "medeltiden moderförsamling"
+ },
+ {
+  "pid": 919,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Klinte",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 920,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Fröjered, Korsberga och Fridene",
+  "is_own": false,
+  "notes": "husförhörslängd 1740-"
+ },
+ {
+  "pid": 927,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1973,
+  "pastorat_name": "Edsleskog",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 927,
+  "parish_name": null,
+  "start_year": 1974,
+  "end_year": null,
+  "pastorat_name": "Fröskog och Edsleskog",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 928,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "medeltiden"
+ },
+ {
+  "pid": 928,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1945,
+  "pastorat_name": "Biskopskulla",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 928,
+  "parish_name": null,
+  "start_year": 1946,
+  "end_year": 1948,
+  "pastorat_name": "Giresta",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 928,
+  "parish_name": null,
+  "start_year": 1948,
+  "end_year": null,
+  "pastorat_name": "Gryta",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 929,
+  "parish_name": "Frösö",
+  "start_year": null,
+  "end_year": 1349,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "före 1350; moderförsamling med annex (troligen Västerhus)"
+ },
+ {
+  "pid": 929,
+  "parish_name": "Frösö",
+  "start_year": 1350,
+  "end_year": 1906,
+  "pastorat_name": "Sunne",
+  "is_own": false,
+  "notes": "sedan; start inferred"
+ },
+ {
+  "pid": 929,
+  "parish_name": "Frösö",
+  "start_year": 1906,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 930,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "medeltiden"
+ },
+ {
+  "pid": 930,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1923,
+  "pastorat_name": "Frösthult och Härnevi",
+  "is_own": false,
+  "notes": "sedan; end year as printed (next period starts 1932)"
+ },
+ {
+  "pid": 930,
+  "parish_name": null,
+  "start_year": 1932,
+  "end_year": 1933,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 930,
+  "parish_name": null,
+  "start_year": 1933,
+  "end_year": null,
+  "pastorat_name": "Simtuna",
+  "is_own": false,
+  "notes": "beslut 1922-03-17 och 1933-01-13"
+ },
+ {
+  "pid": 931,
+  "parish_name": null,
+  "start_year": 1842,
+  "end_year": 1861,
+  "pastorat_name": "Föllinge",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 931,
+  "parish_name": null,
+  "start_year": 1861,
+  "end_year": 1941,
+  "pastorat_name": "Frostviken och Frostvikens lappförsamling",
+  "is_own": false,
+  "notes": "beslut 1849-04-20"
+ },
+ {
+  "pid": 931,
+  "parish_name": null,
+  "start_year": 1942,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 932,
+  "parish_name": null,
+  "start_year": 1842,
+  "end_year": 1861,
+  "pastorat_name": "Föllinge",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 932,
+  "parish_name": null,
+  "start_year": 1861,
+  "end_year": 1941,
+  "pastorat_name": "Frostviken",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 933,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "medeltiden"
+ },
+ {
+  "pid": 933,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Frösunda och Kårsta",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 933,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Vallentuna",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 934,
+  "parish_name": "Frösve",
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Horn",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 934,
+  "parish_name": "Frösve",
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Väring",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 935,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Frötuna och Malsta",
+  "is_own": false,
+  "notes": "medeltiden"
+ },
+ {
+  "pid": 935,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "sedan"
+ },
+ {
+  "pid": 935,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1622,
+  "pastorat_name": "Frötuna och Rådmansö",
+  "is_own": false,
+  "notes": "därefter"
+ },
+ {
+  "pid": 935,
+  "parish_name": null,
+  "start_year": 1622,
+  "end_year": 1643,
+  "pastorat_name": "Frötuna, Rådmansö och Norrtälje",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 935,
+  "parish_name": null,
+  "start_year": 1643,
+  "end_year": 1873,
+  "pastorat_name": "Frötuna och Rådmansö",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 935,
+  "parish_name": null,
+  "start_year": 1873,
+  "end_year": 1961,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "beslut 1856-06-27"
+ },
+ {
+  "pid": 935,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": 1979,
+  "pastorat_name": "Frötuna och Rådmansö",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 935,
+  "parish_name": null,
+  "start_year": 1979,
+  "end_year": null,
+  "pastorat_name": "Rådmansö",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 936,
+  "parish_name": "Fru Alstad",
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Västra Alstad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 938,
+  "parish_name": "Frustuna-Kattnäs",
+  "start_year": null,
+  "end_year": 1958,
+  "pastorat_name": "Frustuna och Kattnäs",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 938,
+  "parish_name": "Frustuna-Kattnäs",
+  "start_year": 1959,
+  "end_year": 1975,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 938,
+  "parish_name": "Frustuna-Kattnäs",
+  "start_year": 1976,
+  "end_year": 1979,
+  "pastorat_name": "Frustuna-Kattnäs, Lästringe, Torsåker, Sättersta och Bogsta",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 938,
+  "parish_name": "Frustuna-Kattnäs",
+  "start_year": 1980,
+  "end_year": null,
+  "pastorat_name": "Frustuna-Kattnäs och Lästringe",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 939,
+  "parish_name": "Fryele",
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Fryele och Hagshult",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 939,
+  "parish_name": "Fryele",
+  "start_year": 1962,
+  "end_year": 1972,
+  "pastorat_name": "Åker",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 939,
+  "parish_name": "Fryele",
+  "start_year": 1973,
+  "end_year": null,
+  "pastorat_name": "Värnamo",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 940,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Stora Kil",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 941,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1821,
+  "pastorat_name": "Fryksdals pastorat",
+  "is_own": false,
+  "notes": "se Sunne"
+ },
+ {
+  "pid": 941,
+  "parish_name": null,
+  "start_year": 1821,
+  "end_year": 1822,
+  "pastorat_name": "Fryksände, Lysvik och Östmark",
+  "is_own": false,
+  "notes": "beslut 1814-04-20"
+ },
+ {
+  "pid": 941,
+  "parish_name": null,
+  "start_year": 1822,
+  "end_year": 1851,
+  "pastorat_name": "Fryksände, Lysvik, Östmark och Vitsand",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 941,
+  "parish_name": null,
+  "start_year": 1851,
+  "end_year": 1878,
+  "pastorat_name": "Fryksände, Lysvik, Östmark, Vitsand och Lekvattnet",
+  "is_own": false,
+  "notes": "beslut 1844-10-15 och 1849-09-19"
+ },
+ {
+  "pid": 941,
+  "parish_name": null,
+  "start_year": 1878,
+  "end_year": 1912,
+  "pastorat_name": "Fryksände, Lysvik, Vitsand och Lekvattnet",
+  "is_own": false,
+  "notes": "beslut 1855-11-23"
+ },
+ {
+  "pid": 941,
+  "parish_name": null,
+  "start_year": 1912,
+  "end_year": 1929,
+  "pastorat_name": "Fryksände, Vitsand och Lekvattnet",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 941,
+  "parish_name": null,
+  "start_year": 1929,
+  "end_year": null,
+  "pastorat_name": "Fryksände och Lekvattnet",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 943,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Vellinge",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 943,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Hammarlöv",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 944,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Lena",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 945,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Forshem",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 946,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Fulltofta och Äspinge",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 946,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": 1973,
+  "pastorat_name": "Fulltofta, Äspinge, Södra Rörum och Svensköp",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 946,
+  "parish_name": null,
+  "start_year": 1974,
+  "end_year": null,
+  "pastorat_name": "Hörby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 947,
+  "parish_name": "Funbo",
+  "start_year": null,
+  "end_year": 1922,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 947,
+  "parish_name": "Funbo",
+  "start_year": 1923,
+  "end_year": 1961,
+  "pastorat_name": "Lagga",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 947,
+  "parish_name": "Funbo",
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Danmark",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 949,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1921,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 949,
+  "parish_name": null,
+  "start_year": 1921,
+  "end_year": 1921,
+  "pastorat_name": "Dagsberg",
+  "is_own": false,
+  "notes": "1921-05-01 to 1921-06-29"
+ },
+ {
+  "pid": 949,
+  "parish_name": null,
+  "start_year": 1921,
+  "end_year": 1961,
+  "pastorat_name": "Furingstad och Dagsberg",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 949,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Kuddby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 950,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "medeltiden; eget eller moderförsamling"
+ },
+ {
+  "pid": 950,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Hovmantorp",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 951,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1918,
+  "pastorat_name": "Rommele",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 951,
+  "parish_name": null,
+  "start_year": 1918,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 952,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Jung",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 952,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Kvänum",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 953,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1562,
+  "pastorat_name": "Leksand",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 953,
+  "parish_name": null,
+  "start_year": 1562,
+  "end_year": 1583,
+  "pastorat_name": "Gagnef och Ål",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 953,
+  "parish_name": null,
+  "start_year": 1583,
+  "end_year": 1600,
+  "pastorat_name": "Gagnef, Ål och Bjursås",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 953,
+  "parish_name": null,
+  "start_year": 1600,
+  "end_year": 1613,
+  "pastorat_name": "Gagnef och Ål",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 953,
+  "parish_name": null,
+  "start_year": 1613,
+  "end_year": 1933,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 953,
+  "parish_name": null,
+  "start_year": 1933,
+  "end_year": null,
+  "pastorat_name": "Gagnef och Mockfjärd",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 955,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1919,
+  "pastorat_name": "Gällared och Gunnarp",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 955,
+  "parish_name": null,
+  "start_year": 1919,
+  "end_year": null,
+  "pastorat_name": "Gunnarp",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 956,
+  "parish_name": null,
+  "start_year": 1300,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "1300-talet"
+ },
+ {
+  "pid": 956,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1926,
+  "pastorat_name": "Rydaholm",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 956,
+  "parish_name": null,
+  "start_year": 1926,
+  "end_year": 1961,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "beslut 1915-08-27"
+ },
+ {
+  "pid": 956,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": 1986,
+  "pastorat_name": "Gällaryd, Växtorp och Tånnö",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 956,
+  "parish_name": null,
+  "start_year": 1986,
+  "end_year": null,
+  "pastorat_name": "Voxtorp",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 958,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Ekeby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 959,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Frillesås",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 960,
+  "parish_name": "Gällivare",
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 961,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Gällivare",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 962,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1921,
+  "pastorat_name": "Gällstad, Södra Säm, Grönahög, Tvärred, Marbäck och Finnekumla",
+  "is_own": false,
+  "notes": "åtminstone från slutet av medeltiden"
+ },
+ {
+  "pid": 962,
+  "parish_name": null,
+  "start_year": 1921,
+  "end_year": 1961,
+  "pastorat_name": "Gällstad, Södra Säm och Grönahög",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 962,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Gällstad, Södra Säm, Grönahög, Tvärred, Marbäck och Finnekumla",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 963,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Boteå",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 964,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Njurunda",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 968,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1924,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 968,
+  "parish_name": null,
+  "start_year": 1924,
+  "end_year": 1961,
+  "pastorat_name": "Gamla Uppsala och Ärentuna",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 968,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 972,
+  "parish_name": "Gamleby",
+  "start_year": null,
+  "end_year": 1433,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 972,
+  "parish_name": "Gamleby",
+  "start_year": 1433,
+  "end_year": 1560,
+  "pastorat_name": "Gamleby och Västervik",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 972,
+  "parish_name": "Gamleby",
+  "start_year": 1560,
+  "end_year": 1961,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "beslut 1547-02-09"
+ },
+ {
+  "pid": 972,
+  "parish_name": "Gamleby",
+  "start_year": 1962,
+  "end_year": 1973,
+  "pastorat_name": "Gamleby och Odensvi",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 972,
+  "parish_name": "Gamleby",
+  "start_year": 1974,
+  "end_year": null,
+  "pastorat_name": "Gamleby, Odensvi och Lofta",
+  "is_own": false,
+  "notes": "source spelling Gamieby (OCR)"
+ },
+ {
+  "pid": 974,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Göteborgs Gamlestad",
+  "is_own": false,
+  "notes": "se Nylöse"
+ },
+ {
+  "pid": 975,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 975,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Nykil",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 976,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Gammalstorp och Ysane",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 977,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Östergarn",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 980,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "medeltiden"
+ },
+ {
+  "pid": 980,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Dalhem",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 981,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Glemminge",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 982,
+  "parish_name": null,
+  "start_year": 1500,
+  "end_year": 1588,
+  "pastorat_name": "Norra Möckleby",
+  "is_own": false,
+  "notes": "en tid under 1500-talet"
+ },
+ {
+  "pid": 982,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Sandby",
+  "is_own": false,
+  "notes": "annars"
+ },
+ {
+  "pid": 982,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Glömminge",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 983,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1920,
+  "pastorat_name": "Garde och Etelhem",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 983,
+  "parish_name": null,
+  "start_year": 1920,
+  "end_year": 1961,
+  "pastorat_name": "Garde, Etelhem, Alskog och Lye",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 983,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Garde, Etelhem, Alskog, Lye och Ardre",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 984,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1540,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "åtminstone -1540"
+ },
+ {
+  "pid": 984,
+  "parish_name": null,
+  "start_year": 1541,
+  "end_year": 1587,
+  "pastorat_name": "Skärkind",
+  "is_own": false,
+  "notes": "sedan; start inferred"
+ },
+ {
+  "pid": 984,
+  "parish_name": null,
+  "start_year": 1587,
+  "end_year": 1932,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 984,
+  "parish_name": null,
+  "start_year": 1932,
+  "end_year": 1961,
+  "pastorat_name": "Västra Husby",
+  "is_own": false,
+  "notes": "beslut 1918-05-16 och 1930-06-27"
+ },
+ {
+  "pid": 984,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Östra Ryd",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 985,
+  "parish_name": "Gärdhem",
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Västra Tunhem",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 986,
+  "parish_name": null,
+  "start_year": 1300,
+  "end_year": 1399,
+  "pastorat_name": "Gårdsby och Rottne",
+  "is_own": false,
+  "notes": "1300-talet; end inferred from next period"
+ },
+ {
+  "pid": 986,
+  "parish_name": null,
+  "start_year": 1400,
+  "end_year": null,
+  "pastorat_name": "Gårdsby, Norra Rottne (Norraby) och Södra Rottne (Söraby)",
+  "is_own": false,
+  "notes": "1400-talet"
+ },
+ {
+  "pid": 986,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1559,
+  "pastorat_name": "Gårdsby och Södra Rottne",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 986,
+  "parish_name": null,
+  "start_year": 1559,
+  "end_year": 1779,
+  "pastorat_name": "Gårdsby, Norra Rottne och Södra Rottne",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 986,
+  "parish_name": null,
+  "start_year": 1779,
+  "end_year": 1961,
+  "pastorat_name": "Gårdsby och Söraby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 986,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Söraby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 987,
+  "parish_name": "Gärdserum",
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Ukna",
+  "is_own": false,
+  "notes": "medeltiden"
+ },
+ {
+  "pid": 987,
+  "parish_name": "Gärdserum",
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "sedan"
+ },
+ {
+  "pid": 987,
+  "parish_name": "Gärdserum",
+  "start_year": 1962,
+  "end_year": 1971,
+  "pastorat_name": "Gärdserum och Ukna",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 987,
+  "parish_name": "Gärdserum",
+  "start_year": 1972,
+  "end_year": null,
+  "pastorat_name": "Gärdserum och Hannäs",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 988,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "medeltiden"
+ },
+ {
+  "pid": 988,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Gärdslösa och Bredsätra",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 988,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Gärdslösa, Räpplinge, Högsrum, Runsten och Långlöt",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 989,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Gärdslöv och Önnarp",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 989,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Anderslöv",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 990,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1589,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "förr; end inferred from next period"
+ },
+ {
+  "pid": 990,
+  "parish_name": null,
+  "start_year": 1590,
+  "end_year": 1961,
+  "pastorat_name": "Gårdstånga och Holmby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 990,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Gårdstånga, Holmby, Östra Strö, Skarhult, Borlunda och Skeglinge",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 993,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Sorsele",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 994,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Sorsele",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 995,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1500,
+  "pastorat_name": "Garn och Össeby",
+  "is_own": false,
+  "notes": "till 1500-talet"
+ },
+ {
+  "pid": 995,
+  "parish_name": null,
+  "start_year": 1501,
+  "end_year": null,
+  "pastorat_name": "Össeby",
+  "is_own": false,
+  "notes": "sedan; start inferred"
+ },
+ {
+  "pid": 997,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 998,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Stiby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 999,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1859,
+  "pastorat_name": "Filipstad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 999,
+  "parish_name": null,
+  "start_year": 1859,
+  "end_year": 1961,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "beslut 1846-04-21"
+ },
+ {
+  "pid": 999,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": 1975,
+  "pastorat_name": "Nordmark",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 999,
+  "parish_name": null,
+  "start_year": 1976,
+  "end_year": null,
+  "pastorat_name": "Rämmen",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1001,
+  "parish_name": "Gåsinge-Dillnäs",
+  "start_year": null,
+  "end_year": 1940,
+  "pastorat_name": "Gåsinge och Dillnäs",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1001,
+  "parish_name": "Gåsinge-Dillnäs",
+  "start_year": 1941,
+  "end_year": 1961,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1001,
+  "parish_name": "Gåsinge-Dillnäs",
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Gryt",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1004,
+  "parish_name": "Gävle Heliga Trefaldighet",
+  "start_year": null,
+  "end_year": 1602,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1004,
+  "parish_name": "Gävle Heliga Trefaldighet",
+  "start_year": 1602,
+  "end_year": 1849,
+  "pastorat_name": "Gävle och Valbo",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1004,
+  "parish_name": "Gävle Heliga Trefaldighet",
+  "start_year": 1850,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1006,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1008,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1009,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1010,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Hammerdal",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1013,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1974,
+  "pastorat_name": "Lyngby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1013,
+  "parish_name": null,
+  "start_year": 1974,
+  "end_year": null,
+  "pastorat_name": "Genarp, Lyngby och Gödelöv",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1014,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Stora Mellby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1021,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1922,
+  "pastorat_name": "Levide",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1021,
+  "parish_name": null,
+  "start_year": 1922,
+  "end_year": 1961,
+  "pastorat_name": "Eksta",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1021,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Fardhem",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1022,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1670,
+  "pastorat_name": "(Dals-) Ed",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1022,
+  "parish_name": null,
+  "start_year": 1670,
+  "end_year": null,
+  "pastorat_name": "Rölanda",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1023,
+  "parish_name": "Gessie",
+  "start_year": null,
+  "end_year": 1924,
+  "pastorat_name": "Gässie och Eskilstorp",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1023,
+  "parish_name": "Gessie",
+  "start_year": 1924,
+  "end_year": 1961,
+  "pastorat_name": "Gässie, Eskilstorp, Arrie och Hököpinge",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1023,
+  "parish_name": "Gessie",
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Vellinge",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1024,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Bolstad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1024,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Brålanda",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1025,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Getinge och Rävinge",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1026,
+  "parish_name": null,
+  "start_year": 1811,
+  "end_year": 1823,
+  "pastorat_name": "Arnäs",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1026,
+  "parish_name": null,
+  "start_year": 1823,
+  "end_year": 1872,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1026,
+  "parish_name": null,
+  "start_year": 1872,
+  "end_year": 1922,
+  "pastorat_name": "Gideå och Trehörningsjö",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1026,
+  "parish_name": null,
+  "start_year": 1922,
+  "end_year": 1961,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1026,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Gideå och Trehörningsjö",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1027,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1500,
+  "pastorat_name": "Gillberga, Långserud, Sillerud, Åskog och Lönskog",
+  "is_own": false,
+  "notes": "ca"
+ },
+ {
+  "pid": 1027,
+  "parish_name": null,
+  "start_year": 1501,
+  "end_year": 1609,
+  "pastorat_name": "Gillberga, Sillerud, Åskog och Långserud",
+  "is_own": false,
+  "notes": "sedan; start inferred"
+ },
+ {
+  "pid": 1027,
+  "parish_name": null,
+  "start_year": 1609,
+  "end_year": 1961,
+  "pastorat_name": "Gillberga och Långserud",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1027,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Gillberga och Kila",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1028,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Gillberga och Lista",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1028,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Öja",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1029,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1864,
+  "pastorat_name": "Oviken",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1029,
+  "parish_name": null,
+  "start_year": 1864,
+  "end_year": 1940,
+  "pastorat_name": "Näs",
+  "is_own": false,
+  "notes": "beslut 1856-06-27 och 1857-12-01"
+ },
+ {
+  "pid": 1030,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Örslösa",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1031,
+  "parish_name": "Gingri",
+  "start_year": null,
+  "end_year": 1628,
+  "pastorat_name": "Fristad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1031,
+  "parish_name": "Gingri",
+  "start_year": 1628,
+  "end_year": 1671,
+  "pastorat_name": "Borås",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1031,
+  "parish_name": "Gingri",
+  "start_year": 1672,
+  "end_year": 1689,
+  "pastorat_name": "Fristad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1031,
+  "parish_name": "Gingri",
+  "start_year": 1689,
+  "end_year": 1860,
+  "pastorat_name": "Borås",
+  "is_own": false,
+  "notes": "beslut 1680 och 1687"
+ },
+ {
+  "pid": 1031,
+  "parish_name": "Gingri",
+  "start_year": 1860,
+  "end_year": null,
+  "pastorat_name": "Fristad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1032,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "medeltiden"
+ },
+ {
+  "pid": 1032,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1945,
+  "pastorat_name": "Giresta och Gryta",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 1032,
+  "parish_name": null,
+  "start_year": 1946,
+  "end_year": 1948,
+  "pastorat_name": "Giresta, Gryta och Fröslunda",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1032,
+  "parish_name": null,
+  "start_year": 1948,
+  "end_year": null,
+  "pastorat_name": "Gryta",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1033,
+  "parish_name": "Gislaved",
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "medeltiden"
+ },
+ {
+  "pid": 1033,
+  "parish_name": "Gislaved",
+  "start_year": null,
+  "end_year": 1921,
+  "pastorat_name": "Villstad",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 1033,
+  "parish_name": "Gislaved",
+  "start_year": 1921,
+  "end_year": null,
+  "pastorat_name": "Gislaved (Båraryd), Våthult och Bosebo",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1034,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1590,
+  "pastorat_name": "Gislöv och Dalköpinge",
+  "is_own": false,
+  "notes": "-1590-talet"
+ },
+ {
+  "pid": 1034,
+  "parish_name": null,
+  "start_year": 1591,
+  "end_year": null,
+  "pastorat_name": "Dalköpinge",
+  "is_own": false,
+  "notes": "sedan; start inferred"
+ },
+ {
+  "pid": 1035,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1534,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1035,
+  "parish_name": null,
+  "start_year": 1534,
+  "end_year": 1541,
+  "pastorat_name": "Askeby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1035,
+  "parish_name": null,
+  "start_year": 1541,
+  "end_year": 1932,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1035,
+  "parish_name": null,
+  "start_year": 1932,
+  "end_year": 1961,
+  "pastorat_name": "Törnevalla",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1035,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Rystad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1036,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Gladhammar och Västrum",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1036,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Gladhammar, Västrum och Törnsfall",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1037,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1578,
+  "pastorat_name": "Gladsax och Järrestad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1037,
+  "parish_name": null,
+  "start_year": 1578,
+  "end_year": 1961,
+  "pastorat_name": "Gladsax och Östra Tommarp",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1037,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Simrishamn",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1038,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Glanshammar och Rinkaby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1038,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": 1980,
+  "pastorat_name": "Glanshammar, Rinkaby, Lillkyrka och Ödeby",
+  "is_own": false,
+  "notes": "source spelling Odeby (OCR)"
+ },
+ {
+  "pid": 1038,
+  "parish_name": null,
+  "start_year": 1981,
+  "end_year": null,
+  "pastorat_name": "Glanshammar, Rinkaby och Lillkyrka-Ödeby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1039,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1875,
+  "pastorat_name": "Stavnäs",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1039,
+  "parish_name": null,
+  "start_year": 1875,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "beslut 1859-04-29"
+ },
+ {
+  "pid": 1040,
+  "parish_name": "Glemminge",
+  "start_year": null,
+  "end_year": 1569,
+  "pastorat_name": "Glemminge och Gärarp",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1040,
+  "parish_name": "Glemminge",
+  "start_year": 1569,
+  "end_year": 1632,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1040,
+  "parish_name": "Glemminge",
+  "start_year": 1632,
+  "end_year": 1688,
+  "pastorat_name": "Tosterup",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1040,
+  "parish_name": "Glemminge",
+  "start_year": 1688,
+  "end_year": 1940,
+  "pastorat_name": "Glemminge och Tosterup",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1040,
+  "parish_name": "Glemminge",
+  "start_year": 1941,
+  "end_year": 1961,
+  "pastorat_name": "Glemminge, Tosterup, Ullstorp och Bollerup",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1040,
+  "parish_name": "Glemminge",
+  "start_year": 1962,
+  "end_year": 1971,
+  "pastorat_name": "Glemminge, Tosterup, Bollerup, Ingelstorp och Övraby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1040,
+  "parish_name": "Glemminge",
+  "start_year": 1972,
+  "end_year": null,
+  "pastorat_name": "Löderup",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1041,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1867,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1041,
+  "parish_name": null,
+  "start_year": 1868,
+  "end_year": null,
+  "pastorat_name": "Glimåkra och Örkened",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1042,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Arvidsjaur",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1043,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "åtminstone tidvis under medeltiden och 1500-talet"
+ },
+ {
+  "pid": 1043,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Glömminge och Algutsrum",
+  "is_own": false,
+  "notes": "annars"
+ },
+ {
+  "pid": 1043,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Glömminge, Algutsrum, Sandby, Gårdby och Södra Möckleby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1045,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1559,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "förr; end inferred from next period"
+ },
+ {
+  "pid": 1045,
+  "parish_name": null,
+  "start_year": 1560,
+  "end_year": 1924,
+  "pastorat_name": "Västra Kärrstorp",
+  "is_own": false,
+  "notes": "ca"
+ },
+ {
+  "pid": 1045,
+  "parish_name": null,
+  "start_year": 1924,
+  "end_year": 1982,
+  "pastorat_name": "Bunkeflo",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1046,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1599,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "förr; end inferred from next period"
+ },
+ {
+  "pid": 1046,
+  "parish_name": null,
+  "start_year": 1600,
+  "end_year": 1899,
+  "pastorat_name": "Kvistofta",
+  "is_own": false,
+  "notes": "ca"
+ },
+ {
+  "pid": 1046,
+  "parish_name": null,
+  "start_year": 1899,
+  "end_year": 1927,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1046,
+  "parish_name": null,
+  "start_year": 1927,
+  "end_year": null,
+  "pastorat_name": "Kvistofta",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1047,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1499,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "medeltiden; end inferred from next period"
+ },
+ {
+  "pid": 1047,
+  "parish_name": null,
+  "start_year": 1500,
+  "end_year": 1648,
+  "pastorat_name": "Bergsjö",
+  "is_own": false,
+  "notes": "åtminstone omkring 1500"
+ },
+ {
+  "pid": 1047,
+  "parish_name": null,
+  "start_year": 1648,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1048,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Kulltorp",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1048,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1049,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1049,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": 1969,
+  "pastorat_name": "Godegård och Västra Ny",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1049,
+  "parish_name": null,
+  "start_year": 1969,
+  "end_year": null,
+  "pastorat_name": "Västra Ny",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1051,
+  "parish_name": "Gödelöv",
+  "start_year": null,
+  "end_year": 1589,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "förr; end inferred from next period"
+ },
+ {
+  "pid": 1051,
+  "parish_name": "Gödelöv",
+  "start_year": 1590,
+  "end_year": 1925,
+  "pastorat_name": "Lyngby",
+  "is_own": false,
+  "notes": "senast"
+ },
+ {
+  "pid": 1051,
+  "parish_name": "Gödelöv",
+  "start_year": 1925,
+  "end_year": 1961,
+  "pastorat_name": "Dalby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1051,
+  "parish_name": "Gödelöv",
+  "start_year": 1962,
+  "end_year": 1974,
+  "pastorat_name": "Lyngby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1051,
+  "parish_name": "Gödelöv",
+  "start_year": 1974,
+  "end_year": null,
+  "pastorat_name": "Genarp",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1052,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Hunnestad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1052,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Grimeton",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1053,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Gökhem, Marka och Sörby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1053,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Gökhem, Marka, Sörby, Vilske-Kleva och Ullene",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1056,
+  "parish_name": "Görslöv",
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Görslöv och Särslöv",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1056,
+  "parish_name": "Görslöv",
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Uppåkra",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1058,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Sunnersberg",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1063,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1066,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1069,
+  "parish_name": "Göteborgs fattighusförsamling",
+  "start_year": null,
+  "end_year": 1825,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "ca; Göteborgs spinnhusförsamling annex hit"
+ },
+ {
+  "pid": 1073,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1075,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1076,
+  "parish_name": "Göteborgs Karl Johan",
+  "start_year": 1700,
+  "end_year": 1805,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1076,
+  "parish_name": "Göteborgs Karl Johan",
+  "start_year": 1805,
+  "end_year": 1883,
+  "pastorat_name": "Örgryte",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1076,
+  "parish_name": "Göteborgs Karl Johan",
+  "start_year": 1883,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "beslut 1872-07-05"
+ },
+ {
+  "pid": 1078,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1079,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1080,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1082,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1084,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1085,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Göteborgs fattighusförsamling",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1087,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1088,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1089,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Götene, Holmestad, Vättlösa och Ledsjö",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1089,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Götene, Holmestad, Vättlösa och Kinne-Vedum",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1090,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1872,
+  "pastorat_name": "Göteryd och Traryd",
+  "is_own": false,
+  "notes": "end year as printed (next period starts 1879)"
+ },
+ {
+  "pid": 1090,
+  "parish_name": null,
+  "start_year": 1879,
+  "end_year": 1961,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "beslut 1869-03-16"
+ },
+ {
+  "pid": 1090,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Göteryd, Pjätteryd och Hallaryd",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1091,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Floby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1092,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "medeltiden"
+ },
+ {
+  "pid": 1092,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Gothem och Norrlanda",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 1092,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Gothem, Norrlanda, Källunge och Vallstena",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1093,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1917,
+  "pastorat_name": "Flistad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1093,
+  "parish_name": null,
+  "start_year": 1917,
+  "end_year": 1961,
+  "pastorat_name": "Götlunda och Flistad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1093,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Götlunda, Flistad och Vad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1094,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1974,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1094,
+  "parish_name": null,
+  "start_year": 1975,
+  "end_year": null,
+  "pastorat_name": "Arboga stadsförsamling",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1096,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "medeltiden"
+ },
+ {
+  "pid": 1096,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Närtuna",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 1096,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": 1971,
+  "pastorat_name": "Skepptuna",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1096,
+  "parish_name": null,
+  "start_year": 1972,
+  "end_year": null,
+  "pastorat_name": "Rimbo",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1097,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1100,
+  "parish_name": "Grangärde",
+  "start_year": null,
+  "end_year": 1652,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1100,
+  "parish_name": "Grangärde",
+  "start_year": 1652,
+  "end_year": 1863,
+  "pastorat_name": "Grangärde och Ludvika",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1100,
+  "parish_name": "Grangärde",
+  "start_year": 1863,
+  "end_year": 1904,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "beslut 1853-06-20 och 1869-10-15"
+ },
+ {
+  "pid": 1100,
+  "parish_name": "Grangärde",
+  "start_year": 1904,
+  "end_year": null,
+  "pastorat_name": "Grangärde och Grängesberg",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1102,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Grangärde",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1103,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Grangärde",
+  "is_own": false,
+  "notes": "dels Grangärde, dels Ljusnarsberg"
+ },
+ {
+  "pid": 1103,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Ljusnarsberg",
+  "is_own": false,
+  "notes": "dels Grangärde, dels Ljusnarsberg"
+ },
+ {
+  "pid": 1104,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Nottebäck",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1105,
+  "parish_name": null,
+  "start_year": 1673,
+  "end_year": 1873,
+  "pastorat_name": "Sollefteå",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1105,
+  "parish_name": null,
+  "start_year": 1873,
+  "end_year": 1929,
+  "pastorat_name": "Långsele",
+  "is_own": false,
+  "notes": "beslut 1867-11-29"
+ },
+ {
+  "pid": 1105,
+  "parish_name": null,
+  "start_year": 1929,
+  "end_year": 1961,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1105,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Långsele",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1106,
+  "parish_name": "Gränna",
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Gränna stadsförsamling och Gränna landsförsamling",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1106,
+  "parish_name": "Gränna",
+  "start_year": 1962,
+  "end_year": 1962,
+  "pastorat_name": "Gränna stadsförsamling, Gränna landsförsamling och Visingsö",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1106,
+  "parish_name": "Gränna",
+  "start_year": 1963,
+  "end_year": null,
+  "pastorat_name": "Gränna och Visingsö",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1107,
+  "parish_name": "Gränna landsförsamling",
+  "start_year": null,
+  "end_year": 1652,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1107,
+  "parish_name": "Gränna landsförsamling",
+  "start_year": 1652,
+  "end_year": 1962,
+  "pastorat_name": "Gränna stadsförsamling",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1109,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Gräsgård och Segerstad",
+  "is_own": false,
+  "notes": "medeltiden"
+ },
+ {
+  "pid": 1109,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1923,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "sedan"
+ },
+ {
+  "pid": 1109,
+  "parish_name": null,
+  "start_year": 1923,
+  "end_year": 1961,
+  "pastorat_name": "Gräsgård och Segerstad",
+  "is_own": false,
+  "notes": "beslut 1915-07-09"
+ },
+ {
+  "pid": 1109,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Södra Möckleby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1110,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1882,
+  "pastorat_name": "Sunne",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1110,
+  "parish_name": null,
+  "start_year": 1882,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "beslut 1854-07-21"
+ },
+ {
+  "pid": 1111,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1845,
+  "pastorat_name": "Börstil",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1111,
+  "parish_name": null,
+  "start_year": 1846,
+  "end_year": null,
+  "pastorat_name": "Öregrund",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1113,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1584,
+  "pastorat_name": "Tingvalla (Karlstads landsförsamling)",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1113,
+  "parish_name": null,
+  "start_year": 1584,
+  "end_year": 1591,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1113,
+  "parish_name": null,
+  "start_year": 1591,
+  "end_year": 1649,
+  "pastorat_name": "Karlstad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1113,
+  "parish_name": null,
+  "start_year": 1649,
+  "end_year": 1908,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1113,
+  "parish_name": null,
+  "start_year": 1908,
+  "end_year": 1919,
+  "pastorat_name": "Grava och Forshaga",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1113,
+  "parish_name": null,
+  "start_year": 1919,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1114,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Kil",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1114,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Vintrosa",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1115,
+  "parish_name": "Grebbestad",
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Tanum",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1116,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Grebo och Värna",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1116,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": 1973,
+  "pastorat_name": "Björsäter",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1116,
+  "parish_name": null,
+  "start_year": 1974,
+  "end_year": null,
+  "pastorat_name": "Åtvid",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1118,
+  "parish_name": null,
+  "start_year": 1550,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "ca; möjligen"
+ },
+ {
+  "pid": 1118,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Grevbäck och Brevik",
+  "is_own": false,
+  "notes": "annars"
+ },
+ {
+  "pid": 1118,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Hjo",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1119,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Förslöv",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1120,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Grimeton och Rolfstorp",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1120,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Grimeton, Rolfstorp, Hunnestad, Gödestad, Skällinge och Nösslinge",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1121,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Kungsäter",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1122,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Forshälla",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1123,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Bolstad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1124,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1125,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1757,
+  "pastorat_name": "Grolanda, Skärvum och Jäla",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1125,
+  "parish_name": null,
+  "start_year": 1757,
+  "end_year": 1961,
+  "pastorat_name": "Grolanda och Jäla",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1125,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Floby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1126,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Gällstad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1127,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1921,
+  "pastorat_name": "Grönby och Anderslöv",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1127,
+  "parish_name": null,
+  "start_year": 1921,
+  "end_year": null,
+  "pastorat_name": "Anderslöv",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1128,
+  "parish_name": null,
+  "start_year": 1300,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "1300-talet"
+ },
+ {
+  "pid": 1128,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1939,
+  "pastorat_name": "Grötlingbo och Fide",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 1128,
+  "parish_name": null,
+  "start_year": 1940,
+  "end_year": null,
+  "pastorat_name": "Havdhem",
+  "is_own": false,
+  "notes": "beslut 1932-09-16 och 1938-05-13"
+ },
+ {
+  "pid": 1129,
+  "parish_name": "Grovare",
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Södra Ving",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1130,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Södra Björke",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1131,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Grums och Ed",
+  "is_own": false,
+  "notes": "medeltiden; möjligen"
+ },
+ {
+  "pid": 1131,
+  "parish_name": null,
+  "start_year": 1500,
+  "end_year": 1921,
+  "pastorat_name": "Nor",
+  "is_own": false,
+  "notes": "senast 1500-talet"
+ },
+ {
+  "pid": 1131,
+  "parish_name": null,
+  "start_year": 1921,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1133,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Morlanda",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1134,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1135,
+  "parish_name": null,
+  "start_year": 1932,
+  "end_year": 1976,
+  "pastorat_name": "Falu Kristine",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1135,
+  "parish_name": null,
+  "start_year": 1977,
+  "end_year": null,
+  "pastorat_name": "Stora Kopparberg",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1136,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Kviinge",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1136,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Knislinge",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1137,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1137,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Gryt, Björnlunda och Gåsinge-Dillnäs",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1138,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1983,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1138,
+  "parish_name": null,
+  "start_year": 1984,
+  "end_year": null,
+  "pastorat_name": "Valdemarsvik",
+  "is_own": false,
+  "notes": "source spelling Valdernarsvik (OCR)"
+ },
+ {
+  "pid": 1139,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "medeltiden"
+ },
+ {
+  "pid": 1139,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1948,
+  "pastorat_name": "Giresta",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 1139,
+  "parish_name": null,
+  "start_year": 1948,
+  "end_year": 1961,
+  "pastorat_name": "Gryta, Giresta och Fröslunda",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1139,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": 1982,
+  "pastorat_name": "Gryta, Giresta, Fröslunda, Hjälsta, Fittja, Holm och Kulla",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1139,
+  "parish_name": null,
+  "start_year": 1983,
+  "end_year": null,
+  "pastorat_name": "Gryta, Giresta, Fröslunda, Hjälsta, Fittja, Holm, Kulla, Långtora, Biskopskulla och Nysätra",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1140,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Södra Hestra",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1140,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Burseryd",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1141,
+  "parish_name": null,
+  "start_year": 1644,
+  "end_year": 1801,
+  "pastorat_name": "Grythyttan och Hällefors",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1141,
+  "parish_name": null,
+  "start_year": 1802,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1142,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1606,
+  "pastorat_name": "Folkärna",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1142,
+  "parish_name": null,
+  "start_year": 1606,
+  "end_year": 1641,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1142,
+  "parish_name": null,
+  "start_year": 1642,
+  "end_year": 1919,
+  "pastorat_name": "Grytnäs och Avesta",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1142,
+  "parish_name": null,
+  "start_year": 1919,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "beslut 1891-05-01 och 1918-05-16"
+ },
+ {
+  "pid": 1143,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Trolle-Ljungby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1143,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Ivetofta",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1144,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1360,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1144,
+  "parish_name": null,
+  "start_year": 1360,
+  "end_year": 1961,
+  "pastorat_name": "Gudhem, Östra Tunhem och Ugglum",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1144,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": 1988,
+  "pastorat_name": "Gudhem, Östra Tunhem, Ugglum, Broddetorp, Hornborga, Sätuna, Bolum och Bjurum",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1144,
+  "parish_name": null,
+  "start_year": 1989,
+  "end_year": null,
+  "pastorat_name": "Gudhem, Östra Tunhem, Ugglum, Broddetorp och Bjurum",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1145,
+  "parish_name": null,
+  "start_year": 1300,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "1300-talet"
+ },
+ {
+  "pid": 1145,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1845,
+  "pastorat_name": "Gudmundrå och Högsjö",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 1145,
+  "parish_name": null,
+  "start_year": 1845,
+  "end_year": 1897,
+  "pastorat_name": "Gudmundrå, Högsjö och Hemsö",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1145,
+  "parish_name": null,
+  "start_year": 1897,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1146,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Gudmuntorp och Hurva",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1146,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Gudmuntorp, Hurva och Bosjökloster",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1147,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Vänge",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1148,
+  "parish_name": null,
+  "start_year": 1896,
+  "end_year": 1917,
+  "pastorat_name": "Lindesberg",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1148,
+  "parish_name": null,
+  "start_year": 1917,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1149,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1921,
+  "pastorat_name": "Torsås",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1149,
+  "parish_name": null,
+  "start_year": 1921,
+  "end_year": 1972,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1149,
+  "parish_name": null,
+  "start_year": 1973,
+  "end_year": null,
+  "pastorat_name": "Torsås",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1150,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1499,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "förr; end inferred from next period"
+ },
+ {
+  "pid": 1150,
+  "parish_name": null,
+  "start_year": 1500,
+  "end_year": null,
+  "pastorat_name": "Gullarp och Näs",
+  "is_own": false,
+  "notes": "från 1500-talet"
+ },
+ {
+  "pid": 1151,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Hössna",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1152,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Morlanda",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1153,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1660,
+  "pastorat_name": "Gumlösa och Sörby",
+  "is_own": false,
+  "notes": "åtminstone -1660"
+ },
+ {
+  "pid": 1153,
+  "parish_name": null,
+  "start_year": 1661,
+  "end_year": 1961,
+  "pastorat_name": "Sörby",
+  "is_own": false,
+  "notes": "sedan; start inferred"
+ },
+ {
+  "pid": 1153,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Vinslöv",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1154,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1155,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1919,
+  "pastorat_name": "Gällared",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1155,
+  "parish_name": null,
+  "start_year": 1919,
+  "end_year": 1961,
+  "pastorat_name": "Gunnarp och Gällared",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1155,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Gunnarp, Gällared och Krogsered",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1156,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1157,
+  "parish_name": "Gunnarsjö",
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Kungsäter",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1158,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1871,
+  "pastorat_name": "Arvika (västra)",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1158,
+  "parish_name": null,
+  "start_year": 1871,
+  "end_year": null,
+  "pastorat_name": "Gunnarskog och Bogen",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1160,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Ör",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1161,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1638,
+  "pastorat_name": "Odensvi",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1161,
+  "parish_name": null,
+  "start_year": 1638,
+  "end_year": 1961,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1161,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Hed",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1162,
+  "parish_name": "Gustafs",
+  "start_year": 1633,
+  "end_year": 1777,
+  "pastorat_name": "Stora Tuna",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1162,
+  "parish_name": "Gustafs",
+  "start_year": 1777,
+  "end_year": 1961,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1162,
+  "parish_name": "Gustafs",
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Gustafs och Silvberg",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1164,
+  "parish_name": "Gustav Adolf",
+  "start_year": null,
+  "end_year": 1618,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1164,
+  "parish_name": "Gustav Adolf",
+  "start_year": 1618,
+  "end_year": 1681,
+  "pastorat_name": "Viby och Rinkaby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1164,
+  "parish_name": "Gustav Adolf",
+  "start_year": 1681,
+  "end_year": 1856,
+  "pastorat_name": "Åhus",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1164,
+  "parish_name": "Gustav Adolf",
+  "start_year": 1857,
+  "end_year": 1961,
+  "pastorat_name": "Gustav Adolf och Rinkaby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1164,
+  "parish_name": "Gustav Adolf",
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Fjälkinge",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1169,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Habo",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1170,
+  "parish_name": "Gustav Adolf",
+  "start_year": 1789,
+  "end_year": 1901,
+  "pastorat_name": "Ekshärad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1170,
+  "parish_name": "Gustav Adolf",
+  "start_year": 1901,
+  "end_year": 1950,
+  "pastorat_name": "Norra Råda",
+  "is_own": false,
+  "notes": "beslut 1838-04-13 och 1901-02-08"
+ },
+ {
+  "pid": 1170,
+  "parish_name": "Gustav Adolf",
+  "start_year": 1951,
+  "end_year": null,
+  "pastorat_name": "Hagfors",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1174,
+  "parish_name": null,
+  "start_year": 1902,
+  "end_year": 1902,
+  "pastorat_name": "Värmdö",
+  "is_own": false,
+  "notes": "1902-01-01 to 1902-04-30"
+ },
+ {
+  "pid": 1174,
+  "parish_name": null,
+  "start_year": 1902,
+  "end_year": 1923,
+  "pastorat_name": "Gustavsberg, Bo och Ingarö",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1174,
+  "parish_name": null,
+  "start_year": 1923,
+  "end_year": null,
+  "pastorat_name": "Gustavsberg och Ingarö",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1175,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1176,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Ringarum",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1177,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1924,
+  "pastorat_name": "Gylle och Kyrkoköpinge",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1177,
+  "parish_name": null,
+  "start_year": 1924,
+  "end_year": 1961,
+  "pastorat_name": "Hammarlöv",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1177,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Dalköpinge",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1178,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Reftele",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1179,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1940,
+  "pastorat_name": "Hablingbo och Silte",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1179,
+  "parish_name": null,
+  "start_year": 1941,
+  "end_year": 1961,
+  "pastorat_name": "Hablingbo, Silte och Sproge",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1179,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Havdhem",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1180,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1780,
+  "pastorat_name": "Habo och Fiskebäck",
+  "is_own": false,
+  "notes": "source spelling liabo (OCR)"
+ },
+ {
+  "pid": 1180,
+  "parish_name": null,
+  "start_year": 1781,
+  "end_year": 1988,
+  "pastorat_name": "Habo och Gustav Adolf",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1180,
+  "parish_name": null,
+  "start_year": 1989,
+  "end_year": null,
+  "pastorat_name": "Habo, Gustav Adolf och Brandstorp",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1181,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Dals-Ed",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1182,
+  "parish_name": "Håbo-Tibble",
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "medeltiden"
+ },
+ {
+  "pid": 1182,
+  "parish_name": "Håbo-Tibble",
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Håtuna",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 1182,
+  "parish_name": "Håbo-Tibble",
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Bro",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1183,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Foss",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1184,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1532,
+  "pastorat_name": "Näs",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1184,
+  "parish_name": null,
+  "start_year": 1532,
+  "end_year": 1864,
+  "pastorat_name": "Oviken",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1184,
+  "parish_name": null,
+  "start_year": 1864,
+  "end_year": 1961,
+  "pastorat_name": "Näs",
+  "is_own": false,
+  "notes": "beslut 1856-06-27 och 1857-12-01"
+ },
+ {
+  "pid": 1184,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Sunne",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1185,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "medeltiden"
+ },
+ {
+  "pid": 1185,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1927,
+  "pastorat_name": "Hacksta och Löt",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 1185,
+  "parish_name": null,
+  "start_year": 1927,
+  "end_year": null,
+  "pastorat_name": "Villberga",
+  "is_own": false,
+  "notes": "beslut 1919-06-19 och 1925-12-31"
+ },
+ {
+  "pid": 1186,
+  "parish_name": "Håcksvik",
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Kalv",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1187,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Edsberg",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1189,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "medeltiden"
+ },
+ {
+  "pid": 1189,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1920,
+  "pastorat_name": "Vassunda",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 1189,
+  "parish_name": null,
+  "start_year": 1920,
+  "end_year": null,
+  "pastorat_name": "Sigtuna",
+  "is_own": false,
+  "notes": "start garbled in source (19-90-05-01); read as 1920-05-01"
+ },
+ {
+  "pid": 1190,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "medeltiden"
+ },
+ {
+  "pid": 1190,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1923,
+  "pastorat_name": "Hagby och Ramsta",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 1190,
+  "parish_name": null,
+  "start_year": 1923,
+  "end_year": null,
+  "pastorat_name": "Balingsta",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1191,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1550,
+  "pastorat_name": "Mortorp",
+  "is_own": false,
+  "notes": "ca"
+ },
+ {
+  "pid": 1191,
+  "parish_name": null,
+  "start_year": 1551,
+  "end_year": null,
+  "pastorat_name": "Arby",
+  "is_own": false,
+  "notes": "sedan; start inferred"
+ },
+ {
+  "pid": 1192,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1540,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "åtminstone -1540"
+ },
+ {
+  "pid": 1192,
+  "parish_name": null,
+  "start_year": 1541,
+  "end_year": 1872,
+  "pastorat_name": "Hagebyhöga och Fivelstad",
+  "is_own": false,
+  "notes": "sedan; start inferred"
+ },
+ {
+  "pid": 1192,
+  "parish_name": null,
+  "start_year": 1872,
+  "end_year": 1941,
+  "pastorat_name": "Hagebyhöga, Fivelstad och Orlunda",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1192,
+  "parish_name": null,
+  "start_year": 1942,
+  "end_year": 1961,
+  "pastorat_name": "Fivelstad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1192,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Varv och Styra",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1193,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Skövde",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1193,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Norra Kyrketorp",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1194,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Hägerstad och Oppeby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1194,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Tjärstad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1195,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1196,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Hägersten",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1197,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Hägersten",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1198,
+  "parish_name": null,
+  "start_year": 1907,
+  "end_year": 1950,
+  "pastorat_name": "Norra Råda",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1198,
+  "parish_name": null,
+  "start_year": 1951,
+  "end_year": null,
+  "pastorat_name": "Hagfors och Gustav Adolf",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1199,
+  "parish_name": null,
+  "start_year": 1300,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "1300-talet"
+ },
+ {
+  "pid": 1199,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1816,
+  "pastorat_name": "Säbrå",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 1199,
+  "parish_name": null,
+  "start_year": 1817,
+  "end_year": 1947,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "beslut 1808-02-26"
+ },
+ {
+  "pid": 1199,
+  "parish_name": null,
+  "start_year": 1948,
+  "end_year": null,
+  "pastorat_name": "Säbrå",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1200,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1923,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1200,
+  "parish_name": null,
+  "start_year": 1923,
+  "end_year": 1961,
+  "pastorat_name": "Skokloster",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1200,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Övergran",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1202,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1922,
+  "pastorat_name": "Lit",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1202,
+  "parish_name": null,
+  "start_year": 1922,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1203,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Järpås",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1204,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1300,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "till 1300-talet"
+ },
+ {
+  "pid": 1204,
+  "parish_name": null,
+  "start_year": 1301,
+  "end_year": 1499,
+  "pastorat_name": "Rådene",
+  "is_own": false,
+  "notes": "sedan; troligen; start and end inferred"
+ },
+ {
+  "pid": 1204,
+  "parish_name": null,
+  "start_year": 1500,
+  "end_year": 1594,
+  "pastorat_name": "Sjogerstad",
+  "is_own": false,
+  "notes": "ca"
+ },
+ {
+  "pid": 1204,
+  "parish_name": null,
+  "start_year": 1594,
+  "end_year": 1922,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1204,
+  "parish_name": null,
+  "start_year": 1922,
+  "end_year": 1961,
+  "pastorat_name": "Sjogerstad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1204,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Norra Kyrketorp",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1205,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1632,
+  "pastorat_name": "Häglinge och Södra Rörum",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1205,
+  "parish_name": null,
+  "start_year": 1632,
+  "end_year": 1961,
+  "pastorat_name": "Södra Rörum",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1205,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Norra Mellby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1207,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Fryele",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1207,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": 1972,
+  "pastorat_name": "Åker",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1207,
+  "parish_name": null,
+  "start_year": 1973,
+  "end_year": null,
+  "pastorat_name": "Tofteryd",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1208,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Berghem",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1208,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Surteby-Kattunga",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1209,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1920,
+  "pastorat_name": "Segerstad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1209,
+  "parish_name": null,
+  "start_year": 1920,
+  "end_year": null,
+  "pastorat_name": "Stenstorp",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1210,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1566,
+  "pastorat_name": "Skärstad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1210,
+  "parish_name": null,
+  "start_year": 1566,
+  "end_year": 1919,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1210,
+  "parish_name": null,
+  "start_year": 1919,
+  "end_year": 1961,
+  "pastorat_name": "Huskvarna",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1210,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1211,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1212,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Gällivare",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1213,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1863,
+  "pastorat_name": "Skepplanda",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1213,
+  "parish_name": null,
+  "start_year": 1864,
+  "end_year": 1961,
+  "pastorat_name": "Ale-Skövde",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1213,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Skepplanda",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1214,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Särestad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1216,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Hangvar",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1216,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Lärbro",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1217,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1937,
+  "pastorat_name": "Halla och Vrena",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1217,
+  "parish_name": null,
+  "start_year": 1937,
+  "end_year": 1961,
+  "pastorat_name": "Bettna",
+  "is_own": false,
+  "notes": "beslut 1917-07-13 och 1937-03-19"
+ },
+ {
+  "pid": 1217,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Stigtomta",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1218,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "medeltiden"
+ },
+ {
+  "pid": 1218,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Dalhem",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 1218,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Vänge",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1219,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Norra Rörum",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1219,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Höör",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1220,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1937,
+  "pastorat_name": "Hällaryd och Åryd",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1220,
+  "parish_name": null,
+  "start_year": 1938,
+  "end_year": 1961,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1220,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Hällaryd och Åryd",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1221,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1221,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Göteryd",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1223,
+  "parish_name": "Hällby",
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Torshälla stadsförsamling",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1223,
+  "parish_name": "Hällby",
+  "start_year": 1962,
+  "end_year": 1983,
+  "pastorat_name": "Tumbo",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1223,
+  "parish_name": "Hällby",
+  "start_year": 1983,
+  "end_year": null,
+  "pastorat_name": "Hällby, Tumbo och Råby-Rekarne",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1224,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1921,
+  "pastorat_name": "Älghult",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1224,
+  "parish_name": null,
+  "start_year": 1921,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1225,
+  "parish_name": null,
+  "start_year": 1644,
+  "end_year": 1801,
+  "pastorat_name": "Grythyttan",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1225,
+  "parish_name": null,
+  "start_year": 1802,
+  "end_year": 1982,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1225,
+  "parish_name": null,
+  "start_year": 1983,
+  "end_year": null,
+  "pastorat_name": "Hällefors och Hjulsjö",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1226,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1350,
+  "pastorat_name": "Hallen och Marby",
+  "is_own": false,
+  "notes": "ca"
+ },
+ {
+  "pid": 1226,
+  "parish_name": null,
+  "start_year": 1351,
+  "end_year": 1889,
+  "pastorat_name": "Sunne",
+  "is_own": false,
+  "notes": "sedan; start inferred"
+ },
+ {
+  "pid": 1226,
+  "parish_name": null,
+  "start_year": 1889,
+  "end_year": null,
+  "pastorat_name": "Hallen och Marby",
+  "is_own": false,
+  "notes": "beslut 1851-01-17"
+ },
+ {
+  "pid": 1227,
+  "parish_name": "Hällesjö",
+  "start_year": null,
+  "end_year": 1349,
+  "pastorat_name": "Rotakäl och Håsjö",
+  "is_own": false,
+  "notes": "förr; end inferred from next period"
+ },
+ {
+  "pid": 1227,
+  "parish_name": "Hällesjö",
+  "start_year": 1350,
+  "end_year": 1903,
+  "pastorat_name": "Ragunda",
+  "is_own": false,
+  "notes": "ca"
+ },
+ {
+  "pid": 1227,
+  "parish_name": "Hällesjö",
+  "start_year": 1903,
+  "end_year": null,
+  "pastorat_name": "Hällesjö och Håsjö",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1228,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1645,
+  "pastorat_name": "Dalby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1228,
+  "parish_name": null,
+  "start_year": 1645,
+  "end_year": 1680,
+  "pastorat_name": "Hällestad och Dalby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1228,
+  "parish_name": null,
+  "start_year": 1680,
+  "end_year": 1925,
+  "pastorat_name": "Hällestad, Dalby och Bonderup",
+  "is_own": false,
+  "notes": "beslut 1673-01-13"
+ },
+ {
+  "pid": 1228,
+  "parish_name": null,
+  "start_year": 1925,
+  "end_year": null,
+  "pastorat_name": "Dalby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1229,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Floby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1230,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1231,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1972,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1231,
+  "parish_name": null,
+  "start_year": 1973,
+  "end_year": null,
+  "pastorat_name": "Hallingeberg och Blackstad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1232,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Hallingeberg",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1233,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Hallingeberg",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1234,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1988,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1234,
+  "parish_name": null,
+  "start_year": 1989,
+  "end_year": null,
+  "pastorat_name": "Österlövsta",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1235,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1862,
+  "pastorat_name": "Kumla",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1235,
+  "parish_name": null,
+  "start_year": 1862,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1237,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1399,
+  "pastorat_name": "Hällstad och Murum",
+  "is_own": false,
+  "notes": "förr; troligen; end inferred from next period"
+ },
+ {
+  "pid": 1237,
+  "parish_name": null,
+  "start_year": 1400,
+  "end_year": 1961,
+  "pastorat_name": "Hällstad, Murum, Södra Vånga och Möne",
+  "is_own": false,
+  "notes": "ca"
+ },
+ {
+  "pid": 1237,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": 1988,
+  "pastorat_name": "Hällstad, Murum, Södra Vånga, Möne och Kärråkra",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1237,
+  "parish_name": null,
+  "start_year": 1989,
+  "end_year": null,
+  "pastorat_name": "Södra Ving",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1238,
+  "parish_name": "Hallstahammar",
+  "start_year": null,
+  "end_year": 1942,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1238,
+  "parish_name": "Hallstahammar",
+  "start_year": 1943,
+  "end_year": null,
+  "pastorat_name": "Hallstahammar och Berg",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1239,
+  "parish_name": null,
+  "start_year": 1500,
+  "end_year": null,
+  "pastorat_name": "Söderåkra",
+  "is_own": false,
+  "notes": "en tid på 1500-talet förenad med Söderåkra"
+ },
+ {
+  "pid": 1239,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Halltorp och Voxtorp",
+  "is_own": false,
+  "notes": "senare"
+ },
+ {
+  "pid": 1239,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Arby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1240,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1920,
+  "pastorat_name": "Skarstad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1240,
+  "parish_name": null,
+  "start_year": 1920,
+  "end_year": null,
+  "pastorat_name": "Vara",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1241,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Halmstad och Sireköpinge",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1241,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Kågeröd",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1244,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Undenäs",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1251,
+  "parish_name": "Hälsingtuna",
+  "start_year": null,
+  "end_year": 1582,
+  "pastorat_name": "Tuna och Idenor",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1251,
+  "parish_name": "Hälsingtuna",
+  "start_year": 1582,
+  "end_year": 1584,
+  "pastorat_name": "Tuna, Hudiksvall och Idenor",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1251,
+  "parish_name": "Hälsingtuna",
+  "start_year": 1584,
+  "end_year": 1651,
+  "pastorat_name": "Tuna och Idenor",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1251,
+  "parish_name": "Hälsingtuna",
+  "start_year": 1651,
+  "end_year": 1918,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1251,
+  "parish_name": "Hälsingtuna",
+  "start_year": 1918,
+  "end_year": 1961,
+  "pastorat_name": "Hälsingtuna, Hög och Ilsbo",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1251,
+  "parish_name": "Hälsingtuna",
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1252,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Solberga",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1253,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Ryda",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1255,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1256,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Hammarby och Fresta",
+  "is_own": false,
+  "notes": "medeltiden"
+ },
+ {
+  "pid": 1256,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Fresta",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 1256,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": 1981,
+  "pastorat_name": "Hammarby och Fresta",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1256,
+  "parish_name": null,
+  "start_year": 1982,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1257,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1919,
+  "pastorat_name": "Vallby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1257,
+  "parish_name": null,
+  "start_year": 1919,
+  "end_year": 1961,
+  "pastorat_name": "Kjula",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1257,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": 1979,
+  "pastorat_name": "Jäder",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1257,
+  "parish_name": null,
+  "start_year": 1979,
+  "end_year": null,
+  "pastorat_name": "Kjula",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1258,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1924,
+  "pastorat_name": "Hammarlöv och Västra Vemmerlöv",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1258,
+  "parish_name": null,
+  "start_year": 1924,
+  "end_year": 1961,
+  "pastorat_name": "Hammarlöv, Västra Vemmerlöv, Gylle och Kyrkoköpinge",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1258,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Hammarlöv, Västra Vemmerlöv, Fuglie, Maglarp, Bodarp, Västra Tommarp och Skegrie",
+  "is_own": false,
+  "notes": "source spelling Verninerlöv (OCR)"
+ },
+ {
+  "pid": 1259,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Harlösa",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1259,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Högseröd",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1260,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1584,
+  "pastorat_name": "Tingvalla (Karlstads landsförsamling)",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1260,
+  "parish_name": null,
+  "start_year": 1584,
+  "end_year": 1595,
+  "pastorat_name": "Karlstads stadsförsamling",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1260,
+  "parish_name": null,
+  "start_year": 1595,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1261,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Hammarö",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1262,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1925,
+  "pastorat_name": "Hammenhög och Hannas",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1262,
+  "parish_name": null,
+  "start_year": 1925,
+  "end_year": 1961,
+  "pastorat_name": "Hammenhög, Hannas, Östra Herrestad och Östra Ingelstad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1262,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": 1982,
+  "pastorat_name": "Hammenhög, Hannas, Östra Herrestad, Östra Ingelstad och Vallby",
+  "is_own": false,
+  "notes": "beslut 1931-08-08"
+ },
+ {
+  "pid": 1262,
+  "parish_name": null,
+  "start_year": 1983,
+  "end_year": null,
+  "pastorat_name": "Hammenhög, Hannas, Östra Herrestad och Vallby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1263,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1781,
+  "pastorat_name": "Hammerdal och Ström",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1263,
+  "parish_name": null,
+  "start_year": 1781,
+  "end_year": 1808,
+  "pastorat_name": "Hammerdal, Ström och Borgvattnet",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1263,
+  "parish_name": null,
+  "start_year": 1808,
+  "end_year": 1872,
+  "pastorat_name": "Hammerdal, Ström, Borgvattnet och Alanäs",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1263,
+  "parish_name": null,
+  "start_year": 1872,
+  "end_year": 1892,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "beslut 1857-03-31 och 1872-04-19"
+ },
+ {
+  "pid": 1263,
+  "parish_name": null,
+  "start_year": 1893,
+  "end_year": null,
+  "pastorat_name": "Hammerdal och Gåxsjö",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1264,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "medeltiden"
+ },
+ {
+  "pid": 1264,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Södra Ljunga",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 1266,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "medeltiden"
+ },
+ {
+  "pid": 1266,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Öja",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 1267,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1268,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1551,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1268,
+  "parish_name": null,
+  "start_year": 1551,
+  "end_year": null,
+  "pastorat_name": "Skara domkyrkoförsamling",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1269,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1916,
+  "pastorat_name": "Segersta",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1269,
+  "parish_name": null,
+  "start_year": 1916,
+  "end_year": null,
+  "pastorat_name": "Hanebo och Segersta",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1270,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Källby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1271,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "(Vilske-)Kleva",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1272,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1523,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "medeltiden; end inferred from next period"
+ },
+ {
+  "pid": 1272,
+  "parish_name": null,
+  "start_year": 1524,
+  "end_year": 1961,
+  "pastorat_name": "Kärda",
+  "is_own": false,
+  "notes": "senast"
+ },
+ {
+  "pid": 1272,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Forsheda",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1273,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1925,
+  "pastorat_name": "Hångsdala, Skörstorp och Östra Gerum",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1273,
+  "parish_name": null,
+  "start_year": 1925,
+  "end_year": 1961,
+  "pastorat_name": "Dimbo",
+  "is_own": false,
+  "notes": "beslut 1916-06-09 och 1924-06-13"
+ },
+ {
+  "pid": 1273,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Valstad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1274,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Hangvar och Hall",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1274,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Lärbro",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1275,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Kungsbacka",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1276,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Hammenhög",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1277,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1971,
+  "pastorat_name": "Tryserum",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1277,
+  "parish_name": null,
+  "start_year": 1972,
+  "end_year": null,
+  "pastorat_name": "Gärdserum",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1279,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Nedertorneå-Haparanda",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1282,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1584,
+  "pastorat_name": "Vansö",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1282,
+  "parish_name": null,
+  "start_year": 1584,
+  "end_year": 1587,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1282,
+  "parish_name": null,
+  "start_year": 1587,
+  "end_year": null,
+  "pastorat_name": "Vansö",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1283,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1867,
+  "pastorat_name": "Häradshammar och Jonsberg",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1283,
+  "parish_name": null,
+  "start_year": 1867,
+  "end_year": 1961,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "beslut 1861-07-10"
+ },
+ {
+  "pid": 1283,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Östra Husby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1284,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1284,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Skultuna",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1286,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1286,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Östervåla",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1287,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1569,
+  "pastorat_name": "Hardeberga och Södra Sandby",
+  "is_own": false,
+  "notes": "förr; end inferred from next period"
+ },
+ {
+  "pid": 1287,
+  "parish_name": null,
+  "start_year": 1570,
+  "end_year": 1669,
+  "pastorat_name": "Södra Sandby",
+  "is_own": false,
+  "notes": "ca; end inferred from next period"
+ },
+ {
+  "pid": 1287,
+  "parish_name": null,
+  "start_year": 1670,
+  "end_year": 1942,
+  "pastorat_name": "Hardeberga och Södra Sandby",
+  "is_own": false,
+  "notes": "1670-talet"
+ },
+ {
+  "pid": 1287,
+  "parish_name": null,
+  "start_year": 1943,
+  "end_year": null,
+  "pastorat_name": "Södra Sandby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1288,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1941,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1288,
+  "parish_name": null,
+  "start_year": 1942,
+  "end_year": 1961,
+  "pastorat_name": "Hardemo och Kräcklinge",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1288,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Kumla",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1291,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Torsby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1292,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1292,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": 1971,
+  "pastorat_name": "Börstil",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1292,
+  "parish_name": null,
+  "start_year": 1972,
+  "end_year": null,
+  "pastorat_name": "Östhammar",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1295,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1638,
+  "pastorat_name": "Sandhem",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1295,
+  "parish_name": null,
+  "start_year": 1638,
+  "end_year": 1691,
+  "pastorat_name": "Härja, Ettak och Suntak",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1295,
+  "parish_name": null,
+  "start_year": 1691,
+  "end_year": 1961,
+  "pastorat_name": "Sandhem",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1295,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Daretorp",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1296,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1988,
+  "pastorat_name": "Saleby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1296,
+  "parish_name": null,
+  "start_year": 1989,
+  "end_year": null,
+  "pastorat_name": "Sävare",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1297,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Långtora",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1297,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Villberga",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1298,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1299,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1939,
+  "pastorat_name": "Harlösa och Hammarlunda",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1299,
+  "parish_name": null,
+  "start_year": 1940,
+  "end_year": 1961,
+  "pastorat_name": "Harlösa, Hammarlunda, Silvåkra och Revinge",
+  "is_own": false,
+  "notes": "beslut 1924-07-18 och 1938-02-18"
+ },
+ {
+  "pid": 1299,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Högseröd",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1300,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1924,
+  "pastorat_name": "Ojaby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1300,
+  "parish_name": null,
+  "start_year": 1924,
+  "end_year": null,
+  "pastorat_name": "Aringsås/Alvesta",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1301,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1548,
+  "pastorat_name": "Härlunda och Bjärka",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1301,
+  "parish_name": null,
+  "start_year": 1548,
+  "end_year": null,
+  "pastorat_name": "Skara domkyrkoförsamling",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1302,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1893,
+  "pastorat_name": "Skatelöv",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1302,
+  "parish_name": null,
+  "start_year": 1893,
+  "end_year": 1961,
+  "pastorat_name": "Västra Torsås",
+  "is_own": false,
+  "notes": "beslut 1886-07-23"
+ },
+ {
+  "pid": 1302,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Almundsryd",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1303,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Harmånger och Jättendal",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1303,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": 1976,
+  "pastorat_name": "Harmånger, Jättendal och Ilsbo",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1303,
+  "parish_name": null,
+  "start_year": 1977,
+  "end_year": null,
+  "pastorat_name": "Harmånger och Jättendal",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1304,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Södra Ving",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1305,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "medeltiden"
+ },
+ {
+  "pid": 1305,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1923,
+  "pastorat_name": "Frösthult",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 1305,
+  "parish_name": null,
+  "start_year": 1923,
+  "end_year": 1961,
+  "pastorat_name": "Torstuna",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1305,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Simtuna",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1306,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1586,
+  "pastorat_name": "Säbrå",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1306,
+  "parish_name": null,
+  "start_year": 1586,
+  "end_year": 1873,
+  "pastorat_name": "Härnösand",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1308,
+  "parish_name": "Härnösands domkyrkoförsamling",
+  "start_year": 1586,
+  "end_year": 1872,
+  "pastorat_name": "Härnösand och Härnö",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1308,
+  "parish_name": "Härnösands domkyrkoförsamling",
+  "start_year": 1873,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1309,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Säbrå",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1310,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Harplinge och Steninge",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1312,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Landvetter",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1313,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1535,
+  "pastorat_name": "Härslöv och Ottarp",
+  "is_own": false,
+  "notes": "förr; end inferred from next period"
+ },
+ {
+  "pid": 1313,
+  "parish_name": null,
+  "start_year": 1536,
+  "end_year": 1941,
+  "pastorat_name": "Härslöv och Säby",
+  "is_own": false,
+  "notes": "ca"
+ },
+ {
+  "pid": 1313,
+  "parish_name": null,
+  "start_year": 1942,
+  "end_year": 1961,
+  "pastorat_name": "Härslöv, Säby, Vadensjö och Örja",
+  "is_own": false,
+  "notes": "beslut 1926-12-03 och 1941-01-31"
+ },
+ {
+  "pid": 1313,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Härslöv, Säby, Vadensjö, Örja och Ottarp",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1314,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Väderstad",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1315,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1349,
+  "pastorat_name": "Hällesjö",
+  "is_own": false,
+  "notes": "tidigare; end inferred from next period"
+ },
+ {
+  "pid": 1315,
+  "parish_name": null,
+  "start_year": 1350,
+  "end_year": 1903,
+  "pastorat_name": "Ragunda",
+  "is_own": false,
+  "notes": "ca"
+ },
+ {
+  "pid": 1315,
+  "parish_name": null,
+  "start_year": 1903,
+  "end_year": null,
+  "pastorat_name": "Hällesjö",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1316,
+  "parish_name": "Håslöv",
+  "start_year": null,
+  "end_year": 1559,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "förr; end inferred from next period"
+ },
+ {
+  "pid": 1316,
+  "parish_name": "Håslöv",
+  "start_year": 1560,
+  "end_year": 1924,
+  "pastorat_name": "Håslöv och Bodarp",
+  "is_own": false,
+  "notes": "ca"
+ },
+ {
+  "pid": 1316,
+  "parish_name": "Håslöv",
+  "start_year": 1924,
+  "end_year": 1961,
+  "pastorat_name": "Håslöv, Bodarp, Västra Tommarp och Skegrie",
+  "is_own": false,
+  "notes": "source spelling Ske i grie (OCR)"
+ },
+ {
+  "pid": 1316,
+  "parish_name": "Håslöv",
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Räng",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1317,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1864,
+  "pastorat_name": "Bergsjö",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1317,
+  "parish_name": null,
+  "start_year": 1864,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "beslut 1851-12-22"
+ },
+ {
+  "pid": 1318,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": null
+ },
+ {
+  "pid": 1321,
+  "parish_name": null,
+  "start_year": 1316,
+  "end_year": null,
+  "pastorat_name": "Hässjö och Tynderö",
+  "is_own": false,
+  "notes": "1316"
+ },
+ {
+  "pid": 1321,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1920,
+  "pastorat_name": "Ljustorp",
+  "is_own": false,
+  "notes": "därefter"
+ },
+ {
+  "pid": 1321,
+  "parish_name": null,
+  "start_year": 1920,
+  "end_year": 1931,
+  "pastorat_name": "Hässjö, Tynderö och Lögdö",
+  "is_own": false,
+  "notes": "beslut 1907-05-31 och 1919-12-19"
+ },
+ {
+  "pid": 1321,
+  "parish_name": null,
+  "start_year": 1932,
+  "end_year": null,
+  "pastorat_name": "Hässjö och Tynderö",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1322,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Hassle, Berga och Färed",
+  "is_own": false,
+  "notes": "tidigare"
+ },
+ {
+  "pid": 1322,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Hassle, Berga, Färed och Enåsa",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 1322,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Hassle, Berga, Färed, Enåsa och Torsö",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1323,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1932,
+  "pastorat_name": "Solberga",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1323,
+  "parish_name": null,
+  "start_year": 1932,
+  "end_year": null,
+  "pastorat_name": "Skurup",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1324,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1300,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "till början av 1300-talet"
+ },
+ {
+  "pid": 1324,
+  "parish_name": null,
+  "start_year": 1301,
+  "end_year": 1561,
+  "pastorat_name": "Lönneberga",
+  "is_own": false,
+  "notes": "därefter; start inferred; åtminstone till 1561"
+ },
+ {
+  "pid": 1324,
+  "parish_name": null,
+  "start_year": 1562,
+  "end_year": 1961,
+  "pastorat_name": "Rumskulla",
+  "is_own": false,
+  "notes": "sedan; start inferred"
+ },
+ {
+  "pid": 1324,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Hässleby och Kråkshult",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1325,
+  "parish_name": null,
+  "start_year": 1910,
+  "end_year": 1941,
+  "pastorat_name": "Stoby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1325,
+  "parish_name": null,
+  "start_year": 1942,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "beslut 1927-01-14 och 1941-11-07"
+ },
+ {
+  "pid": 1326,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Nättraby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1327,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Sävare",
+  "is_own": false,
+  "notes": "del av medeltiden; möjligen"
+ },
+ {
+  "pid": 1327,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1553,
+  "pastorat_name": "Lindärva",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 1327,
+  "parish_name": null,
+  "start_year": 1553,
+  "end_year": 1677,
+  "pastorat_name": "Lidköping",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1327,
+  "parish_name": null,
+  "start_year": 1677,
+  "end_year": null,
+  "pastorat_name": "Sävare",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1328,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Hasslöv och Våxtorp",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1329,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1929,
+  "pastorat_name": "Hässlunda och Risekatslösa",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1329,
+  "parish_name": null,
+  "start_year": 1929,
+  "end_year": 1961,
+  "pastorat_name": "Ekeby",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1329,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Kropp",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1330,
+  "parish_name": null,
+  "start_year": 1500,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "början av 1500-talet; till synes moderförsamling"
+ },
+ {
+  "pid": 1330,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1933,
+  "pastorat_name": "Västra Hoby",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 1330,
+  "parish_name": null,
+  "start_year": 1933,
+  "end_year": null,
+  "pastorat_name": "Vallkärra",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1332,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": "Hästveda och Farstorp",
+  "is_own": false,
+  "notes": null
+ },
+ {
+  "pid": 1333,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": null,
+  "pastorat_name": null,
+  "is_own": true,
+  "notes": "medeltiden"
+ },
+ {
+  "pid": 1333,
+  "parish_name": null,
+  "start_year": null,
+  "end_year": 1961,
+  "pastorat_name": "Håtuna och Håbo-Tibble",
+  "is_own": false,
+  "notes": "sedan"
+ },
+ {
+  "pid": 1333,
+  "parish_name": null,
+  "start_year": 1962,
+  "end_year": null,
+  "pastorat_name": "Bro",
+  "is_own": false,
+  "notes": null
+ }
+]

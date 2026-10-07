@@ -1,0 +1,10262 @@
+[
+{
+"pid": 15,
+"parish_name": null,
+"start_year": null,
+"end_year": 1786,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 15,
+"parish_name": null,
+"start_year": 1786,
+"end_year": 1810,
+"county_name": "Svartsjö län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 15,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 38,
+"parish_name": "Alanäs",
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 38,
+"parish_name": "Alanäs",
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 46,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 46,
+"parish_name": null,
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 47,
+"parish_name": "Älgå",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 47,
+"parish_name": "Älgå",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 51,
+"parish_name": "Algutsboda",
+"start_year": 1937,
+"end_year": null,
+"county_name": "Kalmar län",
+"partial": true,
+"notes": "1937-01-01 överfört Grimmansmåla 1:6 till Vissefjärda i Kalmar län"
+},
+{
+"pid": 51,
+"parish_name": "Algutsboda",
+"start_year": 1947,
+"end_year": null,
+"county_name": "Kalmar län",
+"partial": true,
+"notes": "1947-01-01 överfört delar av Krysseboda och Rasslebygd till Emmaboda i Kalmar län"
+},
+{
+"pid": 51,
+"parish_name": "Algutsboda",
+"start_year": 1954,
+"end_year": null,
+"county_name": "Kalmar län",
+"partial": true,
+"notes": "1954-01-01 överfört delar av Krysseboda och Rasslebygd jämte del av Grimmansmåla till Emmaboda i Kalmar län"
+},
+{
+"pid": 51,
+"parish_name": "Algutsboda",
+"start_year": null,
+"end_year": 1968,
+"county_name": "Kronobergs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 51,
+"parish_name": "Algutsboda",
+"start_year": 1969,
+"end_year": null,
+"county_name": "Kalmar län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 73,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 73,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 78,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 78,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 81,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 81,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 82,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 82,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 85,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 85,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 86,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Västmanlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 86,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 94,
+"parish_name": "Älvkarleby",
+"start_year": 1958,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": true,
+"notes": "1958 del från Gävleborgs till Uppsala län"
+},
+{
+"pid": 95,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 95,
+"parish_name": null,
+"start_year": 1762,
+"end_year": 1810,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 95,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 97,
+"parish_name": "Älvsbacka",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": "texten har -1799, troligen tryckfel för -1779 (nästa period börjar 1779)"
+},
+{
+"pid": 97,
+"parish_name": "Älvsbacka",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 100,
+"parish_name": "Älvsby",
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 100,
+"parish_name": "Älvsby",
+"start_year": 1810,
+"end_year": null,
+"county_name": "Norrbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 101,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Älvsborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 101,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Hallands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 129,
+"parish_name": null,
+"start_year": null,
+"end_year": 1924,
+"county_name": "Kronobergs län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 129,
+"parish_name": null,
+"start_year": null,
+"end_year": 1924,
+"county_name": "Jönköpings län",
+"partial": true,
+"notes": "del av Lamhult"
+},
+{
+"pid": 129,
+"parish_name": null,
+"start_year": 1924,
+"end_year": null,
+"county_name": "Kronobergs län",
+"partial": true,
+"notes": "1924-08-08 överfört delen i Jönköpings län (del av Lamhult) till Kronobergs län"
+},
+{
+"pid": 129,
+"parish_name": null,
+"start_year": 1924,
+"end_year": null,
+"county_name": "Kronobergs län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 129,
+"parish_name": null,
+"start_year": 1928,
+"end_year": null,
+"county_name": "Kronobergs län",
+"partial": true,
+"notes": "1928-01-20 gränsreglering mellan Aneboda i Kronobergs län och Hjälmseryd i Jönköpings län"
+},
+{
+"pid": 129,
+"parish_name": null,
+"start_year": 1947,
+"end_year": null,
+"county_name": "Kronobergs län",
+"partial": true,
+"notes": "1947-01-01 överfört Ljungsåsa och Boo jämte hela Jönköpings läns del av Lammhults stationssamhälle från Hjälmseryd i Jönköpings län till Aneboda och Kronobergs län"
+},
+{
+"pid": 139,
+"parish_name": null,
+"start_year": 1930,
+"end_year": null,
+"county_name": "Göteborgs och Bohus län",
+"partial": true,
+"notes": "1930-01-01 överfört område från Angered i Älvsborgs län till Göteborgs Gamlestad i Göteborgs och Bohus län"
+},
+{
+"pid": 139,
+"parish_name": null,
+"start_year": null,
+"end_year": 1966,
+"county_name": "Älvsborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 139,
+"parish_name": null,
+"start_year": 1967,
+"end_year": null,
+"county_name": "Göteborgs och Bohus län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 141,
+"parish_name": "Ängsö",
+"start_year": 1890,
+"end_year": null,
+"county_name": "Västmanlands län",
+"partial": true,
+"notes": "1890-02-07 överfört Hallingön från Fogdö i Södermanlands län till Ängsö i Västmanlands län"
+},
+{
+"pid": 141,
+"parish_name": "Ängsö",
+"start_year": 1950,
+"end_year": null,
+"county_name": "Västmanlands län",
+"partial": true,
+"notes": "1950-01-01 överfört Kurön från Teda i Uppsala län till Ängsö i Västmanlands län"
+},
+{
+"pid": 150,
+"parish_name": "Ånsta",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 150,
+"parish_name": "Ånsta",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 151,
+"parish_name": "Anundsjö",
+"start_year": 1830,
+"end_year": null,
+"county_name": "Västernorrlands län",
+"partial": true,
+"notes": "1830 gränsen fastställd mellan Anundsjö i Västernorrlands län och Åsele i Västerbottens län"
+},
+{
+"pid": 151,
+"parish_name": "Anundsjö",
+"start_year": 1846,
+"end_year": null,
+"county_name": "Västerbottens län",
+"partial": true,
+"notes": "1846-01-21 överfört Rödvattnet från Åsele till Anundsjö, som därmed till en del kom att ligga i Västerbottens län"
+},
+{
+"pid": 151,
+"parish_name": "Anundsjö",
+"start_year": 1860,
+"end_year": null,
+"county_name": "Västernorrlands län",
+"partial": true,
+"notes": "1860-talet överfört Rödvattnet till Västernorrlands län (år osäkert, 1860-talet)"
+},
+{
+"pid": 151,
+"parish_name": "Anundsjö",
+"start_year": 1868,
+"end_year": null,
+"county_name": "Västernorrlands län",
+"partial": true,
+"notes": "1868-11-28 överfört lappmarksförsamlingars områden inom Västernorrlands län till Anundsjö: från Åsele Holmträsk, Lägsta, Mossaträsk, Solberg, Tjäl och Tjärn; från Fredrika Svartsjö, Holmsjön, Stavberg och Trehörningsjö"
+},
+{
+"pid": 153,
+"parish_name": null,
+"start_year": 1805,
+"end_year": null,
+"county_name": "Kopparbergs län",
+"partial": true,
+"notes": "1805-07-18 överfört område från Äppelbo i Kopparbergs län till Rämmen utan länsändring"
+},
+{
+"pid": 153,
+"parish_name": null,
+"start_year": 1815,
+"end_year": null,
+"county_name": "Kopparbergs län",
+"partial": true,
+"notes": "1815 överfört Höksjön och Skärfjällen från Äppelbo till Rämmen (Rämmens huvuddel i Värmlands län); området låg kvar i Kopparbergs län"
+},
+{
+"pid": 164,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 164,
+"parish_name": null,
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 169,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 169,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 174,
+"parish_name": "Arjeplog",
+"start_year": null,
+"end_year": 1837,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 174,
+"parish_name": "Arjeplog",
+"start_year": 1837,
+"end_year": null,
+"county_name": "Norrbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 178,
+"parish_name": "Arnö",
+"start_year": 1943,
+"end_year": null,
+"county_name": "Södermanlands län",
+"partial": true,
+"notes": "1943-01-01 vid församlingens upplösning överfört en avsevärd del (Oknö) från Uppsala län till Aspö församling och Södermanlands län"
+},
+{
+"pid": 185,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 185,
+"parish_name": null,
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 190,
+"parish_name": null,
+"start_year": null,
+"end_year": 1837,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 190,
+"parish_name": null,
+"start_year": 1837,
+"end_year": null,
+"county_name": "Norrbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 197,
+"parish_name": "Arvika västra",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 197,
+"parish_name": "Arvika västra",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 201,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 201,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 202,
+"parish_name": null,
+"start_year": 1974,
+"end_year": null,
+"county_name": "Jönköpings län",
+"partial": true,
+"notes": "1974-01-01 införlivat Bolmsölandet (Bolmsö församlingsdel i Jönköpings län)"
+},
+{
+"pid": 210,
+"parish_name": "Åsarne",
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 210,
+"parish_name": "Åsarne",
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 218,
+"parish_name": "Åseda",
+"start_year": 1839,
+"end_year": null,
+"county_name": "Kronobergs län",
+"partial": true,
+"notes": "1839 delar till Kronobergs län från Jönköpings och Kalmar län"
+},
+{
+"pid": 219,
+"parish_name": "Åsele",
+"start_year": null,
+"end_year": 1868,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": "huvuddelen; Åsele delvis även i Västernorrlands län"
+},
+{
+"pid": 219,
+"parish_name": "Åsele",
+"start_year": null,
+"end_year": 1868,
+"county_name": "Västernorrlands län",
+"partial": true,
+"notes": "del i Västernorrlands län"
+},
+{
+"pid": 219,
+"parish_name": "Åsele",
+"start_year": 1830,
+"end_year": null,
+"county_name": "Västernorrlands län",
+"partial": true,
+"notes": "1830 fastställd gräns mellan Anundsjö i Västernorrlands län och Åsele i Västerbottens län"
+},
+{
+"pid": 219,
+"parish_name": "Åsele",
+"start_year": 1846,
+"end_year": null,
+"county_name": "Västernorrlands län",
+"partial": true,
+"notes": "1846-01-14 överfört Rödvattnet från delen i Västernorrlands län till Anundsjö i samma län"
+},
+{
+"pid": 219,
+"parish_name": "Åsele",
+"start_year": 1854,
+"end_year": null,
+"county_name": "Västerbottens län",
+"partial": true,
+"notes": "1854-04-20 överfört Gulsele från delen i Västerbottens län till Junsele utan länsändring"
+},
+{
+"pid": 219,
+"parish_name": "Åsele",
+"start_year": 1868,
+"end_year": null,
+"county_name": "Västernorrlands län",
+"partial": true,
+"notes": "1868-11-28 överfört återstående del i Västernorrlands län till Anundsjö: Holmträsk, Lägsta, Mossaträsk, Solberg, Tjäl och Tjärn"
+},
+{
+"pid": 219,
+"parish_name": "Åsele",
+"start_year": 1868,
+"end_year": null,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 228,
+"parish_name": "Asker",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 228,
+"parish_name": "Asker",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 228,
+"parish_name": "Asker",
+"start_year": 1865,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": true,
+"notes": "1865-11-14 överfört Forsbro från Västra Vingåker i Södermanlands län till Asker i Örebro län (förut stundom räknad som Askers länsdel i Södermanlands län)"
+},
+{
+"pid": 230,
+"parish_name": "Askersund",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 230,
+"parish_name": "Askersund",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 231,
+"parish_name": "Askersunds landsförsamling",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 231,
+"parish_name": "Askersunds landsförsamling",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 233,
+"parish_name": "Askeryd",
+"start_year": null,
+"end_year": 1877,
+"county_name": "Jönköpings län",
+"partial": false,
+"notes": "delad mellan Jönköpings län och Östergötlands län"
+},
+{
+"pid": 233,
+"parish_name": "Askeryd",
+"start_year": null,
+"end_year": 1877,
+"county_name": "Östergötlands län",
+"partial": true,
+"notes": "Lägerbobygden"
+},
+{
+"pid": 233,
+"parish_name": "Askeryd",
+"start_year": 1877,
+"end_year": null,
+"county_name": "Östergötlands län",
+"partial": true,
+"notes": "1877-05-01 (beslut 1863-01-09) överfört Lägerbobygden till Västra Ryds församling"
+},
+{
+"pid": 233,
+"parish_name": "Askeryd",
+"start_year": 1877,
+"end_year": null,
+"county_name": "Jönköpings län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 243,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 243,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 250,
+"parish_name": "Aspö",
+"start_year": 1943,
+"end_year": null,
+"county_name": "Södermanlands län",
+"partial": true,
+"notes": "1943-01-01 överfört Oknö från samtidigt upplösta Arnö i Uppsala län till Aspö i Södermanlands län"
+},
+{
+"pid": 263,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 263,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 278,
+"parish_name": null,
+"start_year": 1923,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": true,
+"notes": "1923-01-01 överfört Vissbo (Harbos del i Uppsala län) till Bälinge"
+},
+{
+"pid": 318,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": "före 1810-05-07"
+},
+{
+"pid": 335,
+"parish_name": "Bergum",
+"start_year": null,
+"end_year": 1966,
+"county_name": "Älvsborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 335,
+"parish_name": "Bergum",
+"start_year": 1967,
+"end_year": null,
+"county_name": "Göteborgs och Bohus län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 370,
+"parish_name": null,
+"start_year": 1952,
+"end_year": null,
+"county_name": "Älvsborgs län",
+"partial": true,
+"notes": "1952-01-01 överfört drygt 8 kvadratkilometer från Härryda i Göteborgs och Bohus län till Björketorp i Älvsborgs län"
+},
+{
+"pid": 370,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Älvsborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 370,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Göteborgs och Bohus län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 371,
+"parish_name": null,
+"start_year": 1827,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": true,
+"notes": "1827-12-12 överfört Näverbo från Björklinge till Harbo sockendel i Uppsala län"
+},
+{
+"pid": 371,
+"parish_name": null,
+"start_year": 1895,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": true,
+"notes": "1895 överfört Näverbo jämte Gråmyren, Hocksbo och Nolmyra från Harbo sockendel till Björklinge i samma län"
+},
+{
+"pid": 380,
+"parish_name": null,
+"start_year": 1868,
+"end_year": null,
+"county_name": "Västernorrlands län",
+"partial": true,
+"notes": "1868-11-28 överfört Aspsele, Krokvattnet, Remmaren och Stavarsjön från Fredrikas del i Västernorrlands län till Björna i samma län"
+},
+{
+"pid": 386,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 386,
+"parish_name": null,
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 387,
+"parish_name": null,
+"start_year": null,
+"end_year": 1889,
+"county_name": "Skaraborgs län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 387,
+"parish_name": null,
+"start_year": null,
+"end_year": 1889,
+"county_name": "Älvsborgs län",
+"partial": true,
+"notes": "del (Nyckelås, Högen, Knaggebo, Lidan, Nybygget och Torpet/Spjuthuset)"
+},
+{
+"pid": 387,
+"parish_name": null,
+"start_year": 1890,
+"end_year": null,
+"county_name": "Skaraborgs län",
+"partial": true,
+"notes": "1890 överfört delen i Älvsborgs län till Skaraborgs län, samt Haghemmet från Kölingared i Älvsborgs län till Bjurbäck i Skaraborgs län"
+},
+{
+"pid": 387,
+"parish_name": null,
+"start_year": 1890,
+"end_year": null,
+"county_name": "Skaraborgs län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 388,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 388,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 390,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 390,
+"parish_name": null,
+"start_year": 1779,
+"end_year": 1951,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 390,
+"parish_name": null,
+"start_year": 1952,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 396,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 396,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 402,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 402,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 404,
+"parish_name": "Bo",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 404,
+"parish_name": "Bo",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 404,
+"parish_name": "Bo",
+"start_year": null,
+"end_year": 1867,
+"county_name": "Östergötlands län",
+"partial": true,
+"notes": "del (Kängstorp)"
+},
+{
+"pid": 404,
+"parish_name": "Bo",
+"start_year": 1868,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": true,
+"notes": "1868- även Kängstorp i Örebro län"
+},
+{
+"pid": 404,
+"parish_name": "Bo",
+"start_year": 1877,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": true,
+"notes": "1877-05-01 överfört Regna (eller Svennevads) skate från Bo i Örebro län till Regna utan länsändring (Regna annars i Östergötlands län)"
+},
+{
+"pid": 405,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 405,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 412,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 412,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 413,
+"parish_name": "Bodum",
+"start_year": 1885,
+"end_year": null,
+"county_name": "Västernorrlands län",
+"partial": true,
+"notes": "1885 överfört Tannsjö från Doroteas del i Västernorrlands län till Bodum i samma län"
+},
+{
+"pid": 413,
+"parish_name": "Bodum",
+"start_year": null,
+"end_year": 1973,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 413,
+"parish_name": "Bodum",
+"start_year": 1974,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 426,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 426,
+"parish_name": null,
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 427,
+"parish_name": "Bolmsö",
+"start_year": null,
+"end_year": 1970,
+"county_name": "Jönköpings län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 427,
+"parish_name": "Bolmsö",
+"start_year": 1971,
+"end_year": null,
+"county_name": "Jönköpings län",
+"partial": true,
+"notes": "1971-01-01 överfört Toftnäsdelen till Torskinge i Jönköpings län"
+},
+{
+"pid": 427,
+"parish_name": "Bolmsö",
+"start_year": 1971,
+"end_year": 1973,
+"county_name": "Kronobergs län",
+"partial": false,
+"notes": "huvuddelen; 1971-1973 delad mellan Kronobergs och Jönköpings län"
+},
+{
+"pid": 427,
+"parish_name": "Bolmsö",
+"start_year": 1971,
+"end_year": 1973,
+"county_name": "Jönköpings län",
+"partial": true,
+"notes": "en mindre del (Bolmsölandet) kvarstående som församlingsdel i Jönköpings län"
+},
+{
+"pid": 427,
+"parish_name": "Bolmsö",
+"start_year": 1974,
+"end_year": null,
+"county_name": "Jönköpings län",
+"partial": true,
+"notes": "1974-01-01 överfört Bolmsölandet till Ås i Jönköpings län"
+},
+{
+"pid": 427,
+"parish_name": "Bolmsö",
+"start_year": 1974,
+"end_year": null,
+"county_name": "Kronobergs län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 453,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 453,
+"parish_name": null,
+"start_year": 1810,
+"end_year": 1879,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 453,
+"parish_name": null,
+"start_year": 1810,
+"end_year": 1879,
+"county_name": "Västernorrlands län",
+"partial": true,
+"notes": "del (Björkvattnet)"
+},
+{
+"pid": 453,
+"parish_name": null,
+"start_year": 1880,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": true,
+"notes": "1880-01-01 överfört Björkvattnet till Jämtlands län"
+},
+{
+"pid": 453,
+"parish_name": null,
+"start_year": 1880,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 453,
+"parish_name": null,
+"start_year": 1883,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": true,
+"notes": "1883-01-01 överfört Björkhöjden från Ramsele i Västernorrlands län till Borgvattnet i Jämtlands län"
+},
+{
+"pid": 454,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 454,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 464,
+"parish_name": null,
+"start_year": 1883,
+"end_year": null,
+"county_name": "Skaraborgs län",
+"partial": true,
+"notes": "1883 överfört Döve från Älvsborgs län till Skaraborgs län"
+},
+{
+"pid": 464,
+"parish_name": null,
+"start_year": null,
+"end_year": 1886,
+"county_name": "Skaraborgs län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 464,
+"parish_name": null,
+"start_year": null,
+"end_year": 1886,
+"county_name": "Älvsborgs län",
+"partial": true,
+"notes": "mindre del (Kringlarp)"
+},
+{
+"pid": 464,
+"parish_name": null,
+"start_year": 1887,
+"end_year": null,
+"county_name": "Skaraborgs län",
+"partial": true,
+"notes": "1887 överfört Kringlarp till Skaraborgs län"
+},
+{
+"pid": 464,
+"parish_name": null,
+"start_year": 1887,
+"end_year": null,
+"county_name": "Skaraborgs län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 465,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 465,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 473,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 473,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 477,
+"parish_name": null,
+"start_year": 1890,
+"end_year": null,
+"county_name": "Jönköpings län",
+"partial": true,
+"notes": "1890 införlivat Habo sockendel av Falla i Jönköpings län (Habo huvudsakligen i Skaraborgs län)"
+},
+{
+"pid": 477,
+"parish_name": null,
+"start_year": null,
+"end_year": 1894,
+"county_name": "Jönköpings län",
+"partial": false,
+"notes": "huvuddelen; delad mellan Jönköpings, Älvsborgs och Skaraborgs län"
+},
+{
+"pid": 477,
+"parish_name": null,
+"start_year": null,
+"end_year": 1894,
+"county_name": "Älvsborgs län",
+"partial": true,
+"notes": "del (Axö, Boda, Båsthult, Fagerås, Hulan, Humlered, Hägnen, Högelyckan, Ingeshult, Lerbacken, Lökna, Lönåsen, Måleskog, Romhult, Svansö och Ubbared)"
+},
+{
+"pid": 477,
+"parish_name": null,
+"start_year": null,
+"end_year": 1894,
+"county_name": "Skaraborgs län",
+"partial": true,
+"notes": "del (Bönared, Gaståsen, Grytered, Kramered, Kättekulla, Mohemmet, Oset och Tolabo)"
+},
+{
+"pid": 477,
+"parish_name": null,
+"start_year": 1895,
+"end_year": null,
+"county_name": "Jönköpings län",
+"partial": true,
+"notes": "1895 överfört delen i Älvsborgs län jämte Mohemmet, Oset och Tolabo till Jönköpings län"
+},
+{
+"pid": 477,
+"parish_name": null,
+"start_year": 1895,
+"end_year": null,
+"county_name": "Skaraborgs län",
+"partial": true,
+"notes": "1895 överfört återstoden av Skaraborgsdelen till Bjurbäcks församling"
+},
+{
+"pid": 477,
+"parish_name": null,
+"start_year": 1895,
+"end_year": null,
+"county_name": "Jönköpings län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 479,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 479,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 493,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 493,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 495,
+"parish_name": null,
+"start_year": null,
+"end_year": 1879,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 495,
+"parish_name": null,
+"start_year": null,
+"end_year": 1879,
+"county_name": "Västmanlands län",
+"partial": true,
+"notes": "del (Bredskvarn)"
+},
+{
+"pid": 495,
+"parish_name": null,
+"start_year": 1880,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": true,
+"notes": "1880-01-01 överfört Bredskvarn till Uppsala län"
+},
+{
+"pid": 495,
+"parish_name": null,
+"start_year": 1880,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 507,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 507,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 510,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 510,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 519,
+"parish_name": "Broddarp",
+"start_year": null,
+"end_year": 1889,
+"county_name": "Älvsborgs län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 519,
+"parish_name": "Broddarp",
+"start_year": null,
+"end_year": 1889,
+"county_name": "Skaraborgs län",
+"partial": true,
+"notes": "mindre del"
+},
+{
+"pid": 519,
+"parish_name": "Broddarp",
+"start_year": 1890,
+"end_year": null,
+"county_name": "Älvsborgs län",
+"partial": true,
+"notes": "1890 överfört delen i Skaraborgs län jämte del av Jäla i samma län till Älvsborgs län (och Broddarps församling)"
+},
+{
+"pid": 519,
+"parish_name": "Broddarp",
+"start_year": 1890,
+"end_year": null,
+"county_name": "Älvsborgs län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 529,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 529,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 535,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 535,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 581,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 581,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 583,
+"parish_name": null,
+"start_year": null,
+"end_year": 1886,
+"county_name": "Kalmar län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 583,
+"parish_name": null,
+"start_year": null,
+"end_year": 1886,
+"county_name": "Östergötlands län",
+"partial": true,
+"notes": "mindre del (Fagerdal och Örshult)"
+},
+{
+"pid": 583,
+"parish_name": null,
+"start_year": 1887,
+"end_year": null,
+"county_name": "Kalmar län",
+"partial": true,
+"notes": "1887 överfört Fagerdal och Örshult till Kalmar län"
+},
+{
+"pid": 583,
+"parish_name": null,
+"start_year": 1887,
+"end_year": null,
+"county_name": "Kalmar län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 614,
+"parish_name": null,
+"start_year": null,
+"end_year": null,
+"county_name": "Östergötlands län",
+"partial": true,
+"notes": "före 1874 överfört Ödemåla/Sandbäckshults utjord/Prästens mosse från Djursdala i Kalmar län till Horn i Östergötlands län (år okänt, före 1874)"
+},
+{
+"pid": 622,
+"parish_name": "Dorotea",
+"start_year": null,
+"end_year": 1846,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 622,
+"parish_name": "Dorotea",
+"start_year": null,
+"end_year": 1846,
+"county_name": "Västernorrlands län",
+"partial": true,
+"notes": "del (Norrby)"
+},
+{
+"pid": 622,
+"parish_name": "Dorotea",
+"start_year": 1846,
+"end_year": null,
+"county_name": "Västernorrlands län",
+"partial": true,
+"notes": "1846-01-21 överfört Norrby till Tåsjö i Västernorrlands län"
+},
+{
+"pid": 622,
+"parish_name": "Dorotea",
+"start_year": 1846,
+"end_year": 1863,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 622,
+"parish_name": "Dorotea",
+"start_year": 1864,
+"end_year": null,
+"county_name": "Västernorrlands län",
+"partial": true,
+"notes": "1864-01-01 överfört Tannsjö och Bellvik till Västernorrlands län"
+},
+{
+"pid": 622,
+"parish_name": "Dorotea",
+"start_year": 1864,
+"end_year": 1884,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 622,
+"parish_name": "Dorotea",
+"start_year": 1864,
+"end_year": 1884,
+"county_name": "Västernorrlands län",
+"partial": true,
+"notes": "delar (Tannsjö och Bellvik)"
+},
+{
+"pid": 622,
+"parish_name": "Dorotea",
+"start_year": 1885,
+"end_year": null,
+"county_name": "Västernorrlands län",
+"partial": true,
+"notes": "1885 överfört Tannsjö till Bodum i Västernorrlands län"
+},
+{
+"pid": 622,
+"parish_name": "Dorotea",
+"start_year": 1885,
+"end_year": 1890,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 622,
+"parish_name": "Dorotea",
+"start_year": 1885,
+"end_year": 1890,
+"county_name": "Västernorrlands län",
+"partial": true,
+"notes": "del (Bellvik)"
+},
+{
+"pid": 622,
+"parish_name": "Dorotea",
+"start_year": 1891,
+"end_year": null,
+"county_name": "Västerbottens län",
+"partial": true,
+"notes": "1891 återfört Bellvik till Västerbottens län"
+},
+{
+"pid": 622,
+"parish_name": "Dorotea",
+"start_year": 1891,
+"end_year": null,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 633,
+"parish_name": "Dylta bruk",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 633,
+"parish_name": "Dylta bruk",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 636,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 636,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 640,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 640,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 648,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 648,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 672,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 672,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 673,
+"parish_name": null,
+"start_year": null,
+"end_year": 1824,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 673,
+"parish_name": null,
+"start_year": null,
+"end_year": 1824,
+"county_name": "Stockholms län",
+"partial": true,
+"notes": "del (Fornbro, Gillinge, Stensunda och Tånga)"
+},
+{
+"pid": 673,
+"parish_name": null,
+"start_year": 1825,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": true,
+"notes": "1825 överfört delen i Stockholms län till Uppsala län"
+},
+{
+"pid": 673,
+"parish_name": null,
+"start_year": 1825,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 679,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 679,
+"parish_name": null,
+"start_year": 1779,
+"end_year": 1953,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 680,
+"parish_name": null,
+"start_year": null,
+"end_year": 1786,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 680,
+"parish_name": null,
+"start_year": 1786,
+"end_year": 1810,
+"county_name": "Svartsjö län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 680,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 696,
+"parish_name": null,
+"start_year": 1947,
+"end_year": null,
+"county_name": "Kalmar län",
+"partial": true,
+"notes": "1947-01-01 överfört delar av Krysseboda och Rasslebygd från Algutsboda i Kronobergs län till Emmaboda i Kalmar län"
+},
+{
+"pid": 696,
+"parish_name": null,
+"start_year": 1954,
+"end_year": null,
+"county_name": "Kalmar län",
+"partial": true,
+"notes": "1954-01-01 överfört delar av Krysseboda och Rasslebygd jämte del av Grimmansmåla från Algutsboda i Kronobergs län till Emmaboda i Kalmar län"
+},
+{
+"pid": 700,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 700,
+"parish_name": null,
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 709,
+"parish_name": "Enhörna",
+"start_year": null,
+"end_year": 1966,
+"county_name": "Södermanlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 709,
+"parish_name": "Enhörna",
+"start_year": 1967,
+"end_year": null,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 724,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 724,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 727,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 727,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 773,
+"parish_name": null,
+"start_year": null,
+"end_year": 1786,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 773,
+"parish_name": null,
+"start_year": 1786,
+"end_year": 1810,
+"county_name": "Svartsjö län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 773,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 774,
+"parish_name": null,
+"start_year": null,
+"end_year": 1973,
+"county_name": "Jönköpings län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 774,
+"parish_name": null,
+"start_year": 1974,
+"end_year": null,
+"county_name": "Hallands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 777,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 777,
+"parish_name": null,
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 778,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 778,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 781,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 781,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 793,
+"parish_name": "Fellingsbro",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 793,
+"parish_name": "Fellingsbro",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Västmanlands län",
+"partial": true,
+"notes": "del (Fellingsbro Västmanlandsfjärding)"
+},
+{
+"pid": 793,
+"parish_name": "Fellingsbro",
+"start_year": 1779,
+"end_year": 1890,
+"county_name": "Örebro län",
+"partial": false,
+"notes": "och delvis Västmanlands län"
+},
+{
+"pid": 793,
+"parish_name": "Fellingsbro",
+"start_year": 1779,
+"end_year": 1890,
+"county_name": "Västmanlands län",
+"partial": true,
+"notes": "delvis (Västmanlandsfjärdingen)"
+},
+{
+"pid": 793,
+"parish_name": "Fellingsbro",
+"start_year": 1890,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": true,
+"notes": "1890-02-21 enligt KBr Västmanlandsfjärdingen överförd till Örebro län"
+},
+{
+"pid": 793,
+"parish_name": "Fellingsbro",
+"start_year": 1890,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 795,
+"parish_name": null,
+"start_year": null,
+"end_year": 1888,
+"county_name": "Jönköpings län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 795,
+"parish_name": null,
+"start_year": null,
+"end_year": 1888,
+"county_name": "Kronobergs län",
+"partial": true,
+"notes": "del (Sännö skate)"
+},
+{
+"pid": 795,
+"parish_name": null,
+"start_year": 1888,
+"end_year": null,
+"county_name": "Jönköpings län",
+"partial": true,
+"notes": "1888 överfört Sännö skate till Jönköpings län"
+},
+{
+"pid": 795,
+"parish_name": null,
+"start_year": 1888,
+"end_year": 1973,
+"county_name": "Jönköpings län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 795,
+"parish_name": null,
+"start_year": 1974,
+"end_year": null,
+"county_name": "Hallands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 799,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 799,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 806,
+"parish_name": null,
+"start_year": null,
+"end_year": 1966,
+"county_name": "Skaraborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 806,
+"parish_name": null,
+"start_year": 1967,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 817,
+"parish_name": "Fivlered",
+"start_year": null,
+"end_year": 1973,
+"county_name": "Älvsborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 817,
+"parish_name": "Fivlered",
+"start_year": 1974,
+"end_year": null,
+"county_name": "Skaraborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 821,
+"parish_name": "Fjällsjö",
+"start_year": 1891,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": true,
+"notes": "1891 överfört Trångåsen från Fjällsjö i Västernorrlands län till Ström i Jämtlands län"
+},
+{
+"pid": 821,
+"parish_name": "Fjällsjö",
+"start_year": null,
+"end_year": 1973,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 821,
+"parish_name": "Fjällsjö",
+"start_year": 1974,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 851,
+"parish_name": "Fogdö",
+"start_year": null,
+"end_year": 1890,
+"county_name": "Västmanlands län",
+"partial": true,
+"notes": "(Lilla) Hallingön har haft oklar ställning och räknats som en församlingens länsdel i Västmanlands län"
+},
+{
+"pid": 851,
+"parish_name": "Fogdö",
+"start_year": 1890,
+"end_year": null,
+"county_name": "Västmanlands län",
+"partial": true,
+"notes": "1890-02-07 beslut att överföra Hallingön från Fogdö i Södermanlands län till Ängsö i Västmanlands län"
+},
+{
+"pid": 859,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": "före 1810-05-07"
+},
+{
+"pid": 859,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 868,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 868,
+"parish_name": null,
+"start_year": 1810,
+"end_year": 1887,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 868,
+"parish_name": null,
+"start_year": 1888,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 870,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 870,
+"parish_name": null,
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 879,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 879,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 898,
+"parish_name": "Fredrika",
+"start_year": null,
+"end_year": 1868,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 898,
+"parish_name": "Fredrika",
+"start_year": null,
+"end_year": 1868,
+"county_name": "Västernorrlands län",
+"partial": true,
+"notes": "del i Västernorrlands län"
+},
+{
+"pid": 898,
+"parish_name": "Fredrika",
+"start_year": 1868,
+"end_year": null,
+"county_name": "Västernorrlands län",
+"partial": true,
+"notes": "1868-11-28 överfört Svartsjö, Holmsjön, Stavberg och Trehörningsjö från delen i Västernorrlands län till Anundsjö samt Aspsele, Krokvattnet, Remmaren och Stavarsjön till Björna i samma län"
+},
+{
+"pid": 898,
+"parish_name": "Fredrika",
+"start_year": 1868,
+"end_year": null,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 929,
+"parish_name": "Frösö",
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 929,
+"parish_name": "Frösö",
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 930,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Västmanlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 930,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 931,
+"parish_name": "Frostviken",
+"start_year": 1864,
+"end_year": null,
+"county_name": "Västernorrlands län",
+"partial": true,
+"notes": "1864 överfört Granön och Rotnäset från Frostviken i Jämtlands län till Tåsjö i Västernorrlands län"
+},
+{
+"pid": 940,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 940,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 941,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 941,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 958,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 958,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 960,
+"parish_name": "Gällivare",
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 960,
+"parish_name": "Gällivare",
+"start_year": 1810,
+"end_year": null,
+"county_name": "Norrbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 987,
+"parish_name": "Gärdserum",
+"start_year": null,
+"end_year": 1970,
+"county_name": "Kalmar län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 987,
+"parish_name": "Gärdserum",
+"start_year": 1971,
+"end_year": null,
+"county_name": "Östergötlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 999,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 999,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 999,
+"parish_name": null,
+"start_year": 1940,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": true,
+"notes": "1940-01-01 utbyte av mindre områden mellan Gåsborn i Värmlands län och Hällefors i Örebro län"
+},
+{
+"pid": 1004,
+"parish_name": "Gävle Heliga Trefaldighet",
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1004,
+"parish_name": "Gävle Heliga Trefaldighet",
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1038,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1038,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1039,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1039,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1040,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Kristianstads län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1040,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Malmöhus län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1047,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1047,
+"parish_name": null,
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1049,
+"parish_name": null,
+"start_year": 1954,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": true,
+"notes": "1954-01-01 överfört område (Zinkgruvan) från Godegård i Östergötlands län till Hammar i Örebro län"
+},
+{
+"pid": 1049,
+"parish_name": null,
+"start_year": 1985,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": true,
+"notes": "1985-01-01 överfört område (Kristineberg) från Godegård i Östergötlands län till Hammar i Örebro län"
+},
+{
+"pid": 1094,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1094,
+"parish_name": null,
+"start_year": 1779,
+"end_year": 1973,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1094,
+"parish_name": null,
+"start_year": 1974,
+"end_year": null,
+"county_name": "Västmanlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1100,
+"parish_name": "Grangärde",
+"start_year": 1938,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": true,
+"notes": "1938-01-01 överfört smärre områden från Grangärde i Kopparbergs län till Ljusnarsberg i Örebro län"
+},
+{
+"pid": 1102,
+"parish_name": "Grängesberg",
+"start_year": 1950,
+"end_year": null,
+"county_name": "Kopparbergs län",
+"partial": true,
+"notes": "1950-01-01 överfört område från Ljusnarsberg i Örebro län till Grängesberg i Kopparbergs län"
+},
+{
+"pid": 1105,
+"parish_name": null,
+"start_year": null,
+"end_year": 1887,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 1105,
+"parish_name": null,
+"start_year": null,
+"end_year": 1887,
+"county_name": "Jämtlands län",
+"partial": true,
+"notes": "del (Häbbersjön och Malmsjön)"
+},
+{
+"pid": 1105,
+"parish_name": null,
+"start_year": 1888,
+"end_year": null,
+"county_name": "Västernorrlands län",
+"partial": true,
+"notes": "1888 överfört Häbbersjön och Malmsjön till Västernorrlands län"
+},
+{
+"pid": 1105,
+"parish_name": null,
+"start_year": 1888,
+"end_year": null,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 1110,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1110,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1111,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1111,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1113,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1113,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1114,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1114,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1121,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Älvsborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1121,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Hallands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1134,
+"parish_name": null,
+"start_year": null,
+"end_year": 1852,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 1134,
+"parish_name": null,
+"start_year": 1853,
+"end_year": null,
+"county_name": "Västerbottens län",
+"partial": true,
+"notes": "1853 (beslut 1810-05-21) överfört Ava, Rönnholm och Öresund till Västerbottens län"
+},
+{
+"pid": 1134,
+"parish_name": null,
+"start_year": 1853,
+"end_year": 1862,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 1134,
+"parish_name": null,
+"start_year": 1853,
+"end_year": 1862,
+"county_name": "Västerbottens län",
+"partial": true,
+"notes": "del (Ava, Rönnholm och Öresund)"
+},
+{
+"pid": 1134,
+"parish_name": null,
+"start_year": 1863,
+"end_year": null,
+"county_name": "Västerbottens län",
+"partial": true,
+"notes": "1863 (beslut 1853-12-20) överfört delen i Västerbottens län till Nordmaling"
+},
+{
+"pid": 1134,
+"parish_name": null,
+"start_year": 1863,
+"end_year": null,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 1155,
+"parish_name": null,
+"start_year": null,
+"end_year": 1889,
+"county_name": "Hallands län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 1155,
+"parish_name": null,
+"start_year": null,
+"end_year": 1889,
+"county_name": "Älvsborgs län",
+"partial": true,
+"notes": "del (Ekängen och Hult)"
+},
+{
+"pid": 1155,
+"parish_name": null,
+"start_year": 1890,
+"end_year": null,
+"county_name": "Hallands län",
+"partial": true,
+"notes": "1890 överfört Ekängen och Hult till Hallands län"
+},
+{
+"pid": 1155,
+"parish_name": null,
+"start_year": 1890,
+"end_year": null,
+"county_name": "Hallands län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 1157,
+"parish_name": "Gunnarsjö",
+"start_year": null,
+"end_year": 1970,
+"county_name": "Älvsborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1157,
+"parish_name": "Gunnarsjö",
+"start_year": 1971,
+"end_year": null,
+"county_name": "Hallands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1158,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1158,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1170,
+"parish_name": "Gustav Adolf",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1170,
+"parish_name": "Gustav Adolf",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1180,
+"parish_name": null,
+"start_year": null,
+"end_year": 1889,
+"county_name": "Skaraborgs län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 1180,
+"parish_name": null,
+"start_year": null,
+"end_year": 1889,
+"county_name": "Jönköpings län",
+"partial": true,
+"notes": "del (Aplaskifte, Drottningstorp, Fexhult, Gigared, Karshult, Röshult, Älgafall och Lilla-Falla)"
+},
+{
+"pid": 1180,
+"parish_name": null,
+"start_year": 1890,
+"end_year": null,
+"county_name": "Skaraborgs län",
+"partial": true,
+"notes": "1890 överfört delen i Jönköpings län utom Lilla-Falla till Skaraborgs län"
+},
+{
+"pid": 1180,
+"parish_name": null,
+"start_year": 1890,
+"end_year": null,
+"county_name": "Jönköpings län",
+"partial": true,
+"notes": "1890 överfört Lilla-Falla till Bottnaryd i Jönköpings län (dit återstoden av Falla hörde)"
+},
+{
+"pid": 1180,
+"parish_name": null,
+"start_year": 1890,
+"end_year": null,
+"county_name": "Skaraborgs län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 1182,
+"parish_name": "Håbo-Tibble",
+"start_year": null,
+"end_year": 1970,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1182,
+"parish_name": "Håbo-Tibble",
+"start_year": 1971,
+"end_year": null,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1184,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1184,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1187,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1187,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1202,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1202,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1205,
+"parish_name": null,
+"start_year": null,
+"end_year": 1887,
+"county_name": "Kristianstads län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 1205,
+"parish_name": null,
+"start_year": null,
+"end_year": 1887,
+"county_name": "Malmöhus län",
+"partial": true,
+"notes": "del (Vessmanstorp)"
+},
+{
+"pid": 1205,
+"parish_name": null,
+"start_year": 1888,
+"end_year": null,
+"county_name": "Kristianstads län",
+"partial": true,
+"notes": "1888 överfört Vessmanstorp till Kristianstads län"
+},
+{
+"pid": 1205,
+"parish_name": null,
+"start_year": 1888,
+"end_year": null,
+"county_name": "Kristianstads län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 1224,
+"parish_name": null,
+"start_year": null,
+"end_year": 1968,
+"county_name": "Kronobergs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1224,
+"parish_name": null,
+"start_year": 1969,
+"end_year": null,
+"county_name": "Kalmar län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1225,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1225,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1225,
+"parish_name": null,
+"start_year": 1940,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": true,
+"notes": "1940 del från Värmlands län till Örebro län och tvärtom"
+},
+{
+"pid": 1226,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1226,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1227,
+"parish_name": "Hällesjö",
+"start_year": 1930,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": true,
+"notes": "1930-11-28 gränsreglering mellan Torp i Västernorrlands län och Hällesjö i Jämtlands län"
+},
+{
+"pid": 1229,
+"parish_name": null,
+"start_year": null,
+"end_year": 1951,
+"county_name": "Älvsborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1229,
+"parish_name": null,
+"start_year": 1952,
+"end_year": null,
+"county_name": "Skaraborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1235,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1235,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1251,
+"parish_name": "Hälsingtuna",
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1251,
+"parish_name": "Hälsingtuna",
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1255,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1255,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1255,
+"parish_name": null,
+"start_year": 1937,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": true,
+"notes": "1937-01-01 införlivat Stora Rökneö, som dittills utgjort Örebro läns del av Västra Ny församling"
+},
+{
+"pid": 1255,
+"parish_name": null,
+"start_year": 1954,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": true,
+"notes": "1954-01-01 införlivat Zinkgruveområdet från Godegård i Östergötlands län"
+},
+{
+"pid": 1255,
+"parish_name": null,
+"start_year": 1985,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": true,
+"notes": "1985-01-01 införlivat Kristinebergsområdet från Godegård i Östergötlands län"
+},
+{
+"pid": 1260,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1260,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1263,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1263,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1267,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1267,
+"parish_name": null,
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1269,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1269,
+"parish_name": null,
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1277,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Kalmar län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1277,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Östergötlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1286,
+"parish_name": null,
+"start_year": null,
+"end_year": 1922,
+"county_name": "Västmanlands län",
+"partial": false,
+"notes": "huvuddelen; Harbo -1922 delad mellan Västmanlands och Uppsala län (texten anger även -1827 huvuddelen)"
+},
+{
+"pid": 1286,
+"parish_name": null,
+"start_year": null,
+"end_year": 1922,
+"county_name": "Uppsala län",
+"partial": true,
+"notes": "del (Vissbo, Hocksbo [texten: flocksbo] och Nolmyra), Harbo sockendel i Uppsala län"
+},
+{
+"pid": 1286,
+"parish_name": null,
+"start_year": 1827,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": true,
+"notes": "1827-12-12 överfört Näverbo från Björklinge i Uppsala län till Harbo utan länsändring"
+},
+{
+"pid": 1286,
+"parish_name": null,
+"start_year": 1895,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": true,
+"notes": "1895 överfört Gråmyren, Hocksbo, Nolmyra och Näverbo från Harbo och Uppsala län till Björklinge i samma län"
+},
+{
+"pid": 1286,
+"parish_name": null,
+"start_year": 1923,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": true,
+"notes": "1923-01-01 överfört Vissbo till Bälinge (texten: Blålinge) i Uppsala län"
+},
+{
+"pid": 1286,
+"parish_name": null,
+"start_year": 1923,
+"end_year": null,
+"county_name": "Västmanlands län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 1292,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1292,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1303,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1303,
+"parish_name": null,
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1305,
+"parish_name": null,
+"start_year": null,
+"end_year": 1887,
+"county_name": "Västmanlands län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 1305,
+"parish_name": null,
+"start_year": null,
+"end_year": 1887,
+"county_name": "Uppsala län",
+"partial": true,
+"notes": "del (Ås)"
+},
+{
+"pid": 1305,
+"parish_name": null,
+"start_year": 1888,
+"end_year": null,
+"county_name": "Västmanlands län",
+"partial": true,
+"notes": "1888 överfört Ås till Västmanlands län"
+},
+{
+"pid": 1305,
+"parish_name": null,
+"start_year": 1888,
+"end_year": 1970,
+"county_name": "Västmanlands län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 1305,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1312,
+"parish_name": "Härryda",
+"start_year": 1952,
+"end_year": null,
+"county_name": "Älvsborgs län",
+"partial": true,
+"notes": "1952-01-01 överfört drygt 8 kvadratkilometer från Härryda i Göteborgs och Bohus län till Björketorp i Älvsborgs län"
+},
+{
+"pid": 1315,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1315,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1317,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1317,
+"parish_name": null,
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1333,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1333,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1337,
+"parish_name": "Haverö",
+"start_year": 1891,
+"end_year": null,
+"county_name": "Västernorrlands län",
+"partial": true,
+"notes": "1891 överfört Turingen, Hede, Kroknäs och Lönstensjön från Rätan i Jämtlands län till Haverö i Västernorrlands län"
+},
+{
+"pid": 1344,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1344,
+"parish_name": null,
+"start_year": 1762,
+"end_year": 1810,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1344,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1351,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1351,
+"parish_name": null,
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1351,
+"parish_name": null,
+"start_year": 1825,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": true,
+"notes": "1825-09-29 överfört Jörtsön (med Söderfors kyrkplats) till Söderfors, dock utan länsändring, fastän huvuddelen av Söderfors i Uppsala län"
+},
+{
+"pid": 1351,
+"parish_name": null,
+"start_year": 1936,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": true,
+"notes": "1936-01-01 införlivat Sidländet från Söderfors sockendel i Gävleborgs län"
+},
+{
+"pid": 1351,
+"parish_name": null,
+"start_year": 1958,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": true,
+"notes": "1958 del till Uppsala län"
+},
+{
+"pid": 1395,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1395,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1396,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1396,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Norrbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1398,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1398,
+"parish_name": null,
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1399,
+"parish_name": null,
+"start_year": null,
+"end_year": 1786,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1399,
+"parish_name": null,
+"start_year": 1786,
+"end_year": 1810,
+"county_name": "Svartsjö län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1399,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1402,
+"parish_name": null,
+"start_year": null,
+"end_year": 1948,
+"county_name": "Hallands län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 1402,
+"parish_name": null,
+"start_year": null,
+"end_year": 1948,
+"county_name": "Kristianstads län",
+"partial": true,
+"notes": "mindre del (Långalt, Boalt och Smedhult)"
+},
+{
+"pid": 1402,
+"parish_name": null,
+"start_year": 1949,
+"end_year": null,
+"county_name": "Kristianstads län",
+"partial": true,
+"notes": "1949-01-01 Långalt med Smedhult överfört till Skånes-Fagerhult i Kristianstads län och Boalt till Örkelljunga i samma län"
+},
+{
+"pid": 1402,
+"parish_name": null,
+"start_year": 1949,
+"end_year": null,
+"county_name": "Hallands län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 1403,
+"parish_name": "Hjälmseryd",
+"start_year": null,
+"end_year": 1924,
+"county_name": "Jönköpings län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 1403,
+"parish_name": "Hjälmseryd",
+"start_year": null,
+"end_year": 1924,
+"county_name": "Kronobergs län",
+"partial": true,
+"notes": "del av Ljungsåsa"
+},
+{
+"pid": 1403,
+"parish_name": "Hjälmseryd",
+"start_year": 1924,
+"end_year": null,
+"county_name": "Jönköpings län",
+"partial": true,
+"notes": "1924-08-08 överfört delen i Kronobergs län till Jönköpings län"
+},
+{
+"pid": 1403,
+"parish_name": "Hjälmseryd",
+"start_year": 1924,
+"end_year": null,
+"county_name": "Jönköpings län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 1403,
+"parish_name": "Hjälmseryd",
+"start_year": 1928,
+"end_year": null,
+"county_name": "Jönköpings län",
+"partial": true,
+"notes": "1928-01-20 gränsreglering mellan Hjälmseryd i Jönköpings län och Aneboda och Slätthög i Kronobergs län"
+},
+{
+"pid": 1403,
+"parish_name": "Hjälmseryd",
+"start_year": 1947,
+"end_year": null,
+"county_name": "Kronobergs län",
+"partial": true,
+"notes": "1947-01-01 överfört Ljungsåsa och Boo jämte hela Jönköpings läns del av Lammhults stationssamhälle från Hjälmseryd i Jönköpings län till Aneboda i Kronobergs län"
+},
+{
+"pid": 1413,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Göteborgs och Bohus län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1413,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Älvsborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1430,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1430,
+"parish_name": null,
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1439,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1439,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1453,
+"parish_name": null,
+"start_year": null,
+"end_year": 1889,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": "större delen"
+},
+{
+"pid": 1453,
+"parish_name": null,
+"start_year": null,
+"end_year": 1889,
+"county_name": "Uppsala län",
+"partial": true,
+"notes": "del (Sandby åtting)"
+},
+{
+"pid": 1453,
+"parish_name": null,
+"start_year": 1889,
+"end_year": null,
+"county_name": "Stockholms län",
+"partial": true,
+"notes": "1889-05-24 (beslut) överfört Sandby åtting till Stockholms län"
+},
+{
+"pid": 1453,
+"parish_name": null,
+"start_year": 1890,
+"end_year": 1970,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 1453,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1463,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1463,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1468,
+"parish_name": "Hölö",
+"start_year": null,
+"end_year": 1970,
+"county_name": "Södermanlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1468,
+"parish_name": "Hölö",
+"start_year": 1971,
+"end_year": null,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1482,
+"parish_name": "Horn",
+"start_year": null,
+"end_year": null,
+"county_name": "Östergötlands län",
+"partial": true,
+"notes": "före 1874 överfört Ödemåla/Sandbäckshults utjord/Prästens mosse från Djursdala i Kalmar län till Horn i Östergötlands län (år okänt, före 1874)"
+},
+{
+"pid": 1494,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Kristianstads län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1494,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Malmöhus län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1510,
+"parish_name": "Hovsta",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1510,
+"parish_name": "Hovsta",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1516,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1516,
+"parish_name": null,
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1517,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1517,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1552,
+"parish_name": "Husby-Långhundra",
+"start_year": null,
+"end_year": 1970,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1552,
+"parish_name": "Husby-Långhundra",
+"start_year": 1971,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1561,
+"parish_name": null,
+"start_year": 1982,
+"end_year": null,
+"county_name": "Kalmar län",
+"partial": true,
+"notes": "genom beslut 1982-12-16 överfört Stuverum 1:1 i Tallsebo by samt Vårdslunda 2:8 från Hycklinge i Östergötlands län till Odensvi i Kalmar län"
+},
+{
+"pid": 1569,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1569,
+"parish_name": null,
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1570,
+"parish_name": "Idre",
+"start_year": 1942,
+"end_year": null,
+"county_name": "Kopparbergs län",
+"partial": true,
+"notes": "1942-01-01 överfört Kopparbergs läns del av samtidigt upplösta Tännäs lappförsamling till Idre i samma län"
+},
+{
+"pid": 1570,
+"parish_name": "Idre",
+"start_year": 1957,
+"end_year": null,
+"county_name": "Kopparbergs län",
+"partial": true,
+"notes": "1957-01-01 överfört Storfjäten från Lillhärdal i Jämtlands län till Idre i Kopparbergs län"
+},
+{
+"pid": 1589,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Kristianstads län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1589,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Malmöhus län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1607,
+"parish_name": null,
+"start_year": null,
+"end_year": 1973,
+"county_name": "Jönköpings län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1607,
+"parish_name": null,
+"start_year": 1974,
+"end_year": null,
+"county_name": "Hallands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1614,
+"parish_name": null,
+"start_year": 1885,
+"end_year": null,
+"county_name": "Jönköpings län",
+"partial": true,
+"notes": "1885-12-04 (beslut) överfört Lavekulla från Järeda i Kalmar län till Karlstorp i Jönköpings län"
+},
+{
+"pid": 1614,
+"parish_name": null,
+"start_year": 1956,
+"end_year": null,
+"county_name": "Jönköpings län",
+"partial": true,
+"notes": "1956 åter del till Jönköpings län"
+},
+{
+"pid": 1618,
+"parish_name": null,
+"start_year": null,
+"end_year": 1892,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 1618,
+"parish_name": null,
+"start_year": null,
+"end_year": 1892,
+"county_name": "Västmanlands län",
+"partial": true,
+"notes": "del (Blåviken)"
+},
+{
+"pid": 1618,
+"parish_name": null,
+"start_year": 1893,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": true,
+"notes": "1893 överfört Blåviken till Uppsala län"
+},
+{
+"pid": 1618,
+"parish_name": null,
+"start_year": 1893,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 1630,
+"parish_name": "Järfsö",
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1630,
+"parish_name": "Järfsö",
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1633,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1633,
+"parish_name": null,
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1645,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1645,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Norrbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1665,
+"parish_name": "Jukkasjärvi",
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1665,
+"parish_name": "Jukkasjärvi",
+"start_year": 1810,
+"end_year": null,
+"county_name": "Norrbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1671,
+"parish_name": null,
+"start_year": null,
+"end_year": 1854,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 1671,
+"parish_name": null,
+"start_year": 1854,
+"end_year": null,
+"county_name": "Västerbottens län",
+"partial": true,
+"notes": "1854-04-20 överfört Gulsele från Åsele i Västerbottens län till Junsele utan länsändring"
+},
+{
+"pid": 1671,
+"parish_name": null,
+"start_year": 1855,
+"end_year": 1858,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 1671,
+"parish_name": null,
+"start_year": 1855,
+"end_year": 1858,
+"county_name": "Västerbottens län",
+"partial": true,
+"notes": "del (Gulsele)"
+},
+{
+"pid": 1671,
+"parish_name": null,
+"start_year": 1858,
+"end_year": null,
+"county_name": "Västernorrlands län",
+"partial": true,
+"notes": "1858-02-18 överfört Gulsele till Västernorrlands län"
+},
+{
+"pid": 1671,
+"parish_name": null,
+"start_year": 1858,
+"end_year": null,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 1679,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1679,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1724,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1724,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1728,
+"parish_name": "Karl Gustav",
+"start_year": null,
+"end_year": 1970,
+"county_name": "Älvsborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1728,
+"parish_name": "Karl Gustav",
+"start_year": 1971,
+"end_year": null,
+"county_name": "Hallands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1729,
+"parish_name": "Karl Gustav",
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1729,
+"parish_name": "Karl Gustav",
+"start_year": 1810,
+"end_year": null,
+"county_name": "Norrbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1736,
+"parish_name": "Karlskoga",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1736,
+"parish_name": "Karlskoga",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1748,
+"parish_name": "Karlstads domkyrkoförsamling",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1748,
+"parish_name": "Karlstads domkyrkoförsamling",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1749,
+"parish_name": "Karlstads landsförsamling",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1749,
+"parish_name": "Karlstads landsförsamling",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1752,
+"parish_name": null,
+"start_year": null,
+"end_year": 1886,
+"county_name": "Jönköpings län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 1752,
+"parish_name": null,
+"start_year": null,
+"end_year": 1886,
+"county_name": "Kalmar län",
+"partial": true,
+"notes": "del (Karlstorps skate)"
+},
+{
+"pid": 1752,
+"parish_name": null,
+"start_year": 1887,
+"end_year": null,
+"county_name": "Jönköpings län",
+"partial": true,
+"notes": "1887 överfört Karlstorps skate till Jönköpings län"
+},
+{
+"pid": 1752,
+"parish_name": null,
+"start_year": 1887,
+"end_year": null,
+"county_name": "Jönköpings län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 1781,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1781,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Norrbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1786,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1786,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1788,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1788,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1826,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1826,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1831,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1831,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1832,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1832,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1833,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1833,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1835,
+"parish_name": "Köla",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1835,
+"parish_name": "Köla",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1838,
+"parish_name": "Kölingared",
+"start_year": 1888,
+"end_year": null,
+"county_name": "Skaraborgs län",
+"partial": true,
+"notes": "1888-11-02 överfört Haghemmet från Kölingared i Älvsborgs län till Bjurbäck i Skaraborgs län"
+},
+{
+"pid": 1838,
+"parish_name": "Kölingared",
+"start_year": null,
+"end_year": 1931,
+"county_name": "Älvsborgs län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 1838,
+"parish_name": "Kölingared",
+"start_year": null,
+"end_year": 1931,
+"county_name": "Skaraborgs län",
+"partial": true,
+"notes": "del (Österbo rote)"
+},
+{
+"pid": 1838,
+"parish_name": "Kölingared",
+"start_year": 1932,
+"end_year": null,
+"county_name": "Älvsborgs län",
+"partial": true,
+"notes": "1932-01-01 överfört Österbo rote till Älvsborgs län"
+},
+{
+"pid": 1838,
+"parish_name": "Kölingared",
+"start_year": 1932,
+"end_year": null,
+"county_name": "Älvsborgs län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 1843,
+"parish_name": null,
+"start_year": null,
+"end_year": null,
+"county_name": "Malmöhus län",
+"partial": false,
+"notes": "förr huvuddelen, nu helt (Klåveröd nu med församlingen i övrigt i Malmöhus län)"
+},
+{
+"pid": 1843,
+"parish_name": null,
+"start_year": null,
+"end_year": null,
+"county_name": "Kristianstads län",
+"partial": true,
+"notes": "förr del (Klåveröd); år för överföringen till Malmöhus län ej angivet"
+},
+{
+"pid": 1886,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1886,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1918,
+"parish_name": "Kungsängen",
+"start_year": null,
+"end_year": 1970,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1918,
+"parish_name": "Kungsängen",
+"start_year": 1971,
+"end_year": null,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1920,
+"parish_name": "Kungsäter",
+"start_year": null,
+"end_year": 1970,
+"county_name": "Älvsborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1920,
+"parish_name": "Kungsäter",
+"start_year": 1971,
+"end_year": null,
+"county_name": "Hallands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1932,
+"parish_name": "Kvarsebo",
+"start_year": 1860,
+"end_year": null,
+"county_name": "Södermanlands län",
+"partial": true,
+"notes": "1860-12-11 överfört Ingevallshytta från Kvarsebo i Östergötlands län till Tunaberg i Södermanlands län"
+},
+{
+"pid": 1932,
+"parish_name": "Kvarsebo",
+"start_year": 1887,
+"end_year": null,
+"county_name": "Södermanlands län",
+"partial": true,
+"notes": "1887-12-22 överfört Häradstorp från Kvarsebo i Östergötlands län till Tunaberg i Södermanlands län"
+},
+{
+"pid": 1938,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1938,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Norrbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1944,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1944,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1949,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1949,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1965,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1965,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1983,
+"parish_name": null,
+"start_year": null,
+"end_year": 1973,
+"county_name": "Jönköpings län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1983,
+"parish_name": null,
+"start_year": 1974,
+"end_year": null,
+"county_name": "Hallands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1984,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Kronobergs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1984,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Kalmar län",
+"partial": false,
+"notes": "1971 överfört från Kronobergs till Kalmar län"
+},
+{
+"pid": 1985,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 1985,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2001,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2001,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": "texten: Orebro län"
+},
+{
+"pid": 2014,
+"parish_name": "Låssa",
+"start_year": null,
+"end_year": 1970,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2014,
+"parish_name": "Låssa",
+"start_year": 1971,
+"end_year": null,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2044,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2044,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2075,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2075,
+"parish_name": null,
+"start_year": 1762,
+"end_year": 1810,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2075,
+"parish_name": null,
+"start_year": 1810,
+"end_year": 1869,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 2075,
+"parish_name": null,
+"start_year": 1870,
+"end_year": 1917,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 2075,
+"parish_name": null,
+"start_year": 1870,
+"end_year": 1917,
+"county_name": "Kopparbergs län",
+"partial": true,
+"notes": "del (Ulvsjö)"
+},
+{
+"pid": 2075,
+"parish_name": null,
+"start_year": 1917,
+"end_year": null,
+"county_name": "Kopparbergs län",
+"partial": true,
+"notes": "1917-05-01 överfört Ulvsjö till Mora i Kopparbergs län"
+},
+{
+"pid": 2075,
+"parish_name": null,
+"start_year": 1917,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 2075,
+"parish_name": null,
+"start_year": 1936,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": true,
+"notes": "1936-11-06 överfört ett litet område från Hamra kronopark i Hamra och Gävleborgs län till Orrmo i Lillhärdal och Jämtlands län"
+},
+{
+"pid": 2075,
+"parish_name": null,
+"start_year": 1957,
+"end_year": null,
+"county_name": "Kopparbergs län",
+"partial": true,
+"notes": "1957-01-01 överfört Storfjäten från Lillhärdal i Jämtlands län till Idre i Kopparbergs län"
+},
+{
+"pid": 2079,
+"parish_name": "Lillkyrka-Ödeby",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2079,
+"parish_name": "Lillkyrka-Ödeby",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2087,
+"parish_name": "Linde",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2087,
+"parish_name": "Linde",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2093,
+"parish_name": "Lindesberg",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2093,
+"parish_name": "Lindesberg",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2096,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Hallands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2096,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Göteborgs och Bohus län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2107,
+"parish_name": "Linsell",
+"start_year": null,
+"end_year": 1810,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2107,
+"parish_name": "Linsell",
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2110,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2110,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2142,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2142,
+"parish_name": null,
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2144,
+"parish_name": "Ljusnarsberg",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2144,
+"parish_name": "Ljusnarsberg",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2144,
+"parish_name": "Ljusnarsberg",
+"start_year": 1938,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": true,
+"notes": "1938-01-01 överfört smärre områden från Grangärde i Kopparbergs län till Ljusnarsberg i Örebro län"
+},
+{
+"pid": 2144,
+"parish_name": "Ljusnarsberg",
+"start_year": 1941,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": true,
+"notes": "1941-01-01 överfört ett mycket litet område från Norrbärke i Kopparbergs län till Ljusnarsberg i Örebro län"
+},
+{
+"pid": 2144,
+"parish_name": "Ljusnarsberg",
+"start_year": 1941,
+"end_year": null,
+"county_name": "Kopparbergs län",
+"partial": true,
+"notes": "1941-01-01 överfört ett annat, ej fullt så litet område från Ljusnarsberg i Örebro län till Norrbärke i Kopparbergs län"
+},
+{
+"pid": 2144,
+"parish_name": "Ljusnarsberg",
+"start_year": 1950,
+"end_year": null,
+"county_name": "Kopparbergs län",
+"partial": true,
+"notes": "1950-01-01 överfört område från Ljusnarsberg i Örebro län till Grängesberg i Kopparbergs län"
+},
+{
+"pid": 2147,
+"parish_name": "Ljusnedal",
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2147,
+"parish_name": "Ljusnedal",
+"start_year": 1762,
+"end_year": 1810,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2147,
+"parish_name": "Ljusnedal",
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2153,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2153,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2156,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Kristianstads län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2156,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Malmöhus län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2169,
+"parish_name": null,
+"start_year": null,
+"end_year": 1885,
+"county_name": "Kalmar län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 2169,
+"parish_name": null,
+"start_year": null,
+"end_year": 1885,
+"county_name": "Jönköpings län",
+"partial": true,
+"notes": "del (Lönneberga skate)"
+},
+{
+"pid": 2169,
+"parish_name": null,
+"start_year": 1886,
+"end_year": null,
+"county_name": "Kalmar län",
+"partial": true,
+"notes": "1886 överfört Lönneberga skate till Kalmar län"
+},
+{
+"pid": 2169,
+"parish_name": null,
+"start_year": 1886,
+"end_year": null,
+"county_name": "Kalmar län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 2172,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2172,
+"parish_name": null,
+"start_year": 1762,
+"end_year": 1846,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 2172,
+"parish_name": null,
+"start_year": 1846,
+"end_year": null,
+"county_name": "Kopparbergs län",
+"partial": true,
+"notes": "1846-11-01 överfört Hamra från Orsa i Kopparbergs län till Los utan länsändring"
+},
+{
+"pid": 2172,
+"parish_name": null,
+"start_year": 1846,
+"end_year": 1863,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 2172,
+"parish_name": null,
+"start_year": 1846,
+"end_year": 1863,
+"county_name": "Kopparbergs län",
+"partial": true,
+"notes": "del (Hamra kapellag); även införlivat Fågelsjö (Svegs del i Kopparbergs län)"
+},
+{
+"pid": 2172,
+"parish_name": null,
+"start_year": 1864,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": true,
+"notes": "1864 överfört Hamra kapellag till Gävleborgs län"
+},
+{
+"pid": 2172,
+"parish_name": null,
+"start_year": 1864,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 2172,
+"parish_name": null,
+"start_year": 1865,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": true,
+"notes": "1865-02-17 överfört Risberget från Los i Gävleborgs län till Ytterhogdal i Jämtlands län"
+},
+{
+"pid": 2172,
+"parish_name": null,
+"start_year": 1865,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": true,
+"notes": "1865-02-17 överfört Riberget från Ytterhogdal till Los och Gävleborgs län"
+},
+{
+"pid": 2182,
+"parish_name": null,
+"start_year": null,
+"end_year": 1786,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2182,
+"parish_name": null,
+"start_year": 1786,
+"end_year": 1810,
+"county_name": "Svartsjö län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2182,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2190,
+"parish_name": "Luleå domkyrkoförsamling",
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2190,
+"parish_name": "Luleå domkyrkoförsamling",
+"start_year": 1810,
+"end_year": null,
+"county_name": "Norrbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2207,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2207,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2223,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2223,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2234,
+"parish_name": null,
+"start_year": null,
+"end_year": 1868,
+"county_name": "Norrbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2234,
+"parish_name": null,
+"start_year": 1869,
+"end_year": null,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2267,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2267,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2276,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2276,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2289,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2289,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2311,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2311,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2331,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2331,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2345,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2345,
+"parish_name": null,
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2365,
+"parish_name": null,
+"start_year": 1917,
+"end_year": null,
+"county_name": "Kopparbergs län",
+"partial": true,
+"notes": "1917-05-01 införlivat Ulvsjö, som tidigare utgjort Lillhärdals del i Kopparbergs län"
+},
+{
+"pid": 2370,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Södermanlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2370,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2375,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2375,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2380,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2380,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2392,
+"parish_name": null,
+"start_year": null,
+"end_year": 1786,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2392,
+"parish_name": null,
+"start_year": 1786,
+"end_year": 1810,
+"county_name": "Svartsjö län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2392,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2402,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2402,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2415,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2415,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2420,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2420,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2426,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2426,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2440,
+"parish_name": "Nederkalix",
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2440,
+"parish_name": "Nederkalix",
+"start_year": 1810,
+"end_year": null,
+"county_name": "Norrbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2441,
+"parish_name": "Nederluleå",
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2441,
+"parish_name": "Nederluleå",
+"start_year": 1810,
+"end_year": null,
+"county_name": "Norrbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2443,
+"parish_name": "Nedertorneå-Haparanda",
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2443,
+"parish_name": "Nedertorneå-Haparanda",
+"start_year": 1810,
+"end_year": null,
+"county_name": "Norrbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2446,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2446,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2468,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2468,
+"parish_name": null,
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2475,
+"parish_name": null,
+"start_year": null,
+"end_year": 1888,
+"county_name": "Älvsborgs län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 2475,
+"parish_name": null,
+"start_year": null,
+"end_year": 1888,
+"county_name": "Göteborgs och Bohus län",
+"partial": true,
+"notes": "del (Skårdal mm)"
+},
+{
+"pid": 2475,
+"parish_name": null,
+"start_year": 1889,
+"end_year": null,
+"county_name": "Älvsborgs län",
+"partial": true,
+"notes": "1889 överfört delen i Göteborgs och Bohus län till Älvsborgs län"
+},
+{
+"pid": 2475,
+"parish_name": null,
+"start_year": 1889,
+"end_year": null,
+"county_name": "Älvsborgs län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 2478,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2478,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2482,
+"parish_name": "Nora",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2482,
+"parish_name": "Nora",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2485,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2485,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2486,
+"parish_name": null,
+"start_year": 1940,
+"end_year": null,
+"county_name": "Kopparbergs län",
+"partial": true,
+"notes": "1940-01-01 överfört Årnebodelen av Kottarstäkten från Norberg i Västmanlands län till Söderbärke i Kopparbergs län"
+},
+{
+"pid": 2488,
+"parish_name": "Norderö",
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2488,
+"parish_name": "Norderö",
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2490,
+"parish_name": "Nordmaling",
+"start_year": 1766,
+"end_year": null,
+"county_name": "Västernorrlands län",
+"partial": true,
+"notes": "1766 genom riksdagsbeslut fastställd gräns mellan Nordmaling i Västernorrlands län och Umeå landsförsamling i Västerbottens län"
+},
+{
+"pid": 2490,
+"parish_name": "Nordmaling",
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2490,
+"parish_name": "Nordmaling",
+"start_year": 1810,
+"end_year": null,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2490,
+"parish_name": "Nordmaling",
+"start_year": 1863,
+"end_year": null,
+"county_name": "Västerbottens län",
+"partial": true,
+"notes": "1863 (beslut 1853-12-20) överfört Grundsunda sockendel i Västerbottens län (Ava, Rönnholm och Öresund) till Nordmaling i samma län"
+},
+{
+"pid": 2492,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2492,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2497,
+"parish_name": "Norra Åsarp",
+"start_year": null,
+"end_year": 1890,
+"county_name": "Älvsborgs län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 2497,
+"parish_name": "Norra Åsarp",
+"start_year": null,
+"end_year": 1890,
+"county_name": "Skaraborgs län",
+"partial": true,
+"notes": "del (Hög)"
+},
+{
+"pid": 2497,
+"parish_name": "Norra Åsarp",
+"start_year": 1891,
+"end_year": null,
+"county_name": "Älvsborgs län",
+"partial": true,
+"notes": "1891 överfört Hög till Älvsborgs län"
+},
+{
+"pid": 2497,
+"parish_name": "Norra Åsarp",
+"start_year": 1891,
+"end_year": 1973,
+"county_name": "Älvsborgs län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 2497,
+"parish_name": "Norra Åsarp",
+"start_year": 1974,
+"end_year": null,
+"county_name": "Skaraborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2509,
+"parish_name": "Norra Hestra",
+"start_year": null,
+"end_year": 1886,
+"county_name": "Jönköpings län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 2509,
+"parish_name": "Norra Hestra",
+"start_year": null,
+"end_year": 1886,
+"county_name": "Älvsborgs län",
+"partial": true,
+"notes": "del (Bönabo)"
+},
+{
+"pid": 2509,
+"parish_name": "Norra Hestra",
+"start_year": 1887,
+"end_year": null,
+"county_name": "Jönköpings län",
+"partial": true,
+"notes": "1887 överfört Bönabo till Jönköpings län"
+},
+{
+"pid": 2509,
+"parish_name": "Norra Hestra",
+"start_year": 1887,
+"end_year": null,
+"county_name": "Jönköpings län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 2515,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2515,
+"parish_name": null,
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2522,
+"parish_name": "Norra Ny",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2522,
+"parish_name": "Norra Ny",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2523,
+"parish_name": "Norra Råda",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2523,
+"parish_name": "Norra Råda",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2524,
+"parish_name": null,
+"start_year": null,
+"end_year": null,
+"county_name": "Malmöhus län",
+"partial": false,
+"notes": "annars (och nu helt i) Malmöhus län"
+},
+{
+"pid": 2524,
+"parish_name": null,
+"start_year": null,
+"end_year": null,
+"county_name": "Kristianstads län",
+"partial": true,
+"notes": "Toftaröd, Hjellaröd, Hagstad, Skudderup och Stenestad har tillhört Kristianstads län; år ej angivet"
+},
+{
+"pid": 2536,
+"parish_name": "Norra Unnaryd",
+"start_year": null,
+"end_year": 1886,
+"county_name": "Jönköpings län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 2536,
+"parish_name": "Norra Unnaryd",
+"start_year": null,
+"end_year": 1886,
+"county_name": "Älvsborgs län",
+"partial": true,
+"notes": "del (Kindbogårdarna)"
+},
+{
+"pid": 2536,
+"parish_name": "Norra Unnaryd",
+"start_year": 1887,
+"end_year": null,
+"county_name": "Jönköpings län",
+"partial": true,
+"notes": "1887 överfört Kindbogårdarna till Jönköpings län"
+},
+{
+"pid": 2536,
+"parish_name": "Norra Unnaryd",
+"start_year": 1887,
+"end_year": null,
+"county_name": "Jönköpings län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 2540,
+"parish_name": null,
+"start_year": null,
+"end_year": 1889,
+"county_name": "Kristianstads län",
+"partial": false,
+"notes": "huvuddelen (enligt texten)"
+},
+{
+"pid": 2540,
+"parish_name": null,
+"start_year": null,
+"end_year": 1889,
+"county_name": "Malmöhus län",
+"partial": true,
+"notes": "del (Södra Vram)"
+},
+{
+"pid": 2540,
+"parish_name": null,
+"start_year": 1890,
+"end_year": null,
+"county_name": "Malmöhus län",
+"partial": true,
+"notes": "1890 överfört delen i Kristianstads län till Malmöhus län (texten oklar: huvuddelen angiven i Kristianstads län)"
+},
+{
+"pid": 2540,
+"parish_name": null,
+"start_year": 1890,
+"end_year": null,
+"county_name": "Malmöhus län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 2541,
+"parish_name": "Norrbärke",
+"start_year": 1941,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": true,
+"notes": "1941-01-01 överfört ett mycket litet område från Norrbärke i Kopparbergs län till Ljusnarsberg i Örebro län"
+},
+{
+"pid": 2541,
+"parish_name": "Norrbärke",
+"start_year": 1941,
+"end_year": null,
+"county_name": "Kopparbergs län",
+"partial": true,
+"notes": "1941-01-01 överfört ett annat, ej fullt så litet område från Ljusnarsberg och Örebro län till Norrbärke och Kopparbergs län"
+},
+{
+"pid": 2542,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2542,
+"parish_name": null,
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2544,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2544,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2562,
+"parish_name": "Norrlands trängkår",
+"start_year": 1893,
+"end_year": 1898,
+"county_name": "Stockholm",
+"partial": false,
+"notes": "texten: 18931898 Stockholm"
+},
+{
+"pid": 2562,
+"parish_name": "Norrlands trängkår",
+"start_year": 1898,
+"end_year": 1927,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2568,
+"parish_name": null,
+"start_year": null,
+"end_year": null,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": "huvuddelen; nu helt i samma län"
+},
+{
+"pid": 2568,
+"parish_name": null,
+"start_year": null,
+"end_year": 1860,
+"county_name": "Norrbottens län",
+"partial": true,
+"notes": "åtminstone till 1860 liten del i Norrbottens län"
+},
+{
+"pid": 2600,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2600,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2603,
+"parish_name": "Ny-Huggenäs",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2603,
+"parish_name": "Ny-Huggenäs",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2619,
+"parish_name": "Nylöse",
+"start_year": 1930,
+"end_year": null,
+"county_name": "Göteborgs och Bohus län",
+"partial": true,
+"notes": "1930-01-01 överfört område från Angered i Älvsborgs län till Göteborgs Gamlestad i Göteborgs och Bohus län"
+},
+{
+"pid": 2626,
+"parish_name": "Nysund",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2626,
+"parish_name": "Nysund",
+"start_year": 1779,
+"end_year": 1922,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": "västra delen (med kyrkan)"
+},
+{
+"pid": 2626,
+"parish_name": "Nysund",
+"start_year": 1779,
+"end_year": 1922,
+"county_name": "Örebro län",
+"partial": true,
+"notes": "östra delen"
+},
+{
+"pid": 2626,
+"parish_name": "Nysund",
+"start_year": 1835,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": true,
+"notes": "1835 införlivat Rudskogas del i Örebro län"
+},
+{
+"pid": 2626,
+"parish_name": "Nysund",
+"start_year": 1923,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": true,
+"notes": "1923-01-01 överfört delen i Värmlands län till Örebro län"
+},
+{
+"pid": 2626,
+"parish_name": "Nysund",
+"start_year": 1923,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 2627,
+"parish_name": "Ockelbo",
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2627,
+"parish_name": "Ockelbo",
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2632,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2632,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2640,
+"parish_name": "Odensvi",
+"start_year": 1982,
+"end_year": null,
+"county_name": "Kalmar län",
+"partial": true,
+"notes": "genom beslut 1982-12-16 överfört Stuverum 1:1 i Tallsebo by samt Vårdslunda 2:8 från Hycklinge i Östergötlands län till Odensvi i Kalmar län"
+},
+{
+"pid": 2646,
+"parish_name": "Offerdal",
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2646,
+"parish_name": "Offerdal",
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2655,
+"parish_name": null,
+"start_year": 1956,
+"end_year": null,
+"county_name": "Jönköpings län",
+"partial": true,
+"notes": "1956 del från Kalmar till Jönköpings län"
+},
+{
+"pid": 2664,
+"parish_name": "Ölme",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2664,
+"parish_name": "Ölme",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2676,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2676,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2697,
+"parish_name": null,
+"start_year": 1934,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": true,
+"notes": "1934-01-01 överfört del av Finsthögst från Ore i Kopparbergs län till Voxna i Gävleborgs län"
+},
+{
+"pid": 2699,
+"parish_name": "Örebro Nikolai",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2699,
+"parish_name": "Örebro Nikolai",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2703,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2703,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2708,
+"parish_name": "Örkelljunga",
+"start_year": 1949,
+"end_year": null,
+"county_name": "Kristianstads län",
+"partial": true,
+"notes": "1949-01-01 överfört Boalt från Hishults del i Kristianstads län till Örkelljunga i samma län"
+},
+{
+"pid": 2719,
+"parish_name": "Orsa",
+"start_year": 1846,
+"end_year": null,
+"county_name": "Kopparbergs län",
+"partial": true,
+"notes": "1846-11-01 överfört Hamra från Orsa i Kopparbergs län till Los utan länsändring (Los i övrigt Gävleborgs län)"
+},
+{
+"pid": 2754,
+"parish_name": "Österfärnebo",
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2754,
+"parish_name": "Österfärnebo",
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": "huvuddelen; nu helt i Gävleborgs län"
+},
+{
+"pid": 2754,
+"parish_name": "Österfärnebo",
+"start_year": null,
+"end_year": null,
+"county_name": "Kopparbergs län",
+"partial": true,
+"notes": "förr del (Grönsinka ångsåg) i Kopparbergs län; år ej angivet"
+},
+{
+"pid": 2765,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2765,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2768,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Västmanlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2768,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2769,
+"parish_name": "Östervåla",
+"start_year": null,
+"end_year": 1863,
+"county_name": "Västmanlands län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 2769,
+"parish_name": "Östervåla",
+"start_year": null,
+"end_year": 1863,
+"county_name": "Uppsala län",
+"partial": true,
+"notes": "del (Ingeborgsbo)"
+},
+{
+"pid": 2769,
+"parish_name": "Östervåla",
+"start_year": 1863,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": true,
+"notes": "1863-07-22 överfört Ingeborgsbo till Tierp i Uppsala län"
+},
+{
+"pid": 2769,
+"parish_name": "Östervåla",
+"start_year": 1863,
+"end_year": null,
+"county_name": "Västmanlands län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 2769,
+"parish_name": "Östervåla",
+"start_year": 1890,
+"end_year": null,
+"county_name": "Västmanlands län",
+"partial": true,
+"notes": "1890 återfört Ingeborgsbo till Östervåla, nu i Västmanlands län"
+},
+{
+"pid": 2770,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2770,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2771,
+"parish_name": "Östgöta trängkår",
+"start_year": 1902,
+"end_year": 1907,
+"county_name": "Malmöhus län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2771,
+"parish_name": "Östgöta trängkår",
+"start_year": 1907,
+"end_year": 1908,
+"county_name": "Jönköpings län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2772,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2772,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2773,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2773,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2775,
+"parish_name": "Östra Ämtervik",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2775,
+"parish_name": "Östra Ämtervik",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2781,
+"parish_name": null,
+"start_year": null,
+"end_year": null,
+"county_name": "Malmöhus län",
+"partial": false,
+"notes": "nu helt i Malmöhus län"
+},
+{
+"pid": 2781,
+"parish_name": null,
+"start_year": null,
+"end_year": 1850,
+"county_name": "Kristianstads län",
+"partial": true,
+"notes": "har möjligen, och i så fall till omkring 1850, varit delad på Kristianstads och Malmöhus län (osäkert)"
+},
+{
+"pid": 2782,
+"parish_name": "Östra Ed",
+"start_year": null,
+"end_year": 1970,
+"county_name": "Kalmar län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2782,
+"parish_name": "Östra Ed",
+"start_year": 1971,
+"end_year": null,
+"county_name": "Östergötlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2784,
+"parish_name": "Östra Fågelvik",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2784,
+"parish_name": "Östra Fågelvik",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2795,
+"parish_name": "Östra Karup",
+"start_year": null,
+"end_year": 1970,
+"county_name": "Hallands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2795,
+"parish_name": "Östra Karup",
+"start_year": 1971,
+"end_year": null,
+"county_name": "Kristianstads län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2817,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2817,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2827,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2827,
+"parish_name": null,
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2829,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2829,
+"parish_name": null,
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2833,
+"parish_name": "Överhogdal",
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2833,
+"parish_name": "Överhogdal",
+"start_year": 1762,
+"end_year": 1810,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2833,
+"parish_name": "Överhogdal",
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2836,
+"parish_name": "Överkalix",
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2836,
+"parish_name": "Överkalix",
+"start_year": 1810,
+"end_year": null,
+"county_name": "Norrbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2847,
+"parish_name": "Övertorneå",
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2847,
+"parish_name": "Övertorneå",
+"start_year": 1810,
+"end_year": null,
+"county_name": "Norrbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2850,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2850,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2851,
+"parish_name": "Övraby",
+"start_year": null,
+"end_year": 1890,
+"county_name": "Malmöhus län",
+"partial": true,
+"notes": "har haft en sockendel (del av Fårarp) i Malmöhus län; 1890 ändring"
+},
+{
+"pid": 2856,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2856,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2862,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2862,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Norrbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2895,
+"parish_name": "Piteå landsförsamling",
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2895,
+"parish_name": "Piteå landsförsamling",
+"start_year": 1810,
+"end_year": null,
+"county_name": "Norrbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2896,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2896,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Norrbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2919,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2919,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2925,
+"parish_name": "Rämmen",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2925,
+"parish_name": "Rämmen",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2925,
+"parish_name": "Rämmen",
+"start_year": 1805,
+"end_year": null,
+"county_name": "Kopparbergs län",
+"partial": true,
+"notes": "1805-07-18 överfört del av Äppelbo i Kopparbergs län till Rämmen utan länsändring"
+},
+{
+"pid": 2925,
+"parish_name": "Rämmen",
+"start_year": 1805,
+"end_year": 1878,
+"county_name": "Kopparbergs län",
+"partial": true,
+"notes": "del i Kopparbergs län; 1806-11-25 beslut att överföra delen i Kopparbergs län till Värmlands län, ej reglerat"
+},
+{
+"pid": 2925,
+"parish_name": "Rämmen",
+"start_year": 1815,
+"end_year": null,
+"county_name": "Kopparbergs län",
+"partial": true,
+"notes": "1815 överfört Höksjön och Skärfjällen från Äppelbo till Rämmen (län ej angivet, troligen utan länsändring)"
+},
+{
+"pid": 2925,
+"parish_name": "Rämmen",
+"start_year": 1878,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": true,
+"notes": "1878-12-20 överfört del i Kopparbergs län till Värmlands län (Fiskhushöjden, Hackarasberget, Karkasåsen, Knapptorpet, Liljendal, Lironfallet, Långmarken, Lönnhöjden, Milsjö, Pålshemman, Skärfjällsberget, Sparvtorpet, Spårtorpet, Svarttjärn, Söderskog, Tallåsen och Tuvbäcken)"
+},
+{
+"pid": 2925,
+"parish_name": "Rämmen",
+"start_year": 1878,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 2927,
+"parish_name": null,
+"start_year": null,
+"end_year": 1951,
+"county_name": "Malmöhus län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2927,
+"parish_name": null,
+"start_year": 1952,
+"end_year": null,
+"county_name": "Kristianstads län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2928,
+"parish_name": "Ramsberg",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2928,
+"parish_name": "Ramsberg",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2928,
+"parish_name": "Ramsberg",
+"start_year": null,
+"end_year": 1899,
+"county_name": "Västmanlands län",
+"partial": true,
+"notes": "delvis (Allmänningsbo, Glivsån, Gräsberget, Torskbäcken och Gäddtjärn)"
+},
+{
+"pid": 2928,
+"parish_name": "Ramsberg",
+"start_year": 1900,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": true,
+"notes": "1900 överfört delen i Västmanlands län utom Gäddtjärn till Örebro län"
+},
+{
+"pid": 2928,
+"parish_name": "Ramsberg",
+"start_year": 1900,
+"end_year": null,
+"county_name": "Västmanlands län",
+"partial": true,
+"notes": "1900 överfört Gäddtjärn till Skinnskatteberg i Västmanlands län"
+},
+{
+"pid": 2928,
+"parish_name": "Ramsberg",
+"start_year": 1900,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 2929,
+"parish_name": "Ramsele",
+"start_year": 1832,
+"end_year": null,
+"county_name": "Västernorrlands län",
+"partial": true,
+"notes": "genom beslut 1832-01-27 och 1839-10-25 utan länsändring överfört Stamsele och Täxan från Ramsele till Ström (vars huvuddel låg i Jämtlands län)"
+},
+{
+"pid": 2929,
+"parish_name": "Ramsele",
+"start_year": 1883,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": true,
+"notes": "1883-01-01 överfört Björkhöjden från Ramsele i Västernorrlands län till Borgvattnet i Jämtlands län"
+},
+{
+"pid": 2929,
+"parish_name": "Ramsele",
+"start_year": 1891,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": true,
+"notes": "1891 överfört Sporrsjönäs, Stamåsen, Storhöjden och en kronomark från Ramsele i Västernorrlands län till Ström i Jämtlands län"
+},
+{
+"pid": 2933,
+"parish_name": "Ramundeboda",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2933,
+"parish_name": "Ramundeboda",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2934,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2934,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Norrbottens län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2942,
+"parish_name": "Ransäter",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2942,
+"parish_name": "Ransäter",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2949,
+"parish_name": "Rätan",
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2949,
+"parish_name": "Rätan",
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2949,
+"parish_name": "Rätan",
+"start_year": 1891,
+"end_year": null,
+"county_name": "Västernorrlands län",
+"partial": true,
+"notes": "1891 överfört Turingen, Hede, Kroknäs och Lönstersjön från Rätan i Jämtlands län till Haverö i Västernorrlands län"
+},
+{
+"pid": 2957,
+"parish_name": "Regna",
+"start_year": null,
+"end_year": 1877,
+"county_name": "Östergötlands län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 2957,
+"parish_name": "Regna",
+"start_year": 1877,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": true,
+"notes": "1877-05-01 överfört Regna (eller Svennevads) skate från Bo i Örebro län till Regna utan länsändring"
+},
+{
+"pid": 2957,
+"parish_name": "Regna",
+"start_year": 1877,
+"end_year": 1877,
+"county_name": "Östergötlands län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 2957,
+"parish_name": "Regna",
+"start_year": 1877,
+"end_year": 1877,
+"county_name": "Örebro län",
+"partial": true,
+"notes": "del (Regna skate)"
+},
+{
+"pid": 2957,
+"parish_name": "Regna",
+"start_year": 1878,
+"end_year": null,
+"county_name": "Östergötlands län",
+"partial": true,
+"notes": "1878-01-01 överfört Regna skate till Östergötlands län"
+},
+{
+"pid": 2957,
+"parish_name": "Regna",
+"start_year": 1878,
+"end_year": null,
+"county_name": "Östergötlands län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 2962,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2962,
+"parish_name": null,
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2970,
+"parish_name": "Revsund",
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2970,
+"parish_name": "Revsund",
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2975,
+"parish_name": "Ringarum",
+"start_year": null,
+"end_year": null,
+"county_name": "Östergötlands län",
+"partial": false,
+"notes": "Ringarum annars Östergötlands län"
+},
+{
+"pid": 2975,
+"parish_name": "Ringarum",
+"start_year": 1914,
+"end_year": null,
+"county_name": "Östergötlands län",
+"partial": true,
+"notes": "1914-01-01 införlivat Grännäs från Tryserums församling Kalmar län (området nu i Valdemarsvik)"
+},
+{
+"pid": 2975,
+"parish_name": "Ringarum",
+"start_year": 1920,
+"end_year": null,
+"county_name": "Kalmar län",
+"partial": true,
+"notes": "enligt SCB 1920 hörde en del av Älgerum i Kalmar län till Ringarums församling (Älgerum i övrigt till Tryserum)"
+},
+{
+"pid": 2999,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 2999,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3004,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3004,
+"parish_name": null,
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3029,
+"parish_name": null,
+"start_year": null,
+"end_year": 1879,
+"county_name": "Malmöhus län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 3029,
+"parish_name": null,
+"start_year": null,
+"end_year": 1879,
+"county_name": "Kristianstads län",
+"partial": true,
+"notes": "del (Härsnäs, Kolema, Uggleröd och Nackarp)"
+},
+{
+"pid": 3029,
+"parish_name": null,
+"start_year": 1880,
+"end_year": null,
+"county_name": "Malmöhus län",
+"partial": true,
+"notes": "1880 överfört delen i Kristianstads län till Malmöhus län"
+},
+{
+"pid": 3029,
+"parish_name": null,
+"start_year": 1880,
+"end_year": null,
+"county_name": "Malmöhus län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 3033,
+"parish_name": "Rudskoga",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3033,
+"parish_name": "Rudskoga",
+"start_year": 1779,
+"end_year": 1834,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 3033,
+"parish_name": "Rudskoga",
+"start_year": 1779,
+"end_year": 1834,
+"county_name": "Örebro län",
+"partial": true,
+"notes": "del i Örebro län"
+},
+{
+"pid": 3033,
+"parish_name": "Rudskoga",
+"start_year": 1835,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": true,
+"notes": "1835 överfört delen i Örebro län till Nysund utan länsändring"
+},
+{
+"pid": 3033,
+"parish_name": "Rudskoga",
+"start_year": 1835,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 3034,
+"parish_name": "Rumskulla",
+"start_year": null,
+"end_year": 1890,
+"county_name": "Kalmar län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 3034,
+"parish_name": "Rumskulla",
+"start_year": null,
+"end_year": 1890,
+"county_name": "Östergötlands län",
+"partial": true,
+"notes": "del (Rumskulla skate); texten: Ostergötlands län"
+},
+{
+"pid": 3034,
+"parish_name": "Rumskulla",
+"start_year": 1891,
+"end_year": null,
+"county_name": "Kalmar län",
+"partial": true,
+"notes": "1891 överfört Rumskulla skate till Kalmar län"
+},
+{
+"pid": 3034,
+"parish_name": "Rumskulla",
+"start_year": 1891,
+"end_year": null,
+"county_name": "Kalmar län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 3065,
+"parish_name": "Säby",
+"start_year": 1862,
+"end_year": null,
+"county_name": "Jönköpings län",
+"partial": true,
+"notes": "1862-09-04 och 1865-07-14 överfört Bråmålen, Bärtilstugan, Jägersholm, Lärkemålen, Skärpan, Sävsjön, Boshem, Rödje, Lillfall och Ödebjörnarp från Säby till Trehörnas del i Jönköpings län (Trehörnas huvuddel i Östergötlands län)"
+},
+{
+"pid": 3102,
+"parish_name": "Sandviken",
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3102,
+"parish_name": "Sandviken",
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3103,
+"parish_name": null,
+"start_year": null,
+"end_year": 1786,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3103,
+"parish_name": null,
+"start_year": 1786,
+"end_year": 1810,
+"county_name": "Svartsjö län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3103,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3257,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3257,
+"parish_name": null,
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3279,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3279,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3280,
+"parish_name": null,
+"start_year": null,
+"end_year": null,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": "hörde på sin tid till Västerbottens län (år ej angivna)"
+},
+{
+"pid": 3280,
+"parish_name": null,
+"start_year": null,
+"end_year": null,
+"county_name": "Norrbottens län",
+"partial": false,
+"notes": "numera i Norrbottens län (år ej angivet)"
+},
+{
+"pid": 3282,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3282,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3282,
+"parish_name": null,
+"start_year": 1815,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": true,
+"notes": "1815 införlivat del av Dalboredden (Svanskogs sockendel i Älvsborgs län = före detta Ämmeskogs församling), vilken del samtidigt överfördes till Värmlands län"
+},
+{
+"pid": 3289,
+"parish_name": null,
+"start_year": 1942,
+"end_year": null,
+"county_name": "Södermanlands län",
+"partial": true,
+"notes": "1942-06-19 fastställdes gränsen, varvid delar av Porten och Västeråsen överfördes från Simonstorp i Östergötlands län till Stora Malm i Södermanlands län"
+},
+{
+"pid": 3292,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Västmanlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3292,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": "texten: 1-971"
+},
+{
+"pid": 3303,
+"parish_name": null,
+"start_year": null,
+"end_year": 1786,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3303,
+"parish_name": null,
+"start_year": 1786,
+"end_year": 1810,
+"county_name": "Svartsjö län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3303,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3308,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3308,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3319,
+"parish_name": "Skånes-Fagerhult",
+"start_year": 1949,
+"end_year": null,
+"county_name": "Kristianstads län",
+"partial": true,
+"notes": "1949-01-01 överfört Långalt från Hishults del i Kristianstads län till Fagerhult i samma län"
+},
+{
+"pid": 3323,
+"parish_name": "Skånska trängkåren",
+"start_year": 1894,
+"end_year": 1895,
+"county_name": "Skaraborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3323,
+"parish_name": "Skånska trängkåren",
+"start_year": 1895,
+"end_year": 1907,
+"county_name": "Malmöhus län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3323,
+"parish_name": "Skånska trängkåren",
+"start_year": 1907,
+"end_year": 1927,
+"county_name": "Kristianstads län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3379,
+"parish_name": "Skillingmark",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3379,
+"parish_name": "Skillingmark",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3381,
+"parish_name": "Skinnskatteberg",
+"start_year": 1900,
+"end_year": null,
+"county_name": "Västmanlands län",
+"partial": true,
+"notes": "1900 överfört Gäddtjärn från Ramsbergs del i Västmanlands län till Skinnskatteberg i samma län"
+},
+{
+"pid": 3387,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3387,
+"parish_name": null,
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3397,
+"parish_name": "Sköllersta",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3397,
+"parish_name": "Sköllersta",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3419,
+"parish_name": "Skutskär",
+"start_year": 1940,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": true,
+"notes": "1940-01-01 överfört delar av Fleräng från Valbo i Gävleborgs län till Skutskär i Uppsala län"
+},
+{
+"pid": 3429,
+"parish_name": "Slätthög",
+"start_year": 1928,
+"end_year": null,
+"county_name": "Kronobergs län",
+"partial": true,
+"notes": "1928-01-20 gränsreglering mellan Slätthög i Kronobergs län och Hjälmseryd i Jönköpings län"
+},
+{
+"pid": 3435,
+"parish_name": "Smålands artilleriregemente",
+"start_year": 1895,
+"end_year": 1898,
+"county_name": "Göteborgs och Bohus län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3435,
+"parish_name": "Smålands artilleriregemente",
+"start_year": 1898,
+"end_year": 1927,
+"county_name": "Jönköpings län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3440,
+"parish_name": null,
+"start_year": null,
+"end_year": 1890,
+"county_name": "Älvsborgs län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 3440,
+"parish_name": null,
+"start_year": null,
+"end_year": 1890,
+"county_name": "Skaraborgs län",
+"partial": true,
+"notes": "del (Bredene)"
+},
+{
+"pid": 3440,
+"parish_name": null,
+"start_year": 1891,
+"end_year": null,
+"county_name": "Älvsborgs län",
+"partial": true,
+"notes": "1891 överfört Bredene till Älvsborgs län"
+},
+{
+"pid": 3440,
+"parish_name": null,
+"start_year": 1891,
+"end_year": 1973,
+"county_name": "Älvsborgs län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 3440,
+"parish_name": null,
+"start_year": 1974,
+"end_year": null,
+"county_name": "Skaraborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3442,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3442,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3447,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3447,
+"parish_name": null,
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3448,
+"parish_name": "Söderbärke",
+"start_year": 1940,
+"end_year": null,
+"county_name": "Kopparbergs län",
+"partial": true,
+"notes": "1940-01-01 överfört Årnebodelen av Kottarstäkten från Norberg i Västmanlands län till Söderbärke i Kopparbergs län"
+},
+{
+"pid": 3448,
+"parish_name": "Söderbärke",
+"start_year": 1941,
+"end_year": null,
+"county_name": "Västmanlands län",
+"partial": true,
+"notes": "1941-01-01 överfört Ulvsbo från Söderbärke i Kopparbergs län till Västanfors i Västmanlands län"
+},
+{
+"pid": 3453,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3453,
+"parish_name": null,
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3480,
+"parish_name": "Södra Råda",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3480,
+"parish_name": "Södra Råda",
+"start_year": 1779,
+"end_year": 1970,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3480,
+"parish_name": "Södra Råda",
+"start_year": 1971,
+"end_year": null,
+"county_name": "Skaraborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3488,
+"parish_name": "Södra Unnaryd",
+"start_year": null,
+"end_year": 1973,
+"county_name": "Jönköpings län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3488,
+"parish_name": "Södra Unnaryd",
+"start_year": 1974,
+"end_year": null,
+"county_name": "Hallands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3502,
+"parish_name": null,
+"start_year": null,
+"end_year": 1973,
+"county_name": "Älvsborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3502,
+"parish_name": null,
+"start_year": 1974,
+"end_year": null,
+"county_name": "Skaraborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3511,
+"parish_name": null,
+"start_year": null,
+"end_year": null,
+"county_name": "Kristianstads län",
+"partial": true,
+"notes": "före 1880 överfört Ynde och Valjö från Blekinge län till Kristianstads län (år ej angivet)"
+},
+{
+"pid": 3511,
+"parish_name": null,
+"start_year": null,
+"end_year": 1889,
+"county_name": "Blekinge län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 3511,
+"parish_name": null,
+"start_year": null,
+"end_year": 1889,
+"county_name": "Kristianstads län",
+"partial": true,
+"notes": "del (Ynde och Valjö)"
+},
+{
+"pid": 3511,
+"parish_name": null,
+"start_year": 1890,
+"end_year": null,
+"county_name": "Blekinge län",
+"partial": true,
+"notes": "1890-01-01 återfört Ynde och Valjö till Blekinge län"
+},
+{
+"pid": 3511,
+"parish_name": null,
+"start_year": 1890,
+"end_year": 1950,
+"county_name": "Blekinge län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 3522,
+"parish_name": "Sorsele",
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 3522,
+"parish_name": "Sorsele",
+"start_year": 1810,
+"end_year": 1867,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 3522,
+"parish_name": "Sorsele",
+"start_year": 1810,
+"end_year": 1867,
+"county_name": "Norrbottens län",
+"partial": true,
+"notes": "liten del"
+},
+{
+"pid": 3522,
+"parish_name": "Sorsele",
+"start_year": 1868,
+"end_year": null,
+"county_name": "Västerbottens län",
+"partial": true,
+"notes": "1868 delen i Norrbottens län överförd till Västerbottens län"
+},
+{
+"pid": 3522,
+"parish_name": "Sorsele",
+"start_year": 1868,
+"end_year": null,
+"county_name": "Västerbottens län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 3556,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3556,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3566,
+"parish_name": null,
+"start_year": null,
+"end_year": 1951,
+"county_name": "Kristianstads län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3566,
+"parish_name": null,
+"start_year": 1952,
+"end_year": null,
+"county_name": "Malmöhus län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3609,
+"parish_name": "Stora Kil",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3609,
+"parish_name": "Stora Kil",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3610,
+"parish_name": "Stora Köpinge",
+"start_year": null,
+"end_year": 1880,
+"county_name": "Malmöhus län",
+"partial": false,
+"notes": "större delen (Stora Köpinge och Kabusa)"
+},
+{
+"pid": 3610,
+"parish_name": "Stora Köpinge",
+"start_year": null,
+"end_year": 1880,
+"county_name": "Kristianstads län",
+"partial": true,
+"notes": "mindre del (Lilla Köpinge, Svenstorp och del av Fårarp)"
+},
+{
+"pid": 3610,
+"parish_name": "Stora Köpinge",
+"start_year": 1880,
+"end_year": null,
+"county_name": "Malmöhus län",
+"partial": true,
+"notes": "1880 sockendelen i Kristianstads län överförd till Malmöhus län"
+},
+{
+"pid": 3610,
+"parish_name": "Stora Köpinge",
+"start_year": 1880,
+"end_year": null,
+"county_name": "Malmöhus län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 3614,
+"parish_name": "Stora Malm",
+"start_year": 1942,
+"end_year": null,
+"county_name": "Södermanlands län",
+"partial": true,
+"notes": "1942-06-19 fastställdes gränsen, varvid delar av Porten och Västeråsen överfördes från Simonstorp i Östergötlands län till Stora Malm i Södermanlands län"
+},
+{
+"pid": 3617,
+"parish_name": "Stora Mellösa",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3617,
+"parish_name": "Stora Mellösa",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3630,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3630,
+"parish_name": null,
+"start_year": 1762,
+"end_year": 1810,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3630,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3647,
+"parish_name": "Ström",
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3647,
+"parish_name": "Ström",
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3647,
+"parish_name": "Ström",
+"start_year": 1832,
+"end_year": null,
+"county_name": "Västernorrlands län",
+"partial": true,
+"notes": "genom beslut 1832-01-27 och 1839-10-25 utan länsändring överfört Stamsele och Täxan från Ramsele i Västernorrlands län till Ström"
+},
+{
+"pid": 3647,
+"parish_name": "Ström",
+"start_year": 1832,
+"end_year": 1890,
+"county_name": "Västernorrlands län",
+"partial": true,
+"notes": "delvis i Västernorrlands län (Stamsele och Täxan)"
+},
+{
+"pid": 3647,
+"parish_name": "Ström",
+"start_year": 1891,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": true,
+"notes": "1891 överfört Stamsele och Täxan till Jämtlands län, likaså Sporrsjönäs, Stamåsen, Storhöjden och en kronomark från Ramsele till Ström och Jämtlands län samt Trångåsen från Fjällsjö i Västernorrlands län till Ström i Jämtlands län"
+},
+{
+"pid": 3647,
+"parish_name": "Ström",
+"start_year": 1891,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 3650,
+"parish_name": null,
+"start_year": null,
+"end_year": 1880,
+"county_name": "Kristianstads län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 3650,
+"parish_name": null,
+"start_year": null,
+"end_year": 1880,
+"county_name": "Malmöhus län",
+"partial": true,
+"notes": "del (Bosarp, Hasslarp, Pankarp, Pilabo, Vemmentorp och Brohus)"
+},
+{
+"pid": 3650,
+"parish_name": null,
+"start_year": null,
+"end_year": null,
+"county_name": "Kristianstads län",
+"partial": true,
+"notes": "delen i Malmöhus län överförd till Kristianstads län (år ej angivet, mellan 1880 och 1889)"
+},
+{
+"pid": 3650,
+"parish_name": null,
+"start_year": 1889,
+"end_year": null,
+"county_name": "Kristianstads län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 3651,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3651,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3665,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3665,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3669,
+"parish_name": "Sunne",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3669,
+"parish_name": "Sunne",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3670,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3670,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3671,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3671,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3683,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 3683,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Älvsborgs län",
+"partial": true,
+"notes": "del (Dalboredden, förut Ämmeskogs församling)"
+},
+{
+"pid": 3683,
+"parish_name": null,
+"start_year": 1779,
+"end_year": 1890,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 3683,
+"parish_name": null,
+"start_year": 1779,
+"end_year": 1890,
+"county_name": "Älvsborgs län",
+"partial": true,
+"notes": "Dalboredden"
+},
+{
+"pid": 3683,
+"parish_name": null,
+"start_year": 1815,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": true,
+"notes": "1815 överfört del av Dalboredden till Sillerud och Värmlands län"
+},
+{
+"pid": 3683,
+"parish_name": null,
+"start_year": 1891,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": true,
+"notes": "1891 återstoden av Dalboredden till Värmlands län"
+},
+{
+"pid": 3683,
+"parish_name": null,
+"start_year": 1891,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 3698,
+"parish_name": "Svea trängkår",
+"start_year": 1885,
+"end_year": 1907,
+"county_name": "Stockholm",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3698,
+"parish_name": "Svea trängkår",
+"start_year": 1907,
+"end_year": 1927,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3701,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3701,
+"parish_name": null,
+"start_year": 1762,
+"end_year": 1810,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3701,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3701,
+"parish_name": null,
+"start_year": null,
+"end_year": null,
+"county_name": "Kopparbergs län",
+"partial": true,
+"notes": "har även haft en del (Fågelsjö) i Kopparbergs län, delen nu i Hamra och Gävleborgs län (år ej angivna)"
+},
+{
+"pid": 3707,
+"parish_name": "Svennevad",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3707,
+"parish_name": "Svennevad",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3710,
+"parish_name": null,
+"start_year": null,
+"end_year": null,
+"county_name": "Malmöhus län",
+"partial": false,
+"notes": "församlingen i övrigt (och numera helt) i Malmöhus län"
+},
+{
+"pid": 3710,
+"parish_name": null,
+"start_year": null,
+"end_year": null,
+"county_name": "Kristianstads län",
+"partial": true,
+"notes": "området Svensköps sockens torp har tillhört Kristianstads län (år ej angivna)"
+},
+{
+"pid": 3723,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3723,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3730,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3730,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3731,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Jönköpings län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3731,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Kronobergs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3732,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3732,
+"parish_name": null,
+"start_year": 1762,
+"end_year": 1810,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3732,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3733,
+"parish_name": "Tännäs lappförsamling",
+"start_year": null,
+"end_year": 1810,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3733,
+"parish_name": "Tännäs lappförsamling",
+"start_year": 1810,
+"end_year": 1941,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": "och delvis Kopparbergs län"
+},
+{
+"pid": 3733,
+"parish_name": "Tännäs lappförsamling",
+"start_year": 1810,
+"end_year": 1941,
+"county_name": "Kopparbergs län",
+"partial": true,
+"notes": "delvis Kopparbergs län"
+},
+{
+"pid": 3742,
+"parish_name": null,
+"start_year": 1846,
+"end_year": null,
+"county_name": "Västerbottens län",
+"partial": true,
+"notes": "1846-01-21 överfört Norrby från Dorotea till Tåsjö utan länsändring"
+},
+{
+"pid": 3742,
+"parish_name": null,
+"start_year": 1864,
+"end_year": null,
+"county_name": "Västernorrlands län",
+"partial": true,
+"notes": "1864 överfört delar av Jämtlands län (Granön och Rotnäset) samt Västerbottens län (Norrby) till Västernorrlands län"
+},
+{
+"pid": 3742,
+"parish_name": null,
+"start_year": 1864,
+"end_year": 1973,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 3742,
+"parish_name": null,
+"start_year": 1974,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3749,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Södermanlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3749,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3750,
+"parish_name": null,
+"start_year": 1950,
+"end_year": null,
+"county_name": "Västmanlands län",
+"partial": true,
+"notes": "1950-01-01 överfört Kurön från Teda i Uppsala län till Ängsö (texten: Angsö) i Västmanlands län"
+},
+{
+"pid": 3765,
+"parish_name": "Tierp",
+"start_year": 1863,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": true,
+"notes": "1863-07-22 överfört Ingeborgsbo (Östervålas del i Uppsala län) till Tierp"
+},
+{
+"pid": 3765,
+"parish_name": "Tierp",
+"start_year": 1890,
+"end_year": null,
+"county_name": "Västmanlands län",
+"partial": true,
+"notes": "1890 överfört Ingeborgsbo från Tierp i Uppsala län till Östervåla i Västmanlands län"
+},
+{
+"pid": 3780,
+"parish_name": null,
+"start_year": null,
+"end_year": 1966,
+"county_name": "Skaraborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3780,
+"parish_name": null,
+"start_year": 1967,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3789,
+"parish_name": null,
+"start_year": null,
+"end_year": 1968,
+"county_name": "Kristianstads län",
+"partial": false,
+"notes": "förr huvuddelen, efter överföring av delen i Malmöhus län helt"
+},
+{
+"pid": 3789,
+"parish_name": null,
+"start_year": null,
+"end_year": null,
+"county_name": "Malmöhus län",
+"partial": true,
+"notes": "förr del (Karlarp, Prästorp/Perstorp, Torup och Svenstorp) i Malmöhus län, överförd till Kristianstads län (år ej angivet)"
+},
+{
+"pid": 3789,
+"parish_name": null,
+"start_year": 1969,
+"end_year": null,
+"county_name": "Malmöhus län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3795,
+"parish_name": "Töcksmark",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3795,
+"parish_name": "Töcksmark",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3831,
+"parish_name": null,
+"start_year": 1930,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": true,
+"notes": "1930-11-28 gränsreglering mellan Torp i Västernorrlands län och Hällesjö i Jämtlands län"
+},
+{
+"pid": 3834,
+"parish_name": null,
+"start_year": null,
+"end_year": null,
+"county_name": "Södermanlands län",
+"partial": true,
+"notes": "en mindre del lär ha hört till Södermanlands län ännu på 1860-talet (osäkert)"
+},
+{
+"pid": 3834,
+"parish_name": null,
+"start_year": 1950,
+"end_year": null,
+"county_name": "Södermanlands län",
+"partial": true,
+"notes": "1950-01-01 överfört Broby från Torpa i Västmanlands län till Tumbo i Södermanlands län"
+},
+{
+"pid": 3841,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3841,
+"parish_name": null,
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3853,
+"parish_name": "Torskinge",
+"start_year": 1971,
+"end_year": null,
+"county_name": "Jönköpings län",
+"partial": true,
+"notes": "1971-01-01 överfört Toftnäsdelen från Bolmsö i Jönköpings län till Torskinge i samma län, varvid återstoden av Bolmsö delades mellan Kronobergs och Jönköpings län"
+},
+{
+"pid": 3858,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Västmanlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3858,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3878,
+"parish_name": null,
+"start_year": null,
+"end_year": 1890,
+"county_name": "Malmöhus län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3878,
+"parish_name": null,
+"start_year": 1891,
+"end_year": null,
+"county_name": "Kristianstads län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3884,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3884,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3897,
+"parish_name": "Trehörna",
+"start_year": null,
+"end_year": null,
+"county_name": "Östergötlands län",
+"partial": false,
+"notes": "huvuddelen sedan gammalt"
+},
+{
+"pid": 3897,
+"parish_name": "Trehörna",
+"start_year": null,
+"end_year": 1895,
+"county_name": "Jönköpings län",
+"partial": true,
+"notes": "mindre del (Stubben, Rönnestad m m)"
+},
+{
+"pid": 3897,
+"parish_name": "Trehörna",
+"start_year": 1862,
+"end_year": null,
+"county_name": "Jönköpings län",
+"partial": true,
+"notes": "1862-09-04 och 1865-07-14 delen i Jönköpings län utökad genom överföring från Säby församling (Bråmålen, Bärtilstugan, Jägersholm, Lärkemålen, Skärpan, Sävsjön, Boshem, Rödje, Lillfall och Ödebjörnarp)"
+},
+{
+"pid": 3897,
+"parish_name": "Trehörna",
+"start_year": 1895,
+"end_year": null,
+"county_name": "Östergötlands län",
+"partial": true,
+"notes": "1895 överfört det mesta av delen i Jönköpings län (Drottningstorp, Fliseryd, Flugebo, Haddemålen, Lorsändan, Skruvhult, Lillfall, Rödje, Svärdsfall, Ödebjörnarp m m) till Östergötlands län"
+},
+{
+"pid": 3897,
+"parish_name": "Trehörna",
+"start_year": 1895,
+"end_year": null,
+"county_name": "Jönköpings län",
+"partial": true,
+"notes": "1895 resten av länsdelen i Jönköpings län överförd till Säby församling"
+},
+{
+"pid": 3908,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3908,
+"parish_name": null,
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3912,
+"parish_name": null,
+"start_year": null,
+"end_year": 1890,
+"county_name": "Kristianstads län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 3912,
+"parish_name": null,
+"start_year": null,
+"end_year": 1890,
+"county_name": "Malmöhus län",
+"partial": true,
+"notes": "del (Everöd)"
+},
+{
+"pid": 3912,
+"parish_name": null,
+"start_year": 1891,
+"end_year": null,
+"county_name": "Kristianstads län",
+"partial": true,
+"notes": "1891 överfört Everöd från Malmöhus till Kristianstads län"
+},
+{
+"pid": 3912,
+"parish_name": null,
+"start_year": 1891,
+"end_year": null,
+"county_name": "Kristianstads län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 3913,
+"parish_name": "Tryserum",
+"start_year": 1914,
+"end_year": null,
+"county_name": "Östergötlands län",
+"partial": true,
+"notes": "1914-01-01 överfört Grännäs till Ringarums församling i Östergötlands län (nu i Valdemarsvik)"
+},
+{
+"pid": 3913,
+"parish_name": "Tryserum",
+"start_year": null,
+"end_year": 1970,
+"county_name": "Kalmar län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3913,
+"parish_name": "Tryserum",
+"start_year": 1971,
+"end_year": null,
+"county_name": "Östergötlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3918,
+"parish_name": "Tumbo",
+"start_year": 1950,
+"end_year": null,
+"county_name": "Södermanlands län",
+"partial": true,
+"notes": "1950-01-01 överfört Broby från Torpa i Västmanlands län till Tumbo i Södermanlands län"
+},
+{
+"pid": 3927,
+"parish_name": null,
+"start_year": 1860,
+"end_year": null,
+"county_name": "Södermanlands län",
+"partial": true,
+"notes": "1860-12-11 överfört Ingevallshytta från Kvarsebo i Östergötlands län till Tunaberg i Södermanlands län"
+},
+{
+"pid": 3927,
+"parish_name": null,
+"start_year": 1887,
+"end_year": null,
+"county_name": "Södermanlands län",
+"partial": true,
+"notes": "1887-12-12 överfört Häradstorp från Kvarsebo i Östergötlands län till Tunaberg i Södermanlands län"
+},
+{
+"pid": 3928,
+"parish_name": null,
+"start_year": 1860,
+"end_year": null,
+"county_name": "Södermanlands län",
+"partial": true,
+"notes": "1860-12-11 överfört Ingevallshytta från Kvarsebo i Östergötlands län till Tunaberg i Södermanlands län"
+},
+{
+"pid": 3928,
+"parish_name": null,
+"start_year": 1887,
+"end_year": null,
+"county_name": "Södermanlands län",
+"partial": true,
+"notes": "1887-12-12 överfört Häradstorp från Kvarsebo i Östergötlands län till Tunaberg i Södermanlands län"
+},
+{
+"pid": 3944,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3944,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3960,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3960,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3982,
+"parish_name": null,
+"start_year": 1766,
+"end_year": null,
+"county_name": "Västerbottens län",
+"partial": true,
+"notes": "1766 genom riksdagsbeslut fastställd gräns mellan Nordmaling i Västernorrlands län och Umeå landsförsamling i Västerbottens län"
+},
+{
+"pid": 3987,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3987,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": "tidvis viss del i Kopparbergs län"
+},
+{
+"pid": 3987,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Kopparbergs län",
+"partial": true,
+"notes": "tidvis viss del i Kopparbergs län (år ej angivna)"
+},
+{
+"pid": 3988,
+"parish_name": null,
+"start_year": null,
+"end_year": 1810,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3988,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3989,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3989,
+"parish_name": null,
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3997,
+"parish_name": "Upplands artilleriregemente",
+"start_year": 1894,
+"end_year": 1901,
+"county_name": "Stockholm",
+"partial": false,
+"notes": null
+},
+{
+"pid": 3997,
+"parish_name": "Upplands artilleriregemente",
+"start_year": 1901,
+"end_year": 1927,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4029,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4029,
+"parish_name": null,
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4029,
+"parish_name": null,
+"start_year": 1940,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": true,
+"notes": "1940-01-01 överfört delar av Fleräng från Valbo i Gävleborgs län till Skutskär i Uppsala län"
+},
+{
+"pid": 4030,
+"parish_name": "Valbo-Ryr",
+"start_year": null,
+"end_year": 1966,
+"county_name": "Älvsborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4030,
+"parish_name": "Valbo-Ryr",
+"start_year": 1967,
+"end_year": null,
+"county_name": "Göteborgs och Bohus län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4041,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Kristianstads län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4041,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Malmöhus län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4051,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4051,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4064,
+"parish_name": "Vänersnäs",
+"start_year": null,
+"end_year": 1951,
+"county_name": "Skaraborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4064,
+"parish_name": "Vänersnäs",
+"start_year": 1952,
+"end_year": null,
+"county_name": "Älvsborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4106,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4106,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4116,
+"parish_name": "Vartofta-Åsaka",
+"start_year": null,
+"end_year": 1889,
+"county_name": "Skaraborgs län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 4116,
+"parish_name": "Vartofta-Åsaka",
+"start_year": null,
+"end_year": 1889,
+"county_name": "Älvsborgs län",
+"partial": true,
+"notes": "del (Öja)"
+},
+{
+"pid": 4116,
+"parish_name": "Vartofta-Åsaka",
+"start_year": 1890,
+"end_year": null,
+"county_name": "Skaraborgs län",
+"partial": true,
+"notes": "1890 överfört Öja till Skaraborgs län"
+},
+{
+"pid": 4116,
+"parish_name": "Vartofta-Åsaka",
+"start_year": 1890,
+"end_year": null,
+"county_name": "Skaraborgs län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 4127,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4127,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4132,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4132,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4134,
+"parish_name": "Västanfors",
+"start_year": 1941,
+"end_year": null,
+"county_name": "Västmanlands län",
+"partial": true,
+"notes": "1941-01-01 överfört Ulvsbo från Söderbärke i Kopparbergs län till Västanfors i Västmanlands län"
+},
+{
+"pid": 4150,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Göteborgs och Bohus län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4150,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Älvsborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4167,
+"parish_name": "Ämtervik",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4167,
+"parish_name": "Ämtervik",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4169,
+"parish_name": "Västra Broby",
+"start_year": null,
+"end_year": 1888,
+"county_name": "Kristianstads län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 4169,
+"parish_name": "Västra Broby",
+"start_year": null,
+"end_year": 1888,
+"county_name": "Malmöhus län",
+"partial": true,
+"notes": "del (Hyllinge)"
+},
+{
+"pid": 4169,
+"parish_name": "Västra Broby",
+"start_year": 1889,
+"end_year": null,
+"county_name": "Kristianstads län",
+"partial": true,
+"notes": "1889 överfört Hyllinge till Kristianstads län"
+},
+{
+"pid": 4169,
+"parish_name": "Västra Broby",
+"start_year": 1889,
+"end_year": null,
+"county_name": "Kristianstads län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 4173,
+"parish_name": "Västra Fågelvik",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4173,
+"parish_name": "Västra Fågelvik",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4189,
+"parish_name": "Västra Ny",
+"start_year": 1789,
+"end_year": 1936,
+"county_name": "Östergötlands län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 4189,
+"parish_name": "Västra Ny",
+"start_year": 1789,
+"end_year": 1936,
+"county_name": "Örebro län",
+"partial": true,
+"notes": "Stora Rökneö"
+},
+{
+"pid": 4189,
+"parish_name": "Västra Ny",
+"start_year": 1937,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": true,
+"notes": "1937-01-01 Stora Rökneö överfört till Hammar"
+},
+{
+"pid": 4189,
+"parish_name": "Västra Ny",
+"start_year": 1937,
+"end_year": null,
+"county_name": "Östergötlands län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 4191,
+"parish_name": null,
+"start_year": null,
+"end_year": 1970,
+"county_name": "Uppsala län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4191,
+"parish_name": null,
+"start_year": 1971,
+"end_year": null,
+"county_name": "Stockholms län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4192,
+"parish_name": "Västra Ryd",
+"start_year": 1877,
+"end_year": null,
+"county_name": "Östergötlands län",
+"partial": true,
+"notes": "1877-05-01 (beslut 1863-01-09) införlivat Lägerbobygden (Askeryds församlingsdel i Östergötlands län)"
+},
+{
+"pid": 4195,
+"parish_name": "Västra Skedvi",
+"start_year": null,
+"end_year": 1889,
+"county_name": "Västmanlands län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 4195,
+"parish_name": "Västra Skedvi",
+"start_year": null,
+"end_year": 1889,
+"county_name": "Örebro län",
+"partial": true,
+"notes": "del (Bjurnäsboda och Karmdal)"
+},
+{
+"pid": 4195,
+"parish_name": "Västra Skedvi",
+"start_year": 1889,
+"end_year": null,
+"county_name": "Västmanlands län",
+"partial": true,
+"notes": "1889-03-08 överfört Bjurnäsboda och Karmdal till Västmanlands län"
+},
+{
+"pid": 4195,
+"parish_name": "Västra Skedvi",
+"start_year": 1889,
+"end_year": null,
+"county_name": "Västmanlands län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 4212,
+"parish_name": "Västra Vingåker",
+"start_year": 1865,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": true,
+"notes": "1865-11-14 överfört Forsbro från Västra Vingåker (eller möjligen Asker) i Södermanlands län till Asker i Örebro län"
+},
+{
+"pid": 4212,
+"parish_name": "Västra Vingåker",
+"start_year": null,
+"end_year": 1889,
+"county_name": "Södermanlands län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 4212,
+"parish_name": "Västra Vingåker",
+"start_year": null,
+"end_year": 1889,
+"county_name": "Örebro län",
+"partial": true,
+"notes": "del (Hattorp)"
+},
+{
+"pid": 4212,
+"parish_name": "Västra Vingåker",
+"start_year": 1890,
+"end_year": null,
+"county_name": "Södermanlands län",
+"partial": true,
+"notes": "1890 överfört Hattorp till Södermanlands län"
+},
+{
+"pid": 4212,
+"parish_name": "Västra Vingåker",
+"start_year": 1890,
+"end_year": null,
+"county_name": "Södermanlands län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 4242,
+"parish_name": null,
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4242,
+"parish_name": null,
+"start_year": 1762,
+"end_year": 1810,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4242,
+"parish_name": null,
+"start_year": 1810,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4264,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4264,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4299,
+"parish_name": "Vintrosa",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4299,
+"parish_name": "Vintrosa",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Örebro län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4304,
+"parish_name": null,
+"start_year": null,
+"end_year": 1839,
+"county_name": "Kalmar län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 4304,
+"parish_name": null,
+"start_year": null,
+"end_year": 1884,
+"county_name": "Jönköpings län",
+"partial": true,
+"notes": "del (Ånhults skate)"
+},
+{
+"pid": 4304,
+"parish_name": null,
+"start_year": null,
+"end_year": 1839,
+"county_name": "Kronobergs län",
+"partial": true,
+"notes": "del (Sjökulla)"
+},
+{
+"pid": 4304,
+"parish_name": null,
+"start_year": 1840,
+"end_year": null,
+"county_name": "Kalmar län",
+"partial": true,
+"notes": "1840 överfört Sjökulla till Kalmar län"
+},
+{
+"pid": 4304,
+"parish_name": null,
+"start_year": 1840,
+"end_year": 1884,
+"county_name": "Kalmar län",
+"partial": false,
+"notes": "huvuddelen; församlingen delad på Kalmar och Jönköpings län"
+},
+{
+"pid": 4304,
+"parish_name": null,
+"start_year": 1885,
+"end_year": null,
+"county_name": "Kalmar län",
+"partial": true,
+"notes": "1885 överfört Ånhults skate till Kalmar län"
+},
+{
+"pid": 4304,
+"parish_name": null,
+"start_year": 1885,
+"end_year": null,
+"county_name": "Kalmar län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 4315,
+"parish_name": null,
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4315,
+"parish_name": null,
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4316,
+"parish_name": "Visnums-Kil",
+"start_year": null,
+"end_year": 1779,
+"county_name": "Närkes och Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4316,
+"parish_name": "Visnums-Kil",
+"start_year": 1779,
+"end_year": null,
+"county_name": "Värmlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4317,
+"parish_name": "Vissefjärda",
+"start_year": null,
+"end_year": 1888,
+"county_name": "Kalmar län",
+"partial": false,
+"notes": "delad mellan Kronobergs län och Kalmar län"
+},
+{
+"pid": 4317,
+"parish_name": "Vissefjärda",
+"start_year": null,
+"end_year": 1888,
+"county_name": "Kronobergs län",
+"partial": true,
+"notes": "sockendelen Kåraböket (texten: inklusive Vissefjärda)"
+},
+{
+"pid": 4317,
+"parish_name": "Vissefjärda",
+"start_year": 1889,
+"end_year": null,
+"county_name": "Kalmar län",
+"partial": true,
+"notes": "1889 överfört Kåraböket till Kalmar län"
+},
+{
+"pid": 4317,
+"parish_name": "Vissefjärda",
+"start_year": 1889,
+"end_year": null,
+"county_name": "Kalmar län",
+"partial": false,
+"notes": "helt"
+},
+{
+"pid": 4317,
+"parish_name": "Vissefjärda",
+"start_year": 1937,
+"end_year": null,
+"county_name": "Kalmar län",
+"partial": true,
+"notes": "1937-01-01 överfört Grimmansmåla 1:6 från Algutsboda i Kronobergs län till Vissefjärda (nu Emmaboda) i Kalmar län"
+},
+{
+"pid": 4327,
+"parish_name": null,
+"start_year": 1893,
+"end_year": null,
+"county_name": "Uppsala län",
+"partial": true,
+"notes": "1893 del från Västmanlands till Uppsala län"
+},
+{
+"pid": 4335,
+"parish_name": "Voxna",
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4335,
+"parish_name": "Voxna",
+"start_year": 1762,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4335,
+"parish_name": "Voxna",
+"start_year": 1934,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": true,
+"notes": "1934-01-01 överfört del av Finsthögst från Ore i Kopparbergs län till Voxna i Gävleborgs län"
+},
+{
+"pid": 4359,
+"parish_name": "Ytterhogdal",
+"start_year": null,
+"end_year": 1762,
+"county_name": "Västernorrlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4359,
+"parish_name": "Ytterhogdal",
+"start_year": 1762,
+"end_year": 1863,
+"county_name": "Gävleborgs län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4359,
+"parish_name": "Ytterhogdal",
+"start_year": 1864,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": false,
+"notes": null
+},
+{
+"pid": 4359,
+"parish_name": "Ytterhogdal",
+"start_year": 1865,
+"end_year": null,
+"county_name": "Jämtlands län",
+"partial": true,
+"notes": "1865-02-17 överfört Risberget från Los i Gävleborgs län till Ytterhogdal i Jämtlands län"
+},
+{
+"pid": 4359,
+"parish_name": "Ytterhogdal",
+"start_year": 1865,
+"end_year": null,
+"county_name": "Gävleborgs län",
+"partial": true,
+"notes": "1865-02-17 överfört Riberget från Ytterhogdal till Los och Gävleborgs län"
+},
+{
+"pid": 4366,
+"parish_name": null,
+"start_year": null,
+"end_year": 1891,
+"county_name": "Östergötlands län",
+"partial": false,
+"notes": "huvuddelen"
+},
+{
+"pid": 4366,
+"parish_name": null,
+"start_year": null,
+"end_year": 1891,
+"county_name": "Kalmar län",
+"partial": true,
+"notes": "del (Yxnerums skate)"
+},
+{
+"pid": 4366,
+"parish_name": null,
+"start_year": 1892,
+"end_year": null,
+"county_name": "Östergötlands län",
+"partial": true,
+"notes": "1892 överfört Yxnerums skate till Östergötlands län"
+},
+{
+"pid": 4366,
+"parish_name": null,
+"start_year": 1892,
+"end_year": null,
+"county_name": "Östergötlands län",
+"partial": false,
+"notes": "helt"
+}
+]

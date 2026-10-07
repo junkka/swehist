@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use swehist, please cite it as below."
+title: "swehist: Swedish Historical Administrative Boundaries"
+version: 1.1.1
+date-released: 2026-10-07
+authors:
+  - family-names: Junkka
+    given-names: Johan
+    affiliation: Umeå University
+    orcid: "https://orcid.org/0000-0003-1527-279X"
+license:
+  - MIT
+  - CC-BY-4.0
+repository-code: "https://github.com/junkka/swehist"
+abstract: >-
+  Swedish historical administrative boundaries, hierarchies and matching
+  tools for 11 administrative types (parishes, counties, municipalities,
+  pastorships, deaneries, dioceses, hundreds, magistrates courts, district
+  courts, courts of appeal, bailiwicks), 1600-1990, based on data from
+  Riksarkivet (Swedish National Archives).
+keywords:
+  - historical GIS
+  - Sweden
+  - administrative boundaries
+  - parishes
+  - historical demography
+  - R

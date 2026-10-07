@@ -1,0 +1,30 @@
+Encoding: UTF-8
+Package: swehist
+Title: Swedish Historical Administrative Boundaries
+Version: 1.1.1
+Authors@R: person("Johan", "Junkka", email = "johan.junkka@gmail.com",
+    role = c("aut", "cre"), comment = c(ORCID = "0000-0003-1527-279X"))
+Description: Swedish historical administrative boundaries, hierarchies,
+    and matching tools for 11 administrative types (parishes, counties,
+    municipalities, and more) 1600-1990. Based on data from Riksarkivet
+    (Swedish National Archives). The code is licensed MIT and the data
+    CC BY 4.0 (see LICENSE.md in the source repository).
+Depends: R (>= 3.5.0)
+License: MIT + file LICENSE
+URL: https://github.com/junkka/swehist
+BugReports: https://github.com/junkka/swehist/issues
+LazyData: true
+LazyDataCompression: xz
+Imports: dplyr (>= 1.0.0),
+    sf,
+    lubridate,
+    stats,
+    utils
+Suggests: ggplot2,
+    igraph,
+    knitr,
+    rmarkdown,
+    purrr,
+    testthat
+VignetteBuilder: knitr
+Config/roxygen2/version: 8.0.0

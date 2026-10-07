@@ -1,0 +1,265 @@
+---
+title: "Using swehist"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Using swehist}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.width = 6,
+  fig.height = 6,
+  dpi = 72,
+  message = FALSE
+)
+```
+
+swehist holds the boundaries of Swedish administrative units 1600-1990:
+parishes, counties, municipalities, pastorships, deaneries (contracts),
+dioceses, hundreds, magistrates courts, district courts, courts of appeal
+and bailiwicks. Each unit is stored once per period in which its territory
+was unchanged, with the years it existed, the units it came from and went
+on to, and the units it belonged to. This vignette shows the common tasks:
+maps for a year, maps for a period, linking records by unit name or code,
+and finding the parent units of a parish. The sources and how the data were
+built are described in the dataset help pages (`?boundaries`,
+`?hierarchy`, `?relations`) and in the data paper (`citation("swehist")`).
+
+```{r load}
+library(swehist)
+library(sf)
+library(dplyr)
+library(ggplot2)
+```
+
+All maps are `sf` objects in SWEREF99 TM (EPSG:3006).
+
+## A map for one year
+
+`get_boundaries()` takes a year or a date and a type:
+
+```{r counties}
+counties <- get_boundaries(1900, "county")
+counties
+```
+
+```{r counties_plot, fig.height = 7}
+ggplot() +
+  geom_sf(data = counties, fill = "grey95", colour = "grey40") +
+  geom_sf(data = county_towns(1900), colour = "firebrick") +
+  theme_void()
+```
+
+The number of units of each type in 1900:
+
+```{r types}
+types <- c("parish", "municipality", "county", "pastorship", "contract",
+           "diocese", "hundred", "magistrates_court", "court_of_appeal",
+           "bailiwick")
+tibble(type = types,
+       units = sapply(types, function(t) nrow(get_boundaries(1900, t))))
+```
+
+District courts exist from 1971 only. Not every type covers all of Sweden in
+every year: hundreds, for instance, cover only southern and central Sweden,
+because Norrland had tingslag instead. `get_boundaries()` warns when a map
+covers less than 90% of the country; `?boundaries` lists the coverage of
+each type.
+
+## A map for a period
+
+Parishes split and merged, so a parish map for 1850 does not fit records from
+1900. Give a range of years to get a **period map**: units that changed
+during the range are merged, so every unit on the map existed, with the same
+territory, for the whole period.
+
+```{r period}
+pm <- get_boundaries(c(1850, 1900), "parish")
+nrow(get_boundaries(1850, "parish"))
+nrow(get_boundaries(1900, "parish"))
+nrow(pm$map)
+```
+
+`pm$map` holds the merged units (`geomid`, with the merged `geom_ids`), and
+`pm$lookup` maps each `geom_id` to its `geomid`. Use the lookup to aggregate
+data recorded on the units of different years:
+
+```{r period_lookup}
+head(pm$lookup)
+```
+
+For example, with a count of events per parish and year (`geom_id`, `year`,
+`n`), `left_join(events, pm$lookup, by = "geom_id")` followed by
+`count(geomid, wt = n)` gives the counts on the period map.
+
+## Linking records to units
+
+Records usually name a parish or give a parish code. `match_units()` returns
+the `geom_id` of the unit. A county (code, letter or name) narrows the search
+when a name occurs in several counties; there is a Nysätra in Uppsala län
+too:
+
+```{r match}
+match_units(c("Lövånger", "Burträsk", "Nysätra"), county = "AC")
+```
+
+Numbers are read as codes (forkod, nadkod, dedik or pid, from the number of
+digits). Names can be in pre-1906 spelling:
+
+```{r match_code}
+match_units(248201)
+match_units(c("Hvetlanda", "Carlskrona"))
+```
+
+`match_type` says how each match was made (by code, exact name, normalised
+name or, with `fuzzy = TRUE`, edit distance). `multiple` is `TRUE` when more
+than one unit fitted.
+
+A parish name can refer to several versions of the parish. Give `date` to get
+the version that existed then; `active_at_date` tells whether it did:
+
+```{r match_date}
+match_units(c("Byske", "Jukkasjärvi"), date = 1900)
+```
+
+`match_units()` also matches the other types (`type = "county"`,
+`"municipality"` and so on). For parishes it uses `parish_registry`, which
+includes about 840 parishes without territory of their own (bruks-,
+garrison and hospital parishes); where their parent parish is known they
+get its `geom_id`.
+
+## Parent units
+
+`assign_parent()` gives the unit of another type that each unit belonged to
+at a date, following the links in `hierarchy`:
+
+```{r parent}
+ids <- match_units(c("Lövånger", "Burträsk", "Nysätra"), county = "AC",
+                  date = 1880)$geom_id
+assign_parent(ids, 1880, "county")
+assign_parent(ids, 1880, "pastorship")
+assign_parent(ids, 1880, "magistrates_court")
+```
+
+`get_children()` goes the other way: the units of one type inside a parent
+unit.
+
+```{r children, fig.height = 4}
+malmohus <- get_children(1880, "county", "Malmöhus", "parish")
+ggplot(malmohus) +
+  geom_sf(fill = "grey95", colour = "grey40", linewidth = 0.2) +
+  theme_void()
+```
+
+Regiments have no boundaries of their own, but their parishes do:
+
+```{r regiment}
+uppland <- get_children(1800, "regiment", "Uppland", "parish")
+nrow(uppland)
+```
+
+## A unit's history
+
+`unit_history()` follows `relations` backwards and forwards from a unit and
+shows each version with the event that created it (origin, split, merge,
+continuation):
+
+```{r history}
+unit_history("Byske", "parish", direction = "backward") %>%
+  select(name, start, end, event)
+```
+
+## Borders
+
+`get_borders()` turns polygons into border lines, for drawing one level on
+top of another:
+
+```{r borders, fig.height = 7}
+ggplot() +
+  geom_sf(data = get_boundaries(1900, "parish"),
+          fill = "white", colour = "grey80", linewidth = 0.05) +
+  geom_sf(data = get_borders(1900, "county"), colour = "black") +
+  theme_void()
+```
+
+## Moving data between divisions
+
+`crosswalk()` gives areal weights between two divisions, which is what you need
+to carry a count from the parishes of one year to the units of another:
+
+```{r crosswalk}
+w <- crosswalk(c(1880, "parish"), c(1990, "municipality"))
+w %>% filter(grepl("^Byske", from_name)) %>% select(to_name, km2, share_of_from)
+```
+
+`share_of_from` is the share of the source unit in each overlap, so a count
+spread evenly over the parish is apportioned with it. `locate_point()` says
+which unit held a place at a date, and `neighbours()` lists the units that
+share a border:
+
+```{r locate}
+locate_point(c(18.07, 13.19), c(59.33, 55.71), 1880, "parish")
+neighbours(1900, "county") %>% filter(a_name == "Uppsala län")
+```
+
+## What a unit was called, and what it rests on
+
+Names, codes and memberships are dated, so a version carries the name that was
+in force. `events` records the changes themselves:
+
+```{r events}
+data(events)
+events %>% filter(grepl("Kyrkefalla|Tibro", detail), event == "renamed") %>%
+  select(date, event, detail)
+```
+
+The levels are not equally well founded, and `quality_table` says what each
+rests on: how much of the country a type covers in a period, and whether its
+memberships come from a dated source, from a chain through another unit, from
+an undated register link, or from geometry alone.
+
+```{r quality}
+data(quality_table)
+quality_table %>% filter(period == "1850-1899") %>%
+  select(parent_type, coverage, main_grade, sourced_or_better)
+```
+
+`known_issues` lists the boundary problems that research established but that
+no source lets us correct, so you can see them rather than discover them:
+
+```{r issues}
+data(known_issues)
+known_issues %>% filter(grepl("Malingsbo", name)) %>% select(name, start, end, issue)
+```
+
+## Things to know
+
+- **Parishes before and after 1862.** Before the local government reform of
+  1862 a parish (*socken*) was both a civil and a church unit. After it, the
+  parish (*församling*) is a church unit and the municipality (*kommun*) the
+  civil one. Parish boundaries continue across 1862, but their meaning
+  changes.
+- **Magistrates courts** include both rural courts (*domsagor*) and town
+  courts (*rådhusrätter*), and the Hundred type holds the towns that stood
+  outside the härad. The `kind` column tells them apart, as it does *städer*,
+  *köpingar* and *landskommuner* among the municipalities.
+- **Where the links come from.** Every link in `hierarchy` carries its
+  `source` and a `grade`: a correction, a dated source (SCB, SFGT, *Sveriges
+  statskalender*), a dated or undated register link, a chain through another
+  unit, or spatial containment. `quality_table` sums that up by type and
+  period.
+- **Every unit is built from its parishes**, so the levels fit each other.
+  Where no evidence established a unit's members it keeps the polygon
+  Riksarkivet recorded for it, and `geometry_from` says so.
+- **Regiments** were recruited from farms, and farms in one parish could
+  serve different regiments. The regiment of a parish is therefore
+  approximate.
+- **Municipalities** in 1952 and 1971 miss some towns and market towns
+  (*städer*, *köpingar*) that the source does not have.
+- **The national outline** (`sweden`) is the union of all parishes. Large
+  lakes that no parish includes (Vänern, Vättern) lie outside it.
+- The data end in 1990.

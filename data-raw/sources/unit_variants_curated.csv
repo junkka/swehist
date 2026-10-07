@@ -1,0 +1,776 @@
+variant,variant_normalized,geom_id,canonical_name,type_id,start,end,source,priority
+12,12,8849,Malmöhus län,county,1720,1890,county_code,2
+m,m,8849,Malmöhus län,county,1720,1890,county_code,2
+skåne,skane,8849,Malmöhus län,county,1720,1890,county_code,2
+12,12,8874,Malmöhus län,county,1891,1951,county_code,2
+m,m,8874,Malmöhus län,county,1891,1951,county_code,2
+skåne,skane,8874,Malmöhus län,county,1891,1951,county_code,2
+12,12,8879,Malmöhus län,county,1952,1968,county_code,2
+m,m,8879,Malmöhus län,county,1952,1968,county_code,2
+skåne,skane,8879,Malmöhus län,county,1952,1968,county_code,2
+12,12,8891,Malmöhus län,county,1969,1970,county_code,2
+m,m,8891,Malmöhus län,county,1969,1970,county_code,2
+skåne,skane,8891,Malmöhus län,county,1969,1970,county_code,2
+12,12,12282,Malmöhus län,county,1971,1990,county_code,2
+m,m,12282,Malmöhus län,county,1971,1990,county_code,2
+skåne,skane,12282,Malmöhus län,county,1971,1990,county_code,2
+15,15,8841,Älvsborgs län,county,1686,1951,county_code,2
+p,p,8841,Älvsborgs län,county,1686,1951,county_code,2
+älvsborgs,alvsborgs,8841,Älvsborgs län,county,1686,1951,county_code,2
+15,15,8878,Älvsborgs län,county,1952,1966,county_code,2
+p,p,8878,Älvsborgs län,county,1952,1966,county_code,2
+älvsborgs,alvsborgs,8878,Älvsborgs län,county,1952,1966,county_code,2
+15,15,8888,Älvsborgs län,county,1967,1970,county_code,2
+p,p,8888,Älvsborgs län,county,1967,1970,county_code,2
+älvsborgs,alvsborgs,8888,Älvsborgs län,county,1967,1970,county_code,2
+15,15,8903,Älvsborgs län,county,1971,1973,county_code,2
+p,p,8903,Älvsborgs län,county,1971,1973,county_code,2
+älvsborgs,alvsborgs,8903,Älvsborgs län,county,1971,1973,county_code,2
+15,15,8909,Älvsborgs län,county,1974,1990,county_code,2
+p,p,8909,Älvsborgs län,county,1974,1990,county_code,2
+älvsborgs,alvsborgs,8909,Älvsborgs län,county,1974,1990,county_code,2
+5,5,8848,Östergötlands län,county,1720,1970,county_code,2
+e,e,8848,Östergötlands län,county,1720,1970,county_code,2
+östergötlands,ostergotlands,8848,Östergötlands län,county,1720,1970,county_code,2
+5,5,8893,Östergötlands län,county,1971,1990,county_code,2
+e,e,8893,Östergötlands län,county,1971,1990,county_code,2
+östergötlands,ostergotlands,8893,Östergötlands län,county,1971,1990,county_code,2
+19,19,8859,Västmanlands län,county,1720,1970,county_code,2
+u,u,8859,Västmanlands län,county,1720,1970,county_code,2
+västmanlands,vastmanlands,8859,Västmanlands län,county,1720,1970,county_code,2
+19,19,8899,Västmanlands län,county,1971,1973,county_code,2
+u,u,8899,Västmanlands län,county,1971,1973,county_code,2
+västmanlands,vastmanlands,8899,Västmanlands län,county,1971,1973,county_code,2
+19,19,8913,Västmanlands län,county,1974,1990,county_code,2
+u,u,8913,Västmanlands län,county,1974,1990,county_code,2
+västmanlands,vastmanlands,8913,Västmanlands län,county,1974,1990,county_code,2
+1,1,8855,Stockholms län,county,1720,1966,county_code,2
+ab,ab,8855,Stockholms län,county,1720,1966,county_code,2
+stockholms,stockholms,8855,Stockholms län,county,1720,1966,county_code,2
+1,1,8889,Stockholms län,county,1967,1970,county_code,2
+ab,ab,8889,Stockholms län,county,1967,1970,county_code,2
+stockholms,stockholms,8889,Stockholms län,county,1967,1970,county_code,2
+1,1,8892,Stockholms län,county,1971,1990,county_code,2
+ab,ab,8892,Stockholms län,county,1971,1990,county_code,2
+stockholms,stockholms,8892,Stockholms län,county,1971,1990,county_code,2
+11,11,8845,Kristianstads län,county,1720,1890,county_code,2
+l,l,8845,Kristianstads län,county,1720,1890,county_code,2
+kristianstads,kristianstad,8845,Kristianstads län,county,1720,1890,county_code,2
+11,11,8875,Kristianstads län,county,1891,1951,county_code,2
+l,l,8875,Kristianstads län,county,1891,1951,county_code,2
+kristianstads,kristianstad,8875,Kristianstads län,county,1891,1951,county_code,2
+11,11,8881,Kristianstads län,county,1952,1968,county_code,2
+l,l,8881,Kristianstads län,county,1952,1968,county_code,2
+kristianstads,kristianstad,8881,Kristianstads län,county,1952,1968,county_code,2
+11,11,8890,Kristianstads län,county,1969,1970,county_code,2
+l,l,8890,Kristianstads län,county,1969,1970,county_code,2
+kristianstads,kristianstad,8890,Kristianstads län,county,1969,1970,county_code,2
+11,11,8897,Kristianstads län,county,1971,1990,county_code,2
+l,l,8897,Kristianstads län,county,1971,1990,county_code,2
+kristianstads,kristianstad,8897,Kristianstads län,county,1971,1990,county_code,2
+3,3,8851,Uppsala län,county,1720,1942,county_code,2
+c,c,8851,Uppsala län,county,1720,1942,county_code,2
+uppsala,uppsala,8851,Uppsala län,county,1720,1942,county_code,2
+3,3,8877,Uppsala län,county,1943,1970,county_code,2
+c,c,8877,Uppsala län,county,1943,1970,county_code,2
+uppsala,uppsala,8877,Uppsala län,county,1943,1970,county_code,2
+3,3,8904,Uppsala län,county,1971,1990,county_code,2
+c,c,8904,Uppsala län,county,1971,1990,county_code,2
+uppsala,uppsala,8904,Uppsala län,county,1971,1990,county_code,2
+8,8,8844,Kalmar län,county,1720,1970,county_code,2
+h,h,8844,Kalmar län,county,1720,1970,county_code,2
+kalmar,kalmar,8844,Kalmar län,county,1720,1970,county_code,2
+8,8,8902,Kalmar län,county,1971,1990,county_code,2
+h,h,8902,Kalmar län,county,1971,1990,county_code,2
+kalmar,kalmar,8902,Kalmar län,county,1971,1990,county_code,2
+16,16,8842,Skaraborgs län,county,1686,1951,county_code,2
+r,r,8842,Skaraborgs län,county,1686,1951,county_code,2
+skaraborgs,skaraborgs,8842,Skaraborgs län,county,1686,1951,county_code,2
+16,16,8880,Skaraborgs län,county,1952,1966,county_code,2
+r,r,8880,Skaraborgs län,county,1952,1966,county_code,2
+skaraborgs,skaraborgs,8880,Skaraborgs län,county,1952,1966,county_code,2
+16,16,8887,Skaraborgs län,county,1967,1970,county_code,2
+r,r,8887,Skaraborgs län,county,1967,1970,county_code,2
+skaraborgs,skaraborgs,8887,Skaraborgs län,county,1967,1970,county_code,2
+16,16,8896,Skaraborgs län,county,1971,1973,county_code,2
+r,r,8896,Skaraborgs län,county,1971,1973,county_code,2
+skaraborgs,skaraborgs,8896,Skaraborgs län,county,1971,1973,county_code,2
+16,16,8907,Skaraborgs län,county,1974,1990,county_code,2
+r,r,8907,Skaraborgs län,county,1974,1990,county_code,2
+skaraborgs,skaraborgs,8907,Skaraborgs län,county,1974,1990,county_code,2
+7,7,8854,Kronobergs län,county,1720,1970,county_code,2
+g,g,8854,Kronobergs län,county,1720,1970,county_code,2
+kronobergs,kronobergs,8854,Kronobergs län,county,1720,1970,county_code,2
+7,7,8900,Kronobergs län,county,1971,1973,county_code,2
+g,g,8900,Kronobergs län,county,1971,1973,county_code,2
+kronobergs,kronobergs,8900,Kronobergs län,county,1971,1973,county_code,2
+7,7,8911,Kronobergs län,county,1974,1990,county_code,2
+g,g,8911,Kronobergs län,county,1974,1990,county_code,2
+kronobergs,kronobergs,8911,Kronobergs län,county,1974,1990,county_code,2
+9,9,8847,Gotlands län,county,1720,1990,county_code,2
+i,i,8847,Gotlands län,county,1720,1990,county_code,2
+gotlands,gotlands,8847,Gotlands län,county,1720,1990,county_code,2
+6,6,8853,Jönköpings län,county,1720,1970,county_code,2
+f,f,8853,Jönköpings län,county,1720,1970,county_code,2
+jönköpings,jonkopings,8853,Jönköpings län,county,1720,1970,county_code,2
+6,6,8898,Jönköpings län,county,1971,1973,county_code,2
+f,f,8898,Jönköpings län,county,1971,1973,county_code,2
+jönköpings,jonkopings,8898,Jönköpings län,county,1971,1973,county_code,2
+6,6,8910,Jönköpings län,county,1974,1990,county_code,2
+f,f,8910,Jönköpings län,county,1974,1990,county_code,2
+jönköpings,jonkopings,8910,Jönköpings län,county,1974,1990,county_code,2
+14,14,8843,Göteborgs o Bohus län,county,1686,1966,county_code,2
+o,o,8843,Göteborgs o Bohus län,county,1686,1966,county_code,2
+västra götalands,vastra gotalands,8843,Göteborgs o Bohus län,county,1686,1966,county_code,2
+14,14,8886,Göteborgs o Bohus län,county,1967,1970,county_code,2
+o,o,8886,Göteborgs o Bohus län,county,1967,1970,county_code,2
+västra götalands,vastra gotalands,8886,Göteborgs o Bohus län,county,1967,1970,county_code,2
+14,14,12280,Göteborgs o Bohus län,county,1971,1990,county_code,2
+o,o,12280,Göteborgs o Bohus län,county,1971,1990,county_code,2
+västra götalands,vastra gotalands,12280,Göteborgs o Bohus län,county,1971,1990,county_code,2
+4,4,8850,Södermanlands län,county,1720,1942,county_code,2
+d,d,8850,Södermanlands län,county,1720,1942,county_code,2
+södermanlands,sodermanlands,8850,Södermanlands län,county,1720,1942,county_code,2
+4,4,8876,Södermanlands län,county,1943,1966,county_code,2
+d,d,8876,Södermanlands län,county,1943,1966,county_code,2
+södermanlands,sodermanlands,8876,Södermanlands län,county,1943,1966,county_code,2
+4,4,8884,Södermanlands län,county,1967,1970,county_code,2
+d,d,8884,Södermanlands län,county,1967,1970,county_code,2
+södermanlands,sodermanlands,8884,Södermanlands län,county,1967,1970,county_code,2
+4,4,8895,Södermanlands län,county,1971,1990,county_code,2
+d,d,8895,Södermanlands län,county,1971,1990,county_code,2
+södermanlands,sodermanlands,8895,Södermanlands län,county,1971,1990,county_code,2
+22,22,8856,Västernorrlands län,county,1720,1761,county_code,2
+y,y,8856,Västernorrlands län,county,1720,1761,county_code,2
+västernorrlands,vasternorrlands,8856,Västernorrlands län,county,1720,1761,county_code,2
+22,22,8862,Västernorrlands län,county,1762,1809,county_code,2
+y,y,8862,Västernorrlands län,county,1762,1809,county_code,2
+västernorrlands,vasternorrlands,8862,Västernorrlands län,county,1762,1809,county_code,2
+22,22,8869,Västernorrlands län,county,1810,1973,county_code,2
+y,y,8869,Västernorrlands län,county,1810,1973,county_code,2
+västernorrlands,vasternorrlands,8869,Västernorrlands län,county,1810,1973,county_code,2
+22,22,8912,Västernorrlands län,county,1974,1990,county_code,2
+y,y,8912,Västernorrlands län,county,1974,1990,county_code,2
+västernorrlands,vasternorrlands,8912,Västernorrlands län,county,1974,1990,county_code,2
+13,13,8858,Hallands län,county,1720,1970,county_code,2
+n,n,8858,Hallands län,county,1720,1970,county_code,2
+hallands,hallands,8858,Hallands län,county,1720,1970,county_code,2
+13,13,8901,Hallands län,county,1971,1973,county_code,2
+n,n,8901,Hallands län,county,1971,1973,county_code,2
+hallands,hallands,8901,Hallands län,county,1971,1973,county_code,2
+13,13,8908,Hallands län,county,1974,1990,county_code,2
+n,n,8908,Hallands län,county,1974,1990,county_code,2
+hallands,hallands,8908,Hallands län,county,1974,1990,county_code,2
+20,20,12281,Kopparbergs län,county,1720,1990,county_code,2
+w,v,12281,Kopparbergs län,county,1720,1990,county_code,2
+dalarnas,dalarnas,12281,Kopparbergs län,county,1720,1990,county_code,2
+21,21,8861,Gävleborgs län,county,1762,1809,county_code,2
+x,x,8861,Gävleborgs län,county,1762,1809,county_code,2
+gävleborgs,gavleborgs,8861,Gävleborgs län,county,1762,1809,county_code,2
+21,21,8868,Gävleborgs län,county,1810,1863,county_code,2
+x,x,8868,Gävleborgs län,county,1810,1863,county_code,2
+gävleborgs,gavleborgs,8868,Gävleborgs län,county,1810,1863,county_code,2
+21,21,8871,Gävleborgs län,county,1864,1990,county_code,2
+x,x,8871,Gävleborgs län,county,1864,1990,county_code,2
+gävleborgs,gavleborgs,8871,Gävleborgs län,county,1864,1990,county_code,2
+17,17,8863,Värmlands län,county,1779,1951,county_code,2
+s,s,8863,Värmlands län,county,1779,1951,county_code,2
+värmlands,varmlands,8863,Värmlands län,county,1779,1951,county_code,2
+17,17,8883,Värmlands län,county,1952,1970,county_code,2
+s,s,8883,Värmlands län,county,1952,1970,county_code,2
+värmlands,varmlands,8883,Värmlands län,county,1952,1970,county_code,2
+17,17,8894,Värmlands län,county,1971,1990,county_code,2
+s,s,8894,Värmlands län,county,1971,1990,county_code,2
+värmlands,varmlands,8894,Värmlands län,county,1971,1990,county_code,2
+18,18,8846,Närke och Värmlands län,county,1720,1778,county_code,2
+t,t,8846,Närke och Värmlands län,county,1720,1778,county_code,2
+örebro,orebro,8846,Närke och Värmlands län,county,1720,1778,county_code,2
+18,18,8864,Örebro län,county,1779,1951,county_code,2
+t,t,8864,Örebro län,county,1779,1951,county_code,2
+örebro,orebro,8864,Örebro län,county,1779,1951,county_code,2
+18,18,8882,Örebro län,county,1952,1966,county_code,2
+t,t,8882,Örebro län,county,1952,1966,county_code,2
+örebro,orebro,8882,Örebro län,county,1952,1966,county_code,2
+18,18,8885,Örebro län,county,1967,1973,county_code,2
+t,t,8885,Örebro län,county,1967,1973,county_code,2
+örebro,orebro,8885,Örebro län,county,1967,1973,county_code,2
+18,18,8914,Örebro län,county,1974,1990,county_code,2
+t,t,8914,Örebro län,county,1974,1990,county_code,2
+örebro,orebro,8914,Örebro län,county,1974,1990,county_code,2
+10,10,8857,Blekinge län,county,1720,1990,county_code,2
+k,k,8857,Blekinge län,county,1720,1990,county_code,2
+blekinge,blekinge,8857,Blekinge län,county,1720,1990,county_code,2
+24,24,8852,Västerbottens län,county,1720,1809,county_code,2
+ac,ac,8852,Västerbottens län,county,1720,1809,county_code,2
+västerbottens,vasterbotten,8852,Västerbottens län,county,1720,1809,county_code,2
+24,24,8867,Västerbottens län,county,1810,1868,county_code,2
+ac,ac,8867,Västerbottens län,county,1810,1868,county_code,2
+västerbottens,vasterbotten,8867,Västerbottens län,county,1810,1868,county_code,2
+24,24,8872,Västerbottens län,county,1869,1990,county_code,2
+ac,ac,8872,Västerbottens län,county,1869,1990,county_code,2
+västerbottens,vasterbotten,8872,Västerbottens län,county,1869,1990,county_code,2
+25,25,8865,Norrbottens län,county,1810,1868,county_code,2
+bd,bd,8865,Norrbottens län,county,1810,1868,county_code,2
+norrbottens,norrbotten,8865,Norrbottens län,county,1810,1868,county_code,2
+25,25,8873,Norrbottens län,county,1869,1990,county_code,2
+bd,bd,8873,Norrbottens län,county,1869,1990,county_code,2
+norrbottens,norrbotten,8873,Norrbottens län,county,1869,1990,county_code,2
+23,23,8866,Jämtlands län,county,1810,1863,county_code,2
+z,z,8866,Jämtlands län,county,1810,1863,county_code,2
+jämtlands,jamtlands,8866,Jämtlands län,county,1810,1863,county_code,2
+23,23,8870,Jämtlands län,county,1864,1973,county_code,2
+z,z,8870,Jämtlands län,county,1864,1973,county_code,2
+jämtlands,jamtlands,8870,Jämtlands län,county,1864,1973,county_code,2
+23,23,8915,Jämtlands län,county,1974,1990,county_code,2
+z,z,8915,Jämtlands län,county,1974,1990,county_code,2
+jämtlands,jamtlands,8915,Jämtlands län,county,1974,1990,county_code,2
+berga pastorat,berga,10068,Vittaryds pastorat,pastorship,1600,1973,manual,3
+hudiksvalls län,hudiksvalls,8862,Västernorrlands län,county,1762,1809,manual,3
+hudiksvall,hudiksvall,8862,Västernorrlands län,county,1762,1809,manual,3
+härnösands län,harnosands,8869,Västernorrlands län,county,1810,1973,manual,3
+härnösand,harnosand,8869,Västernorrlands län,county,1810,1973,manual,3
+dalarnas län,dalarnas,12281,Kopparbergs län,county,1720,1990,manual,3
+dalarna,dalarna,12281,Kopparbergs län,county,1720,1990,manual,3
+bankekinds och skärkinds kontrakt,bankekinds och skarkinds,12363,Bankekinds kontrakt,contract,1919,1942,manual,3
+övre norrland,ovre norrland,12277,Hovrätten för Övre Norrland,court_of_appeal,1936,1990,manual,3
+övre norrland hovrätt,ovre norrland,12277,Hovrätten för Övre Norrland,court_of_appeal,1936,1990,manual,3
+nedre norrland,nedre norrland,12279,Hovrätten för Nedre Norrland,court_of_appeal,1948,1990,manual,3
+nedre norrland hovrätt,nedre norrland,12279,Hovrätten för Nedre Norrland,court_of_appeal,1948,1990,manual,3
+västra sverige,vastra sverige,12379,Hovrätten för Västra Sverige,court_of_appeal,1974,1990,manual,3
+västra sverige hovrätt,vastra sverige,12379,Hovrätten för Västra Sverige,court_of_appeal,1974,1990,manual,3
+västra sverige,vastra sverige,12380,Hovrätten för Västra Sverige,court_of_appeal,1948,1970,manual,3
+västra sverige hovrätt,vastra sverige,12380,Hovrätten för Västra Sverige,court_of_appeal,1948,1970,manual,3
+västra sverige,vastra sverige,12387,Hovrätten för Västra Sverige,court_of_appeal,1971,1973,manual,3
+västra sverige hovrätt,vastra sverige,12387,Hovrätten för Västra Sverige,court_of_appeal,1971,1973,manual,3
+göteborg,goteborg,12182,Göteborgs stift,diocese,1600,1805,manual,3
+göteborg,goteborg,12183,Göteborgs stift,diocese,1806,1829,manual,3
+göteborg,goteborg,12184,Göteborgs stift,diocese,1830,1859,manual,3
+göteborg,goteborg,12187,Göteborgs stift,diocese,1949,1961,manual,3
+göteborg,goteborg,12188,Göteborgs stift,diocese,1962,1967,manual,3
+göteborg,goteborg,12189,Göteborgs stift,diocese,1968,1973,manual,3
+göteborg,goteborg,12190,Göteborgs stift,diocese,1974,1974,manual,3
+göteborg,goteborg,12191,Göteborgs stift,diocese,1975,1977,manual,3
+göteborg,goteborg,12192,Göteborgs stift,diocese,1978,1990,manual,3
+göteborg,goteborg,12841,Göteborgs stift,diocese,1860,1948,manual,3
+härnösand,harnosand,12193,Härnösands stift,diocese,1647,1673,manual,3
+härnösand,harnosand,12194,Härnösands stift,diocese,1674,1779,manual,3
+härnösand,harnosand,12195,Härnösands stift,diocese,1780,1780,manual,3
+härnösand,harnosand,12196,Härnösands stift,diocese,1781,1814,manual,3
+härnösand,harnosand,12197,Härnösands stift,diocese,1815,1863,manual,3
+härnösand,harnosand,12198,Härnösands stift,diocese,1864,1903,manual,3
+härnösand,harnosand,12201,Härnösands stift,diocese,1922,1931,manual,3
+härnösand,harnosand,12202,Härnösands stift,diocese,1932,1961,manual,3
+härnösand,harnosand,12842,Härnösands stift,diocese,1904,1921,manual,3
+härnösand,harnosand,12843,Härnösands stift,diocese,1962,1990,manual,3
+karlstad,karlstad,12205,Karlstads stift,diocese,1600,1961,manual,3
+karlstad,karlstad,12206,Karlstads stift,diocese,1962,1967,manual,3
+karlstad,karlstad,12844,Karlstads stift,diocese,1968,1990,manual,3
+linköping,linkoping,12211,Linköpings stift,diocese,1919,1942,manual,3
+linköping,linkoping,12214,Linköpings stift,diocese,1952,1961,manual,3
+linköping,linkoping,12215,Linköpings stift,diocese,1962,1972,manual,3
+linköping,linkoping,12216,Linköpings stift,diocese,1973,1973,manual,3
+linköping,linkoping,12217,Linköpings stift,diocese,1974,1974,manual,3
+linköping,linkoping,12218,Linköpings stift,diocese,1975,1977,manual,3
+linköping,linkoping,12845,Linköpings stift,diocese,1615,1918,manual,3
+linköping,linkoping,12846,Linköpings stift,diocese,1943,1951,manual,3
+linköping,linkoping,12847,Linköpings stift,diocese,1978,1990,manual,3
+luleå,lulea,12221,Luleå stift,diocese,1904,1960,manual,3
+luleå,lulea,12222,Luleå stift,diocese,1961,1961,manual,3
+luleå,lulea,12223,Luleå stift,diocese,1962,1979,manual,3
+luleå,lulea,12224,Luleå stift,diocese,1980,1990,manual,3
+lund,lund,12225,Lunds stift,diocese,1600,1679,manual,3
+lund,lund,12226,Lunds stift,diocese,1680,1691,manual,3
+lund,lund,12227,Lunds stift,diocese,1692,1696,manual,3
+lund,lund,12228,Lunds stift,diocese,1697,1721,manual,3
+lund,lund,12229,Lunds stift,diocese,1722,1735,manual,3
+lund,lund,12230,Lunds stift,diocese,1736,1849,manual,3
+lund,lund,12231,Lunds stift,diocese,1850,1890,manual,3
+lund,lund,12232,Lunds stift,diocese,1891,1891,manual,3
+lund,lund,12233,Lunds stift,diocese,1892,1923,manual,3
+lund,lund,12234,Lunds stift,diocese,1924,1924,manual,3
+lund,lund,12235,Lunds stift,diocese,1925,1925,manual,3
+lund,lund,12236,Lunds stift,diocese,1926,1926,manual,3
+lund,lund,12237,Lunds stift,diocese,1927,1928,manual,3
+lund,lund,12238,Lunds stift,diocese,1929,1932,manual,3
+lund,lund,12239,Lunds stift,diocese,1933,1938,manual,3
+lund,lund,12240,Lunds stift,diocese,1939,1939,manual,3
+lund,lund,12241,Lunds stift,diocese,1940,1941,manual,3
+lund,lund,12242,Lunds stift,diocese,1942,1945,manual,3
+lund,lund,12243,Lunds stift,diocese,1946,1946,manual,3
+lund,lund,12244,Lunds stift,diocese,1947,1951,manual,3
+lund,lund,12245,Lunds stift,diocese,1952,1961,manual,3
+lund,lund,12246,Lunds stift,diocese,1962,1973,manual,3
+lund,lund,12247,Lunds stift,diocese,1974,1977,manual,3
+lund,lund,12248,Lunds stift,diocese,1978,1979,manual,3
+lund,lund,12249,Lunds stift,diocese,1980,1990,manual,3
+stockholm,stockholm,12255,Stockholms stift,diocese,1942,1942,manual,3
+stockholm,stockholm,12256,Stockholms stift,diocese,1943,1951,manual,3
+stockholm,stockholm,12257,Stockholms stift,diocese,1952,1956,manual,3
+stockholm,stockholm,12258,Stockholms stift,diocese,1957,1961,manual,3
+stockholm,stockholm,12259,Stockholms stift,diocese,1962,1972,manual,3
+stockholm,stockholm,12260,Stockholms stift,diocese,1973,1987,manual,3
+stockholm,stockholm,12261,Stockholms stift,diocese,1988,1990,manual,3
+uppsala stift,uppsala,12140,Uppsala ärkestift,diocese,1647,1750,manual,3
+uppsala stift,uppsala,12141,Uppsala ärkestift,diocese,1751,1905,manual,3
+uppsala stift,uppsala,12142,Uppsala ärkestift,diocese,1906,1906,manual,3
+uppsala stift,uppsala,12145,Uppsala ärkestift,diocese,1923,1927,manual,3
+uppsala stift,uppsala,12146,Uppsala ärkestift,diocese,1928,1928,manual,3
+uppsala stift,uppsala,12147,Uppsala ärkestift,diocese,1929,1935,manual,3
+uppsala stift,uppsala,12148,Uppsala ärkestift,diocese,1936,1937,manual,3
+uppsala stift,uppsala,12149,Uppsala ärkestift,diocese,1938,1941,manual,3
+uppsala stift,uppsala,12150,Uppsala ärkestift,diocese,1942,1942,manual,3
+uppsala stift,uppsala,12151,Uppsala ärkestift,diocese,1943,1944,manual,3
+uppsala stift,uppsala,12152,Uppsala ärkestift,diocese,1945,1945,manual,3
+uppsala stift,uppsala,12153,Uppsala ärkestift,diocese,1946,1951,manual,3
+uppsala stift,uppsala,12154,Uppsala ärkestift,diocese,1952,1961,manual,3
+uppsala stift,uppsala,12155,Uppsala ärkestift,diocese,1962,1971,manual,3
+uppsala stift,uppsala,12156,Uppsala ärkestift,diocese,1972,1973,manual,3
+uppsala stift,uppsala,12157,Uppsala ärkestift,diocese,1974,1979,manual,3
+uppsala stift,uppsala,12158,Uppsala ärkestift,diocese,1980,1990,manual,3
+uppsala stift,uppsala,12840,Uppsala ärkestift,diocese,1907,1922,manual,3
+uppsala,uppsala,12140,Uppsala ärkestift,diocese,1647,1750,manual,3
+uppsala,uppsala,12141,Uppsala ärkestift,diocese,1751,1905,manual,3
+uppsala,uppsala,12142,Uppsala ärkestift,diocese,1906,1906,manual,3
+uppsala,uppsala,12145,Uppsala ärkestift,diocese,1923,1927,manual,3
+uppsala,uppsala,12146,Uppsala ärkestift,diocese,1928,1928,manual,3
+uppsala,uppsala,12147,Uppsala ärkestift,diocese,1929,1935,manual,3
+uppsala,uppsala,12148,Uppsala ärkestift,diocese,1936,1937,manual,3
+uppsala,uppsala,12149,Uppsala ärkestift,diocese,1938,1941,manual,3
+uppsala,uppsala,12150,Uppsala ärkestift,diocese,1942,1942,manual,3
+uppsala,uppsala,12151,Uppsala ärkestift,diocese,1943,1944,manual,3
+uppsala,uppsala,12152,Uppsala ärkestift,diocese,1945,1945,manual,3
+uppsala,uppsala,12153,Uppsala ärkestift,diocese,1946,1951,manual,3
+uppsala,uppsala,12154,Uppsala ärkestift,diocese,1952,1961,manual,3
+uppsala,uppsala,12155,Uppsala ärkestift,diocese,1962,1971,manual,3
+uppsala,uppsala,12156,Uppsala ärkestift,diocese,1972,1973,manual,3
+uppsala,uppsala,12157,Uppsala ärkestift,diocese,1974,1979,manual,3
+uppsala,uppsala,12158,Uppsala ärkestift,diocese,1980,1990,manual,3
+uppsala,uppsala,12840,Uppsala ärkestift,diocese,1907,1922,manual,3
+växjö,vaxjo,12176,Växjö stift,diocese,1962,1973,manual,3
+växjö,vaxjo,12177,Växjö stift,diocese,1974,1978,manual,3
+växjö,vaxjo,12178,Växjö stift,diocese,1979,1980,manual,3
+växjö,vaxjo,12179,Växjö stift,diocese,1981,1982,manual,3
+växjö,vaxjo,12180,Växjö stift,diocese,1983,1985,manual,3
+växjö,vaxjo,12181,Växjö stift,diocese,1986,1990,manual,3
+växjö,vaxjo,12849,Växjö stift,diocese,1600,1914,manual,3
+växjö,vaxjo,12850,Växjö stift,diocese,1915,1961,manual,3
+wexjö stift,vexjo,12176,Växjö stift,diocese,1962,1973,manual,3
+wexjö stift,vexjo,12177,Växjö stift,diocese,1974,1978,manual,3
+wexjö stift,vexjo,12178,Växjö stift,diocese,1979,1980,manual,3
+wexjö stift,vexjo,12179,Växjö stift,diocese,1981,1982,manual,3
+wexjö stift,vexjo,12180,Växjö stift,diocese,1983,1985,manual,3
+wexjö stift,vexjo,12181,Växjö stift,diocese,1986,1990,manual,3
+wexjö stift,vexjo,12849,Växjö stift,diocese,1600,1914,manual,3
+wexjö stift,vexjo,12850,Växjö stift,diocese,1915,1961,manual,3
+wexjö,vexjo,12176,Växjö stift,diocese,1962,1973,manual,3
+wexjö,vexjo,12177,Växjö stift,diocese,1974,1978,manual,3
+wexjö,vexjo,12178,Växjö stift,diocese,1979,1980,manual,3
+wexjö,vexjo,12179,Växjö stift,diocese,1981,1982,manual,3
+wexjö,vexjo,12180,Växjö stift,diocese,1983,1985,manual,3
+wexjö,vexjo,12181,Växjö stift,diocese,1986,1990,manual,3
+wexjö,vexjo,12849,Växjö stift,diocese,1600,1914,manual,3
+wexjö,vexjo,12850,Växjö stift,diocese,1915,1961,manual,3
+västerås,vasteras,12160,Västerås stift,diocese,1600,1746,manual,3
+västerås,vasteras,12161,Västerås stift,diocese,1747,1747,manual,3
+västerås,vasteras,12162,Västerås stift,diocese,1748,1799,manual,3
+västerås,vasteras,12163,Västerås stift,diocese,1800,1869,manual,3
+västerås,vasteras,12164,Västerås stift,diocese,1870,1922,manual,3
+västerås,vasteras,12165,Västerås stift,diocese,1923,1933,manual,3
+västerås,vasteras,12166,Västerås stift,diocese,1934,1951,manual,3
+västerås,vasteras,12167,Västerås stift,diocese,1952,1952,manual,3
+västerås,vasteras,12168,Västerås stift,diocese,1953,1961,manual,3
+västerås,vasteras,12169,Västerås stift,diocese,1962,1970,manual,3
+västerås,vasteras,12170,Västerås stift,diocese,1971,1973,manual,3
+västerås,vasteras,12171,Västerås stift,diocese,1974,1979,manual,3
+västerås,vasteras,12172,Västerås stift,diocese,1980,1990,manual,3
+strängnäs,strangnas,12262,Strängnäs stift,diocese,1630,1641,manual,3
+strängnäs,strangnas,12263,Strängnäs stift,diocese,1642,1864,manual,3
+strängnäs,strangnas,12264,Strängnäs stift,diocese,1865,1880,manual,3
+strängnäs,strangnas,12265,Strängnäs stift,diocese,1881,1882,manual,3
+strängnäs,strangnas,12266,Strängnäs stift,diocese,1883,1937,manual,3
+strängnäs,strangnas,12267,Strängnäs stift,diocese,1938,1941,manual,3
+strängnäs,strangnas,12268,Strängnäs stift,diocese,1942,1942,manual,3
+strängnäs,strangnas,12269,Strängnäs stift,diocese,1943,1951,manual,3
+strängnäs,strangnas,12270,Strängnäs stift,diocese,1952,1961,manual,3
+strängnäs,strangnas,12271,Strängnäs stift,diocese,1962,1972,manual,3
+strängnäs,strangnas,12272,Strängnäs stift,diocese,1973,1973,manual,3
+strängnäs,strangnas,12273,Strängnäs stift,diocese,1974,1974,manual,3
+strängnäs,strangnas,12274,Strängnäs stift,diocese,1975,1977,manual,3
+strängnäs,strangnas,12275,Strängnäs stift,diocese,1978,1986,manual,3
+strängnäs,strangnas,12276,Strängnäs stift,diocese,1987,1990,manual,3
+"siende, tuhundra o åkerbo","siende, tuhundra o akerbo",40,"Siende, Tuhundra och Åkerbo",magistrates_court,1600,1637,abbreviation,6
+norra o södra tjusts,norra o sodra tjusts,44,Norra och Södra Tjusts,magistrates_court,1600,1864,abbreviation,6
+"siende, tuhundra o åkerbo","siende, tuhundra o akerbo",90,"Siende, Tuhundra och Åkerbo",magistrates_court,1638,1718,abbreviation,6
+"kinds, redvägs, vedens o ås","kinds, redvags, vedens o as",116,"Kinds, Redvägs, Vedens och Ås",magistrates_court,1680,1695,abbreviation,6
+marks o bollebygds,marks o bollebygds,120,Marks och Bollebygds,magistrates_court,1680,1695,abbreviation,6
+"flundre, väne o bjärke domsaga","flundre, vane o bjarke",125,"Flundre, Väne och Bjärke domsaga",magistrates_court,1680,1695,abbreviation,6
+"vättle, ale, kullings o gäsene","vattle, ale, kullings o gasene",127,"Vättle, Ale, Kullings och Gäsene",magistrates_court,1680,1695,abbreviation,6
+sunnerviken o norrvikens domsaga,sunnerviken o norrviken,143,Sunnerviken och Norrvikens domsaga,magistrates_court,1681,1682,abbreviation,6
+askims o östra hisings,askims o ostra hisings,145,Askims och Östra Hisings,magistrates_court,1681,1685,abbreviation,6
+orust o tjörns 1681-1697,orust o tjorns,146,Orust och Tjörns 1681-1697,magistrates_court,1681,1697,abbreviation,6
+"torna, bara o oxie","torna, bara o oxie",156,"Torna, Bara och Oxie",magistrates_court,1682,1690,abbreviation,6
+listers o sölvesborgs domsaga,listers o solvesborgs,157,Listers och Sölvesborgs domsaga,magistrates_court,1682,1970,abbreviation,6
+frosta o färs,frosta o far,158,Frosta och Färs,magistrates_court,1682,1876,abbreviation,6
+östra o medelstads domsaga,ostra o medelstad,159,Östra och Medelstads domsaga,magistrates_court,1682,1963,abbreviation,6
+norra o södra åsbo,norra o sodra asbo,160,Norra och Södra Åsbo,magistrates_court,1682,1690,abbreviation,6
+bräkne o karlshamns domsaga,brakne o karlshamns,161,Bräkne och Karlshamns domsaga,magistrates_court,1682,1970,abbreviation,6
+bjäre o luggude,bjare o luggude,167,Bjäre och Luggude,magistrates_court,1682,1690,abbreviation,6
+"gärds, albo o villands","gards, albo o villands",169,"Gärds, Albo och Villands",magistrates_court,1682,1860,abbreviation,6
+"vemmenhögs, ljunits o skytts","vemmenhogs, ljunits o skytts",170,"Vemmenhögs, Ljunits och Skytts",magistrates_court,1682,1690,abbreviation,6
+östra göinge o västra göinge,ostra goinge o vastra goinge,171,Östra Göinge och Västra Göinge,magistrates_court,1682,1860,abbreviation,6
+"rönnebergs, onsjö o harjagers 1683-1690","ronnebergs, onsjo o harjager",172,"Rönnebergs, Onsjö och Harjagers 1683-1690",magistrates_court,1683,1690,abbreviation,6
+"inlands nordre, inlands fräkne, lane o stångenäs","inlands nordre, inlands frakne, lane o stangenas",174,"Inlands Nordre, Inlands Fräkne, Lane och Stångenäs",magistrates_court,1683,1697,abbreviation,6
+sunnerviken o norrvikens domsaga,sunnerviken o norrviken,175,Sunnerviken och Norrvikens domsaga,magistrates_court,1683,1697,abbreviation,6
+"askims, östra hisings, västra hisings, inlands södre o inlands torpe","askims, ostra hisings, vastra hisings, inlands sodre o inlands torpe",176,"Askims, Östra Hisings, Västra Hisings, Inlands Södre och Inlands Torpe",magistrates_court,1686,1699,abbreviation,6
+"torna, bara o harjagers","torna, bara o harjager",186,"Torna, Bara och Harjagers",magistrates_court,1691,1850,abbreviation,6
+"vemmenhögs, oxie o skytts","vemmenhogs, oxie o skytts",187,"Vemmenhögs, Oxie och Skytts",magistrates_court,1691,1864,abbreviation,6
+"rönnebergs, onsjö o luggude","ronnebergs, onsjo o luggude",188,"Rönnebergs, Onsjö och Luggude",magistrates_court,1691,1850,abbreviation,6
+"bjäre, norra åsbo o södra åsbo","bjare, norra asbo o sodra asbo",189,"Bjäre, Norra Åsbo och Södra Åsbo",magistrates_court,1691,1877,abbreviation,6
+"marks, bollebygds o vedens","marks, bollebygds o veden",192,"Marks, Bollebygds och Vedens",magistrates_court,1696,1910,abbreviation,6
+"kullings, gäsene o ås","kullings, gasene o as",193,"Kullings, Gäsene och Ås",magistrates_court,1696,1848,abbreviation,6
+kinds o redvägs domsaga,kinds o redvag,194,Kinds och Redvägs domsaga,magistrates_court,1696,1970,abbreviation,6
+"inlands nordre, inlands fräkne, orust o tjörn","inlands nordre, inlands frakne, orust o tjorn",197,"Inlands Nordre, Inlands Fräkne, Orust och Tjörn",magistrates_court,1698,1856,abbreviation,6
+"askims, östra hisings, västra hisings, inlands södre o inlands torpe","askims, ostra hisings, vastra hisings, inlands sodre o inlands torpe",199,"Askims, Östra Hisings, Västra Hisings, Inlands Södre och Inlands Torpe",magistrates_court,1700,1856,abbreviation,6
+"nordals, sundals o valbo domsaga","nordals, sundals o valbo",219,"Nordals, Sundals och Valbo domsaga",magistrates_court,1770,1970,abbreviation,6
+tössbo o vedbo domsaga,tossbo o vedbo,220,Tössbo och Vedbo domsaga,magistrates_court,1770,1962,abbreviation,6
+näs o gillbergs,nas o gillbergs,232,Näs och Gillbergs,magistrates_court,1779,1829,abbreviation,6
+"bjärke, vättle o ale","bjarke, vattle o ale",237,"Bjärke, Vättle och Ale",magistrates_court,1782,1792,abbreviation,6
+flundre o väne,flundre o vane,238,Flundre och Väne,magistrates_court,1782,1792,abbreviation,6
+vartofta o frökinds domsaga,vartofta o frokinds,246,Vartofta och Frökinds domsaga,magistrates_court,1810,1970,abbreviation,6
+jösse o fryksdals,josse o fryksdal,266,Jösse och Fryksdals,magistrates_court,1830,1855,abbreviation,6
+herrestads o ljunits,herrestads o ljunit,277,Herrestads och Ljunits,magistrates_court,1848,1877,abbreviation,6
+ingelstads o järrestads domsaga,ingelstads o jarrestad,278,Ingelstads och Järrestads domsaga,magistrates_court,1848,1890,abbreviation,6
+gäsene o ås,gasene o as,279,Gäsene och Ås,magistrates_court,1849,1919,abbreviation,6
+"flundre, väne o bjärke domsaga","flundre, vane o bjarke",280,"Flundre, Väne och Bjärke domsaga",magistrates_court,1849,1970,abbreviation,6
+"vättle, ale o kullings domsaga","vattle, ale o kullings",281,"Vättle, Ale och Kullings domsaga",magistrates_court,1849,1970,abbreviation,6
+torna o bara domsaga,torna o bara,282,Torna och Bara domsaga,magistrates_court,1851,1943,abbreviation,6
+"rönnebergs, onsjö o harjagers domsaga 1851-1966","ronnebergs, onsjo o harjager",284,"Rönnebergs, Onsjö och Harjagers domsaga 1851-1966",magistrates_court,1851,1888,abbreviation,6
+orust o tjörns domsaga 1857-1970,orust o tjorns,290,Orust och Tjörns domsaga 1857-1970,magistrates_court,1857,1970,abbreviation,6
+"askims, östra hisings o västra hisings","askims, ostra hisings o vastra hisings",291,"Askims, Östra Hisings och Västra Hisings",magistrates_court,1857,1869,abbreviation,6
+gärds o albo domsaga,gards o albo,298,Gärds och Albo domsaga,magistrates_court,1861,1966,abbreviation,6
+östra göinge o villands,ostra goinge o villands,300,Östra Göinge och Villands,magistrates_court,1861,1917,abbreviation,6
+"åse, viste, barne o laske domsaga","ase, viste, barne o laske",305,"Åse, Viste, Barne och Laske domsaga",magistrates_court,1864,1970,abbreviation,6
+"kinnefjärdings, kinne o kållands domsaga","kinnefjardings, kinne o kallands",306,"Kinnefjärdings, Kinne och Kållands domsaga",magistrates_court,1864,1970,abbreviation,6
+oxie o skytts domsaga,oxie o skytts,312,Oxie och Skytts domsaga,magistrates_court,1865,1866,abbreviation,6
+trelleborgs rådhusrätt o magistrat,trelleborgs radhusratt o magistrat,313,Trelleborgs rådhusrätt och magistrat,magistrates_court,1867,1907,abbreviation,6
+oxie o skytts domsaga,oxie o skytts,314,Oxie och Skytts domsaga,magistrates_court,1867,1886,abbreviation,6
+"askims, hisings o sävedals domsaga","askims, hisings o savedal",316,"Askims, Hisings och Sävedals domsaga",magistrates_court,1870,1970,abbreviation,6
+björkekinds o östkinds,bjorkekinds o ostkinds,322,Björkekinds och Östkinds,magistrates_court,1874,1903,abbreviation,6
+"lösings, bråbo o memmings","losings, brabo o memmings",323,"Lösings, Bråbo och Memmings",magistrates_court,1874,1903,abbreviation,6
+"vemmenhögs, ljunits o  herrestads domsaga","vemmenhogs, ljunits o herrestad",337,"Vemmenhögs, Ljunits och  Herrestads domsaga",magistrates_court,1878,1886,abbreviation,6
+södra åsbo o björe domsaga,sodra asbo o bjore,338,Södra Åsbo och Björe domsaga,magistrates_court,1878,1970,abbreviation,6
+oppunda o villåttinge domsaga,oppunda o villattinge,344,Oppunda och Villåttinge domsaga,magistrates_court,1879,1970,abbreviation,6
+oxie o skytts domsaga,oxie o skytts,354,Oxie och Skytts domsaga,magistrates_court,1887,1907,abbreviation,6
+"vemmenhögs, ljunits o  herrestads domsaga","vemmenhogs, ljunits o herrestad",355,"Vemmenhögs, Ljunits och  Herrestads domsaga",magistrates_court,1887,1890,abbreviation,6
+"åkerbo, bankekinds o hanekinds domsaga","akerbo, bankekinds o hanekinds",357,"Åkerbo, Bankekinds och Hanekinds domsaga",magistrates_court,1889,1923,abbreviation,6
+"rönnebergs, onsjö o harjagers domsaga 1851-1966","ronnebergs, onsjo o harjager",358,"Rönnebergs, Onsjö och Harjagers domsaga 1851-1966",magistrates_court,1889,1966,abbreviation,6
+"vemmenhögs, ljunits o  herrestads domsaga","vemmenhogs, ljunits o herrestad",359,"Vemmenhögs, Ljunits och  Herrestads domsaga",magistrates_court,1891,1960,abbreviation,6
+"tveta, vista o mo domsaga","tveta, vista o mo",360,"Tveta, Vista och Mo domsaga",magistrates_court,1891,1935,abbreviation,6
+ingelstads o järrestads domsaga,ingelstads o jarrestad,361,Ingelstads och Järrestads domsaga,magistrates_court,1891,1966,abbreviation,6
+nätra o nordingrå,natra o nordingra,365,Nätra och Nordingrå,magistrates_court,1901,1929,abbreviation,6
+själevads o arnäs domsaga,sjalevads o arnas,366,Själevads och Arnäs domsaga,magistrates_court,1901,1929,abbreviation,6
+nås o malungs domsaga,nas o malungs,368,Nås och Malungs domsaga,magistrates_court,1902,1970,abbreviation,6
+"hammarkinds, stegeborgs o skärkinds domsaga","hammarkinds, stegeborgs o skarkinds",373,"Hammarkinds, Stegeborgs och Skärkinds domsaga",magistrates_court,1904,1946,abbreviation,6
+"aska, dals o bobergs domsaga","aska, dals o bobergs",377,"Aska, Dals och Bobergs domsaga",magistrates_court,1907,1947,abbreviation,6
+oxie o skytts domsaga,oxie o skytts,378,Oxie och Skytts domsaga,magistrates_court,1908,1963,abbreviation,6
+trelleborgs rådhusrätt o magistrat,trelleborgs radhusratt o magistrat,379,Trelleborgs rådhusrätt och magistrat,magistrates_court,1908,1963,abbreviation,6
+"marks, bollebygds o vedens","marks, bollebygds o veden",381,"Marks, Bollebygds och Vedens",magistrates_court,1911,1919,abbreviation,6
+frosta o eslövs domsaga,frosta o eslov,387,Frosta och Eslövs domsaga,magistrates_court,1916,1970,abbreviation,6
+sollentuna o färentuna domsaga,sollentuna o farentuna,388,Sollentuna och Färentuna domsaga,magistrates_court,1916,1970,abbreviation,6
+valkebo o gullbergs,valkebo o gullbergs,391,Valkebo och Gullbergs,magistrates_court,1918,1923,abbreviation,6
+aspelands o handbörds domsaga,aspelands o handbords,392,Aspelands och Handbörds domsaga,magistrates_court,1918,1963,abbreviation,6
+lysings o göstrings domsaga,lysings o gostrings,393,Lysings och Göstrings domsaga,magistrates_court,1919,1923,abbreviation,6
+sevede o tunaläns domsaga,sevede o tunalan,419,Sevede och Tunaläns domsaga,magistrates_court,1936,1968,abbreviation,6
+"tveta, vista o mo domsaga","tveta, vista o mo",421,"Tveta, Vista och Mo domsaga",magistrates_court,1936,1968,abbreviation,6
+torna o bara domsaga,torna o bara,432,Torna och Bara domsaga,magistrates_court,1944,1970,abbreviation,6
+"hammarkinds, stegeborgs o skärkinds domsaga","hammarkinds, stegeborgs o skarkinds",434,"Hammarkinds, Stegeborgs och Skärkinds domsaga",magistrates_court,1947,1970,abbreviation,6
+norra o södra vedbo domsaga,norra o sodra vedbo,437,Norra och Södra Vedbo domsaga,magistrates_court,1948,1970,abbreviation,6
+"aska, dals o bobergs domsaga","aska, dals o bobergs",439,"Aska, Dals och Bobergs domsaga",magistrates_court,1948,1970,abbreviation,6
+norra möre o stranda domsaga,norra more o stranda,440,Norra Möre och Stranda domsaga,magistrates_court,1948,1968,abbreviation,6
+östbo o västbo domsaga,ostbo o vastbo,443,Östbo och Västbo domsaga,magistrates_court,1948,1968,abbreviation,6
+kinda o ydre domsaga,kinda o ydre,447,Kinda och Ydre domsaga,magistrates_court,1948,1963,abbreviation,6
+bråbygdens o finspånga läns domsaga,brabygdens o finspanga lan,448,Bråbygdens och Finspånga läns domsaga,magistrates_court,1948,1970,abbreviation,6
+"vemmenhögs, ljunits o  herrestads domsaga","vemmenhogs, ljunits o herrestad",459,"Vemmenhögs, Ljunits och  Herrestads domsaga",magistrates_court,1961,1966,abbreviation,6
+tössbo o vedbo domsaga,tossbo o vedbo,460,Tössbo och Vedbo domsaga,magistrates_court,1963,1970,abbreviation,6
+östra o medelstads domsaga,ostra o medelstad,463,Östra och Medelstads domsaga,magistrates_court,1964,1970,abbreviation,6
+oxie o skytts domsaga,oxie o skytts,464,Oxie och Skytts domsaga,magistrates_court,1964,1968,abbreviation,6
+"ingelstads, järrestads o albo domsaga","ingelstads, jarrestads o albo",477,"Ingelstads, Järrestads och Albo domsaga",magistrates_court,1967,1970,abbreviation,6
+möre o ölands domsaga,more o olands,488,Möre och Ölands domsaga,magistrates_court,1969,1970,abbreviation,6
+östbo o västbo domsaga,ostbo o vastbo,493,Östbo och Västbo domsaga,magistrates_court,1969,1970,abbreviation,6
+oxie o skytts domsaga,oxie o skytts,494,Oxie och Skytts domsaga,magistrates_court,1969,1970,abbreviation,6
+"tveta, vista o mo domsaga","tveta, vista o mo",495,"Tveta, Vista och Mo domsaga",magistrates_court,1969,1970,abbreviation,6
+rådhusrätten o magistraten i eksjö,radhusratten o magistraten i eksjo,502,Rådhusrätten och Magistraten i Eksjö,bailiwick,1600,1945,abbreviation,6
+"askims, sävedals o östra hisings fögderi","askims, savedals o ostra hisings",536,"Askims, Sävedals och Östra Hisings fögderi",bailiwick,1686,1739,abbreviation,6
+redvägs o kinds fögderi,redvags o kinds,539,Redvägs och Kinds fögderi,bailiwick,1686,1917,abbreviation,6
+orusts o tjörns fögderi,orusts o tjorns,540,Orusts och Tjörns fögderi,bailiwick,1686,1917,abbreviation,6
+"åkers, frötuna o länna, värmdö fögderi","akers, frotuna o lanna, varmdo",553,"Åkers, Frötuna och Länna, Värmdö fögderi",bailiwick,1720,1881,abbreviation,6
+göstrings o vifolka fögderi,gostrings o vifolka,554,Göstrings och Vifolka fögderi,bailiwick,1720,1899,abbreviation,6
+nora o linde fögderi,nora o linde,555,Nora och Linde fögderi,bailiwick,1720,1856,abbreviation,6
+"tveta, vista o mo fögderi","tveta, vista o mo",557,"Tveta, Vista och Mo fögderi",bailiwick,1720,1752,abbreviation,6
+kinnevalds o norrvidinge fögderi 1720-1917,kinnevalds o norrvidinge,560,Kinnevalds och Norrvidinge fögderi 1720-1917,bailiwick,1720,1917,abbreviation,6
+"torna, bara o harjagers fögderi","torna, bara o harjager",561,"Torna, Bara och Harjagers fögderi",bailiwick,1720,1863,abbreviation,6
+"gullbergs, bobergs o valkebo fögderi","gullbergs, bobergs o valkebo",576,"Gullbergs, Bobergs och Valkebo fögderi",bailiwick,1720,1899,abbreviation,6
+hammarkinds o skärkinds fögderi,hammarkinds o skarkinds,577,Hammarkinds och Skärkinds fögderi,bailiwick,1720,1917,abbreviation,6
+bräkne o listers fögderi,brakne o lister,578,Bräkne och Listers fögderi,bailiwick,1720,1867,abbreviation,6
+norra o södra åsbo samt bjäre fögderi,norra o sodra asbo samt bjare,580,Norra och Södra Åsbo samt Bjäre fögderi,bailiwick,1720,1886,abbreviation,6
+rådhusrätten o magistraten i gränna,radhusratten o magistraten i granna,586,Rådhusrätten och Magistraten i Gränna,bailiwick,1720,1945,abbreviation,6
+norra o södra vedbo fögderi,norra o sodra vedbo,589,Norra och Södra Vedbo fögderi,bailiwick,1720,1885,abbreviation,6
+herrestads o ljunits fögderi,herrestads o ljunit,591,Herrestads och Ljunits fögderi,bailiwick,1720,1873,abbreviation,6
+"villands, gärds o albo fögderi","villands, gards o albo",600,"Villands, Gärds och Albo fögderi",bailiwick,1720,1884,abbreviation,6
+frosta o färs fögderi,frosta o far,607,Frosta och Färs fögderi,bailiwick,1720,1887,abbreviation,6
+"norra möre, stranda o handbörds fögderi","norra more, stranda o handbords",609,"Norra Möre, Stranda och Handbörds fögderi",bailiwick,1720,1863,abbreviation,6
+"finspånga läns, bråbo o memmings fögderi","finspanga lans, brabo o memmings",610,"Finspånga läns, Bråbo och Memmings fögderi",bailiwick,1720,1899,abbreviation,6
+"lysings, dals o aska fögderi","lysings, dals o aska",617,"Lysings, Dals och Aska fögderi",bailiwick,1720,1899,abbreviation,6
+leke o karlskoga fögderi,leke o karlskoga,619,Leke och Karlskoga fögderi,bailiwick,1720,1856,abbreviation,6
+rådhusrätten o magistraten i norrköping,radhusratten o magistraten i norrkoping,623,Rådhusrätten och Magistraten i Norrköping,bailiwick,1720,1945,abbreviation,6
+"åkerbo, bankekinds o hanekinds fögderi","akerbo, bankekinds o hanekinds",627,"Åkerbo, Bankekinds och Hanekinds fögderi",bailiwick,1720,1910,abbreviation,6
+östra o västra göinge fögderi,ostra o vastra goinge,631,Östra och Västra Göinge fögderi,bailiwick,1720,1884,abbreviation,6
+kinda o ydre fögderi,kinda o ydre,632,Kinda och Ydre fögderi,bailiwick,1720,1945,abbreviation,6
+norra o södra tjusts fögderi,norra o sodra tjusts,642,Norra och Södra Tjusts fögderi,bailiwick,1720,1863,abbreviation,6
+"oxie, skytts o vemmenhögs fögderi","oxie, skytts o vemmenhog",651,"Oxie, Skytts och Vemmenhögs fögderi",bailiwick,1720,1863,abbreviation,6
+svartlösa o öknebo fögderi,svartlosa o oknebo,658,Svartlösa och Öknebo fögderi,bailiwick,1720,1839,abbreviation,6
+"tunaläns, sevede o aspelands fögderi","tunalans, sevede o aspelands",665,"Tunaläns, Sevede och Aspelands fögderi",bailiwick,1720,1863,abbreviation,6
+frösåkers o närdinghundra fögderi,frosakers o nardinghundra,668,Frösåkers och Närdinghundra fögderi,bailiwick,1720,1881,abbreviation,6
+ingelstads o järrestads fögderi,ingelstads o jarrestad,670,Ingelstads och Järrestads fögderi,bailiwick,1720,1890,abbreviation,6
+"långhundra, seminghundra o ärlinghundra fögderi","langhundra, seminghundra o arlinghundra",671,"Långhundra, Seminghundra och Ärlinghundra fögderi",bailiwick,1720,1881,abbreviation,6
+östra o medelstads fögderi,ostra o medelstad,674,Östra och Medelstads fögderi,bailiwick,1720,1885,abbreviation,6
+"tveta, vista o mo fögderi","tveta, vista o mo",686,"Tveta, Vista och Mo fögderi",bailiwick,1753,1868,abbreviation,6
+"sotholms, svartlösa o öknebo fögderi","sotholms, svartlosa o oknebo",708,"Sotholms, Svartlösa och Öknebo fögderi",bailiwick,1840,1855,abbreviation,6
+"sotholms, svartlösa o öknebo fögderi","sotholms, svartlosa o oknebo",716,"Sotholms, Svartlösa och Öknebo fögderi",bailiwick,1856,1885,abbreviation,6
+"rönneberga, onsjö o harjagers fögderi","ronneberga, onsjo o harjager",730,"Rönneberga, Onsjö och Harjagers fögderi",bailiwick,1864,1887,abbreviation,6
+tunaläns o sevede fögderi,tunalans o sevede,731,Tunaläns och Sevede fögderi,bailiwick,1864,1945,abbreviation,6
+norra möre o stranda fögderi,norra more o stranda,733,Norra Möre och Stranda fögderi,bailiwick,1864,1872,abbreviation,6
+aspelands o handbörds fögderi,aspelands o handbords,734,Aspelands och Handbörds fögderi,bailiwick,1864,1945,abbreviation,6
+torna o bara fögderi,torna o bara,738,Torna och Bara fögderi,bailiwick,1864,1887,abbreviation,6
+bräkne o listers fögderi,brakne o lister,750,Bräkne och Listers fögderi,bailiwick,1868,1885,abbreviation,6
+"tveta, vista o mo fögderi","tveta, vista o mo",759,"Tveta, Vista och Mo fögderi",bailiwick,1869,1909,abbreviation,6
+norra möre o stranda fögderi,norra more o stranda,764,Norra Möre och Stranda fögderi,bailiwick,1873,1945,abbreviation,6
+färentuna o sollentuna fögderi,farentuna o sollentuna,778,Färentuna och Sollentuna fögderi,bailiwick,1882,1885,abbreviation,6
+"frösåkers, närdinghundra, väddö o häverö fögderi","frosakers, nardinghundra, vaddo o havero",788,"Frösåkers, Närdinghundra, Väddö och Häverö fögderi",bailiwick,1882,1885,abbreviation,6
+östra o västra göinge fögderi,ostra o vastra goinge,794,Östra och Västra Göinge fögderi,bailiwick,1885,1886,abbreviation,6
+"villands, gärds o albo fögderi","villands, gards o albo",795,"Villands, Gärds och Albo fögderi",bailiwick,1885,1917,abbreviation,6
+norra o södra vedbo fögderi,norra o sodra vedbo,810,Norra och Södra Vedbo fögderi,bailiwick,1886,1945,abbreviation,6
+norra o södra åsbo samt bjäre fögderi,norra o sodra asbo samt bjare,817,Norra och Södra Åsbo samt Bjäre fögderi,bailiwick,1887,1917,abbreviation,6
+östra o västra göinge fögderi,ostra o vastra goinge,818,Östra och Västra Göinge fögderi,bailiwick,1887,1917,abbreviation,6
+frosta o färs fögderi,frosta o far,819,Frosta och Färs fögderi,bailiwick,1888,1917,abbreviation,6
+"rönneberga, onsjö o harjagers fögderi","ronneberga, onsjo o harjager",821,"Rönneberga, Onsjö och Harjagers fögderi",bailiwick,1888,1888,abbreviation,6
+"rönneberga, onsjö o harjagers fögderi","ronneberga, onsjo o harjager",822,"Rönneberga, Onsjö och Harjagers fögderi",bailiwick,1889,1917,abbreviation,6
+"aska, dals o bobergs fögderi","aska, dals o bobergs",836,"Aska, Dals och Bobergs fögderi",bailiwick,1900,1917,abbreviation,6
+lysings o göstrings fögderi,lysings o gostrings,837,Lysings och Göstrings fögderi,bailiwick,1900,1917,abbreviation,6
+"björkekind, östkind, lösing, bråbo o memmin fögderi","bjorkekind, ostkind, losing, brabo o memmin",841,"Björkekind, Östkind, Lösing, Bråbo och Memmin fögderi",bailiwick,1900,1915,abbreviation,6
+"tveta, vista o mo fögderi","tveta, vista o mo",851,"Tveta, Vista och Mo fögderi",bailiwick,1910,1945,abbreviation,6
+"åkerbo, bankekinds o hanekinds fögderi","akerbo, bankekinds o hanekinds",856,"Åkerbo, Bankekinds och Hanekinds fögderi",bailiwick,1911,1917,abbreviation,6
+"björkekind, östkind, lösing, bråbo o memmin fögderi","bjorkekind, ostkind, losing, brabo o memmin",867,"Björkekind, Östkind, Lösing, Bråbo och Memmin fögderi",bailiwick,1916,1917,abbreviation,6
+orusts o tjörns fögderi,orusts o tjorns,911,Orusts och Tjörns fögderi,bailiwick,1918,1945,abbreviation,6
+allbo o norrvidinge fögderi,allbo o norrvidinge,930,Allbo och Norrvidinge fögderi,bailiwick,1918,1945,abbreviation,6
+konga o kinnevalds fögderi,konga o kinnevalds,947,Konga och Kinnevalds fögderi,bailiwick,1918,1945,abbreviation,6
+kinda o ydre fögderi,kinda o ydre,1014,Kinda och Ydre fögderi,bailiwick,1946,1951,abbreviation,6
+kinnevalds o norrvidinge fögderi 1946-1966,kinnevalds o norrvidinge,1063,Kinnevalds och Norrvidinge fögderi 1946-1966,bailiwick,1946,1951,abbreviation,6
+kinnevalds o norrvidinge fögderi 1946-1966,kinnevalds o norrvidinge,1190,Kinnevalds och Norrvidinge fögderi 1946-1966,bailiwick,1952,1966,abbreviation,6
+kinda o ydre fögderi,kinda o ydre,1202,Kinda och Ydre fögderi,bailiwick,1952,1966,abbreviation,6
+bro o vätö skeppslag,bro o vato skeppslag,1444,Bro och Vätö skeppslag,hundred,1600,1913,abbreviation,6
+frötuna o länna skeppslag,frotuna o lanna skeppslag,1512,Frötuna och Länna skeppslag,hundred,1600,1621,abbreviation,6
+väddö o häverö skeppslag,vaddo o havero skeppslag,1546,Väddö och Häverö skeppslag,hundred,1600,1913,abbreviation,6
+lindes o ramsbergs bergslag,lindes o ramsbergs bergslag,1593,Lindes och Ramsbergs bergslag,hundred,1624,1642,abbreviation,6
+väddö o häverö skeppslag,vaddo o havero skeppslag,1636,Väddö och Häverö skeppslag,hundred,1914,1990,abbreviation,6
+bro o vätö skeppslag,bro o vato skeppslag,1637,Bro och Vätö skeppslag,hundred,1914,1990,abbreviation,6
+varvs o styra kommun,varvs o styra,1969,Varvs och Styra kommun,municipality,1863,1951,abbreviation,6
+bro o låssa kommun,bro o lassa,2068,Bro och Låssa kommun,municipality,1863,1951,abbreviation,6
+igelösa o odarslövs kommun,igelosa o odarslov,2569,Igelösa och Odarslövs kommun,municipality,1863,1951,abbreviation,6
+sankt olofs o sankt pers kommun,sankt olofs o sankt per,2765,Sankt Olofs och Sankt Pers kommun,municipality,1863,1947,abbreviation,6
+vänge o läby kommun,vange o laby,4158,Vänge och Läby kommun,municipality,1895,1933,abbreviation,6
+ekeby o gällersta kommun,ekeby o gallersta,4400,Ekeby och Gällersta kommun,municipality,1952,1970,abbreviation,6
+marks o bollebygds kontrakt,marks o bollebygds,5251,Marks och Bollebygds kontrakt,contract,1600,1974,abbreviation,6
+tunaläns o sevede kontrakt,tunalans o sevede,5260,Tunaläns och Sevede kontrakt,contract,1600,1961,abbreviation,6
+vifolka o valkebo kontrakt,vifolka o valkebo,5263,Vifolka och Valkebo kontrakt,contract,1600,1942,abbreviation,6
+listers o bräkne kontrakt,listers o brakne,5279,Listers och Bräkne kontrakt,contract,1600,1961,abbreviation,6
+ljunits o herrestads kontrakt,ljunits o herrestad,5284,Ljunits och Herrestads kontrakt,contract,1600,1849,abbreviation,6
+stranda o handbörds kontrakt,stranda o handbords,5300,Stranda och Handbörds kontrakt,contract,1600,1732,abbreviation,6
+olands o frösåkers kontrakt,olands o frosaker,5318,Olands och Frösåkers kontrakt,contract,1600,1961,abbreviation,6
+fjäre o viske kontrakt,fjare o viske,5365,Fjäre och Viske kontrakt,contract,1600,1977,abbreviation,6
+gullbergs o bobergs kontrakt,gullbergs o bobergs,5372,Gullbergs och Bobergs kontrakt,contract,1600,1942,abbreviation,6
+kinnevalds o norrvidinge kontrakt,kinnevalds o norrvidinge,5388,Kinnevalds och Norrvidinge kontrakt,contract,1600,1985,abbreviation,6
+stranda o handbörds kontrakt,stranda o handbords,5433,Stranda och Handbörds kontrakt,contract,1733,1990,abbreviation,6
+orusts o tjörns kontrakt,orusts o tjorns,5454,Orusts och Tjörns kontrakt,contract,1830,1961,abbreviation,6
+ljunits o herrestads kontrakt,ljunits o herrestad,5457,Ljunits och Herrestads kontrakt,contract,1850,1891,abbreviation,6
+ljunits o herrestads kontrakt,ljunits o herrestad,5475,Ljunits och Herrestads kontrakt,contract,1892,1946,abbreviation,6
+ulleråker o norunda kontrakt,ulleraker o norunda,5500,Ulleråker och Norunda kontrakt,contract,1928,1961,abbreviation,6
+hagunda o lagunda kontrakt,hagunda o lagunda,5501,Hagunda och Lagunda kontrakt,contract,1928,1945,abbreviation,6
+seminghundra o ärlinghundra kontrakt,seminghundra o arlinghundra,5504,Seminghundra och Ärlinghundra kontrakt,contract,1929,1951,abbreviation,6
+trögds o åsunda kontrakt,trogds o asunda,5511,Trögds och Åsunda kontrakt,contract,1936,1942,abbreviation,6
+domprosteriet o vaksala kontrakt,domprosteriet o vaksala,5513,Domprosteriet och Vaksala kontrakt,contract,1938,1961,abbreviation,6
+vifolka o valkebo kontrakt,vifolka o valkebo,5525,Vifolka och Valkebo kontrakt,contract,1943,1961,abbreviation,6
+trögds o åsunda kontrakt,trogds o asunda,5527,Trögds och Åsunda kontrakt,contract,1943,1990,abbreviation,6
+dals o lysings kontrakt,dals o lysings,5533,Dals och Lysings kontrakt,contract,1943,1961,abbreviation,6
+ydre o södra vedbo kontrakt,ydre o sodra vedbo,5534,Ydre och Södra Vedbo kontrakt,contract,1943,1961,abbreviation,6
+gullbergs o bobergs kontrakt,gullbergs o bobergs,5536,Gullbergs och Bobergs kontrakt,contract,1943,1961,abbreviation,6
+hagunda o lagunda kontrakt,hagunda o lagunda,5545,Hagunda och Lagunda kontrakt,contract,1946,1961,abbreviation,6
+ljunits o herrestads kontrakt,ljunits o herrestad,5547,Ljunits och Herrestads kontrakt,contract,1947,1961,abbreviation,6
+ale o vättle kontrakt,ale o vattle,5551,Ale och Vättle kontrakt,contract,1949,1961,abbreviation,6
+seminghundra o ärlinghundra kontrakt,seminghundra o arlinghundra,5560,Seminghundra och Ärlinghundra kontrakt,contract,1952,1961,abbreviation,6
+sevede o aspelands kontrakt,sevede o aspelands,5570,Sevede och Aspelands kontrakt,contract,1962,1972,abbreviation,6
+närdinghundra o lyhundra kontrakt,nardinghundra o lyhundra,5572,Närdinghundra och Lyhundra kontrakt,contract,1962,1973,abbreviation,6
+vifolka o valkebo kontrakt,vifolka o valkebo,5574,Vifolka och Valkebo kontrakt,contract,1962,1990,abbreviation,6
+olands o frösåkers kontrakt,olands o frosaker,5586,Olands och Frösåkers kontrakt,contract,1962,1971,abbreviation,6
+ydre o södra vedbo kontrakt,ydre o sodra vedbo,5598,Ydre och Södra Vedbo kontrakt,contract,1962,1990,abbreviation,6
+onsjö o harjagers kontrakt,onsjo o harjager,5608,Onsjö och Harjagers kontrakt,contract,1962,1973,abbreviation,6
+aska o dals kontrakt,aska o dal,5613,Aska och Dals kontrakt,contract,1962,1974,abbreviation,6
+gärds o albo kontrakt,gards o albo,5623,Gärds och Albo kontrakt,contract,1962,1973,abbreviation,6
+södra tjusts o tunaläns kontrakt,sodra tjusts o tunalan,5624,Södra Tjusts och Tunaläns kontrakt,contract,1962,1972,abbreviation,6
+bankekinds o skärkinds kontrakt,bankekinds o skarkinds,5631,Bankekinds och Skärkinds kontrakt,contract,1962,1977,abbreviation,6
+vikbolands o hammarkinds kontrakt,vikbolands o hammarkinds,5634,Vikbolands och Hammarkinds kontrakt,contract,1962,1990,abbreviation,6
+daga o hölebo kontrakt,daga o holebo,5644,Daga och Hölebo kontrakt,contract,1962,1974,abbreviation,6
+ale o vättle kontrakt,ale o vattle,5651,Ale och Vättle kontrakt,contract,1962,1990,abbreviation,6
+listers o bräkne kontrakt,listers o brakne,5655,Listers och Bräkne kontrakt,contract,1962,1990,abbreviation,6
+oxie o skytts kontrakt,oxie o skytts,5658,Oxie och Skytts kontrakt,contract,1962,1973,abbreviation,6
+orusts o tjörns kontrakt,orusts o tjorns,5659,Orusts och Tjörns kontrakt,contract,1962,1990,abbreviation,6
+gullbergs o bobergs kontrakt,gullbergs o bobergs,5661,Gullbergs och Bobergs kontrakt,contract,1962,1973,abbreviation,6
+göstrings o lysings kontrakt,gostrings o lysings,5671,Göstrings och Lysings kontrakt,contract,1962,1973,abbreviation,6
+"vemmenhög, ljunit o herrestads kontrakt","vemmenhog, ljunit o herrestad",5672,"Vemmenhög, Ljunit och Herrestads kontrakt",contract,1962,1973,abbreviation,6
+olands o frösåkers kontrakt,olands o frosaker,5680,Olands och Frösåkers kontrakt,contract,1972,1990,abbreviation,6
+sevede o aspelands kontrakt,sevede o aspelands,5683,Sevede och Aspelands kontrakt,contract,1973,1990,abbreviation,6
+onsjö o harjagers kontrakt,onsjo o harjager,5695,Onsjö och Harjagers kontrakt,contract,1974,1990,abbreviation,6
+närdinghundra o lyhundra kontrakt,nardinghundra o lyhundra,5702,Närdinghundra och Lyhundra kontrakt,contract,1974,1990,abbreviation,6
+göstrings o lysings kontrakt,gostrings o lysings,5707,Göstrings och Lysings kontrakt,contract,1974,1990,abbreviation,6
+gullbergs o bobergs kontrakt,gullbergs o bobergs,5713,Gullbergs och Bobergs kontrakt,contract,1974,1974,abbreviation,6
+"vemmenhög, ljunit o herrestads kontrakt","vemmenhog, ljunit o herrestad",5717,"Vemmenhög, Ljunit och Herrestads kontrakt",contract,1974,1990,abbreviation,6
+daga o hölebo kontrakt,daga o holebo,5725,Daga och Hölebo kontrakt,contract,1975,1990,abbreviation,6
+marks o bollebygds kontrakt,marks o bollebygds,5727,Marks och Bollebygds kontrakt,contract,1975,1990,abbreviation,6
+fjäre o viske kontrakt,fjare o viske,5733,Fjäre och Viske kontrakt,contract,1978,1990,abbreviation,6
+bankekinds o skärkinds kontrakt,bankekinds o skarkinds,5735,Bankekinds och Skärkinds kontrakt,contract,1978,1990,abbreviation,6
+kinnevalds o norrvidinge kontrakt,kinnevalds o norrvidinge,5757,Kinnevalds och Norrvidinge kontrakt,contract,1986,1990,abbreviation,6
+varv o styra församling,varv o styra,8422,Varv och Styra församling,parish,1862,1990,abbreviation,6
+vänge o läby församling,vange o laby,8488,Vänge och Läby församling,parish,1895,1933,abbreviation,6
+närke o värmlands län,narke o varmlands,8846,Närke och Värmlands län,county,1720,1778,abbreviation,6
+varv o styra pastorat,varv o styra,11689,Varv och Styra pastorat,pastorship,1962,1990,abbreviation,6
+möre o ölands tingsrätt,more o olands,12011,Möre och Ölands tingsrätt,district_court,1971,1982,abbreviation,6
+sollentuna o färentuna tingsrätt,sollentuna o farentuna,12060,Sollentuna och Färentuna tingsrätt,district_court,1971,1976,abbreviation,6
+oxie o skytts fögderi,oxie o skytts,12285,Oxie och Skytts fögderi,bailiwick,1908,1910,abbreviation,6
+ingelstads o järrestads fögderi,ingelstads o jarrestad,12288,Ingelstads och Järrestads fögderi,bailiwick,1891,1917,abbreviation,6
+oxie o skytts fögderi,oxie o skytts,12292,Oxie och Skytts fögderi,bailiwick,1915,1917,abbreviation,6
+torna o bara fögderi,torna o bara,12302,Torna och Bara fögderi,bailiwick,1888,1913,abbreviation,6
+oxie o skytts fögderi,oxie o skytts,12313,Oxie och Skytts fögderi,bailiwick,1888,1907,abbreviation,6
+torna o bara fögderi,torna o bara,12318,Torna och Bara fögderi,bailiwick,1914,1917,abbreviation,6
+oxie o skytts fögderi,oxie o skytts,12325,Oxie och Skytts fögderi,bailiwick,1911,1914,abbreviation,6
+oxie o skytts fögderi,oxie o skytts,12328,Oxie och Skytts fögderi,bailiwick,1874,1887,abbreviation,6
+"oxie, skytts o vemmenhögs fögderi","oxie, skytts o vemmenhog",12331,"Oxie, Skytts och Vemmenhögs fögderi",bailiwick,1864,1873,abbreviation,6
+varv o styra pastorat,varv o styra,12367,Varv och Styra pastorat,pastorship,1922,1961,abbreviation,6
+varv o styra pastorat,varv o styra,12376,Varv och Styra pastorat,pastorship,1600,1921,abbreviation,6
+hovrätten över skåne o blekinge,hovratten over skane o blekinge,12381,Hovrätten över Skåne och Blekinge,court_of_appeal,1820,1970,abbreviation,6
+hovrätten över skåne o blekinge,hovratten over skane o blekinge,12390,Hovrätten över Skåne och Blekinge,court_of_appeal,1971,1990,abbreviation,6
+linde o nora domsaga,linde o nora,12400,Linde och Nora domsaga,magistrates_court,1951,1951,abbreviation,6
+linde o nora domsaga,linde o nora,12402,Linde och Nora domsaga,magistrates_court,1952,1970,abbreviation,6
+älvdals o nyeds domsaga,alvdals o nyed,12407,Älvdals och Nyeds domsaga,magistrates_court,1865,1970,abbreviation,6
+askers o sköllersta,askers o skollersta,12410,Askers och Sköllersta,magistrates_court,1774,1783,abbreviation,6
+lindes o ramsbergs bergslag,lindes o ramsbergs bergslag,12575,Lindes och Ramsbergs bergslag,hundred,1643,1895,abbreviation,6
+lindes o ramsbergs bergslag,lindes o ramsbergs bergslag,12576,Lindes och Ramsbergs bergslag,hundred,1896,1966,abbreviation,6
+lindes o ramsbergs bergslag,lindes o ramsbergs bergslag,12577,Lindes och Ramsbergs bergslag,hundred,1967,1990,abbreviation,6
+nora o hjulsjö bergslag,nora o hjulsjo bergslag,12608,Nora och Hjulsjö bergslag,hundred,1600,1632,abbreviation,6
+nora o hjulsjö bergslag,nora o hjulsjo bergslag,12609,Nora och Hjulsjö bergslag,hundred,1633,1639,abbreviation,6
+nora o hjulsjö bergslag,nora o hjulsjo bergslag,12610,Nora och Hjulsjö bergslag,hundred,1640,1659,abbreviation,6
+nora o hjulsjö bergslag,nora o hjulsjo bergslag,12611,Nora och Hjulsjö bergslag,hundred,1660,1870,abbreviation,6
+nora o hjulsjö bergslag,nora o hjulsjo bergslag,12612,Nora och Hjulsjö bergslag,hundred,1871,1973,abbreviation,6
+nora o hjulsjö bergslag,nora o hjulsjo bergslag,12613,Nora och Hjulsjö bergslag,hundred,1974,1990,abbreviation,6
+frötuna o länna skeppslag,frotuna o lanna skeppslag,12755,Frötuna och Länna skeppslag,hundred,1622,1649,abbreviation,6
+frötuna o länna skeppslag,frotuna o lanna skeppslag,12756,Frötuna och Länna skeppslag,hundred,1650,1990,abbreviation,6
+grythytte o hällefors bergslag,grythytte o hallefors bergslag,12775,Grythytte och Hällefors bergslag,hundred,1633,1643,abbreviation,6
+grythytte o hällefors bergslag,grythytte o hallefors bergslag,12776,Grythytte och Hällefors bergslag,hundred,1644,1990,abbreviation,6
+"västra hisings, inlands södre och torpe","vastra hisings, inlands sodre och torpe",173,"Västra Hisings, Inlands Södre o Torpe",magistrates_court,1683,1685,abbreviation,6
+stenkyrka församling (och-län),stenkyrka forsamling,6091,Stenkyrka församling (O-län),parish,1600,1793,abbreviation,6
+lundby församling (och-län),lundby forsamling,6150,Lundby församling (O-län),parish,1600,1960,abbreviation,6
+ljungs församling (och-län),ljungs forsamling,6352,Ljungs församling (O-län),parish,1600,1990,abbreviation,6
+bro församling (och-län),bro forsamling,6404,Bro församling (O-län),parish,1600,1990,abbreviation,6
+solberga församling (och-län),solberga forsamling,6594,Solberga församling (O-län),parish,1600,1990,abbreviation,6
+herrestads församling (och-län),herrestads forsamling,7564,Herrestads församling (O-län),parish,1600,1990,abbreviation,6
+hede församling (och-län),hede forsamling,7625,Hede församling (O-län),parish,1600,1990,abbreviation,6
+torps församling (och-län),torps forsamling,7629,Torps församling (O-län),parish,1600,1990,abbreviation,6
+råda församling (och-län),rada forsamling,7702,Råda församling (O-län),parish,1600,1990,abbreviation,6
+mo församling (och-län),mo forsamling,7988,Mo församling (O-län),parish,1600,1990,abbreviation,6
+stenkyrka församling (och-län),stenkyrka forsamling,8326,Stenkyrka församling (O-län),parish,1794,1990,abbreviation,6
+lundby församling (och-län),lundby forsamling,8697,Lundby församling (O-län),parish,1961,1990,abbreviation,6
+göteborgs och bohus län,goteborgs och bohus,8843,Göteborgs o Bohus län,county,1686,1966,abbreviation,6
+göteborgs och bohus län,goteborgs och bohus,8886,Göteborgs o Bohus län,county,1967,1970,abbreviation,6
+göteborgs och bohus län,goteborgs och bohus,12280,Göteborgs o Bohus län,county,1971,1990,abbreviation,6
+s:t sigfrids kommun,s:t sigfrid,2168,Sankt Sigfrids kommun,municipality,1863,1951,abbreviation,6
+s:t anna kommun,s:t anna,2481,Sankt Anna kommun,municipality,1863,1951,abbreviation,6
+s:t ilians kommun,s:t ilian,2484,Sankt Ilians kommun,municipality,1863,1917,abbreviation,6
+s:t olofs och s:t pers kommun,s:t olofs och s:t per,2765,Sankt Olofs och Sankt Pers kommun,municipality,1863,1947,abbreviation,6
+s:t ibbs kommun,s:t ibbs,2769,Sankt Ibbs kommun,municipality,1863,1958,abbreviation,6
+s:t peders kommun,s:t peder,3070,Sankt Peders kommun,municipality,1863,1951,abbreviation,6
+s:t olofs kommun,s:t olof,3309,Sankt Olofs kommun,municipality,1863,1951,abbreviation,6
+s:t pers kommun,s:t per,3975,Sankt Pers kommun,municipality,1863,1951,abbreviation,6
+s:t olofs församling (ab-län),s:t olofs forsamling,5770,Sankt Olofs församling (AB-län),parish,1600,1990,abbreviation,6
+s:t olofs församling (l-län),s:t olofs forsamling,5946,Sankt Olofs församling (L-län),parish,1600,1990,abbreviation,6
+malmö s:t petri församling,malmo s:t petri,5991,Malmö Sankt Petri församling,parish,1600,1883,abbreviation,6
+nyköpings s:t nicolai församling,nykopings s:t nicolai,6038,Nyköpings Sankt Nicolai församling,parish,1600,1952,abbreviation,6
+s:t pers församling (vadstena lands),s:t pers forsamling,6044,Sankt Pers församling (Vadstena lands),parish,1600,1966,abbreviation,6
+s:t ilians församling (u-län),s:t ilians forsamling,6257,Sankt Ilians församling (U-län),parish,1600,1945,abbreviation,6
+norrköpings s:t johannes församling,norrkopings s:t johannes,6451,Norrköpings Sankt Johannes församling,parish,1600,1990,abbreviation,6
+s:t peters klosters församling,s:t peters kloster,6531,Sankt Peters klosters församling,parish,1600,1990,abbreviation,6
+s:t ibbs församling,s:t ibbs,6613,Sankt Ibbs församling,parish,1600,1990,abbreviation,6
+s:t pers församling,s:t per,6679,Sankt Pers församling,parish,1600,1990,abbreviation,6
+linköpings s:t lars församling,linkopings s:t lar,6770,Linköpings Sankt Lars församling,parish,1600,1971,abbreviation,6
+norrköpings s:t olai församling,norrkopings s:t olai,7044,Norrköpings Sankt Olai församling,parish,1600,1612,abbreviation,6
+s:t laurentii församling,s:t laurentii,7050,Sankt Laurentii församling,parish,1600,1990,abbreviation,6
+s:t anna församling,s:t anna,7157,Sankt Anna församling,parish,1600,1990,abbreviation,6
+s:t peders församling,s:t peder,7209,Sankt Peders församling,parish,1600,1990,abbreviation,6
+s:t nikolai församling,s:t nikolai,7675,Sankt Nikolai församling,parish,1600,1961,abbreviation,6
+norrköpings s:t olai församling,norrkopings s:t olai,8062,Norrköpings Sankt Olai församling,parish,1613,1884,abbreviation,6
+s:t sigfrids församling,s:t sigfrid,8413,Sankt Sigfrids församling,parish,1856,1990,abbreviation,6
+malmö s:t petri församling,malmo s:t petri,8465,Malmö Sankt Petri församling,parish,1884,1905,abbreviation,6
+malmö s:t pauli församling,malmo s:t pauli,8467,Malmö Sankt Pauli församling,parish,1884,1948,abbreviation,6
+norrköpings s:t olai församling,norrkopings s:t olai,8468,Norrköpings Sankt Olai församling,parish,1885,1990,abbreviation,6
+malmö s:t petri församling,malmo s:t petri,8512,Malmö Sankt Petri församling,parish,1906,1948,abbreviation,6
+malmö s:t johannes församling,malmo s:t johannes,8513,Malmö Sankt Johannes församling,parish,1906,1990,abbreviation,6
+s:t görans församling,s:t goran,8609,Sankt Görans församling,parish,1925,1990,abbreviation,6
+malmö s:t petri församling,malmo s:t petri,8656,Malmö Sankt Petri församling,parish,1949,1990,abbreviation,6
+malmö s:t pauli församling,malmo s:t pauli,8662,Malmö Sankt Pauli församling,parish,1949,1990,abbreviation,6
+nyköpings s:t nicolai församling,nykopings s:t nicolai,8671,Nyköpings Sankt Nicolai församling,parish,1953,1990,abbreviation,6
+skellefteå s:t olovs församling,skelleftea s:t olov,8695,Skellefteå Sankt Olovs församling,parish,1961,1990,abbreviation,6
+skellefteå s:t örjans församling,skelleftea s:t orjan,8696,Skellefteå Sankt Örjans församling,parish,1961,1990,abbreviation,6
+s:t nikolai församling,s:t nikolai,8722,Sankt Nikolai församling,parish,1962,1990,abbreviation,6
+göteborgs s:t pauli församling,goteborgs s:t pauli,8762,Göteborgs Sankt Pauli församling,parish,1969,1990,abbreviation,6
+linköpings s:t lars församling,linkopings s:t lar,8785,Linköpings Sankt Lars församling,parish,1972,1990,abbreviation,6
+s:t mikaels församling,s:t mikael,8831,Sankt Mikaels församling,parish,1989,1990,abbreviation,6
+kalmar s:t johannes församling,kalmar s:t johannes,8834,Kalmar Sankt Johannes församling,parish,1989,1990,abbreviation,6
+malmö s:t petri pastorat,malmo s:t petri,9025,Malmö Sankt Petri pastorat,pastorship,1600,1831,abbreviation,6
+s:t ibbs pastorat,s:t ibbs,9239,Sankt Ibbs pastorat,pastorship,1600,1961,abbreviation,6
+s:t olofs pastorat,s:t olof,9292,Sankt Olofs pastorat,pastorship,1600,1612,abbreviation,6
+linköpings s:t lars pastorat -1866,linkopings s:t lar,9315,Linköpings Sankt Lars pastorat -1866,pastorship,1600,1866,abbreviation,6
+s:t olofs pastorat,s:t olof,9344,Sankt Olofs pastorat,pastorship,1600,1929,abbreviation,6
+s:t peter klosters pastorat,s:t peter kloster,9438,Sankt Peter klosters pastorat,pastorship,1600,1990,abbreviation,6
+s:t peders pastorat,s:t peder,9533,Sankt Peders pastorat,pastorship,1600,1659,abbreviation,6
+s:t olofs pastorat,s:t olof,10089,Sankt Olofs pastorat,pastorship,1613,1878,abbreviation,6
+s:t laurentii pastorat,s:t laurentii,10204,Sankt Laurentii pastorat,pastorship,1653,1961,abbreviation,6
+ystads s:t petri pastorat,ystads s:t petri,10255,Ystads Sankt Petri pastorat,pastorship,1677,1868,abbreviation,6
+malmö s:t petri pastorat,malmo s:t petri,10416,Malmö Sankt Petri pastorat,pastorship,1832,1861,abbreviation,6
+malmö s:t petri pastorat,malmo s:t petri,10478,Malmö Sankt Petri pastorat,pastorship,1862,1883,abbreviation,6
+s:t olai pastorat,s:t olai,10618,Sankt Olai pastorat,pastorship,1879,1884,abbreviation,6
+malmö s:t pauli pastorat,malmo s:t pauli,10640,Malmö Sankt Pauli pastorat,pastorship,1884,1948,abbreviation,6
+malmö s:t petri pastorat,malmo s:t petri,10642,Malmö Sankt Petri pastorat,pastorship,1884,1905,abbreviation,6
+norrköpings s:t olai pastorat,norrkopings s:t olai,10648,Norrköpings Sankt Olai pastorat,pastorship,1885,1990,abbreviation,6
+malmö s:t johannes pastorat,malmo s:t johannes,10714,Malmö Sankt Johannes pastorat,pastorship,1906,1990,abbreviation,6
+malmö s:t petri pastorat,malmo s:t petri,10717,Malmö Sankt Petri pastorat,pastorship,1906,1948,abbreviation,6
+s:t anna pastorat,s:t anna,10749,Sankt Anna pastorat,pastorship,1912,1918,abbreviation,6
+skellefteå s:t olovs pastorat,skelleftea s:t olov,10758,Skellefteå Sankt Olovs pastorat,pastorship,1913,1961,abbreviation,6
+s:t anna pastorat,s:t anna,10827,Sankt Anna pastorat,pastorship,1919,1943,abbreviation,6
+s:t görans pastorat,s:t goran,10974,Sankt Görans pastorat,pastorship,1925,1990,abbreviation,6
+s:t olofs pastorat,s:t olof,11043,Sankt Olofs pastorat,pastorship,1930,1990,abbreviation,6
+s:t anna pastorat,s:t anna,11159,Sankt Anna pastorat,pastorship,1944,1961,abbreviation,6
+malmö s:t petri pastorat,malmo s:t petri,11196,Malmö Sankt Petri pastorat,pastorship,1949,1990,abbreviation,6
+malmö s:t pauli pastorat,malmo s:t pauli,11202,Malmö Sankt Pauli pastorat,pastorship,1949,1990,abbreviation,6
+skellefteå s:t örjans pastorat,skelleftea s:t orjan,11392,Skellefteå Sankt Örjans pastorat,pastorship,1962,1990,abbreviation,6
+s:t anna pastorat,s:t anna,11404,Sankt Anna pastorat,pastorship,1962,1990,abbreviation,6
+linköpings s:t lars pastorat 1962-,linkopings s:t lars pastorat 1962-,11436,Linköpings Sankt Lars pastorat 1962-,pastorship,1962,1971,abbreviation,6
+skellefteå s:t olovs pastorat,skelleftea s:t olov,11626,Skellefteå Sankt Olovs pastorat,pastorship,1962,1990,abbreviation,6
+s:t laurentii pastorat,s:t laurentii,11658,Sankt Laurentii pastorat,pastorship,1962,1990,abbreviation,6
+s:t nikolai pastorat,s:t nikolai,11708,Sankt Nikolai pastorat,pastorship,1962,1969,abbreviation,6
+göteborgs s:t pauli pastorat,goteborgs s:t pauli,11771,Göteborgs Sankt Pauli pastorat,pastorship,1969,1990,abbreviation,6
+s:t nikolai pastorat,s:t nikolai,11776,Sankt Nikolai pastorat,pastorship,1970,1973,abbreviation,6
+linköpings s:t lars pastorat 1962-,linkopings s:t lars pastorat 1962-,11807,Linköpings Sankt Lars pastorat 1962-,pastorship,1972,1990,abbreviation,6
+s:t nikolai pastorat,s:t nikolai,11877,Sankt Nikolai pastorat,pastorship,1974,1990,abbreviation,6
+s:t mikaels pastorat,s:t mikael,11981,Sankt Mikaels pastorat,pastorship,1989,1990,abbreviation,6
+sankt peters klosters kommun,sankt peters kloster,3065,S:t Peters klosters kommun,municipality,1863,1913,abbreviation,6
+norrköpings sankt johannes pastorat,norrkopings sankt johannes,10619,Norrköpings S:t Johannes pastorat,pastorship,1879,1961,abbreviation,6
+nyköpings sankt nicolai pastorat,nykopings sankt nicolai,11217,Nyköpings S:t Nicolai pastorat,pastorship,1953,1990,abbreviation,6
+norrköpings sankt johannes pastorat,norrkopings sankt johannes,11655,Norrköpings S:t Johannes pastorat,pastorship,1962,1990,abbreviation,6

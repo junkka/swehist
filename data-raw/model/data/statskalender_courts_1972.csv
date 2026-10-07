@@ -1,0 +1,105 @@
+year,url,page,hovratt,county_raw,court_no,court_name,court_kind,seat,unit,unit_kind,partial,unit_source,source_text
+1972,https://runeberg.org/statskal/1972/0306.html,306,SVEA,Stockholms,1,Norrtälje tingsrätt,tingsratt,Norrtälje och Häverödal,,,FALSE,none,Norrtälje tingsrätt
+1972,https://runeberg.org/statskal/1972/0306.html,306,SVEA,Stockholms,2,Sollentuna och Färentuna tingsrätt,tingsratt,Haga,,,FALSE,none,Sollentuna och Färentuna tingsrätt
+1972,https://runeberg.org/statskal/1972/0306.html,306,SVEA,Stockholms,3,Solna tingsrätt,tingsratt,Solna,,,FALSE,none,Solna tingsrätt
+1972,https://runeberg.org/statskal/1972/0306.html,306,SVEA,Stockholms,4,Stockholms tingsrätt,tingsratt,Stockholm,,,FALSE,none,Stockholms tingsrätt
+1972,https://runeberg.org/statskal/1972/0308.html,308,Svea hovrätt,Stockholms,5,Stockholms läns västra tingsrätt,tingsratt,Stockholm,,,FALSE,none,Stockholms läns västra tingsrätt
+1972,https://runeberg.org/statskal/1972/0308.html,308,Svea hovrätt,Stockholms,6,Svartlösa tingsrätt,tingsratt,Huddinge,,,FALSE,none,Svartlösa tingsrätt
+1972,https://runeberg.org/statskal/1972/0308.html,308,Svea hovrätt,Stockholms,7,Södertälje tingsrätt,tingsratt,Södertälje,,,FALSE,none,Södertälje tingsrätt
+1972,https://runeberg.org/statskal/1972/0308.html,308,Svea hovrätt,Stockholms,8,Södertörns tingsrätt,tingsratt,Stockholm,,,FALSE,none,Södertörns tingsrätt
+1972,https://runeberg.org/statskal/1972/0309.html,309,Svea hovrätt,Stockholms,9,Södra Roslags tingsrätt,tingsratt,Stockholm,,,FALSE,none,Södra Roslags tingsrätt
+1972,https://runeberg.org/statskal/1972/0309.html,309,Svea hovrätt,Uppsala,10,Uppsala tingsrätt,tingsratt,Uppsala,,,FALSE,none,Uppsala tingsrätt
+1972,https://runeberg.org/statskal/1972/0309.html,309,Svea hovrätt,Uppsala,11,Uppsala läns norra tingsrätt,tingsratt,Uppsala o. östhammar,,,FALSE,none,Uppsala läns norra tingsrätt
+1972,https://runeberg.org/statskal/1972/0309.html,309,Svea hovrätt,Uppsala,12,Uppsala läns södra tingsrätt,tingsratt,Enköping,,,FALSE,none,Uppsala läns södra tingsrätt
+1972,https://runeberg.org/statskal/1972/0309.html,309,Svea hovrätt,Södermanlands,13,Eskilstuna tingsrätt,tingsratt,Eskilstuna o. Strängnäs,,,FALSE,none,Eskilstuna tingsrätt
+1972,https://runeberg.org/statskal/1972/0309.html,309,Svea hovrätt,Södermanlands,14,Katrineholms tingsrätt,tingsratt,Katrineholm o. Malmköping,,,FALSE,none,Katrineholms tingsrätt
+1972,https://runeberg.org/statskal/1972/0310.html,310,Svea hovrätt,Södermanlands,15,Nyköpings tingsrätt,tingsratt,Nyköping o. Gnesta,,,FALSE,none,Nyköpings tingsrätt
+1972,https://runeberg.org/statskal/1972/0310.html,310,Svea hovrätt,Gotlands,16,Gotlands tingsrätt,tingsratt,Visby o. Skogs,,,FALSE,none,Gotlands tingsrätt
+1972,https://runeberg.org/statskal/1972/0310.html,310,Svea hovrätt,Örebro,17,Hallsbergs tingsrätt,tingsratt,Hallsberg,,,FALSE,none,Hallsbergs tingsrätt
+1972,https://runeberg.org/statskal/1972/0310.html,310,Svea hovrätt,Örebro,18,Karlskoga tingsrätt,tingsratt,Karlskoga,,,FALSE,none,Karlskoga tingsrätt
+1972,https://runeberg.org/statskal/1972/0310.html,310,Svea hovrätt,Örebro,19,Lindesbergs tingsrätt,tingsratt,Lindesberg o. Nora,,,FALSE,none,Lindesbergs tingsrätt
+1972,https://runeberg.org/statskal/1972/0310.html,310,Svea hovrätt,Örebro,20,Örebro tingsrätt,tingsratt,Örebro,,,FALSE,none,Örebro tingsrätt
+1972,https://runeberg.org/statskal/1972/0310.html,310,Svea hovrätt,Västmanlands,21,Köpings tingsrätt,tingsratt,Köping o. Kolbäck,,,FALSE,none,Köpings tingsrätt
+1972,https://runeberg.org/statskal/1972/0310.html,310,Svea hovrätt,Västmanlands,22,Sala tingsrätt,tingsratt,Sala,,,FALSE,none,Sala tingsrätt
+1972,https://runeberg.org/statskal/1972/0310.html,310,Svea hovrätt,Västmanlands,23,Västerås tingsrätt,tingsratt,Västerås,,,FALSE,none,Västerås tingsrätt
+1972,https://runeberg.org/statskal/1972/0311.html,311,Svea hovrätt,Västmanlands,24,Västmanlands mellersta tingsrätt,tingsratt,Norberg o. Fagersta,,,FALSE,none,Västmanlands mellersta tingsrätt
+1972,https://runeberg.org/statskal/1972/0311.html,311,Svea hovrätt,Kopparbergs,25,Falu tingsrätt,tingsratt,Falun o. Borlänge,,,FALSE,none,Falu tingsrätt
+1972,https://runeberg.org/statskal/1972/0311.html,311,Svea hovrätt,Gävleborgs och Jämtlands,26,Hedemora tingsrätt,tingsratt,Hedemora o. Krylbo,,,FALSE,none,Hedemora tingsrätt
+1972,https://runeberg.org/statskal/1972/0311.html,311,Svea hovrätt,Gävleborgs och Jämtlands,27,Ludvika tingsrätt,tingsratt,Ludvika o. Nås,,,FALSE,none,Ludvika tingsrätt
+1972,https://runeberg.org/statskal/1972/0311.html,311,Svea hovrätt,Gävleborgs och Jämtlands,28,Malungs tingsrätt,tingsratt,Malung,,,FALSE,none,Malungs tingsrätt
+1972,https://runeberg.org/statskal/1972/0311.html,311,Svea hovrätt,Gävleborgs och Jämtlands,29,Mora tingsrätt,tingsratt,"Mora, Särna o. Älvdalen",,,FALSE,none,Mora tingsrätt
+1972,https://runeberg.org/statskal/1972/0311.html,311,Svea hovrätt,Gävleborgs och Jämtlands,30,Nedansiljans tingsrätt,tingsratt,Leksand o. Rättvik,,,FALSE,none,Nedansiljans tingsrätt
+1972,https://runeberg.org/statskal/1972/0311.html,311,Svea hovrätt,Gävleborgs,31,Gävle tingsrätt,tingsratt,Gävle,,,FALSE,none,Gävle tingsrätt
+1972,https://runeberg.org/statskal/1972/0311.html,311,Svea hovrätt,Gävleborgs,32,Sandvikens tingsrätt,tingsratt,Sandviken,,,FALSE,none,Sandvikens tingsrätt
+1972,https://runeberg.org/statskal/1972/0312.html,312,GÖTA,Östergötlands,33,Folkungabygdens tingsrätt,tingsratt,,,,FALSE,none,Folkungabygdens tingsrätt
+1972,https://runeberg.org/statskal/1972/0312.html,312,GÖTA,Östergötlands,34,Linköpings tingsrätt,tingsratt,Linköping,,,FALSE,none,Linköpings tingsrätt
+1972,https://runeberg.org/statskal/1972/0312.html,312,GÖTA,Östergötlands,35,Motala tingsrätt,tingsratt,Motala,,,FALSE,none,Motala tingsrätt
+1972,https://runeberg.org/statskal/1972/0312.html,312,GÖTA,Östergötlands,36,Norrköpings tingsrätt,tingsratt,Norrköping,,,FALSE,none,Norrköpings tingsrätt
+1972,https://runeberg.org/statskal/1972/0312.html,312,GÖTA,Jönköpings,37,Eksjö tingsrätt,tingsratt,Eksjö o. Tranås,,,FALSE,none,Eksjö tingsrätt
+1972,https://runeberg.org/statskal/1972/0312.html,312,GÖTA,Jönköpings,38,Jönköpings tingsrätt,tingsratt,Jönköping,,,FALSE,none,Jönköpings tingsrätt
+1972,https://runeberg.org/statskal/1972/0313.html,313,Göta hovrätt,Jönköpings,39,Värnamo tingsrätt,tingsratt,Värnamo o. Reftele,,,FALSE,none,Värnamo tingsrätt
+1972,https://runeberg.org/statskal/1972/0313.html,313,Göta hovrätt,Kronobergs,40,Ljungby tingsrätt,tingsratt,Ljungby,,,FALSE,none,Ljungby tingsrätt
+1972,https://runeberg.org/statskal/1972/0313.html,313,Göta hovrätt,Kronobergs,41,Växjö tingsrätt,tingsratt,Växjö,,,FALSE,none,Växjö tingsrätt
+1972,https://runeberg.org/statskal/1972/0313.html,313,Göta hovrätt,Kalmar,42,Kalmar tingsrätt,tingsratt,Kalmar,,,FALSE,none,Kalmar tingsrätt
+1972,https://runeberg.org/statskal/1972/0313.html,313,Göta hovrätt,Kalmar,43,Möre och Ölands tingsrätt,tingsratt,Kalmar o. Borgholm,,,FALSE,none,Möre och Ölands tingsrätt
+1972,https://runeberg.org/statskal/1972/0313.html,313,Göta hovrätt,Kalmar,44,Oskarshamns tingsrätt,tingsratt,Oskarshamn,,,FALSE,none,Oskarshamns tingsrätt
+1972,https://runeberg.org/statskal/1972/0313.html,313,Göta hovrätt,Kalmar,45,Västerviks tingsrätt,tingsratt,Västervik o. Vimmerby,,,FALSE,none,Västerviks tingsrätt
+1972,https://runeberg.org/statskal/1972/0314.html,314,Göta hovrätt,Skaraborgs,46,Falköpings tingsrätt,tingsratt,Falköping,,,FALSE,none,Falköpings tingsrätt
+1972,https://runeberg.org/statskal/1972/0314.html,314,Göta hovrätt,Skaraborgs,47,Lidköpings tingsrätt,tingsratt,Lidköping,,,FALSE,none,Lidköpings tingsrätt
+1972,https://runeberg.org/statskal/1972/0314.html,314,Göta hovrätt,Skaraborgs,48,Mariestads tingsrätt,tingsratt,Mariestad,,,FALSE,none,Mariestads tingsrätt
+1972,https://runeberg.org/statskal/1972/0314.html,314,Göta hovrätt,Skaraborgs,49,Skövde tingsrätt,tingsratt,Skövde,,,FALSE,none,Skövde tingsrätt
+1972,https://runeberg.org/statskal/1972/0314.html,314,Göta hovrätt,Skaraborgs,50,Vara tingsrätt,tingsratt,Vara,,,FALSE,none,Vara tingsrätt
+1972,https://runeberg.org/statskal/1972/0314.html,314,HOVRÄTTEN ÖVER SKÅNE OCH BLEKINGE,Blekinge,51,Bräkne och Karlshamns tingsrätt,tingsratt,Karlshamn,,,FALSE,none,Bräkne och Karlshamns tingsrätt
+1972,https://runeberg.org/statskal/1972/0314.html,314,HOVRÄTTEN ÖVER SKÅNE OCH BLEKINGE,Blekinge,52,Karlskrona tingsrätt,tingsratt,Karlskrona,,,FALSE,none,Karlskrona tingsrätt
+1972,https://runeberg.org/statskal/1972/0314.html,314,HOVRÄTTEN ÖVER SKÅNE OCH BLEKINGE,Blekinge,53,Listers och Sölvesborgs tingsrätt,tingsratt,Sölvesborg,,,FALSE,none,Listers och Sölvesborgs tingsrätt
+1972,https://runeberg.org/statskal/1972/0314.html,314,HOVRÄTTEN ÖVER SKÅNE OCH BLEKINGE,Blekinge,54,Östra och Medelsta tingsrätt,tingsratt,Ronneby o. Lyckeby,,,FALSE,none,Östra och Medelsta tingsrätt
+1972,https://runeberg.org/statskal/1972/0315.html,315,Hovrätten över Skåne o. Blekinge,Kristianstads,55,Hässleholms tingsrätt,tingsratt,Hässleholm,,,FALSE,none,Hässleholms tingsrätt
+1972,https://runeberg.org/statskal/1972/0315.html,315,Hovrätten över Skåne o. Blekinge,Kristianstads,56,Ingelstads och Järrestads tingsrätt,tingsratt,Simrishamn o. Hammenhög,,,FALSE,none,Ingelstads och Järrestads tingsrätt
+1972,https://runeberg.org/statskal/1972/0315.html,315,Hovrätten över Skåne o. Blekinge,Kristianstads,57,Kristianstads tingsrätt,tingsratt,Kristianstad,,,FALSE,none,Kristianstads tingsrätt
+1972,https://runeberg.org/statskal/1972/0315.html,315,Hovrätten över Skåne o. Blekinge,Kristianstads,58,Norra Åsbo tingsrätt,tingsratt,Klippan,,,FALSE,none,Norra Åsbo tingsrätt
+1972,https://runeberg.org/statskal/1972/0315.html,315,Hovrätten över Skåne o. Blekinge,Kristianstads,59,Angelholms tingsrätt,tingsratt,Ängelholm,,,FALSE,none,Angelholms tingsrätt
+1972,https://runeberg.org/statskal/1972/0315.html,315,Hovrätten över Skåne o. Blekinge,Malmöhus,60,Eslövs tingsrätt,tingsratt,Eslöv,,,FALSE,none,Eslövs tingsrätt
+1972,https://runeberg.org/statskal/1972/0315.html,315,Hovrätten över Skåne o. Blekinge,Malmöhus,61,Helsingborgs tingsrätt,tingsratt,Helsingborg,,,FALSE,none,Helsingborgs tingsrätt
+1972,https://runeberg.org/statskal/1972/0315.html,315,Hovrätten över Skåne o. Blekinge,Malmöhus,62,Landskrona tingsrätt,tingsratt,Landskrona,,,FALSE,none,Landskrona tingsrätt
+1972,https://runeberg.org/statskal/1972/0315.html,315,Hovrätten över Skåne o. Blekinge,Malmöhus,63,Lunds tingsrätt,tingsratt,Lund,,,FALSE,none,Lunds tingsrätt
+1972,https://runeberg.org/statskal/1972/0316.html,316,Hovrätten över Skåne o. Blekinge,Malmöhus,64,Malmö tingsrätt,tingsratt,Malmö,,,FALSE,none,Malmö tingsrätt
+1972,https://runeberg.org/statskal/1972/0316.html,316,Hovrätten över Skåne o. Blekinge,Malmöhus,65,Oxie och Skytts tingsrätt,tingsratt,Malmö o. Trelleborg,,,FALSE,none,Oxie och Skytts tingsrätt
+1972,https://runeberg.org/statskal/1972/0316.html,316,Hovrätten över Skåne o. Blekinge,Malmöhus,66,Ystads tingsrätt,tingsratt,Ystad,,,FALSE,none,Ystads tingsrätt
+1972,https://runeberg.org/statskal/1972/0316.html,316,HOVRÄTTEN FÖR VÄSTRA SVERIGE,Hallands,67,Hallands södra tingsrätt,tingsratt,Halmstad o. Laholm,,,FALSE,none,Hallands södra tingsrätt
+1972,https://runeberg.org/statskal/1972/0316.html,316,HOVRÄTTEN FÖR VÄSTRA SVERIGE,Hallands,68,Halmstads tingsrätt,tingsratt,Halmstad,,,FALSE,none,Halmstads tingsrätt
+1972,https://runeberg.org/statskal/1972/0317.html,317,Hovrätten för Västra Sverige,Hallands,69,Varbergs tingsrätt,tingsratt,Varberg o. Kungsbacka,,,FALSE,none,Varbergs tingsrätt
+1972,https://runeberg.org/statskal/1972/0317.html,317,Hovrätten för Västra Sverige,Göteborgs och bohus,70,Göteborgs tingsrätt,tingsratt,,,,FALSE,none,Göteborgs tingsrätt
+1972,https://runeberg.org/statskal/1972/0317.html,317,Hovrätten för Västra Sverige,Göteborgs och bohus,71,Mölndals tingsrätt,tingsratt,Göteborg,,,FALSE,none,Mölndals tingsrätt
+1972,https://runeberg.org/statskal/1972/0318.html,318,Hovrätten för Västra Sverige,Göteborgs och bohus,72,Stenungsunds tingsrätt,tingsratt,Stenungsund,,,FALSE,none,Stenungsunds tingsrätt
+1972,https://runeberg.org/statskal/1972/0318.html,318,Hovrätten för Västra Sverige,Göteborgs och bohus,73,Strömstads tingsrätt,tingsratt,Strömstad,,,FALSE,none,Strömstads tingsrätt
+1972,https://runeberg.org/statskal/1972/0318.html,318,Hovrätten för Västra Sverige,Göteborgs och bohus,74,Sävedals tingsrätt,tingsratt,Göteborg,,,FALSE,none,Sävedals tingsrätt
+1972,https://runeberg.org/statskal/1972/0318.html,318,Hovrätten för Västra Sverige,Göteborgs och bohus,75,Uddevalla tingsrätt,tingsratt,Uddevalla o. Munkedal,,,FALSE,none,Uddevalla tingsrätt
+1972,https://runeberg.org/statskal/1972/0318.html,318,Hovrätten för Västra Sverige,Älvsborgs,76,Alingsås tingsrätt,tingsratt,Alingsås,,,FALSE,none,Alingsås tingsrätt
+1972,https://runeberg.org/statskal/1972/0318.html,318,Hovrätten för Västra Sverige,Älvsborgs,77,Borås tingsrätt,tingsratt,,,,FALSE,none,Borås tingsrätt
+1972,https://runeberg.org/statskal/1972/0318.html,318,Hovrätten för Västra Sverige,Älvsborgs,78,Sjuhäradsbygdens tingsrätt,tingsratt,Borås,,,FALSE,none,Sjuhäradsbygdens tingsrätt
+1972,https://runeberg.org/statskal/1972/0318.html,318,Hovrätten för Västra Sverige,Älvsborgs,79,Trollhättans tingsrätt,tingsratt,Trollhättan,,,FALSE,none,Trollhättans tingsrätt
+1972,https://runeberg.org/statskal/1972/0318.html,318,Hovrätten för Västra Sverige,Älvsborgs,80,Tössbo och Vedbo tingsrätt,tingsratt,Åmål o. Bengtsfors,,,FALSE,none,Tössbo och Vedbo tingsrätt
+1972,https://runeberg.org/statskal/1972/0318.html,318,Hovrätten för Västra Sverige,Älvsborgs,81,Vänersborgs tingsrätt,tingsratt,"Vänersborg, Mellerud o. Tångelanda",,,FALSE,none,Vänersborgs tingsrätt
+1972,https://runeberg.org/statskal/1972/0319.html,319,Hovrätten för Västra Sverige,Värmlands,82,Arvika tingsrätt,tingsratt,"Arvika, Säffle o. Årjäng",,,FALSE,none,Arvika tingsrätt
+1972,https://runeberg.org/statskal/1972/0319.html,319,Hovrätten för Västra Sverige,Värmlands,83,Karlstads tingsrätt,tingsratt,Karlstad,,,FALSE,none,Karlstads tingsrätt
+1972,https://runeberg.org/statskal/1972/0319.html,319,Hovrätten för Västra Sverige,Värmlands,84,Kristinehamns tingsrätt,tingsratt,Kristinehamn o. Filipstad,,,FALSE,none,Kristinehamns tingsrätt
+1972,https://runeberg.org/statskal/1972/0319.html,319,Hovrätten för Västra Sverige,Värmlands,85,Sunne tingsrätt,tingsratt,"Sunne, Råda o. Likenäs",,,FALSE,none,Sunne tingsrätt
+1972,https://runeberg.org/statskal/1972/0319.html,319,HOVRÄTTEN FÖR NEDRE NORRLAND,Gävleborgs,86,Bollnäs tingsrätt,tingsratt,Bollnäs o. Söderhamn,,,FALSE,none,Bollnäs tingsrätt
+1972,https://runeberg.org/statskal/1972/0319.html,319,HOVRÄTTEN FÖR NEDRE NORRLAND,Gävleborgs,87,Hudiksvalls tingsrätt,tingsratt,Hudiksvall,,,FALSE,none,Hudiksvalls tingsrätt
+1972,https://runeberg.org/statskal/1972/0319.html,319,HOVRÄTTEN FÖR NEDRE NORRLAND,Gävleborgs,88,Västra Hälsinglands tingsrätt,tingsratt,Ljusdal,,,FALSE,none,Västra Hälsinglands tingsrätt
+1972,https://runeberg.org/statskal/1972/0320.html,320,HOVRÄTTEN FÖR NEDRE NORRLAND,Västernorrlands,89,Härnösands tingsrätt,tingsratt,Härnösand,,,FALSE,none,Härnösands tingsrätt
+1972,https://runeberg.org/statskal/1972/0320.html,320,HOVRÄTTEN FÖR NEDRE NORRLAND,Västernorrlands,90,Sollefteå tingsrätt,tingsratt,Sollefteå och Ramsele,,,FALSE,none,Sollefteå tingsrätt
+1972,https://runeberg.org/statskal/1972/0320.html,320,HOVRÄTTEN FÖR NEDRE NORRLAND,Västernorrlands,91,Sundsvalls tingsrätt,tingsratt,Sundsvall,,,FALSE,none,Sundsvalls tingsrätt
+1972,https://runeberg.org/statskal/1972/0320.html,320,HOVRÄTTEN FÖR NEDRE NORRLAND,Västernorrlands,92,Örnsköldsviks tingsrätt,tingsratt,Örnsköldsvik,,,FALSE,none,Örnsköldsviks tingsrätt
+1972,https://runeberg.org/statskal/1972/0320.html,320,HOVRÄTTEN FÖR NEDRE NORRLAND,Jämtlands,93,Jämtbygdens tingsrätt,tingsratt,Östersund o. Strömsund,,,FALSE,none,Jämtbygdens tingsrätt
+1972,https://runeberg.org/statskal/1972/0320.html,320,HOVRÄTTEN FÖR NEDRE NORRLAND,Jämtlands,94,Svegs tingsrätt,tingsratt,Sveg o. Svenstavik,,,FALSE,none,Svegs tingsrätt
+1972,https://runeberg.org/statskal/1972/0320.html,320,HOVRÄTTEN FÖR NEDRE NORRLAND,Jämtlands,95,Östersunds tingsrätt,tingsratt,Östersund,,,FALSE,none,Östersunds tingsrätt
+1972,https://runeberg.org/statskal/1972/0321.html,321,HOVRÄTTEN FÖR ÖVRE NORRLAND,Västerbottens,96,Lycksele tingsrätt,tingsratt,"Lycksele, Storuman, Vilhelmina o. Åsele",,,FALSE,none,Lycksele tingsrätt
+1972,https://runeberg.org/statskal/1972/0321.html,321,HOVRÄTTEN FÖR ÖVRE NORRLAND,Västerbottens,97,Skellefteå tingsrätt,tingsratt,Skellefteå o. Norsjö,,,FALSE,none,Skellefteå tingsrätt
+1972,https://runeberg.org/statskal/1972/0321.html,321,HOVRÄTTEN FÖR ÖVRE NORRLAND,Västerbottens,98,Umebygdens tingsrätt,tingsratt,Umeå o. Ånäset,,,FALSE,none,Umebygdens tingsrätt
+1972,https://runeberg.org/statskal/1972/0321.html,321,HOVRÄTTEN FÖR ÖVRE NORRLAND,Västerbottens,99,Umeå tingsrätt,tingsratt,Umeå,,,FALSE,none,Umeå tingsrätt
+1972,https://runeberg.org/statskal/1972/0321.html,321,HOVRÄTTEN FÖR ÖVRE NORRLAND,Norrbottens,100,Bodens tingsrätt,tingsratt,Boden o. Jokkmokk,,,FALSE,none,Bodens tingsrätt
+1972,https://runeberg.org/statskal/1972/0321.html,321,HOVRÄTTEN FÖR ÖVRE NORRLAND,Norrbottens,101,Gällivare tingsrätt,tingsratt,"Gällivare, Kiruna o. Karesuando",,,FALSE,none,Gällivare tingsrätt
+1972,https://runeberg.org/statskal/1972/0321.html,321,HOVRÄTTEN FÖR ÖVRE NORRLAND,Norrbottens,102,Haparanda tingsrätt,tingsratt,"Haparanda, Kalix, Pajala o. överkalix",,,FALSE,none,Haparanda tingsrätt
+1972,https://runeberg.org/statskal/1972/0322.html,322,HOVRÄTTEN FÖR ÖVRE NORRLAND,Norrbottens,103,Luleå tingsrätt,tingsratt,Luleå,,,FALSE,none,Luleå tingsrätt
+1972,https://runeberg.org/statskal/1972/0322.html,322,HOVRÄTTEN FÖR ÖVRE NORRLAND,Norrbottens,104,Piteå tingsrätt,tingsratt,"Piteå, Arvidsjaur o. Arjeplog",,,FALSE,none,Piteå tingsrätt

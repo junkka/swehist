@@ -1,0 +1,21 @@
+{
+  "title": "swehist: Swedish Historical Administrative Boundaries",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Junkka, Johan",
+      "affiliation": "Umeå University",
+      "orcid": "0000-0003-1527-279X"
+    }
+  ],
+  "description": "Swedish historical administrative boundaries, hierarchies and matching tools for 11 administrative types, 1600-1990, based on data from Riksarkivet (Swedish National Archives). R package with the datasets also as GeoPackage and CSV. Code MIT, data CC BY 4.0.",
+  "license": "MIT",
+  "keywords": [
+    "historical GIS",
+    "Sweden",
+    "administrative boundaries",
+    "parishes",
+    "historical demography",
+    "R"
+  ]
+}

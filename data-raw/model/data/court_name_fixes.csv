@@ -1,0 +1,23 @@
+# court_name_fixes.csv - the statskalender court names that OCR damaged, 26 September 2026.
+# m3c_courts.R reads this before matching the printed courts to the source's units, so a name the
+# scan mangled ("V cii erb er g slags domsaga") both matches its unit and reaches the data in its
+# real spelling. `fix` is the name to use; `action` is "name" to rename or "drop" to leave the
+# court out, which is for names too damaged to identify. Historical spellings are kept as printed
+# where they are spellings (Helsingland -> Hälsingland is a spelling, not OCR, but the source's
+# own units use the modern form, so it is folded here too).
+# Columns: printed,fix,action,note
+printed,fix,action,note
+"Rönnebergs, Onsjö, Har jag ers","Rönnebergs, Onsjö och Harjagers domsaga",name,"Harjagers split into three words"
+Wester-D alar nes Domsaga,Västerdalarnes domsaga,name,spaces inside the word
+V cii erb er g slags domsaga,Västerbergslags domsaga,name,badly broken scan
+Öst7'a härads domsaga,Östra härads domsaga,name,"Östra read as Öst7'a"
+Gottlands norra härads domsaga,Gotlands norra härads domsaga,name,double t
+Gottlands södra härads domsaga,Gotlands södra härads domsaga,name,double t
+Säfvedals,Sävedals domsaga,name,"fv for v, and the type word is missing"
+"Wättle, Ale, Kullings","Vättle, Ale och Kullings domsaga",name,"W for V, missing och"
+Norra Helsingland,Norra Hälsinglands domsaga,name,older spelling and no type word
+Södra Helsingland,Södra Hälsinglands domsaga,name,older spelling and no type word
+Norra Helsinglands domsaga,Norra Hälsinglands domsaga,name,older spelling
+Södra Helsinglands domsaga,Södra Hälsinglands domsaga,name,older spelling
+Vadsbo Södra Domsaga,Vadsbo södra domsaga,name,capitals from the scan
+Bords domsaga,,drop,"1925 only; not identifiable (Borås had no domsaga of that name)"

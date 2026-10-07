@@ -1,0 +1,3408 @@
+pid,name,charid,forkod
+1,Sallerup,,128011
+2,Ölmstad,olmstad,68011
+3,Å,,58123
+6,Abild,abild,138203
+8,Åby,aby5,142700
+10,Åby,aby2,58100
+11,Åby,aby3,88006
+12,Acklinga,acklinga,168517
+13,Ådals-Liden,adlid,228308
+14,Adelöv,adelov,68702
+15,Adelsö,adelso,12502
+16,Adolf Fredrik,adolffredrik,18005
+21,Aggarp,aggarp,126300
+23,Agnetorp,agnetorp,168506
+24,Agunnaryd,agunnaryd,78102
+25,Åhus,ahus,118015
+28,Åkarp,akarp2,123100
+30,Akebäck,akeback,98034
+33,Åker,aker3,48606
+34,Åker,aker4,66505
+35,Åkerby,akerby,38020
+36,Ål,al,202903
+37,Ala,ala,98043
+38,Alanäs,alanas,231302
+39,Åland,aland,38015
+40,Alboga,alboga,156620
+41,Alböke,alboke,88503
+42,Älekulla,,156316
+43,Ålem,alem,86103
+44,Ale-Skövde,aleskovde,156205
+45,Alfshög,alfshog,138212
+46,Alfta,alfta,212103
+47,Älgå,,178409
+48,Älgarås,algaras,166313
+49,Älgaryd,algaryd,68000
+50,Älghult,alghult,76005
+51,Algutsboda,algutsboda,86203
+52,Algutsrum,algutsrum,84014
+53,Algutstorp,algutstorp,152713
+54,Ålidhem,alidhem,248005
+55,Alingsås,alling,158201
+56,Alingsås landsförsamling,alilanf,158200
+57,Alingsås reformerta,alireformerta,158200
+60,Älleköpinge,allekopinge,118000
+61,Allerum,allerum,128306
+65,Allhelgona,allhelgona2,58605
+66,Allmänna arbetsinrättningen,alar,18000
+69,Allmänna försörjningsinrättningen,allfars,18000
+70,Allmänna institutet å Manilla för dövstumma och blinda,alldov,18000
+71,Allmänna straffängelset,allstraff,148000
+72,Allmänna straff- och arbetsfängelset å Långholmen,allstraffarbets,18000
+73,Almby,almby,188004
+74,Älmeboda,almebada,76303
+75,Almesåkra,almesakra,68210
+76,Älmhult,almhalt,76501
+77,Almundsryd,almundsryd,76302
+78,Almunge,almunge,38031
+79,Alnö,alno,228104
+80,Alseda,alseda,68515
+81,Alsen,alsen,230910
+82,Alsike,alsike,38033
+83,Alskog,alskog,98066
+84,Alstad,alstad,128710
+85,Alster,alster,178007
+86,Altuna,altuna,38136
+87,Alunda,alunda,38209
+88,Alva,alva,98078
+89,Älvdal,alvdal,170000
+90,Älvdalen,alvdalen,203902
+91,Älvdalens kbfd,alvdalenskbfd,203900
+92,Alvesta,alv,76401
+93,Älvestad,alvestad,58308
+94,Älvkarleby,alvkarleby,31901
+95,Älvros,alvros,236103
+96,Älvsåker,alvsaker,138403
+97,Älvsbacka,alvsbacka,178005
+98,Älvsborg,alvsborg,148023
+99,Älvsborgs kbfd,alvsborgskbfd,148000
+100,Älvsby,alvsby,256002
+101,Älvsered,alvsered,138224
+102,Åmål,amal,158501
+103,Åmåls landsförsamling,amalslandsforsamling,158500
+105,Ambjörnarp,ambjornarp,155202
+106,Amiralitetsförsamlingen,amiralitetsfors2,108000
+108,Amiralitetsförsamlingen på Ladugårdslandet,amiralladu,18000
+109,Amiralitetsvarvsförsamlingen,amiralvarv,148000
+110,Ämmeskog,ammeskog,178500
+111,Amnehärad,amneharad,164301
+112,Åmot,amot,210101
+113,Amsberg,anisberg,208100
+114,Åmsele,amsele,240402
+115,Åmsele kbfd,amselekbfd,240400
+116,Ämtervik,amtervik,176600
+117,Anderslöv,anderslov,128731
+118,Anderstorp,anderstorp,66204
+119,Anderstorps kbfd,anderstorpkbm,66200
+120,Andra gardesregementet,andragard1,18000
+122,Andra Göta artilleriregemente,andragotart,68000
+125,Andrarum,andrarum,116013
+129,Aneboda,aneboda,78024
+130,Anga,anga,98045
+131,Angarn,angarn,11508
+134,Ånge kbfd,angekbfd,226000
+135,Ängelholm,angelholm,118201
+136,Ängelholms garnisonsförsamling,angelholmsgarnisonforsamling,118200
+137,Angelstad,angelstad,78111
+138,Angerdshestra,angerdshestra,68023
+139,Angered,angered,148026
+140,Ängersjö,angersjo,236110
+141,Ängsö,angso,198014
+142,Ånimskog,animskog,158505
+147,Annefors,annefors,218300
+148,Annelöv,annelov,128203
+149,Annerstad,annerstad,78112
+150,Ånsta,ansta,188000
+151,Anundsjö,anundsjo,228471
+152,Anundsjö kbfd,anundsjokbfd,228404
+153,Äppelbo,appelbo,202104
+154,Appuna,appuna,58610
+155,Åraslöv,araslov,118000
+156,Araslöv,araslov,118000
+157,Arbetsfängelset å Långholmen,arbetsfanglang,18000
+158,Arbetsfängelset å Norrmalm,arbetsnorrmalm,18000
+160,Arbets- och correctionsinrättningen,arbetscorrec,148000
+161,Arboga kbfd,arbogakbfd,198400
+162,Arboga landsförsamling,arland1,198402
+163,Arboga stadsförsamling,arbogastadsf,198401
+164,Arbrå,arbra,218309
+165,Arby,arby,88012
+166,Arby kapell,arbykapell,88000
+167,Årdala,ardala,48204
+168,Ardre,ardre,98065
+169,Åre,are,232101
+170,Ärentuna,arentuna,38025
+172,Aringsås,aringsas,76400
+173,Ärja,arja,48600
+174,Arjeplog,arjeplog,250671
+175,Arjeplogs kbfd,arjeplogskbfd,250602
+176,Ärla,arla,48420
+177,Arnäs,arnas,228402
+178,Arnö,arno,38100
+180,Aros,aros1,38000
+181,Arrie,arrie,123314
+183,Årstad,arstad,138205
+184,Årsta kbfd,arstakbfd,18000
+185,Årsunda,arsunda,218104
+186,Ärtemark,art,156001
+187,Artermark,arternark,156000
+188,Artilleriförsamlingen,artforsam,18000
+190,Arvidsjaur,arvidsjaur,250571
+191,Arvidsjaurs kbfd,arvidsjaurskbfd,250502
+193,Arvika köping,arvikakoping,178400
+195,Arvika östra,arno-0,178401
+197,Arvika västra,arva,178402
+198,Åryd,aryd,108204
+199,Ås,as3,138318
+200,Ås,as4,160206
+201,Ås,as5,230904
+202,Ås,as1,66214
+203,Ås,as2,84012
+204,Asa,asa,78023
+210,Åsarne,asarne,232606
+213,Asarum,asarum,108205
+215,Åsbo,asbo,56004
+216,Åsbräcka,asbracka,156202
+217,Asby,asby,51202
+218,Åseda,aseda,76001
+219,Åsele,asele,246301
+221,Åsenhöga,asenhoga,61702
+222,Åsens kbfd,asenskbfd,203900
+223,Asige,asige,138204
+224,Ask,ask2,121414
+225,Ask,ask1,58312
+227,Askeby,askeby,58030
+228,Asker,asker,188015
+230,Askersund,askersund2,188201
+231,Askersunds landsförsamling,asl,188200
+233,Askeryd,askeryd,60403
+235,Askim,askim,148036
+236,Asklanda,asklanda,152711
+237,Åskog,askog,178500
+238,Askome,askome,138214
+239,Askum,askum,142703
+240,Åsle,asle,168621
+241,Asmundtorp,asmundtorp,128206
+242,Aspång,aspang,143000
+243,Aspås,aspas,230903
+244,Aspeboda,aso,208004
+245,Äspered,aspered,158305
+246,Äsphult,asphult,118003
+247,Äspinge,aspinge,126606
+248,Aspö,aspo-0,108004
+249,Äspö,aspo,128724
+250,Aspö,aspo,48603
+254,Atlingbo,attlingbo,98051
+255,Attmar,attmar,228109
+256,Åtvid,atvid,56101
+258,Augerum,augerum,108006
+260,Ausås,ausas,118207
+262,Avesta,avesta,208401
+263,Axberg,axberg,188012
+264,Bäck,back,166303
+265,Backa,,148020
+266,Bäckaby,backaby,68506
+267,Backaryd,backaryd,108103
+268,Bäckaskog,backaskog,118000
+269,Bäcke,backe,156009
+270,Bäckebo,backebo,88103
+271,Bäckseda,backseda,68503
+273,Badene,badene,166000
+274,Bäl,Bal,98012
+275,Bälaryd,Balaryd,60401
+276,Baldringe,baldringe,128615
+277,Bälinge,balinge3,158200
+278,Bälinge,balinge1,38021
+279,Bälinge,balinge2,48024
+280,Balingsta,balingsta,38009
+281,Balkåkra,balkakra,128605
+282,Bällefors,ballefors,166309
+283,Balltorp,balltorp,166000
+284,Baltak,baltak,168505
+285,Bankekind,bankekind,58031
+286,Bankeryd,bankeryd,68020
+287,Bara,bara2,126307
+288,Bara,bara1,98000
+289,Båraryd,bararyd,66200
+290,Bärbo,barbo,48013
+291,Bäreberg,bareberg,160303
+292,Bärfendal,barfendal,143004
+293,Barkåkra,barkakra,118209
+297,Barkeryd,barkeryd,68208
+298,Barlingbo,barlingbo,98030
+299,Barnarp,barnarp,68016
+300,Barne-Åsaka,barneasaka,160307
+302,Barnhusförsamlingen,barnhusfors,18000
+303,Barsebäck,barseback,126111
+304,Bårslöv,barslov,128313
+305,Barva,barva,48404
+306,Båstad,bastad,116801
+307,Bastorp,bastorp,128000
+308,Bastuträsks kbfd,bastukbfd,241701
+309,Bäve,bave,148512
+310,Beateberg,beateberg,166311
+313,Bellö,bello,68604
+314,Benestad,benestad,116002
+315,Bengtsfors,bengtsfors,156000
+316,Berg,berg2,168322
+317,Berg,berg3,196102
+318,Berg,berg4,232601
+319,Berg,berg1,78025
+320,Berga,berga4,168016
+322,Berga,berga2,78108
+323,Berga,berga3,82100
+327,Berghem,berghem,156309
+330,Bergshammar,bergshammar,48006
+331,Bergsjö,bergsjo,213205
+332,Bergsjön,bergsjon,148032
+333,Bergsjöns kbfd,bergsjonskbm,148000
+334,Bergstena,bergstena,152702
+335,Bergum,bergum,148027
+336,Bergunda,bergunda,78017
+338,Bergvik,bergvik,218206
+340,Bettna,bettna,48208
+342,Billeberga,billeberga,121408
+343,Billinge,billinge,128508
+344,Billingsfors bruksförsamling,billingsforsbruksf,156000
+346,Bingsjö-Dådran,bingdad,203102
+347,Binneberg,binneberg,168319
+350,Biskopsgården,biskopsgarden,148018
+351,Biskopsgårdens kbfd,biskopsgardenskbm,148000
+352,Biskopskulla,biskopskulla,38127
+354,Bitterna,bitterna,166013
+355,Bjälbo,bjalbo,58604
+356,Bjällerup,bjallerup,123003
+357,Bjärby,bjarby,160205
+358,Bjäresjö,bjaresjo,128606
+359,Bjärka,bjarka,168200
+360,Bjärklunda,bjarklunda,168200
+361,Bjärshög,bjarshog,126305
+362,Bjärtrå,bjartra,228207
+363,Bjättlunda,bjattlunda,158400
+364,Björka,bjorka,126502
+368,Björke,bjorke1,98036
+369,Björkeberg,bjorkeberg,58016
+370,Björketorp,bjorketorp,140104
+371,Björklinge,bjorklinge,38026
+373,Björkö,bjorko1,68519
+374,Björkö-Arholma,bar,18802
+375,Björksele,bjorksele,248103
+376,Björksele kbfd,bjorkselek,248100
+377,Björksta,bjorksta,198015
+378,Björkvik,bjorkvik,48302
+379,Björlanda,bjorlanda,148029
+380,Björna,bjorna,228412
+381,Björnekulla,bjornekulla,116701
+382,Björnlunda,bjornlunda,48033
+383,Björsäter,bjorsater2,168012
+384,Björsäter,bjorsater1,56104
+385,Björskog,bjorskog,196005
+386,Bjuråker,bjuraker,218409
+387,Bjurbäck,bjurback,162204
+388,Bjurholm,bjurholm,240301
+389,Bjursås,bjursas,208011
+390,Bjurtjärn,bjurtjarn,176002
+391,Bjurum,bjururn,166100
+392,Bjurum,bjurum,168644
+393,Bjuv,bjuv,126001
+394,Blacksta,blacksta,48209
+395,Blackstad,blackstad,88316
+396,Bladåker,bladaker,38029
+397,Blädinge,bladinge,76408
+398,Blåvik,blavik,56005
+399,Blentarp,blentarp,126505
+400,Blidö,blido,18824
+401,Blidsberg,blidsberg,158427
+402,Blomskog,blomskog,176505
+404,Bo,bo1,186106
+405,Boda,boda1,171503
+406,Boda,boda2,203103
+407,Böda,bada,88513
+408,Bodafors kbfd,bodaforskbm,68202
+410,Bodarp,bodarp,128707
+411,Bodens kbfd,bodenskbm,258200
+412,Bodsjö,bodsjo,230507
+413,Bodum,bodum,231307
+414,Boge,boge,98003
+415,Bogen,bogen,178406
+417,Boglösa,boglosa,38109
+418,Bogsta,bogsta,48000
+419,Bohusläns regemente,bohusreg,148500
+420,Böja,boja,168325
+421,Bokenäs,bokenas,148507
+422,Boliden,boliden,248205
+423,Bolidens kbfd,bolidenskbm,248200
+424,Bollebygd,bollebygd,158318
+425,Bollerup,bollerup,116016
+426,Bollnäs,bollnas,218303
+427,Bolmsö,bolmso,78118
+428,Bolshög,bolshog,118108
+429,Bolstad,bolstad,156105
+430,Bolum,bolum1,166100
+431,Bolum,bolum2,168600
+433,Bonderup,bonderup,128117
+436,Bondstorp,bondstorp,66502
+437,Böne,bone,158424
+438,Boo,boo,18203
+440,Borås Caroli,borascar,158301
+441,Borås Gustav Adolf,borasga,158302
+444,Borga,borga,166000
+445,Borgeby,borgeby,126202
+446,Borgerskapets änkhus,borgank,18000
+447,Borgholm,borgholm,88501
+449,Borgsjö,borgsjo,226002
+450,Borgsjö kbfd,borgsjokbfd,226000
+451,Borgstena,borgstena,158312
+452,Borgunda,borgunda,168633
+453,Borgvattnet,borgvattnet,230303
+454,Borgvik,borgvik,176402
+455,Börje,borje,38019
+456,Borlänge kbfd,kbfd,208101
+458,Borlunda,borlunda,128519
+460,Borrby,borrby,118107
+461,Borrie,borrie,128613
+462,Börringe,borringe,126302
+463,Börrum,borrum,58209
+464,Börstig,borstig,168614
+465,Börstil,borstil,38204
+467,Bosarp,bosarp,128503
+468,Bösarp,basarp2,128718
+469,Bosebo,bosebo,66203
+470,Bosjökloster,bokloster,126704
+471,Boteå,botea,228371
+472,Boteå utom Gålsjö,boteautomg,228311
+473,Botilsäter,botilsater,178504
+474,Botkyrka,botkyrka,12701
+475,Botkyrka kbfd,botkyrkakbfd,12700
+476,Bottna,bottna,143508
+477,Bottnaryd,bottnaryd,68021
+479,Bräcke,bracke,230501
+481,Bräkne-Hoby,,108110
+482,Brålanda,bralanda,158004
+483,Brämaregården,brarnaregarden,148019
+484,Brämaregårdens kbfd,brarnaregardenskbfd,148000
+485,Brämhult,bramhult,158303
+486,Brandstad,brandstad,126513
+487,Brandstorp,brandstorp,162303
+488,Brännkyrka,brannkyrka,18021
+489,Brännkyrka kbfd,brannkyrkakbfd,18000
+490,Brastad,brastad,148405
+491,Brätte,bratte,158000
+492,Bråttensby,brattensby,156601
+493,Brattfors,brattfors,178203
+494,Breared,breared,138004
+495,Bred,bred,38106
+497,Bredared,bredared1,138000
+498,Bredared,bredared2,158315
+499,Bredaryd,bredaryd,68302
+500,Bredestad,bredestad,60402
+501,Bredsäter,bredsater,168011
+502,Bredsätra,bredsatra,88506
+503,Brevens bruk,brevensbruk,188000
+504,Brevik,brevik,163702
+505,Bringetofta,bringetofta,68204
+506,Brismene,brismene,168615
+507,Bro,bro1,13901
+508,Bro,bro4,148404
+510,Bro,bro6,178503
+513,Bro,bro3,98019
+516,Broby,broby4,166111
+517,Broby,broby1,58400
+519,Broddarp,broddarp,156621
+520,Broddetorp,broddetorp,168647
+524,Bromma,bromma2,128608
+525,Bromma,bromma1,18027
+526,Bromma kbfd,brommakbfd,18000
+527,Brönnestad,bronnestad,118317
+528,Brösarp,brosarp,116014
+529,Brunflo,brunflo,238007
+531,Brunn,brunn,158400
+532,Brunnby,brunnby,128404
+533,Brunneby,brunneby,58306
+534,Brunnhem,brunnhern,168635
+535,Brunskog,brunskog,178411
+536,Brunskogs östra kbfd,brunskogsostrakbfd,178400
+537,Brunskogs västra kbfd,brunskogsvastrakbfd,178400
+539,Bunge,bunge,98005
+540,Bunkeflo,bunkeflo,128019
+541,Bureå,burea,248203
+542,Burlöv,burlov,123101
+543,Burs,burs,98072
+544,Burseryd,burseryd,66210
+545,Burträsk,burtrask,248211
+546,Buttle,butfle,98042
+547,By,by1,178500
+548,By,by2,208471
+549,Byarum,byarum,66501
+550,Bygdeå,bygdea,240971
+551,Bygdeå kbfd,bygdeakbm,240901
+552,By kbfd,bykbm,208403
+554,Byske,byske,248207
+568,Correctionsinrättningen,correcinratt2,148000
+569,Correctionsinrättningen,correcinratt1,18000
+571,Dädesjö,dadesjo,78006
+572,Dådran,dadran,203100
+573,Dagsås,dagsas,138309
+574,Dagsberg,,58119
+575,Dagstorp,dagstorp,126102
+576,Dal,dal,228209
+577,Dala,dala,168632
+578,Dalarö,dalaro,13605
+579,Dalarö skans,dalaroskans,13600
+580,Dalby,dalby2,128116
+581,Dalby,dalby3,173708
+582,Dalby,dalby1,38011
+583,Dalhem,daihem1,88306
+584,Dalhem,daihem2,98029
+585,Dalköpinge,dalkoping,128715
+586,Dalsby fjärding,dalsbyfjarding,208200
+587,Dals-Ed,dalsed,150403
+588,Dalskog,dalskog,156108
+589,Dalstorp,dalstorp,155211
+590,Dalum,dalum,158428
+591,Danderyd,danderyd,16201
+592,Danmark,danmark,38005
+593,Dannäs,dannas,68308
+594,Dannemora,dannemora,38214
+595,Dannike,dannike,158307
+596,Dänningelanda,danningelanda,78014
+597,Danviks hospital och Sicklaö,danvikshos,18000
+599,Daretorp,daretorp,168503
+600,Degeberga,degeberga,118029
+601,Degerfors,degerfors1,186201
+603,Degerfors kbfd,degerforskbfd,240400
+605,Delsbo,delsbo,218408
+606,Dikanäs kbfd,dikanaskbfd,246200
+607,Dillnäs,dillnas,48000
+608,Dimbo,dimbo,168515
+609,Dingtuna,dingtuna,198009
+610,Djura,discip,202902
+611,Djurgårdens landsförsamling,djurgardenslands,18000
+612,Djurö,djuro,12003
+613,Djurröd,djurrod,118004
+614,Djursdala,djursdala,88407
+615,Djursholm,djursholm,16200
+616,Döderhult,doderhult,88271
+617,Döderhults kbfd,doderhultskbm,88205
+618,Domkyrkoförsamlingen i Göteborg eller Gustavi och Kristine,domkyrko,148001
+620,Dörarp,dorarp,78109
+621,Dörby,dorby,88003
+622,Dorotea,dorotea,242501
+623,Döve,dove,168600
+624,Dragsmark,dragsmark,148506
+625,Drängsered,drangsered,131503
+626,Drev,drev,78005
+627,Drothem,drot,58202
+631,Dunker,dunker,48206
+632,Dvärstorp,dvarstorp,168500
+633,Dylta bruksförsamling,dyltabruks,188000
+634,Ed,,11401
+636,Ed,ed5,176403
+637,Ed,ed6,228305
+639,Ed,ed3,88300
+640,Eda,eda,173001
+641,Eda norra kbfd,edanorrakbm,173000
+642,Edåsa,edasa,168311
+643,Eda södra kbfd,edasodrakbm,173000
+644,Edebo,edebo,18806
+645,Edefors,edefors,258203
+646,Edestad,edestad,108108
+647,Edhem,edhem,168300
+648,Edsberg,edsberg,188023
+649,Edsbro,edsbro,18808
+650,Edsele,edsele,228314
+651,Edshult,edshult,68607
+653,Edsleskog,edsle,158507
+654,Edsvära,edsvara,166032
+655,Edum,edum,166000
+656,Eftra,eftra,138207
+657,Egby,egby,88505
+658,Eggby,eggby,168204
+659,Eggvena,eggvena,156602
+664,Ek,ek,168009
+665,Ekby,ekby3,168005
+666,Ekby,ekby1,3050
+668,Eke,eke2,78000
+669,Eke,eke1,98085
+670,Ekeberga,ekeberga,76103
+671,Ekeby,ekeby4,126004
+672,Ekeby,ekeby5,188103
+673,Ekeby,ekeby1,38210
+674,Ekeby,ekeby2,56002
+675,Ekeby,ekeby3,98022
+676,Ekebyborna,ekebyborna,58311
+677,Ekeby norra kbfd,ekebynorrkbfd,56000
+678,Ekeby södra kbfd,ekebysodkbfd,56000
+679,Eker,eker,188000
+680,Ekerö,eke,12503
+681,Ekeskog,ekeskog,166310
+683,Ekshärad,eksharad,178302
+684,Eksjö,eksjo,68601
+685,Eksjö landsförsamling,eksjolands,68600
+686,Eksjö stadsförsamling,eksjostads,68600
+687,Eksta,eksta,98063
+688,Eldsberga,eldsberga,138007
+689,Elin,elin,168600
+690,Eling,eling,166012
+691,Elinghem,elinghern,98000
+692,Eljaröd,eljarod,116011
+693,Elleholm,elleholm,108207
+696,Emmaboda,emmaboda,86201
+697,Emmislöv,emmislov,112105
+698,Emtervik,emtervik,176600
+699,Enåker,enaker,191703
+700,Enånger,enanger,218407
+701,Enåsa,enasa,168014
+703,Endre,endre,98031
+706,Engelbrekt,engelbrekt,18009
+708,Engelsk-episkopala,engelskepiskopala,18000
+709,Enhörna,enhorna,18104
+711,Enköping,enkoping,38101
+712,Enköpings-Näs,enkopingsnas,38102
+714,Enskede,enskede,18034
+715,Enslöv,enslov,138019
+716,Enviken,enviken,208010
+718,Eriksberg,eriksberg,156610
+719,Eriksfält,eriksfalt,128017
+720,Erikstad,erikstad,156104
+721,Eringsboda,eringsboda,108105
+722,Erska,erska,158208
+723,Erstavik,erstavik,18200
+724,Ervalla,ervalla,188011
+725,Esarp,esarp,123001
+726,Eskelhem,eskel,98055
+727,Eskilsäter,eskilsater,178507
+728,Eskilstorp,eskilstorp,123302
+729,Eskilstuna,eskilstuna,48400
+730,Eskilstuna Fors,eskfors,48401
+731,Eskilstuna Kloster,eskkloster,48402
+733,Eslöv,eslov,128501
+734,Eslövs kbfd,eslovskbm,128500
+735,Essinge,essinge,18028
+737,Essunga,essunga,160304
+739,Estuna,estuna,18818
+740,Etelhem,etelhem,98068
+741,Ettak,ettak,168500
+743,Everlöv,everlov,126506
+744,Everöd,everod,118017
+745,Evertsbergs kbfd,evertsbergskbfd,203900
+746,Fågelås,fagelas,168400
+748,Fågelfors,fagelfors,82101
+749,Fågelö,fagelo,168000
+750,Fågeltofta,fageltofta,116012
+753,Fagered,,138221
+755,Fagerhult,fagerhult1,82104
+756,Fagerlid,fagerlid,164300
+758,Fåglum,faglum,160306
+759,Fägre,fagre,166307
+760,Falekvarna,falekvarna,168600
+761,Falkenberg,falkenberg,138201
+762,Falköping,falkoping,168601
+763,Falköpings landsförsamling,fallafo,168600
+765,Fällfors,fallfors,248208
+766,Falsterbo,falsterbo,123306
+767,Falsterbo tyska,falsterbotyska,123300
+768,Fälttelegrafkåren,falttelegraf,18000
+769,Falu Kristine,falukrist,208001
+770,Fänneslunda,fanneslunda,158408
+771,Fardhem,fardhem,98079
+772,Färed,fared,168017
+773,Färentuna,farentuna,12508
+774,Färgaryd,fagaryd,131505
+775,Färgelanda,fargelanda,150701
+776,Farhult,farhult,128406
+777,Färila,farila,216104
+778,Faringe,faringe,38030
+779,Färingtofta,faringtofta,116604
+780,Färlöv,farlov,118014
+781,Färnebo,farnebo1,178200
+784,Fårö,faro,98004
+785,Farsta,farsta,18025
+786,Farstorp,farstorp,118310
+787,Fässberg,fassberg,148101
+788,Fasta,fasta,18800
+789,Fasterna,fasterna,18809
+791,Fattighusförsamlingen,fattighusforsamlingen,148000
+792,Felestad,felestad,121403
+793,Fellingsbro,fellingsbo,188505
+794,Fellingsbro norra,fellingsbronorra,188506
+795,Femsjö,femsjo,131506
+796,Fide,fide,98088
+798,Filborna,filborna,128317
+799,Filipstad,filipstad,178201
+801,Filkestad,filkestad,118000
+802,Film,film,38213
+803,Fimmerstad,fimmerstad,166300
+804,Finja,finja,118319
+805,Finnekumla,finnekumla,158413
+806,Finnerödja,finnerodja,186002
+807,Finnskoga,finnskoga,173700
+808,Finska,finska,18093
+809,Finska gardesregementet,fingard,18000
+810,Finspångs kbfd,finspongskbfd,56200
+811,Fiskebäck,fiskeback,162300
+812,Fiskebäckskil,fiskebackskil,148400
+815,Fittja,fittja,38122
+816,Fivelstad,fivelstad,58326
+817,Fivlered,fivlered,168649
+818,Fjälkestad,fjalkestad,118010
+819,Fjälkinge,fjalkinge,118024
+820,Fjällbacka kbfd,fjallbackakbfd,143507
+821,Fjällsjö,fjallsjo,231306
+822,Fjärås,fjaras,138412
+823,Fjärestad,fjarestad,128315
+824,Fjelie,fjelie,126204
+825,Fjelkestad med Råbelöv,fjelkestadrob,118000
+826,Flackarp,flackarp,123000
+827,Fläckebo,flackebo,198103
+828,Flädie,fladie,126203
+829,Flakeberg,flakeberg,160204
+832,Flemingsberg,flemmingsberg,12604
+834,Flen,flen,48201
+835,Fleninge,fleninge,128307
+836,Fleringe,flerninge,98007
+837,Flisby,flisby,68206
+838,Fliseryd,fliseryd,86102
+839,Flistad,flistad2,168326
+840,Flistad,flistad1,58020
+841,Flittorp,flittorp,168600
+842,Flo,flo,160208
+843,Floby,floby,168605
+844,Floda,floda2,202603
+845,Floda,floda1,48305
+849,Flyinge,flyinge,128100
+850,Flymen,flymen,108007
+851,Fogdö,fogdo,48611
+854,Fole,fole,98021
+855,Fölene,folene,156603
+856,Folkärna,folkarna,208472
+857,Folkärna kbfd,folkarnakbm,208404
+858,Follingbo,follingbo,98033
+859,Föllinge,follinge,230906
+861,Föra,fora,88502
+863,Förkärla,forkarla,108106
+864,Förlanda,forlanda,138411
+865,Förlösa,forlosa,88007
+866,Fornåsa,fornasa,58309
+867,Fors,fors2,158107
+868,Fors,fors3,230302
+870,Forsa,forsa2,218411
+872,Forsby,forsby,168313
+873,Forserum,forserum,68207
+874,Forshaga,forshaga,176301
+875,Forshälla,forshalla,148505
+876,Forsheda,forsheda,68306
+877,Forshem,forshem,166117
+878,Förslöv,forslov,116802
+879,Forsmark,forsmark,38202
+881,Forssa,forssa,48210
+882,Första artilleriregementet,forstartiller,18000
+885,Första Svea artilleriregemente,forstasveartille,18000
+887,Fosie,fosie,128008
+888,Foss,foss,143001
+889,Fotskäl,flotskal,156310
+890,Främmestad,frammestad,160302
+891,Frändefors,frandefors,158006
+892,Fränninge,franninge,126511
+894,Fransk-katolska,franskkatolska,18000
+895,Fransk-lutherska,fransklutherska,18000
+896,Fransk-reformerta,franskreform,18000
+898,Fredrika,fredrika,246304
+900,Fredsberg,fredsberg,166302
+901,Fresta,fresta,11403
+902,Fridene,fridene,168407
+903,Fridhem,fridhern,160000
+904,Fridhem,fridhem,83400
+905,Fridlevstad,fridlevstad,108015
+906,Friel,friel,168119
+907,Friggeråker,friggeraker,168602
+908,Frillesås,frillesas,138406
+909,Frillestad,frillestad,128310
+910,Frimurarebarnhuset,fribarn,18000
+911,Frinnaryd,frinnaryd,60405
+912,Frisholmens kastellförsamling,friskastell,108200
+913,Fristad,fristad,158311
+914,Fritsla,fritsla,156307
+915,Fröderyd,froderyd,68505
+916,Frödinge,frodinge,88405
+919,Fröjel,frojel,98062
+920,Fröjered,frojered,168507
+922,Frök,frok,228200
+927,Fröskog,froskog,158506
+928,Fröslunda,froslunda,38126
+929,Frösö,froso,238002
+930,Frösthult,frosthult,38132
+931,Frostviken,frostviken,231305
+932,Frostvikens lappförsamling,frostvikenslapp,231300
+933,Frösunda,frosunda,11504
+934,Frösve,frosve,168320
+935,Frötuna,frotuna,18823
+936,Fru Alstad,frualstad,128700
+938,Frustuna-Kattnäs,frustunakatt,48029
+939,Fryele,fryele,68313
+940,Frykerud,frykerud,171502
+941,Fryksände,fryksande,173701
+943,Fuglie,fuglie,128708
+944,Fullestad,fullestad,152703
+945,Fullösa,fullosa,166116
+946,Fulltofta,fulltofta,126608
+947,Funbo,funbo,38006
+948,Furby,furby,198000
+949,Furingstad,furingstad,58120
+950,Furuby,furuby,78002
+951,Fuxerna,fuxerna,156201
+952,Fyrunga,fyrunga,166028
+953,Gagnef,,202602
+954,Gäldstugan och stadens häkten,gladstadh,18000
+955,Gällared,gallared,138218
+956,Gällaryd,gallaryd,68311
+958,Gällersta,gallersta,188018
+959,Gällinge,gallinge,138409
+960,Gällivare,gallivare,252371
+961,Gällivare kbfd,gallivarekbm,252301
+962,Gällstad,gallstad,158416
+963,Gålsjö,galsjo,228310
+964,Galtströms bruksförsamling,galtstromsbruk,228100
+968,Gamla Uppsala,gamlauppsala,38003
+972,Gamleby,gamleby,88311
+974,Gamlestads kbfd,gamlekbfd,148000
+975,Gammalkil,gammalkil,58013
+976,Gammalstorp,gammalstorp,108302
+977,Gammelgarn,gammelgarn,98046
+979,Gann,gann,98000
+980,Ganthem,ganthem,98028
+981,Gärarp,gararp,116000
+982,Gårdby,gardby,84017
+983,Garde,garde,98067
+984,Gårdeby,gardeby,58205
+985,Gärdhem,gardhem,158104
+986,Gårdsby,gardsby,78020
+987,Gärdserum,gardserum,56107
+988,Gärdslösa,gardslosa,88510
+989,Gärdslöv,gardslov,128729
+990,Gårdstånga,gardstanga,128517
+991,Gårdveda,gardveda,86000
+992,Gårdveda kbfd,gardvedakbfd,86000
+993,Gargnäs,gargnas,242202
+994,Gargnäs kbfd,gargnaskbfd,242200
+995,Garn,garn2,11500
+996,Garn,garn1,98000
+997,Garpenberg,garnisonforsamlingen,208302
+998,Gärsnäs,grasnas,118100
+999,Gåsborn,gasborn,178205
+1001,Gåsinge-Dillnäs,gasinge-0,48032
+1004,Gävle Heliga Trefaldighet,gavheltre,218001
+1005,Gävle hospitalsförsamling,gavlehospitalforsamling,218000
+1006,Gävle Maria,gavmaria,218008
+1007,Gävle romersk-katolska,gavlerk,218000
+1008,Gävle Staffan,gavlestaffan,218002
+1009,Gävle Tomas,gavletomas,218007
+1010,Gåxsjö,gassjo,231303
+1013,Genarp,genarp,128120
+1014,Genneved,genneved,158200
+1021,Gerum,gerum1,98080
+1022,Gesäter,gesater,150405
+1023,Gessie,gessie,123301
+1024,Gestad,gestad,158003
+1025,Getinge,gefinge,138014
+1026,Gideå,gidea,228411
+1027,Gillberga,gillberga2,178509
+1028,Gillberga,gillberga1,48413
+1029,Gillhov,gillhov,232600
+1030,Gillstad,gillstad,168126
+1031,Gingri,gingri,158309
+1032,Giresta,giresta,38125
+1033,Gislaved,gisla,66201
+1034,Gislöv,gislov,128716
+1035,Gistad,gistad,58028
+1036,Gladhammar,gladhammar,88303
+1037,Gladsax,gladsax,118105
+1038,Glanshammar,glanshammar,188027
+1039,Glava,glava,178405
+1040,Glemminge,glennnlinge,128620
+1041,Glimåkra,glimakra,112107
+1042,Glommersträsks kbfd,glommerstraskskbm,250501
+1043,Glömminge,glomminge,84013
+1045,Glostorp,glostorp,128012
+1046,Glumslöv,glumslov,128207
+1047,Gnarp,gnarp,213204
+1048,Gnosjö,gnosjo,61705
+1049,Godegård,godegard,58304
+1051,Gödelöv,godelov,128118
+1052,Gödestad,godestad,138306
+1053,Gökhem,gokhem,168607
+1056,Görslöv,gorslov,123011
+1058,Gösslunda,gasslunda,168113
+1060,Göta gardesregemente,gotagardesregemente,18000
+1062,Göta livgarde,glivgard,18000
+1063,Götalunden,gotalunden,158110
+1066,Göteborgs Annedal,goteanne,148009
+1068,Göteborgs engelska,goteng,148000
+1069,Göteborgs fattighusförsamling,gotfat,148000
+1071,Göteborgs garnisonsförsamling,goteborgsgamlekbfd,148000
+1073,Göteborgs Haga,gothaga,148010
+1075,Göteborgs Johanneberg,gotjohann,148008
+1076,Göteborgs Karl Johan,gotkar,148013
+1077,Göteborgs katolska,gotkat,148000
+1078,Göteborgs Kristine,gotkristine,148000
+1079,Göteborgs lutherska,goteborgslutherska,148000
+1080,Göteborgs Masthugg,gotmast,148012
+1081,Göteborgs mosaiska,goteborgsmosaiska,148000
+1082,Göteborgs Oskar Fredrik,gbgoskarfredrik,148011
+1083,Göteborgs reformerta,goteborgsreformerta,148000
+1084,Göteborgs Sankt Pauli,gotsanktpauli,148033
+1085,Göteborgs spinnhusförsamling,gotspinn,148000
+1087,Göteborgs Tyska,gotysk,148025
+1088,Göteborgs Vasa,gotvasa,148007
+1089,Götene,gotene,166102
+1090,Göteryd,goteryd,76505
+1091,Göteve,goteve,168611
+1092,Gothem,gothem,98025
+1093,Götlunda,gotlunda1,168327
+1094,Götlunda,gotlunda2,198404
+1096,Gottröra,gottrora,18814
+1097,Gottsunda,gottsunda,38038
+1099,Gran,gran,30500
+1100,Grangärde,grangarde,208503
+1102,Grängesberg,grangesberg,208502
+1103,Grängesberg-Hörkens kapellag,grangesberghorkens,208500
+1104,Granhult,granhult,76000
+1105,Graninge,graninge,228303
+1106,Gränna,granna,68007
+1107,Gränna landsförsamling,grannalandsforsamling,68000
+1109,Gräsgård,grasgard,84010
+1110,Gräsmark,grasmark,176604
+1111,Gräsö,graso,38208
+1112,Grästorp i Tengene,grastorpitengene,160200
+1113,Grava,grava,178008
+1114,Gräve,grave,188009
+1115,Grebbestads kyrkoområde,grebbestadskyrkoomrade,143501
+1116,Grebo,grebo,56102
+1117,Grenadjärbataljonen,grenadjarbatalionen,18000
+1118,Grevbäck,gravback,168403
+1119,Grevie,grevie,116803
+1120,Grimeton,grimeton,138308
+1121,Grimmared,grimmared,138322
+1122,Grinneröd,grinnerod,148502
+1123,Grinstad,grinstad,156103
+1124,Grödinge,grodinge,12702
+1125,Grolanda,grolanda,168612
+1126,Grönahög,gronahog,158417
+1127,Grönby,gronby,128730
+1128,Grötlingbo,grotlingbo,98086
+1129,Grovare,grovare,158400
+1130,Grude,grude,156614
+1131,Grums,grums,176401
+1133,Grundsund,grundstund,148400
+1134,Grundsunda,grundsunda,228410
+1135,Grycksbo kbfd,grycksbokbm,208002
+1136,Gryt,gryt3,112102
+1137,Gryt,gryt1,48034
+1138,Gryt,gryt2,56304
+1139,Gryta,gryta,38130
+1140,Gryteryd,gryteryd,66212
+1141,Grythyttan,grythyttan,186302
+1142,Grytnäs,grytnas,208406
+1143,Gualöv,gualov,116202
+1144,Gudhem,gudhem,168641
+1145,Gudmundrå,gudmundra,228201
+1146,Gudmuntorp,gudmundtorp,126703
+1147,Guldrupe,guldrupe,98041
+1148,Guldsmedshyttan,guldsmedhyttan,188503
+1149,Gullabo,gullabo,83401
+1150,Gullarp,gullarp,128500
+1151,Gullered,gullered,158419
+1152,Gullholmen,gullholmen,142109
+1153,Gumlösa,gumlosa,118306
+1154,Gunnared,gunnared,148034
+1155,Gunnarp,gunnarp,138220
+1156,Gunnarsbyn,gunnarsbyn,258202
+1157,Gunnarsjö,gunnarsjo,138325
+1158,Gunnarskog,gunnarskog,178407
+1160,Gunnarsnäs,gunnarsnas,156107
+1161,Gunnilbo,gunnilbo,190403
+1162,Gustafs,gustafs,208203
+1164,Gustav Adolf,adolf,118025
+1169,Gustav Adolf,gustavadolf5,162302
+1170,Gustav Adolf,gustavadolf6,178303
+1171,Gustav Adolf,gustavadolf7,228100
+1174,Gustavsberg,gustavsberg,12006
+1175,Gustav Vasa,gustavvasa,18006
+1176,Gusums kbfd,gusumskbfd,56303
+1177,Gylle,gylle,128713
+1178,Gyllenfors kbfd,gyllenforskbfd,66200
+1179,hablingbo,,98083
+1180,habo,habo,162301
+1181,håbol,habol,150401
+1182,håbo-tibble,hobotibble,13905
+1183,håby,haby,143002
+1184,hackås,hackas,232602
+1185,hacksta,hacksta,38115
+1186,håcksvik,hacksvik,156507
+1187,hackvad,hackvad,188022
+1188,haga,haga2,148000
+1189,haga,haga1,19104
+1190,hagby,hagby1,38007
+1191,hagby,hageby2,88009
+1192,hagebyhöga,hagebyhoga,58411
+1193,hagelberg,hagelberg,168309
+1194,hägerstad,hagerstad,51307
+1195,hägersten,hagersten,18039
+1196,hägerstens östra kbfd,hagerstensostkbfd,18000
+1197,hägerstens västra kbfd,hagerstensvastkbm,18000
+1198,hagfors,hagfors,178301
+1199,häggdånger,haggdanger,228003
+1200,häggeby,haggeby,30504
+1201,häggenäs,haggenaus,168300
+1202,häggenås,haggenas,238010
+1203,häggesled,haggesled,168104
+1204,häggum,haggum,168305
+1205,häglinge,haglinge,118316
+1206,hagrida,hagrida,60400
+1207,hagshult,hagshult,66504
+1208,hajom,hajom,156308
+1209,håkantorp,hakantorp,168639
+1210,hakarp,hakarp,68006
+1211,hakkas,hakkas,252304
+1212,hakkas kbfd,hakkaskbfd,252300
+1213,hålanda,halanda,152102
+1214,håle,hale,160202
+1215,håle-täng,haletang,160200
+1216,hall,hall,98008
+1217,halla,halla1,48011
+1218,halla,halla2,98038
+1219,hallaröd,hallarod,126706
+1220,hällaryd,haullaryd,108203
+1221,hallaryd,hallaryd,76507
+1222,hallby,hallby,158000
+1223,hällby,hallby,48410
+1224,hälleberga,halleberga,88109
+1225,hällefors,hallefors,186301
+1226,hallen,hallen,232106
+1227,hällesjö,hallesjo,230503
+1228,hällestad,hallestad2,128115
+1229,hällestad,hallestad3,168604
+1230,hällestad,hallestad1,56202
+1231,hallingeberg,hallingeberg,88314
+1232,hallingebergs norra kbfd,hallingebergsnorrkbfd,88300
+1233,hallingebergs södra kbfd,hallingesodkbfd,88300
+1234,hållnäs,hallnas,36009
+1235,hallsberg,hallsberg,186101
+1236,hallsjö,hallsjo,78100
+1237,hällstad,hallstad,158405
+1238,hallstahammar,hallstahammar,196101
+1239,halltorp,halltorp,88011
+1240,hällum,hallum,166006
+1241,halmstad,halmstad1,121406
+1242,halmstad,halmstad2,138000
+1243,halmstads mosaiska,halmstadsmosaiska,138000
+1244,halna,halna,166312
+1245,hälsingborg,halsingborg,128300
+1246,hälsingborgs garnisonsförsamling,halsinggarn,128300
+1247,hälsingborgs gustav adolf,halsingga,128300
+1248,hälsingborgs landsförsamling,halsinglandsf,128300
+1249,hälsingborgs maria,halsingmaria,128300
+1250,hälsingborgs stadsförsamling,halsingstadsf,128300
+1251,hälsingtuna,halsingtuna,218403
+1252,hålta,halta,148210
+1253,halvås,halvas,166000
+1254,hammar,hammar1,123308
+1255,hammar,hammar2,188205
+1256,hammarby,hammarby1,11402
+1257,hammarby,hammarby2,48407
+1258,hammarlöv,hammarlov,128705
+1259,hammarlunda,hammarlunda,128515
+1260,hammarö,hammaro,176101
+1261,hammarö kbfd,hammarokbm,176100
+1262,hammenhög,hammenhog,118115
+1263,hammerdal,hammerdal,231304
+1264,hamneda,hamneda,78106
+1265,hamra,hamra2,216102
+1266,hamra,hamra,98090
+1267,hamrånge,hamrange,218003
+1268,händene,handene,168211
+1269,hanebo,hanebo,218306
+1270,hangelösa,hangelosa,166107
+1271,hånger,hanger2,168600
+1272,hånger,hanger1,68305
+1273,hångsdala,hangsdala,168513
+1274,hangvar,hangvar,98009
+1275,hanhals,hanhals,138413
+1276,hannas,hannas,118114
+1277,hannäs,hannaus,56106
+1278,hans,hans,98000
+1279,haparanda kbfd,haparandakbm,258300
+1280,hara,hara1,191700
+1281,hara,hara2,198000
+1282,härad,harad,48613
+1283,häradshammar,haradshammar,58126
+1284,haraker,haraker,198005
+1285,härberga,harberga,58600
+1286,harbo,harbo,191707
+1287,hardeberga,hardeberga,128112
+1288,hardemo,harderno,188102
+1289,härene,harene2,152700
+1290,härene,harene,168100
+1291,harestad,harestad,148204
+1292,harg,harg1,38206
+1293,harg,harg2,58000
+1294,harg,harg3,58600
+1295,härja,harja,168502
+1296,härjevad,harjevad,168116
+1297,härkeberga,harke,38120
+1298,härlanda,harlanda,148006
+1299,harlösa,harlosa,128514
+1300,härlöv,harlov,76403
+1301,härlunda,harlunda2,168214
+1302,härlunda,harlunda1,76502
+1303,harmånger,harmanger,213202
+1304,härna,harna,158409
+1305,härnevi,harnevi,38133
+1306,härnö,harno,228000
+1307,härnösand,harnosand,228000
+1308,härnösands domkyrkoförsamling,harnodom,228001
+1309,härnösands hospitalsförsamling,harnosandshospitals,228000
+1310,harplinge,harplinge,138011
+1311,harrie,harrie,126100
+1312,härryda,harryda,140101
+1313,härslöv,harslov,128208
+1314,harstad,harstad,58600
+1315,håsjö,hasjo,230504
+1316,håslöv,haslov,123307
+1317,hassela,hassela,213206
+1318,hässelby,hasselby,18038
+1319,hässelby kbfd,hasselbykbfd,18000
+1320,hässelskog,hasselskog,158500
+1321,hässjö,hassjo,226203
+1322,hassle,hassie,168015
+1323,hassle-bösarp,hasbas,126402
+1324,hässleby,hassleby,68602
+1325,hässleholm,hassleholm,118301
+1326,hasslö,hasslo,108019
+1327,hasslösa,hasslosa,168123
+1328,hasslöv,hasslov,138104
+1329,hässlunda,hasslunda,128311
+1330,håstad,hastad,128109
+1331,hästholmen,hastholmen,50900
+1332,hästveda,hastveda,118309
+1333,håtuna,hatuna,13906
+1334,haurida,haurida,60407
+1335,havdhem,havdhem,98084
+1336,häverö,havero,18805
+1337,haverö,havero,226003
+1338,hed,hed,190401
+1339,heda,heda,50905
+1340,hedane,hedane,178500
+1341,hedared,hedared,158300
+1342,heddinge,heddinge,123000
+1343,hede,hede1,143006
+1344,hede,hede2,236105
+1345,hede lappförsamling,hedelapp,236100
+1346,hedemora,hedemora,208301
+1347,hedemora landsförsamling,hedemoralands,208300
+1348,hedemora stadsförsamling,hedemorastads,208300
+1349,heden,heden,258200
+1350,hedeskoga,hedeskoga,128607
+1351,hedesunda,hedesunda,218004
+1352,hedvig,hedvig,58100
+1353,hedvig eleonora,hedele,18010
+1354,hedvig eleonora fattighus,hedelefatt,18000
+1355,hejde,hejde,98060
+1356,hejdeby,hejdeby,98032
+1357,hejnum,hejnum,98013
+1358,helgarö,helgaro,48612
+1359,helga trefaldighet,heg,38002
+1360,helgesta,helgesta,48203
+1361,helgona,helgona,48000
+1362,helgona,helgona2,58600
+1363,helgum,helgum,228307
+1364,heliga korset,heligakorset,88016
+1365,heliga trefaldighet,heligtre2,118000
+1366,heliga trefaldighet,heligtre3,218000
+1367,heliga trefaldighet,heligtre1,38000
+1368,heligestad,heligestad,168500
+1369,heligkors,helkors,128100
+1370,hellvi,hellvi,98011
+1371,helne,helne,128100
+1372,helsingborg,helsingborg,128300
+1373,helsingborgs garnisonsförsamling,helsingbgar,128300
+1374,helsingborgs gustav adolf,hegusadolf,128302
+1375,helsingborgs landsförsamling,helands,128300
+1376,helsingborgs maria,helmar,128301
+1377,helsingborgs stadsförsamling,helsingborgsstadsf,128300
+1378,hemmesdynge,hemmesdynge,128722
+1379,hemmesjö,hemmesjo,78000
+1380,hemmesjö med tegnaby,hemmteg,78007
+1381,hemse,hemse,98076
+1382,hemsjö,hemsjo,158209
+1383,hemsö,hemso,228007
+1385,herkulsberga,herkulsberga,38100
+1386,herråkra,herrakra,76002
+1387,herrberga,herrberga,58619
+1388,herrestad,herrestad2,118100
+1389,herrestad,herrestad3,128600
+1390,herrestad,herrestad4,148510
+1391,herrestad,herrestad1,58406
+1392,herrljunga,herrljunga,156606
+1393,hesselskog,hesselskog,158500
+1394,hestra,hestra,66200
+1395,hidinge,hidinge,188019
+1396,hietaniemi,hietaniemi,251803
+1397,hillared,hillared,156514
+1398,hille,hille,218005
+1399,hilleshög,hilleshog,12505
+1400,himmeta,himmeta,198302
+1401,hinneryd,hinneryd,76702
+1402,hishult,hishult,138106
+1403,hjälmseryd,hjalmseryd,68406
+1404,hjälsjöås,hjalsjoas,238000
+1405,hjälsta,hjalsta,38124
+1406,hjälstad,hjalstad,166305
+1407,hjälstaholms pastorat,hjalstaholmspast,38100
+1408,hjärnarp,hjarnarp,118211
+1409,hjärnskog,hjarnskog,173000
+1410,hjärpås,hjarpas,168100
+1411,hjärsås,hjarsas,112104
+1412,hjärtlanda,hjartlanda,68402
+1413,hjärtum,hjartum,156207
+1414,hjellby,hjellby,156600
+1415,hjo,hjo,168401
+1416,hjo landsförsamling,hjolandsf,168400
+1417,hjorted,hjorted,88315
+1418,hjortsberga,hjortsberga2,108109
+1419,hjortsberga,hjortsberga1,76400
+1420,hjortsberga med kvenneberga,hjkv,76404
+1421,hjortsberga och kvenneberga,hjortsbergakvenne,76400
+1422,hjo stadsförsamling,hjostadsf,168400
+1423,hjulsjö,hjulsjo,186303
+1424,hoby,hoby1,108100
+1425,hoby,hoby2,118100
+1426,hoby,hoby3,128100
+1427,hofors,hofors,210401
+1428,hofterup,hofterup,126110
+1429,hög,hog,126113
+1430,hög,hog2,218412
+1431,högalid,hogalid,18014
+1432,höganäs,hoganas,128401
+1433,högås,hogas,148508
+1434,högbo,hogbo,218100
+1435,högby,hogby,58602
+1436,högby,hogby2,88514
+1437,hogdal,hogdal1,148606
+1438,hogdal,hogdal2,236100
+1439,högerud,hogerud,178404
+1440,högestad,hogestad,128612
+1441,hogrän,hogran,98052
+1442,högsäter,hogsater,150708
+1443,högsbo,hogsbo,148021
+1444,högsby,hogsby,82102
+1445,högseröd,hogserod,128513
+1446,högsjö,hogsjo,228002
+1447,högsrum,hogsrum,88509
+1448,hogstad,hogstad,58611
+1449,högstena,hogstena,168631
+1450,höj,hoj,126100
+1451,höja,hoja,118203
+1452,hökeshara,hokeshara,178300
+1453,hökhuvud,hak,38205
+1454,hököpinge,hokopinge,123303
+1455,hol,hol,152706
+1456,holländsk-reformerta,hollanskreformerta,18000
+1457,holm,holm2,138016
+1458,holm,holm3,156101
+1459,holm,holm4,228112
+1460,holm,holm,38121
+1461,holma,holma,168600
+1462,holmby,holmby,128516
+1463,holmedal,holmedal,176504
+1464,holmestad,holmestad,166104
+1465,holmkyrkan eller holmförsamlingen,holmkyrkan,18000
+1466,holmön,holmon,248010
+1467,holmsund,holmsund,248006
+1468,hölö,holo,18110
+1469,holsljunga,holsljunga,156502
+1470,hömb,homb,168518
+1471,höör,hoor,126702
+1472,hör,hor,126700
+1473,höra,houra,168100
+1474,hörby,horby,126602
+1475,höreda,horeda,68609
+1476,hörene,horene,168100
+1477,hörja,horja,118320
+1478,hörken,horken,186400
+1479,hörkens kbfd,horkenskbfd,186402
+1480,horla,horla,152705
+1481,horn,horn2,168318
+1482,horn,horn1,51304
+1483,hornaryd,hornaryd,78004
+1484,hornborga,hornborga,168600
+1485,horndals kbfd,horndalskbfd,208402
+1486,hörnefors,hornefors,248007
+1487,hörnefors-strömbäcks bruksförsamling,harneback,248000
+1488,horred,horred,156314
+1489,hörröd,horrod,118027
+1490,hörsne,horsne,98000
+1491,hörsne med bara,horbara,98026
+1492,hortlax,hortlax,258102
+1493,hörtofta,hortofta,128500
+1494,hörup,horup,128616
+1495,hosjö,hosjo,208006
+1496,hospitalsförsamlingen,hospitalforsa,148000
+1497,hossmo,hossmo,88004
+1498,hössna,hossna,158420
+1499,hotagen,hotagen,230907
+1500,hotagens lappförsamling,hotlapp,230900
+1501,hov,hov2,116805
+1502,hov,hov3,156618
+1503,hov,hov1,58410
+1504,hova,hova,164302
+1505,hovby,hovby1,118100
+1506,hovby,hovby,168120
+1507,hovförsamlingen,hovforsamlingen,18090
+1508,hovmantorp,hovmantorp,76102
+1509,hovmantorps kbfd,hovmantorpskbfd,76100
+1510,hovsta,hovsta,188013
+1511,huaröd,huarod,118028
+1512,hubbo,hubbo,198016
+1513,huddinge,huddinge,12601
+1514,huddunge,huddunge,191702
+1515,hudene,hudene,156607
+1516,hudiksvall,hudiksvall,218401
+1517,huggenäs,huggenas,178500
+1518,hulared,hulared,155212
+1519,hullsjö,hullsjo,158100
+1520,hult,hult,68606
+1521,hulterstad,hulterstad,84005
+1522,hultsfred,hultsfred,86001
+1523,hultsfreds kbfd,hultsfredskbfd,86000
+1524,hultsjö,hultsjo,68408
+1525,humla,humla,158426
+1526,humlarp,humlarp,118200
+1527,hunnebostrand,hunnebostrand,142705
+1528,hunnekulla,hunnekulla,166300
+1529,hunnestad,hunnestad,138307
+1530,hurud,hurud,178400
+1531,hurva,hurva,128509
+1532,huså bruks kapellförsamling,husabrukskapell,232100
+1533,husaby,husaby,166113
+1534,husaby-ärnavi,husabyarnavi,38000
+1535,husaby aspö,husabyaspo,48600
+1536,husaby enhörna,husabyenhorna,18100
+1537,husaby gismark,husabygismark,38100
+1538,husabytrögd,husabytrogd,38100
+1539,husby,husby1,18800
+1540,husby,husby2,19100
+1541,husby,husby9,208371
+1542,husby,husby3,38000
+1543,husby,husby4,38100
+1544,husby,husby5,48000
+1545,husby,husby6,48400
+1546,husby,husby7,58100
+1547,husby,husby8,58200
+1548,husby-ärlinghundra,husarl,19106
+1549,husby-aspvid,husbyaspvid,58200
+1550,husby byringe,husbybyringe,48400
+1551,husby kbfd,husbykbfd,208303
+1552,husby-långhundra,huslang,38037
+1553,husby-lyhundra,husbylyhundra,18800
+1554,husby-oppunda,husopp,48026
+1555,husby-rekarne,husrek,48418
+1556,husby-sjuhundra,hushund,18813
+1557,husby-sjutolft,husbysjut,38118
+1558,husie,husie,128010
+1559,huskvarna,huskvarna,68005
+1560,hyby,hyby,126308
+1561,hycklinge,hycklinge,51305
+1562,hylletofta,hylletofta,68404
+1563,hyllie,hyllie,128016
+1564,hyltinge,hyltinge,48202
+1565,hyringa,hyringa,160212
+1566,hyssna,hyssna,156305
+1568,Idala,idala,138410
+1569,Idenor,idenor,218402
+1570,Idre,idre,203905
+1571,Igelösa,igelosa,128110
+1573,Igelsered,igelsered,158400
+1574,Ignaberga,ignaberga,118302
+1579,Ilsbo,ilsbo,213201
+1580,Ilstorp,ilstorp,126501
+1581,Indal,indal,228111
+1583,Ingared,ingared,158400
+1584,Ingarö,ingaro,12005
+1585,Ingatorp,ingatorp,68605
+1588,Ingelstad,ingelstad1,78000
+1589,Ingelstorp,ingelstorp,128619
+1590,Invalidkåren på Ulriksdal,invalidk,18400
+1592,Irsta,irsta,198011
+1595,Istorp,istorp,156315
+1596,Istrum,istrum,168202
+1597,Ivetofta,ivetofta,116201
+1598,Ivö,ivo,118022
+1599,Jäder,jader,48405
+1603,Jakob,,18000
+1605,Jäla,jala,168613
+1606,Jällby,jallby,156613
+1607,Jälluntofta,jalluntofta,131508
+1608,Jämjö,jamsjo,108009
+1609,Jämshög,jamshog,106071
+1610,Jämshögs kbfd,jamshogskbfd,106002
+1611,Jära,jara,68000
+1612,Järbo,jarbo1,150704
+1613,Järbo,jarbo,218103
+1614,Järeda,jareda,86004
+1615,Järfälla,jarfalla,12301
+1616,Järfälla norra kbfd,jarfallanorrkbfd,12300
+1617,Järfälla södra kbfd,jarfallasodkbfd,12300
+1618,Järlåsa,jarlasa,38017
+1619,Järn,jarn,156102
+1620,Järna,jarna1,18100
+1621,Järna,jarna2,202171
+1622,Järna kbfd,jarnakbfd,202101
+1623,Järnboås,jarnboas,188403
+1624,Järnskog,jarnskog,173003
+1625,Järpås,jarpas,168103
+1626,Järrestad,jarrestad,118104
+1627,Järsnäs,jarsnas,68013
+1628,Järstad,jarstad,58606
+1629,Järstorp,jarstorp,68004
+1630,Järvsö,jarvso,216107
+1631,Jät,jat,78011
+1633,Jättendal,jattendal,213203
+1641,Johannes,johannes1,18004
+1645,Jokkmokk,jokkmokk,251002
+1646,Jokkmokks kbfd,jokkmokkskbfd,251000
+1649,Jönköpings hospitalsförsamling,jonkopingshospital,68000
+1650,Jönköpings Kristina,jankris,68002
+1653,Jönköpings Sofia,jansofia,68001
+1656,Jonsberg,jonsberg,58127
+1657,Jonsereds kbfd,jonseredskbm,140202
+1658,Jonstorp,jonstorp,128405
+1659,Jörlanda,jorlanda,141505
+1660,Jörn,jorn,248209
+1661,Jörns östra kbfd,jornsostkbfd,248200
+1662,Jörns västra kbfd,jornsvastkbfd,248200
+1665,Jukkasjärvi,jukkajarvi,258401
+1666,Julita,julita,48308
+1668,Jumkil,jumkil,38018
+1669,Jung,jung,166027
+1670,Junosuando,junosuando,252106
+1671,Junsele,junsele,228309
+1673,Kadettkåren,,18400
+1674,Kaga,kaga,58006
+1675,Kågedalen,kagedalen,248206
+1676,Kågeröd,kagerod,121405
+1679,Kall,kall,232104
+1680,Källa,kalla,88515
+1681,Kållands-Åsaka,kallandsasaka,168107
+1684,Källby,kallby,166112
+1685,Kållered,kallered,148102
+1686,Kållerstad,kallerstad,66215
+1687,Källeryd,kalleryd,61701
+1688,Kallinge kbfd,kallingekb,108102
+1689,Källna,kallna,116600
+1690,Källsjö,kallsjo,138222
+1691,Källs-Nöbbelöv,kallsnob,121409
+1692,Källstad,kallstad,58407
+1693,Källstorp,,121400
+1694,Källstorp,kallstorp,128727
+1695,Källunga,kallunga,156608
+1696,Källunge,kallunge,98023
+1697,Kalmar,kalmar,30501
+1699,Kalmar domkyrkoförsamling,kaldom,88001
+1700,Kalmar landsförsamling,kalmarlands,88000
+1701,Kalmar mosaiska,kalmarmosai,88000
+1702,Kalmar Sankt Johannes,kalsanjoh,88015
+1703,Kalmar slottsförsamling,kalmarslotts,88000
+1705,Kalmar tyska,kalmartyska,88000
+1706,Kalv,kalv,156505
+1707,Kälvene,kalvene,168625
+1709,Kalvsvik,kalvsvik,78012
+1710,Kalvträsk,kalvtrask,248212
+1711,Kammarduksfabriken i Vadstena,kammarduksfabriken,58400
+1713,Kämpinge,kampinge,123300
+1714,Kånna,kanna,78107
+1717,Karaby,karaby3,168117
+1718,Karbenning,karbenning,196202
+1719,Kårböle,karbole,216105
+1720,Kärda,karda,68304
+1721,Kareby,kareby,148209
+1722,Karesuando,kares,258403
+1723,Käringön,karingon,142108
+1724,Karlanda,karlanda,176503
+1726,Karleby,karleby,168620
+1728,Karl Gustav,karlgustav1,138323
+1729,Karl Gustav,karlgustav,258304
+1731,Karlsborg,karlsborg,163701
+1732,Karlsborgs garnisonsförsamling,karlsgarn,163700
+1733,Karlsdal,karisdal,188300
+1734,Karlshamn,karlshamn,108201
+1736,Karlskoga,karlskoga,188301
+1737,Karlskrona Amiralitetsförsamling,karlamiral,108002
+1738,Karlskrona fångförsamling,karlskronafangfors,108000
+1740,Karlskrona mosaiska,karlskronamosai,108000
+1741,Karlskrona stadsförsamling,karlstads,108001
+1743,Karlskrona tyska,karltyska,108000
+1744,Karlskyrka,kariskyrka1,18800
+1746,Karlslunda,karlun,88014
+1748,Karlstads domkyrkoförsamling,karldomkyrk,178001
+1749,Karlstads landsförsamling,karlanfor,178000
+1751,Karlstens slottsförsamling,karlstensslottsf,148200
+1752,Karlstorp,karlstorp,68517
+1753,Kärna,karna,58005
+1754,Kärnbo,karnbo,48600
+1756,Karoli,karoli,128000
+1757,Kärråkra,karrakra,158402
+1758,Kärrbo,karrbo,198012
+1759,Kärreberga,karreberga,116700
+1763,Kårsta,karsta,11505
+1765,Karup,karup,116800
+1766,Kastlösa,kastlosa,84006
+1767,Katarina,katarina,18015
+1768,Katrineberg,katrineberg,218300
+1769,Katrineholm,katrineholm,48301
+1771,Katslösa,katslosa,126408
+1772,Kattarp,kattarp,128305
+1773,Kättilstad,kattilstad,51308
+1774,Kattnäs,kattnas,48000
+1775,Kattunga,kattunga,156300
+1776,Kaunisvaara kbfd,kaunisvaarakbfd,252100
+1777,Kävlinge,kavlinge,126101
+1778,Kävsjö,kavsjo,61703
+1781,Kengis bruksförsamling,kengisbruksf,252100
+1782,Kestad,kestad,166115
+1783,Kiaby,kiaby,118023
+1786,Kil,kil4,188010
+1788,Kila,kila2,178510
+1789,Kila,kila3,198107
+1790,Kila,kila1,48009
+1791,Kilanda,kilanda,152104
+1792,Kimstad,kimstad,58112
+1793,Kinna,kinna,156301
+1794,Kinnared,kinnared1,131502
+1795,Kinnared,kinnared2,158400
+1796,Kinnarumma,kinnarumma,158320
+1797,Kinne-Kleva,kinnekl,166114
+1798,Kinneved,kinneved,168616
+1799,Kinne-Vedum,kinnevedum,166103
+1800,Kirseberg,kirseberg,128003
+1802,Kisa,kisa,51302
+1803,Kista,kista,18042
+1804,Kista kbfd,kistakbfd,18000
+1806,Kjula,kjula,48406
+1807,Kläckeberga,klackeberga,88002
+1808,Klädesholmen,kladesholmen,141904
+1812,Klara,klara,18000
+1814,Klåstad,klastad,58400
+1818,Klinte,klinte,98061
+1819,Klippan,klippan,116601
+1820,Klockrike,klockrike,58307
+1825,Klövedal,klovedal,141905
+1826,Klövsjö,klovsjo,232607
+1827,Knäred,knared,138109
+1828,Knästorp,knastorp,123004
+1829,Knätte,knatte,158423
+1830,Knislinge,knislinge,112101
+1831,Knista,knista,188020
+1832,Knivsta,knivsta,38035
+1833,Knutby,knutby,38028
+1834,Köinge,koinge,138215
+1835,Köla,kola,173005
+1836,Kölaby,kolaby,158425
+1837,Kolbäck,kolback,196103
+1838,Kölingared,koling,158422
+1839,Kolmårdsroten,kolmardsroten,58100
+1840,Kolsva,kolsva,198304
+1841,Kolsva norra kbfd,kolsva-0,198300
+1842,Kolsva södra kbfd,kolsvas,198300
+1843,Konga,konga,121412
+1844,Konradsberg,konradsberg,18000
+1846,Konung Oscar I,konungens,18000
+1847,Konungsund,konungsrund,58118
+1848,Konungsunds Kolmårdsrote,konungsunds,58100
+1849,Köping,koping1,198301
+1850,Köping,koping,88507
+1851,Köpinge,kopinge1180,118008
+1854,Köpings landsförsamling,kopingslands,198300
+1858,Korpilombolo,korpilombolo,252104
+1859,Korrektionsinrättningen,korrektionsinrattningen,18000
+1860,Korsberga,korsberga2,168408
+1861,Korsberga,korsberga1,68509
+1863,Kortedala,kortedala,148005
+1864,Kortedala kbfd,kortedalakbfd,148000
+1865,Kräcklinge,kracklinge,188021
+1868,Kräklingbo,kraklingbo,98044
+1869,Kråkshult,krakshult,68603
+1870,Kråksmåla,kraksmala,88102
+1874,Kristberg,kristberg,58305
+1875,Kristdala,kristdala,88204
+1876,Kristianopel,kri,108008
+1878,Kristianstads garnisonsförsamling,kristiangar,118000
+1879,Kristianstads Heliga Trefaldighet,kristhel,118001
+1880,Kristianstads slottsförsamling,kristslott,118000
+1886,Kristinehamn,kristinehamn,178101
+1890,Kristvalla,kristvalla,88104
+1891,Krogsered,krogsered,138219
+1892,Krokek,krokek,58115
+1893,Krokstad,krokstad,143008
+1894,Krokstrands kbfd,krokstrand,148600
+1897,Kronospinnhuset,kronospinnhuset,18000
+1899,Kropp,kropp,128308
+1900,Kroppa,kroppa,178206
+1901,Kroppa kbfd,kroppakbfd,178200
+1902,Krylbo kbfd,krylbokbfd,208405
+1903,Kuddby,kuddby,58122
+1905,Kulla,kulla1,38123
+1906,Kulladal,kulladal,128018
+1907,Kullerstad,kullerstad,58109
+1908,Kullings-Skövde,kullingsskovde,152714
+1909,Kulltorp,kulltorp0617,61704
+1910,Kumla,kumla1881,188101
+1911,Kumla,kumla1981,198106
+1912,Kumla,kumla0586,58613
+1913,Kumlaby,kumlaby,68000
+1915,Kungälv,kungalv,148201
+1916,Kung Karl,kungkarl,196001
+1918,Kungsängen,kungsangen,13903
+1919,Kungsåra,kungsara,198013
+1920,Kungsäter,kungsater,138324
+1921,Kungsbacka,kungsbacka,138401
+1922,Kungsbacksförsamlingen,kunbafor,18000
+1923,Kungs-Barkarö,kungsbark,196004
+1924,Kungshamn,kungshamn,142701
+1925,Kungsholm eller Ulrika Eleonora,kungsholm,18018
+1926,Kungs-Husby,kungshusby,38112
+1927,Kungslena,kungslena,168519
+1929,Kurhuset,kurhuset,18000
+1931,Kvänum,kvanum,166029
+1932,Kvarsebo,kvarsebo,58116
+1933,Kvenneberga,kvenneberga,76400
+1934,Kverrestad,kverrestad,116010
+1935,Kvibille,kvibille,138015
+1936,Kvidinge,kvidinge,116703
+1937,Kviinge,kviinge,112103
+1938,Kvikkjokk,kvikkjokk,251000
+1939,Kvikkjokks kbfd,kvikkjokkskbfd,251000
+1940,Kville,kville,143571
+1941,Kville kbfd,kvillekbfd,143506
+1942,Kvillinge,kvillinge,58114
+1943,Kvinnestad,kvinnestad,152712
+1944,Kvistbro,kvistbro,188025
+1945,Kvistofta,kvistofta,128316
+1947,Kymbo,kymbo,168511
+1948,Kyrkås,kyrkas2,160305
+1949,Kyrkås,kyrkas1,238008
+1952,Kyrketorp,kyrketorp1663,166300
+1955,Kyrkheddinge,kyrkheddinge,123002
+1956,Kyrkhult,kyrkhult,106003
+1958,Kyrkoköpinge,kyrkokop,128714
+1960,Läby,laby,38013
+1961,Lackalänga,,126104
+1962,Läckö slottskapell,lackoslottskapell,168100
+1964,Lagfors bruksförsamling,Lagforsbruksforsamling,226200
+1965,Lagga,Lagga,38032
+1967,Lagmansered,lagmansered,158108
+1968,Laholm,Laholm,138101
+1969,Laholms landsförsamling,Laholmslandsforsamling,138100
+1972,Landa,landa1,138407
+1973,Landa,Landa-0,152717
+1975,Landeryd,Landeryd,58003
+1976,Landskrona,Landskrona,128201
+1977,Landskrona garnisonsförsamling,Landskronagarnisonsforsamling,128200
+1978,Landskrona slotts- och straffängelseförsamling,,128200
+1979,Landvetter,Landvetter,140102
+1980,Lane-Ryr,LaneRyr,148511
+1981,Långared,langared,158207
+1982,Långaröd,langarod,126604
+1983,Långaryd,langaryd,131504
+1984,Långasjö,langasjo,86204
+1985,Längbro,langbro,188003
+1986,Långelanda,langelanda,142104
+1987,Långemåla,langemala,82103
+1988,Länghem,langhem,155206
+1989,Långholmen,langholmen,18000
+1990,Längjum,langgjurn,158300
+1991,Längjum,langjum,166025
+1992,Långlöt,langlot,88511
+1993,Längnum,langnum,160211
+1994,Långsele,langsele,228304
+1995,Långserud,langserud,178512
+1996,Långshyttans kbfd,langshyttanskbfd,208305
+1997,Långtora,langtora,38128
+1998,Lanna,Lanna,168100
+1999,Länna,lanna,18825
+2000,Länna,lanna2,48605
+2001,Lännäs,lannas,188014
+2004,Lannaskede,Lannaskede,68521
+2006,Lansjärvs kbfd,lansjarvskbfd,251300
+2007,Lärbro,larbro,98010
+2012,Larv,larv,166024
+2013,Laske-Vedum,laskevedum,166014
+2014,Låssa,lassa,13902
+2015,Låstad,lastad,168008
+2016,Lästringe,lastringe,48023
+2017,Latikbergs kbfd,latikbergskbfd,246200
+2021,Lau,lau,98070
+2026,Lavad,lavad,168125
+2027,Laxarby,laxarby,156003
+2028,Laxsjö,laxsjo,230905
+2029,Leaby,leaby,168600
+2030,Ledberg,ledberg,58007
+2031,Ledsjö,ledsjo,166109
+2032,Lekaryd,lekaryd,76402
+2033,Lekåsa,lekasa,160308
+2034,Lekeryd,lekeryd,68014
+2035,Leksand,leksand,202901
+2036,Leksberg,leksberg,168002
+2037,Lekvattnet,lekvattnet,173702
+2038,Lemmeströ,lemmestro,126300
+2039,Lemnhult,lemnhult,68510
+2040,Lena,lena2,152701
+2042,Lena,lena1,38024
+2043,Lenhovda,lenhovda,76003
+2044,Lerbäck,lerback,188203
+2045,Lerbo,lerbo,48303
+2046,Lerdal,lerdal,150706
+2047,Lerdala,lerdala,168323
+2048,Lerum,lerum,152401
+2049,Lessebo,lessebo,76101
+2050,Lessebo kbfd,lessebokbfd,76100
+2053,Levene,levede2,166004
+2054,Levide,levide,98081
+2055,Lextorp,lextorp,158109
+2056,Liared,liared,158421
+2057,Lid,lid,48015
+2058,Liden,liden1,228113
+2060,Lidhult,lidhult,78116
+2061,Lidingö,lidingo,18601
+2062,Lidköping,lidkoping,168101
+2065,Lilla Beddinge,lillabedd,128725
+2066,Lilla Harrie,lillharrie,126108
+2067,Lilla Isie,lillaisie,128720
+2068,Lilla Malma,lillamalm,48205
+2069,Lilla Mellösa,lillamellosa,48200
+2070,Lilla och Stora Essingens kbfd,lillaess,18000
+2071,Lilla Rytterne,lillarytterne,198000
+2072,Lilla Slågarp,lillaslagarp,128700
+2074,Lillhärad,lillharad,198008
+2075,Lillhärdal,lillhardal,236111
+2077,Lillkyrka,lillkyrka1,38110
+2078,Lillkyrka,lillkyrka2,58027
+2079,Lillkyrka-Ödeby,lillad,188029
+2080,Lima,lima,202303
+2081,Lima kbfd,limakbfd,202300
+2082,Limhamn,limhamn,128007
+2084,Limmared,limmared,155200
+2085,Lindärva,lindarva,168122
+2086,Lindberg,lindberg,138313
+2087,Linde,linde2,188500
+2088,Linde,linde,98075
+2090,Linderås,linderas,68703
+2091,Linderöd,linderod,118033
+2093,Lindesberg,lindesberg1,188502
+2096,Lindome,lindome,148103
+2097,Lingbo,lingbo,210103
+2099,Linköpings Berga,linberg,58033
+2100,Linköpings domkyrkoförsamling,linkopdom,58001
+2101,Linköpings Johannelund,linkjoh,58034
+2102,Linköpings Ryd,linkopingsryd,58000
+2103,Linköpings Sankt Lars,linsanlars,58002
+2104,Linköpings Skäggetorp,linskagg,58000
+2106,Linneryd,linneryd,76304
+2107,Linsell,linsell,236102
+2108,Lista,lista,48414
+2109,Listerby,listerby,108107
+2110,Lit,lit,238009
+2111,Litslena,litslena,38119
+2112,Livbataljonsförsamlingen,livbataljonsforsamlingen,18000
+2113,Livbeväringsregementet,livbevvaringsregenlentet,18000
+2114,Livdrabantförsamlingen,livdrabantfors,18000
+2117,Livgardet till häst,livhast,18000
+2121,Livregementets värvade infanteribataljon,livreginfant,18000
+2123,Ljuder,ljuder,76104
+2124,Ljung,ljung2,148503
+2125,Ljung,ljung3,156600
+2126,Ljung,ljung1,58021
+2129,Ljungarum,ljungarum,68003
+2131,Ljungby,ljungby3,118000
+2134,Ljungby,ljungby6,138210
+2135,Ljungby,ljungby,78101
+2136,Ljungby,ljungby1,88008
+2138,Ljunghem,ljunghem1,162200
+2139,Ljunghem,ljunghem2,168310
+2140,Ljungsarp,ljungsarp,155209
+2141,Ljur,ljur,152709
+2142,Ljusdal,ljusdal,216101
+2143,Ljushult,ljushult,158308
+2144,Ljusnarsberg,ljusnarsberg,186471
+2145,Ljusnarsbergs kbfd,ljusnarsbergskbfd,186401
+2146,Ljusne,ljusne,218204
+2147,Ljusnedal,ljusnedal,236106
+2149,Ljusterö,ljustero,11703
+2150,Ljustorp,ljustorp,226202
+2151,Lockarp,lockarp,128000
+2152,Locketorp,locketorp,168316
+2153,Lockne,lockne,238005
+2154,Locknevi,locknevi,88406
+2155,Löddeköpinge,loddekopinge,126112
+2156,Löderup,loderup,128617
+2159,Lofta,lofta,88310
+2160,Loftahammar,loftahammar,88309
+2161,Lögdö bruksförsamling,logdobruksf,226200
+2162,Lohärad,loharad,18817
+2163,Lojsta,loista,98074
+2164,Lokrume,lokrume,98020
+2165,Lomma,lomma,126201
+2166,Lommaryd,lommaryd,60406
+2167,Lommeland,lommeland,148605
+2168,Long,long,166005
+2169,Lönneberga,lonneberga,86002
+2170,Lönsås,lonsas,58310
+2171,Lönskog,lonskog,178500
+2172,Los,los,216103
+2173,Lösen,losen,108005
+2174,Loshult,loshult,116303
+2176,Löt,lot1,38116
+2177,Löt,lot2,58100
+2178,Löt,lot3,88504
+2179,Lövånger,lovanger,248210
+2180,Lovene,lovene,168600
+2181,Lövestad,lovestad,126510
+2182,Lovö,lovo,12504
+2185,Lövsta bruksförsamling,lovstabruksf,36000
+2186,Ludgo,ludgo,48017
+2187,Ludvika,ludvika,208501
+2188,Lugnås,lugnas,168010
+2190,Luleå domkyrkoförsamling,luldom,258001
+2192,Lummelunda,lummelunda,98016
+2193,Lunda,lunda1,19110
+2194,Lunda,lunda,48008
+2195,Lundby,lundby1,148017
+2200,Lundby kbfd,lundbykbfd,148000
+2201,Lunds Allhelgonaförsamling,lunall,128104
+2202,Lunds domkyrkoförsamling,lunddom,128101
+2203,Lunds hospitalsförsamling,lundhos,128100
+2204,Lunds landsförsamling,lundslandsf,128100
+2206,Lunger,lunger,198400
+2207,Lungsund,lungsund,176003
+2209,Luntertun,luntertun,118200
+2210,Lur,lur,143503
+2211,Luttra,luttra,168618
+2212,Lyby,lyby,126609
+2213,Lycke,lycke,148206
+2214,Lyckeby,lyckeby,108000
+2215,Lycksele,lycksele,248101
+2216,Lycksele kbfd,lyckselekbfd,248100
+2217,Lye,lye,98069
+2218,Lyngby,lyngby,128119
+2219,Lyngsjö,lyngsjo,118018
+2220,Lyrestad,lyrestad,168018
+2221,Lyse,lyse,148402
+2222,Lysekil,lysekil,148401
+2223,Lysvik,lysvik,176605
+2224,Madesjö,,88105
+2225,Madesjö kbfd,madesjokbfd,88100
+2227,Maglarp,maglarp,128702
+2229,Maglehem,maglebern,118026
+2231,Magra,magra,158206
+2234,Malå,mala,241801
+2236,Malexander,malexander,56006
+2238,Målilla kbfd,malillakbfd,86000
+2239,Målilla med Gårdveda,molgod,86003
+2240,Malingsbo,malingsbo,206100
+2242,Malma,malma2,160301
+2243,Malma,malma3,198300
+2246,Malmbäck,malmback,68209
+2247,Malmberget,malmberget,252306
+2248,Malmbergets kbfd,malmbergetskbfd,252300
+2251,Malmö garnisonsförsamling,malgarn,128000
+2252,Malmö hospitalsförsamling,malmohospitalsforsamling,128000
+2253,Malmö Karoli,malmokaroll,128000
+2254,Malmö katolska,malmokatolska,128000
+2255,Malmö mosaiska,malmomosaiska,128000
+2256,Malmön,malmon,142702
+2257,Malmö Övra,malmoovra,128000
+2258,Malmö Sankt Johannes,malsanjoh,128005
+2259,Malmö Sankt Pauli,malsanktpauli,128004
+2260,Malmö Sankt Petri,malsanktpetri,128001
+2261,Malmö slottsförsamling,malmoslottsforsamling,128000
+2262,Malmö tyska,malmotyska,128000
+2263,Malöga,maloga,158100
+2264,Malsta,malsta,18816
+2265,Malung,malung,202302
+2266,Malung utom Tyngsjö,malungutomtyngsjo,202300
+2267,Mangskog,mangskog,178410
+2270,Månsarp,mansarp,68019
+2271,Månstad,manstad,155207
+2273,Marbäck,marback2,158415
+2274,Marbäck,marback1,60404
+2276,Marby,marby,232107
+2277,Mårdaklev,mardaklev,156504
+2285,Maria Magdalena,mariamagdal,18013
+2288,Marieberg,marieberg,148000
+2289,Marieby,marieby,238006
+2290,Mariefred,mariefred,48604
+2291,Mariestad,mariestad,168001
+2292,Marka,marka,168610
+2293,Markaryd,markaryd,76701
+2294,Markbygdens kbfd,markbygdenskbfd,258104
+2295,Markie,markie,128700
+2296,Markim,markim,11502
+2297,Marstrand,marstrand,148203
+2298,Marstrands mosaiska,marstrandsmosaiska,148200
+2299,Marsvinsholm,marsvinsholm,128600
+2300,Martebo,martebo,98017
+2302,Martin Luther,martinluther,138002
+2303,Marum,marum,168213
+2305,Mästerby,masterby,98058
+2308,Matteröd,matterod,118318
+2309,Matteus,matteus1,18007
+2311,Mattmar,mattmar,232102
+2312,Medåker,medaker,198403
+2314,Medelplana,medelplana,166119
+2315,Mellan-Grevie,mellangrevie,123311
+2320,Mellby,mellby6,168106
+2321,Mellby,mellby1,68608
+2323,Mellösa,mellosa1,48207
+2327,Mikael,mikael4,188030
+2329,Militärförsörjningsinrättningen,militarforsorningen,18000
+2330,Militärkåren,militarkaren,18000
+2331,Millesvik,millesvik,178506
+2332,Mistelås,mistelas,76407
+2333,Misterhult,misterhult,88272
+2334,Misterhults norra kbfd,misterhultsnorrakbfd,88202
+2335,Misterhults södra kbfd,misterhultssodrakbfd,88203
+2336,Mjäldrunga,mjaldrunga,156609
+2337,Mjällby,mjallby,108304
+2338,Mjöbäck,mjoback,156503
+2339,Mjölby,mjalby,58601
+2342,Mo,mo1,143505
+2343,Mo,mo2,158503
+2344,Mo,mo3,166308
+2345,Mo,mo4,218207
+2346,Mo,mo5,228409
+2348,Mockfjärd,mockfjard,202601
+2349,Möckleby,mockleby,84000
+2350,Mofalla,mofalla,168404
+2351,Mogata,mogata,58210
+2352,Moheda,moheda,76405
+2353,Möja,moja,12002
+2354,Möklinta,moklinta,198108
+2357,Molla,molla,156616
+2358,Mölleberga,molleberga,123009
+2359,Möllevången,mollevagen,128006
+2360,Mollösund,mollosund,142107
+2361,Mölltorp,molltorp,163703
+2362,Mölndal,molndal,148100
+2363,Möne,mone,158404
+2364,Mönsterås,monsteras,86101
+2365,Mora,mora,206201
+2366,Mörarp,morarp,128312
+2367,Mörbylånga,morbylanga,84003
+2368,Morjärvs kbfd,moriarvskbfd,251403
+2369,Morkarla,morkarla,38212
+2370,Mörkö,morko,18111
+2371,Morlanda,morlanda,142110
+2372,Mörlunda,molunda,86008
+2373,Mörrum,morrum,108206
+2375,Mörsil,morsil,232103
+2376,Mortorp,mortorp,88013
+2378,Morup,morup,138209
+2379,Mosaiska,mosaiska,18000
+2380,Mosjö,mosjo,188005
+2381,Mosseberg,mosseberg,162200
+2382,Mossebo,mossebo,155204
+2383,Motala,motala,58301
+2384,Mularp,mularp,168623
+2385,Mulseryd,mulserud,68022
+2386,Multrå,multra,228302
+2387,Munka-Ljungby,munby,118205
+2388,Munkarp,munkarp,126705
+2389,Munkfors,munkfors,176202
+2391,Munktorp,munktorp,198306
+2392,Munsö,munso,12501
+2393,Muonionalusta,muonionalusta,252103
+2394,Murum,murum,158406
+2395,Muskö,musko,13607
+2396,Mussla,mussla,168600
+2397,Mustasäter,mustasater,156100
+2398,Myckleby,myckleby,142105
+2400,Myresjö,myresjo,68522
+2402,Myssjö,myssjo,232604
+2403,Nacka,,18201
+2404,Nackebo,nackebo,68000
+2405,Naglum,naglum,158000
+2406,Nämdö,namdo,12004
+2407,När,nar,98071
+2408,Närtuna,nartuna,18815
+2409,Nårunga,norunga-0,152708
+2413,Näs,nas7,168626
+2414,Nås,nas,202103
+2415,Näs,nas8,238004
+2418,Näs,nas4,98087
+2419,Nasafjäll,nasafjall,250600
+2420,Näsby,nasby3,188504
+2421,Näsby,nasby1,58000
+2422,Näsby,nasby2,68504
+2423,Näshult,nashult,68511
+2424,Näshulta,nashulta,48417
+2425,Näsinge,nasinge,148604
+2426,Näskott,naskott,230902
+2428,Nässja,nassja,58404
+2429,Nässjö,nassjo,68201
+2430,Näsum,nasum,116203
+2431,Nätra,natra,228407
+2432,Nattavaara kbfd,nattavaarakbfd,252302
+2433,Nättraby,nattraby,108018
+2434,Naum,naum,166009
+2436,Nävelsjö,navelsjo,68520
+2437,Naverstad,naverstad,143504
+2438,Nävlinge,navlinge,118308
+2440,Nederkalix,nederkalix,251401
+2441,Nederluleå,nederlul,258003
+2443,Nedertorneå-Haparanda,nedertorhaparanda,258301
+2444,Nedertorneå kbfd,nedertorneakbfd,258300
+2445,Nedraby,nedraby,116000
+2446,Nedre Ullerud,nedreullerud,176302
+2447,Nevishög,nevishog,123000
+2448,Nianfors,nianfors,218406
+2451,Nicolai,nicolai5,148200
+2453,Nicolai,nicolai2,48000
+2454,Niilivaara kbfd,niilivaarakbfd,252300
+2456,Nikolai,nikolai1,18000
+2461,Nikolai,nikolai2,48000
+2462,Nikolai kbfd,nikolaikbfd,48000
+2463,Nikolaus,nikolaus1,128100
+2464,Nikolaus,nikolaus2,168200
+2465,Nilivaara,nilivaara,252305
+2466,Nittorp,nittorp,155208
+2467,Njurunda,njurunda,228110
+2468,Njutånger,njutanger,218405
+2469,Nöbbele,nobbele,78009
+2470,Nöbbelöv,nobbelov1,118000
+2475,Nödinge,nodinge,152101
+2476,Nol-Alafors kbfd,nolalaforskbfd,152100
+2478,Nor,nor,178009
+2479,Nora,nora1,188400
+2480,Nora,nora2,191705
+2481,Nora,nora3,228202
+2482,Nora bergsförsamling,norabergs,188404
+2485,Nora stadsförsamling,norastads,188400
+2486,Norberg,norberg,196201
+2488,Norderö,nordero,238011
+2489,Nordingrå,nordingra,228204
+2490,Nordmaling,nordmaling,240171
+2491,Nordmalings kbfd,nordmalingskbfd,240102
+2492,Nordmark,nordmark,178204
+2493,Noreby,noreby,156000
+2494,Normlösa,normlosa,58607
+2495,Norns bruksförsamling,nornsbruksf,208300
+2496,Norra Åkarp,norrakarp,118313
+2497,Norra Åsarp,norrasarp,168651
+2498,Norra Åsum,norrasum,118002
+2499,Norra bataljonsförsamlingen,norrbat,18000
+2500,Norra Björke,norrabjorke,158102
+2504,Norra correctionsinrättningen,norracorrec,18000
+2505,Norra Fågelås,norfagel,168406
+2506,Norra Finnskoga,norrfinnskog,173706
+2507,Norrahammar,norrahammar,68008
+2508,Norra Härene,norraharene,168121
+2509,Norra Hestra,norrahestra,66208
+2510,Norra Järva,norrajarva,18000
+2511,Norra Kedum,norrkedum,168129
+2512,Norra korrektionsinrättningen,norrakorrek,18000
+2513,Norra kronohäktet,norrakrono,18000
+2514,Norra Kyrketorp,norrakyrk,168308
+2515,Norrala,norrala,218209
+2518,Norra Lundby,norralundby,168206
+2519,Norra Mellby,norrmel,118315
+2520,Norra Möckleby,norramoby,84016
+2521,Norra Nöbbelöv,norranob,128105
+2522,Norra Ny,norrany,173709
+2523,Norra Råda,norrarada,178304
+2524,Norra Rörum,norrarorum,126707
+2525,Norra Rottne,norrarottne,78000
+2528,Norra Säm,norrasam,156600
+2529,Norra Sandby,norrasandby,118304
+2530,Norra Sandsjö,norrasandsjo,68271
+2531,Norra Sandsjö kbfd,norrasandsjokbfd,68203
+2532,Norra Skrävlinge,norrskravlinge,121410
+2533,Norra Solberga,norrasolberga,68205
+2534,Norra Strö,norrastro,118012
+2536,Norra Unnaryd,norraunnaryd,68024
+2537,Norra Vånga,norravanga,166031
+2538,Norra Vi,norravi,51206
+2539,Norra Ving,norraving,168208
+2540,Norra Vram,norravram,126003
+2541,Norrbärke,norrbarke,206101
+2542,Norrbo,norrbo,218410
+2543,Norrby,norrby,198104
+2544,Norrbyås,norrbyas,188017
+2545,Norrfjärden,norrfjarden,258105
+2546,Norrfors kbfd,norrforskbfd,240101
+2547,Norrköpings Borg,norrborg,58105
+2548,Norrköpings Hedvig,norrhed,58102
+2550,Norrköpings Matteus,norrmatt,58103
+2551,Norrköpings mosaiska,norrkopingsmosai,58100
+2553,Norrköpings Östra Eneby,norrast,58104
+2554,Norrköpings reformerta,norrkopingsreform,58100
+2555,Norrköpings Sankt Johannes,norrsanjoh,58106
+2556,Norrköpings Sankt Olai,norrsanktolai,58101
+2557,Norrköpings straff- och arbetsfängelse,norrkopingsstraffarb,58100
+2559,Norrlanda,norrlanda,98027
+2560,Norrlands artilleriregemente,norrlandsart,238000
+2562,Norrlands trängkår,norrtrang,228300
+2564,Norrstrand,norrstrand,178002
+2565,Norrsunda,norrsunda,19108
+2566,Norrtälje,norrtalje,18801
+2567,Norrvidinge,norrvidinge,121411
+2568,Norsjö,norsjo,241771
+2569,Norsjö kbfd,norsjokbfd,241702
+2572,Norska jägarkåren,norskajagar,18400
+2574,Norum,norum,141502
+2576,Nosaby,nosaby,118009
+2577,Nössemark,nossemark,150402
+2578,Nösslinge,nosslinge,138303
+2579,Nottebäck,notteback,76004
+2581,Nöttja,nottja,78113
+2584,Ny,ny,178408
+2588,Nya Älvsborg,nyaolvsborg,148000
+2589,Nya Falkenberg,nyafalkenberg,138200
+2592,Nya Varberg,nyavarberg,138300
+2593,Nya Varvet,nyavarvet,148000
+2595,Nybro,nybro,88101
+2596,Nybro kbfd,nybrokbfd,88100
+2598,Nydala,nydala,68314
+2599,Nye,nye,68514
+2600,Nyed,nyed,178006
+2602,Nyhem,nnyhem,230502
+2603,Ny-Huggenäs,nyhuggenas,178508
+2604,Nykil,nykil,58011
+2605,Nyköpings Alla Helgona,nyah,48002
+2606,Nyköpings Helgona,nykopingshelgona,48000
+2609,Nyköpings Sankt Nicolai,nysannicolai,48001
+2612,Nykyrka,nykyrka3,162203
+2614,Nykyrka,nykyrka1,48012
+2617,Nykyrke,nykyrke3,168400
+2619,Nylöse,nylose,148004
+2620,Nylöse kbfd,nylosekbm,148000
+2621,Nymö,nymo,118020
+2622,Nynäshamn,nynashamn,19201
+2623,Nysätra,nysatra2,240904
+2624,Nysätra,nysatra1,38129
+2625,Nyskoga,nyskoga,173704
+2626,Nysund,nysund,186202
+2627,Ockelbo,,210102
+2628,Öckerö,,140701
+2629,Od,od,156617
+2630,Odarslöv,odarslov,128111
+2631,Ödeborg,odeborg,150702
+2632,Ödeby,odeby,188000
+2634,Ödenäs,odenas,158210
+2635,Odensåker,odensaker,168007
+2636,Odensala,odensala,19105
+2638,Odensjö,odensjo1,78117
+2639,Odensvi,odensvi2,198305
+2640,Odensvi,odensvi1,88312
+2641,Oderljunga,oderljunga,116500
+2642,Ödeshög,odeshog,50902
+2643,Ödestugu,odestugu,68017
+2644,Ödskölt,odskolt,156008
+2645,Ödsmål,ads,141503
+2646,Offerdal,offerdal,230908
+2647,Offerdals kbfd,offerdalskbfd,230900
+2648,Öggestorp,oggestorp,68018
+2649,Öglunda,oglunda,168203
+2650,Öja,oja4,128609
+2651,Öja,oja1,48415
+2652,Öja,oja2,78016
+2653,Öja,oja3,98089
+2654,Öjaby,ojaby,78018
+2655,Ökna,okna,68516
+2656,Oknö,okno,48600
+2657,Okome,okome,138217
+2660,Ölanda,olanda,168200
+2663,Öljehult,oljehult,108104
+2664,Ölme,olme,178106
+2666,Ölmevalla,olmevalla,138408
+2674,Olofströms kbfd,olofstromskbfd,106001
+2676,Ölserud,olserud,178505
+2677,Ölsremma,olsremma,155210
+2678,Olunda,olunda,160200
+2679,Öm,om,168300
+2681,Önnarp,onnarp,128728
+2682,Önnestad,onnestad,118013
+2683,Onsala,onsala,138414
+2684,Onslunda,onslunda,116008
+2686,Önum,onum,166008
+2687,Oppeby,oppeby,51306
+2688,Oppmanna,oppmanna,118035
+2689,Ör,or2,156106
+2690,Ör,or1,78027
+2691,Öra,ora,156622
+2693,Örberga,orberga,58405
+2695,Örby,orby,156371
+2696,Örby kbfd,orbykbfd,156303
+2697,Ore,ore,203104
+2699,Örebro Nikolai,ornik,188001
+2701,Örebro Olaus Petri,orebroop,188002
+2703,Öregrund,oregrund,38207
+2704,Öreryd,oreryd,66207
+2705,Örgryte,orgryte,148016
+2706,Örja,orja,128211
+2708,Örkelljunga,orkelljunga,113701
+2709,Örkened,orkened,116302
+2710,Orkesta,orkesta,11503
+2711,Orleka,orleka,168500
+2712,Orlunda,orlunda,58412
+2713,Ormesberga,ormesberga,78026
+2715,Örnäset,ornaset,258002
+2716,Ornö,orno,13604
+2717,Örnsköldsvik,ornskoldsvik,228401
+2718,Ornunga,ornunga,152710
+2719,Orsa,orsa,203402
+2720,Örsås,orsas,156508
+2721,Orsa utom Skattunge,orsautomskattunge,203400
+2723,Örsjö,orsjo2,126410
+2724,Örsjö,orsjo1,88106
+2725,Örslösa,orslosa,168131
+2726,Örtofta,ortofta,128507
+2727,Örtomta,ortomta,58029
+2728,Örträsk,ortrask,248104
+2730,Osby,osby,116301
+2731,Oscar,oscar2,158400
+2732,Oscar,oscar1,18011
+2733,Oscar I,oscar1minne,18000
+2735,Oskar,oskar,88108
+2738,Oskarshamn,oskarshamn,88201
+2739,Oskarshamns mosaiska,oskarshamnsmosaiska,88200
+2740,Oskarström,oskarstrom,138005
+2741,Öslöv,oslov,128500
+2742,Ösmo,osmo,19204
+2744,Össeby-Garn,ossebygarn,11507
+2745,Össjö,ossjo,118212
+2746,Östad,ostad,152404
+2747,Östanå,ostana,156100
+2748,Östby,ostby,168100
+2750,Österåker,osteraker1,11702
+2751,Österåker,osteraker2,42802
+2752,Österbitterna,osterbitterna,166000
+2753,Österby bruksförsamling,osterbybruksforsamling,38200
+2754,Österfärnebo,ostfarn,218105
+2756,Östergarn,astergarn,98047
+2757,Österhaninge,osterhaninge,13601
+2758,Österhaninge norra kbfd,osterhaningenorrakbfd,13600
+2759,Österhaninge södra kbfd,osterhaningesodrakbfd,13600
+2760,Österlövsta,osterlovsta,36008
+2762,Österplana,osterplana,166118
+2763,Österslöv,osterlov,118011
+2765,Östersund,ostersund,238001
+2767,Östertälje,astalje,18102
+2768,Österunda,osterunda,38135
+2769,Östervåla,ostervala,191706
+2770,Östervallskog,ostervallskog,176509
+2771,Östgöta trängkår,ostra,68600
+2772,Östhammar,osthammar,38201
+2773,Östmark,ostmark,173705
+2775,Östra Ämtervik,astramt,176603
+2776,Östra Aros,ostraaros,38000
+2780,Östra Broby,ostbroby,112106
+2781,Östraby,ostraby,126610
+2782,Östra Ed,ostraed,56306
+2784,Östra Fågelvik,ostfagel,178003
+2785,Östra Frölunda,ostrafrolunda,156506
+2786,Östra Gerum,astragerum,168514
+2787,Östra Grevie,astragrevie,123312
+2788,Östra Harg,ostharg,58023
+2789,Östra Herrestad,astherr,118113
+2790,Östra Hoby,astrahoby,118106
+2791,Östra Husby,asthus,58125
+2792,Östra Ingelstad,ostraing,116015
+2793,Östra Karaby,ostkara,128512
+2794,Östra Kärrstorp,ostrakarr,126515
+2795,Östra Karup,ostkarup,116807
+2796,Östra Klagstorp,astraklag,128723
+2797,Östra Ljungby,ostraby-0,116607
+2798,Östra Nöbbelöv,ostranob,118103
+2799,Östra Ny,ostrany,58124
+2800,Östra Ryd,ostraryd1,11701
+2801,Östra Ryd,ostraryd2,58206
+2802,Östra Sallerup,ostsallerup,126603
+2803,Östra Skrukeby,ostskrukeby,58026
+2804,Östra Sönnarslöv,astsonnar,118016
+2805,Östra Stenby,astrastenby,58117
+2806,Östra Strö,astra,128521
+2808,Östra Tollstad,ostratoll,58616
+2809,Östra Tommarp,ostratomm,118109
+2810,Östra Torp,astratorp,128721
+2811,Östra Torsås,ostratoras,78008
+2812,Östra Tunhem,ostratun,168642
+2813,Östra Vemmenhög,ostvemmenhog,126405
+2814,ÖstraVemmerlöv,ostvemmerlov,118110
+2815,Östra Vingåker,ostravingaker,48307
+2816,Östra Vram,ostravram,118031
+2817,Östuna,ostuna,38036
+2818,Othem,othem,98002
+2820,Ottarp,ottarp,128314
+2821,Otterstad,otterstad,168111
+2822,Ottravad,ottravad,168508
+2823,Öttum,ottum,166030
+2824,Ova,ova,166108
+2827,Ovanåker,ovanaker,212101
+2829,Ovansjö,ovansjo,218102
+2830,Öved,oved,126514
+2831,Överenhörna,overhorn,18100
+2832,Övergran,overgran,30503
+2833,Överhogdal,averhog,236108
+2834,Överhölö,overholo,18100
+2835,Överjärna,overjarna,18107
+2836,Överkalix,overkalix,251301
+2837,Överkalix kbfd,overkalixkbfd,251300
+2840,Överklintens kbfd,overklintenskbfd,240902
+2841,Överlännäs,overlan,228312
+2842,Överluleå,overlulea,258201
+2843,Överluleå kbfd,overluleakbfd,258200
+2845,Överselö,overselo,48609
+2846,Överstelöjtnantens bataljon,overstelojbata,18000
+2847,Övertorneå,overtor,251801
+2848,Övertorneå kbfd,overtorneakbfd,251800
+2849,Överum,overum,88307
+2850,Oviken,oviken,232603
+2851,Övraby,ovraby1,116018
+2852,Övraby,ovraby,138018
+2856,Övre Ullerud,ovreullerud,176303
+2857,Öxabäck,oxaback,156318
+2858,Oxelösund,oxelosund,48101
+2859,Oxelösunds kbfd,oxelosundskbm,48100
+2860,Oxie,oxie,128014
+2861,Öxnevalla,oxnevalla,156313
+2862,Pajala,,252101
+2863,Pajala kbfd,pajalakbfd,252100
+2864,Partille,partille,140271
+2865,Partille kbfd,partillekbfd,140201
+2866,Påskallaviks kbfd,paskallavikskbfd,88206
+2872,Pelarne,pelarne,88404
+2878,Persnäs,persnas,88516
+2879,Perstorp,perstorp,116501
+2880,Peter,peter2,128100
+2885,Peter,peter6,168200
+2894,Piteå kbfd,piteakbfd,258103
+2895,Piteå landsförsamling,pitealandsf,258171
+2896,Piteå stadsförsamling,piteastadsforsamling,258101
+2897,Pjätteryd,pjatteryd,76506
+2899,Porjus,porius,251004
+2900,Porjus kbfd,poriuskbfd,251000
+2902,Puottaure kbfd,puottaure,251000
+2904,Råbelöv,rabelov,118000
+2908,Råby-Rekarne,rabyrekarne,48412
+2909,Råby-Rönö,rabyrono,48014
+2910,Rackeby,,168109
+2911,Råda,rada1,140103
+2913,Råda,rada3,168105
+2915,Rådene,radene,168306
+2916,Rådmansö,radmanso,18822
+2917,Råggärd,raggard,150705
+2919,Ragunda,ragunda,230301
+2921,Rakered,rakered,58000
+2922,Rällen,rallen,148600
+2923,Ramdala,ramdala,108012
+2924,Ramkvilla,ramkvilla,68507
+2925,Rämmen,rammen,178207
+2926,Ramnäs,ramnas,190702
+2927,Ramsåsa,ramsasa,116003
+2928,Ramsberg,ramsberg,188507
+2929,Ramsele,ramsele,228315
+2931,Ramsjö,ramsjo,216106
+2932,Ramsta,ramsta,38008
+2933,Ramundeboda,ramundeboda,186001
+2934,Råneå,ranea,258004
+2935,Råneå nedre kbfd,raneanedrekbfd,258000
+2936,Råneå övre kbfd,raneaovrekbfd,258200
+2937,Räng,rang,123309
+2938,Rångedala,rangedala,158304
+2939,Rännelanda,rannelanda,150707
+2940,Ränneslöv,ranneslov,138107
+2941,Rånnum,rannum,158000
+2942,Ransäter,ransater,176201
+2943,Ransberg,ransberg,166202
+2944,Rappestad,rappestad,58017
+2945,Räpplinge,rapplinge,88508
+2946,Rasbo,rasbo,38041
+2947,Rasbokil,rasbokil,38042
+2948,Råsunda,rasunda,18402
+2949,Rätan,ratan,232608
+2950,Rättvik,rattvik,203101
+2951,Raus,raus,128303
+2952,Rävinge,ravinge,138013
+2953,Ravlunda,ravlunda,118112
+2954,Rebbelberga,rebbelberga,118202
+2955,Redslared,redslared,156510
+2956,Reftele,reftele,66216
+2957,Regna,regna,56203
+2958,Regumatorp,regumatorp,168300
+2959,Rejmyra,rejmyra,56200
+2960,Remmarlöv,remmarlov,128500
+2961,Remmene,remmene,156604
+2962,Rengsjö,rengsjo,218304
+2963,Resele,resele,228306
+2964,Reslöv,reslov,128511
+2965,Resmo,resmo,84002
+2966,Resteröd,resterod,148504
+2967,Resville,resville,168100
+2968,Revesjö,revesjo,156509
+2969,Revinge,revinge,128114
+2970,Revsund,revsund,230506
+2971,Riala,riala,18826
+2972,Riddarholmen,riddarholmen,18000
+2973,Rimbo,rimbo,18810
+2974,Ringamåla,ringamala,108202
+2975,Ringarum,ringarum,56302
+2976,Ringarums kbfd,ringarumskbfd,56300
+2977,Ringestena,ringestena,156500
+2979,Rinkaby,rinkaby1,118019
+2980,Rinkaby,rinkaby2,188026
+2981,Rinna,rinna,56003
+2982,Ripsa,ripsa,48016
+2983,Risbäck,risback,242502
+2984,Riseberga,riseberga1,116605
+2986,Risekatslösa,risekatslosa,126002
+2987,Risinge,risinge1,56201
+2988,Risinge kbfd,risingekbfd,56200
+2989,Rö,ro,18811
+2990,Roasjö,roasjo,156513
+2991,Robertsfors,robertsfors,240903
+2992,Rödbo,rodbo,148035
+2993,Röddinge,roddinge,126508
+2994,Rödeby,rodeby,108014
+2995,Rödeby norra kbfd,rodebynorrakbfd,108000
+2996,Rödeby södra kbfd,rodebysodrakbfd,108000
+2997,Rödene,rodene,158200
+2999,Rödön,rodon,230901
+3001,Rogberga,rogberga,68015
+3003,Rogslösa,rogslosa,58408
+3004,Rogsta,rogsta,218404
+3005,Rök,rok,50906
+3006,Röke,roke,118321
+3007,Rölanda,rolanda,150406
+3008,Rolfstorp,rolfstorp,138305
+3009,Roma,roma,98035
+3010,Romelanda,romelanda,148208
+3012,Romfartuna,romfartuna,198006
+3013,Rommele,rommele,158106
+3014,Rone,rone,98077
+3015,Rönnäng,ronnang,141903
+3016,Ronneby,ronneby,108171
+3017,Ronneby kbfd,ronnebykbfd,108101
+3019,Ronneby landsförsamling,ronnebylandsforsamling,108100
+3020,Rönnöfors kbfd,ronnoforskbfd,230900
+3021,Rönö,rono,58128
+3022,Röra,rora,142102
+3023,Rörbäcksnäs kbfd,rorbacksnaskbfd,202300
+3024,Rörum,rorum1,118118
+3027,Roslags-Bro,roslagsbro,18820
+3028,Roslags-Kulla,roslagskulla,11704
+3029,Röstånga,rostanga,121413
+3033,Rudskoga,rudskoga,178103
+3034,Rumskulla,rumskulla,88403
+3036,Runsten,runsten,88512
+3037,Runtuna,runtuna,48019
+3038,Rute,rute,98006
+3039,Rya,rya,113702
+3040,Rycka,rycka,168100
+3043,Ryd,ryd6,168304
+3047,Ryda,ryda,166011
+3048,Rydaholm,rydaholm,68312
+3049,Rydöbruk,rydby,131500
+3055,Rysk-grekiska,ryskgrek,18000
+3056,Ryssby,ryssby1,78103
+3057,Ryssby,ryssby2,88005
+3058,Rystad,rystad,58024
+3059,Rytterne,rytterne,198020
+3060,Sabbatsbergs fattighus,,18000
+3062,Säbrå,Sabra,228006
+3063,Säby,,128209
+3064,Säby,,196104
+3065,Säby,Saby,68701
+3066,Säckestad,Sackestad,166300
+3067,Säffle,Saffle,178501
+3068,Säfsnäs,Safsnas,208504
+3069,Sal,Sal,160207
+3070,Sala,Sala,198101
+3071,Sala landsförsamling,Salalandsforsamling,198100
+3074,Saleby,Saleby,168114
+3075,Saleby,Saleby-0,168600
+3076,Salem,Salem,12801
+3077,Salem,Salem-0,166000
+3081,Sällstorp,Sallstorp,138317
+3082,Saltsjöbaden,Saltsjobaden,18202
+3087,Sanda,Sanda-0,98057
+3088,Sandarne,Sandarne,218202
+3092,Sandby,Sandby,84018
+3093,Sandhem,Sandhem,162202
+3095,Sandhult,Sandhult,158316
+3101,Sandvik,Sandvik,66211
+3102,Sandviken,Sandviken,218101
+3103,Sånga,Sanga,12507
+3104,Sånga,,228313
+3105,Sankta Birgitta,SanktaBirgitta,88000
+3106,Sankta Birgitta,SanktaBirgitta-0,88017
+3109,Sankta Eugenia,SanktaEugenia,18000
+3115,Sankta Maria,SanktaMaria-1,168200
+3119,Sankta Maria magle,SanktaMariamagle,128100
+3120,Sankta Maria minor,SanktaMariaminor,128100
+3121,Sankt Andreas,SanktAndreas,128100
+3122,Sankt Anna,SanktAnna,58208
+3123,Sankt Botulf,SanktBotulf,128100
+3125,Sankt Clemens,SanktClemens-0,128100
+3126,Sankt Clemens,SanktClemens-1,128300
+3127,Sankt Clemens,SanktClemens,98000
+3128,Sankt Drotten,SanktDrotten-1,128100
+3130,Sankt Drotten,SanktDrotten-0,98000
+3134,Sankt Erik,SanktErik,18000
+3136,Sankt Godehard,SanktGodehard,128100
+3137,Sankt Göran,SanktGoran,18019
+3138,Sankt Hans,SanktHans,98000
+3140,Sankt Ibb,SanktIbb-0,128202
+3141,Sankt Jakob,SanktJakob-0,128100
+3144,Sankt Johannes,,128005
+3146,Sankt Johannes,,128200
+3152,Sankt Katarinae kapell,SanktKatarina-0,168100
+3154,Sankt Lars,,168200
+3157,Sankt Lars,,98000
+3159,Sankt Laurentii,,198400
+3161,Sankt Laurentii,,58201
+3163,Sankt llian,Sanktllian-1,198000
+3165,Sankt llian,Sanktllian-0,58200
+3166,Sankt Måns,SanktMans,128100
+3168,Sankt Mariae kapell,SanktMariaekapell,168100
+3169,Sankt Mårten,SanktMarten,128100
+3170,Sankt Martin,SanktMartin,58600
+3171,Sankt Mikael,SanktMikael,12603
+3172,Sankt Mikael,,128100
+3173,Sankt Mikael,,98000
+3174,Sankt Nicolai,,128100
+3175,Sankt Nicolai,,128200
+3176,Sankt Nicolai,SanktNicolai,19100
+3177,Sankt Nicolai,,48000
+3178,Sankt Nikolai,,138001
+3179,Sankt Nikolai,,168200
+3180,Sankt Nikolai,SanktNikolai,18000
+3181,Sankt Nikolai,,198000
+3185,Sankt Olai,,128200
+3188,Sankt Olof,,118117
+3189,Sankt Olof,,128100
+3190,Sankt Olof,,156200
+3192,Sankt Olof,,19102
+3193,Sankt Olof,,198400
+3194,Sankt Olof,,38100
+3196,Sankt Olof,,98000
+3199,Sankt Paul,SanktPaul,128100
+3203,Sankt Peder,SanktPeder,156204
+3205,Sankt Per,,168200
+3206,Sankt Per,SanktPer,19103
+3207,Sankt Per,,38000
+3208,Sankt Per,,58400
+3209,Sankt Per,,98000
+3212,Sankt Peter,,128300
+3217,Sankt Peters kloster,SanktPeterskloster,128102
+3218,Sankt Peter vid Bredgatan,SanktPetervidBredgatan,128100
+3221,Sankt Petri lille,SanktPetrilille,128100
+3223,Sankt Sigfrid,SanktSigfrid,88107
+3224,Sankt Stefan,SanktStefan,128100
+3225,Sankt Tome,SanktTome,128100
+3227,Sanna,Sanna,68000
+3228,Sanne,Sanne,143007
+3231,Särestad,Sarestad,160203
+3232,Saritslöv,Saritslov,126400
+3234,Särna,Sarna,203904
+3235,Särslöv,Sarslov,123010
+3236,Säter,Sater,168321
+3237,Säter,,208200
+3238,Säter,,208201
+3239,Säterbo,Saterbo,198400
+3240,Säterbo kbfd,,198400
+3241,Säters landsförsamling,Saterslandsforsamling,208200
+3243,Sätila,Satila,156304
+3244,Sättersta,Sattersta,48000
+3245,Sättna,Sattna,228105
+3246,Sätuna,Satuna,168600
+3247,Sävar,Savar,248071
+3248,Sävare,Savare,168124
+3249,Sävars nedre kbfd,Savarsnedrekbfd,248009
+3250,Sävars övre kbfd,,248008
+3251,Säve,Save,148031
+3252,Sävedalen,Savedalen,140203
+3253,Sävedalens kbfd,,140200
+3254,Sävsjö,Savsjo,68401
+3255,Saxnäs kbfd,Saxnaskbfd,246200
+3256,Saxtorp,Saxtorp,128204
+3257,Segersta,Segersta,218305
+3258,Segerstad,,168636
+3259,Segerstad,,178010
+3260,Segerstad,Segerstad,84009
+3261,Seglora,Seglora,158319
+3262,Selånger,Selanger,228106
+3264,Selö,Selo,48600
+3265,Senäte,Senate,168100
+3267,Serafimerlasarettet,Serafimerlasarettet,18000
+3268,Seskarö kbfd,Seskarokbfd,258300
+3269,Sevalla,Sevalla,198019
+3270,Sexdrega,Sexdrega,156512
+3271,Sibbarp,Sibbarp,138310
+3273,Sidensjö,Sidensjo,228406
+3274,Siene,Siene,152704
+3276,Sigtuna,Sigtuna,19101
+3277,Sigtuna ryska,Sigtunaryska,19100
+3278,Sil,Sil,166101
+3279,Silbodal,Silbodal,176501
+3280,Silbojokk,Silbojokk,250600
+3281,Siljansnäs,Siljansnas,202904
+3282,Sillerud,Sillerud,176502
+3283,Sillhövda,Sillhovda,108016
+3284,Silte,,98082
+3285,Silvåkra,Silvakra,128123
+3286,Silvberg,Silvberg,208204
+3287,Simlinge,Simlinge,128717
+3289,Simonstorp,Simonstorp,58113
+3290,Simris,Simris,118102
+3291,Simrishamn,Simrishamn,118101
+3292,Simtuna,Simtuna,38131
+3293,Singö,Singo,18804
+3294,Sireköpinge,Sirekopinge,121407
+3295,Själevad,Sjalevad,228408
+3296,Sjögerås,Sjogeras,168600
+3297,Sjogerstad,Sjogerstad,168307
+3298,Sjögestad,Sjogestad,58014
+3299,Sjonhem,Sjonhem,98039
+3300,Sjörup,Sjorup,128603
+3301,Sjösås,Sjosas,78003
+3302,Sjötofta,Sjotofta,155203
+3303,Skå,Ska,12506
+3304,Skabersjö,Skabersjo,126306
+3305,Skäfthammar,Skafthammar,38211
+3306,Skaftö,Skafto,148403
+3307,Skagen,Skagen,163700
+3308,Skagershult,Skagershult,186004
+3311,Skållerud,Skallerud,156109
+3312,Skällinge,Skallinge,138304
+3313,Skallmeja,Skallmeja,168217
+3314,Skallsjö,Skallsjo,152402
+3315,Skällvik,Skallvik,58207
+3316,Skalunda,Skalunda,168108
+3317,Skälvum,Skalvum,166110
+3318,Skånela,Skanela,19107
+3319,Skånes-Fagerhult,SkanesFagerhult,113703
+3320,Skånings-Åsaka,SkaningsAsaka,168210
+3321,Skänninge,Skanninge,58603
+3322,Skanör,Skanor,123305
+3323,Skånska trängkåren,Skanskatrangkaren,118300
+3324,Skara,Skara,168200
+3325,Skara domkyrkoförsamling,Skaradomkyrkoforsamling,168201
+3326,Skara hospitalsförsamling,Skarahospitalsforsamling,168200
+3327,Skara landsförsamling,Skaralandsforsamling,168200
+3328,Skara stadsförsamling,Skarastadsforsamling,168200
+3329,Skärbäck,Skarback,68500
+3330,Skårby,Skarby,128602
+3331,Skärholmen,Skarholmen,18040
+3332,Skarhult,Skarhult,128520
+3334,Skärkind,Skarkind,58111
+3336,Skarpnäck,Skarpnack,18036
+3337,Skarstad,Skarstad,166007
+3338,Skärstad,Skarstad-0,68010
+3339,Skartofta,Skartofta,126500
+3340,Skärv,Skarv,168207
+3341,Skärvum,Skarvum,168600
+3342,Skatelöv,Skatelov,76410
+3343,Skattunge,Skattunge,203400
+3344,Skeby,Skeby,166106
+3345,Skeda,Skeda,58010
+3347,Skede,Skede,68518
+3348,Skederid,Skederid,18812
+3350,Skedevi,Skedevi,56204
+3351,Skedevi norra kyrkobokföringsområde,,56200
+3352,Skedevi södra kyrkobokföringsområde,Skedevisodrakyrkobokforingsomrade,56200
+3355,Skee,Skee,148602
+3356,Skee kbfd,Skeekbfd,148600
+3357,Skeglinge,Skeglinge,128518
+3358,Skegrie,Skegrie,128706
+3359,Skellefteå,Skelleftea,248200
+3360,Skellefteå kbfd,Skellefteakbfd,248200
+3361,Skellefteå landsförsamling,Skelleftealandsforsamling,248204
+3362,Skellefteå landsförsamlings kbfd,Skelleftealandsforsamlingskbfd,248200
+3363,Skellefteå Sankt Olov,SkellefteaSanktOlov,248201
+3364,Skellefteå Sankt Örjan,SkellefteaSanktOrjan,248202
+3366,Skelleftehamns kbfd,Skelleftehamnskbfd,248200
+3367,Skene kbfd,Skenekbfd,156302
+3369,Skephult,Skephult,156306
+3370,Skepparslöv,Skepparslov,118006
+3371,Skepperstad,Skepperstad,68405
+3373,Skepplanda,Skepplanda,152103
+3374,Skeppsås,Skeppsas,58609
+3376,Skeppsholm,Skeppsholm,18000
+3377,Skepptuna,Skepptuna,19109
+3379,Skillingmark,Skillingmark,173004
+3381,Skinnskatteberg,Skinnskatteberg,190402
+3383,Skirö,Skiro,68513
+3384,Skivarp,Skivarp,126406
+3386,Skofteby,Skofteby,168100
+3387,Skog,Skog,218203
+3388,Skog,,228203
+3391,Skoghalls kbfd,Skoghallskbfd,176100
+3392,Skogsbygden,Skogsbygden,152707
+3393,Skogslyckan,Skogslyckan,78028
+3394,Skogs-Tibble,SkogsTibble,38016
+3395,Skokloster,Skokloster,30505
+3396,Sköldinge,Skoldinge,48304
+3397,Sköllersta,Skollersta,186104
+3398,Skölvene,Skolvene,156611
+3399,Skön,Skon,228103
+3400,Skönberga,Skonberga,58203
+3401,Skönsmon,Skonsmon,228102
+3403,Skorped,Skorped,228405
+3404,Skörstorp,Skorstorp,168630
+3407,Skövde,,168301
+3408,Skövde landsförsamling,Skovdelandsforsamling,168300
+3412,Skrea,Skrea,138202
+3413,Skredsvik,Skredsvik,148509
+3416,Skultuna,Skultuna,198007
+3417,Skummeslöv,Skummeslov,138105
+3418,Skurup,Skurup,126401
+3419,Skutskär,Skutskar,31902
+3420,Skuttunge,Skuttunge,38022
+3423,Slädene,Sladene,166003
+3424,Slågarp,Slagarp,128700
+3425,Slaka,Slaka,58004
+3427,Släp,Slap,138405
+3428,Slättåkra,Slattakra,138017
+3429,Slätthög,Slatthog,76406
+3430,Slimminge,Slimminge,126411
+3431,Slöinge,Sloinge,138206
+3432,Slöta,Slota,168624
+3434,Slottsstaden,Slottsstaden,128002
+3435,Smålands artilleriregemente,Smalandsartilleriregemente,68000
+3436,Smedby,,168600
+3437,Smedby,Smedby,84007
+3438,Smedstorp,Smedstorp,116009
+3439,Smögen,Smogen,142704
+3440,Smula,Smula,168652
+3441,Snårestad,Snarestad,128604
+3442,Snavlunda,Snavlunda,188204
+3443,Snöstorp,Snostorp,138003
+3444,Söderåkra,Soderakra,83471
+3445,Söderåkra norra kbfd,,83403
+3446,Söderåkra södra kbfd,,83404
+3447,Söderala,Soderala,218205
+3448,Söderbärke,Soderbarke,206102
+3451,Söderby-Karl,SoderbyKarl,18819
+3452,Söderfors,Soderfors,36006
+3453,Söderhamn,Soderhamn,218201
+3456,Södertälje,Sodertalje,18101
+3459,Södervidinge,Sodervidinge,126106
+3460,Södra Åby,SodraAby,128719
+3461,Södra Åkarp,SodraAkarp,123310
+3462,Södra Åsarp,SodraAsarp,155205
+3463,Södra Åsum,SodraAsum,126503
+3464,Södra bataljonsförsamlingen,Sodrabataljonsforsamlingen,18000
+3465,Södra Bergnäs kbfd,SodraBergnaskbfd,250601
+3466,Södra Björke,SodraBjorke,156612
+3467,Södra Fågelås,SodraFagelas,168405
+3468,Södra Finnskoga,SodraFinnskoga,173707
+3469,Södra Härene,SodraHarene,152715
+3470,Södra Hestra,SodraHestra,66213
+3471,Södra Kedum,SodraKedum,166010
+3472,Södra Korrektionsinrättningen,SodraKorrektionsinrattningen,18000
+3473,Södra Kyrketorp,SodraKyrketorp,168637
+3474,Södra Ljunga,SodraLjunga,78105
+3475,Södra Ljusterö,SodraLjustero,11700
+3476,Södra Lundby,SodraLundby,166015
+3477,Södra Mellby,SodraMellby,118119
+3478,Södra Möckleby,SodraMockleby,84008
+3480,Södra Råda,SodraRada,164303
+3481,Södra Rörum,SodraRorum,126607
+3484,Södra Säm,SodraSam,158412
+3485,Södra Sandby,SodraSandby,128113
+3486,Södra Sandsjö,SodraSandsjo,76305
+3487,Södra Solberga,SodraSolberga,68508
+3488,Södra Unnaryd,SodraUnnaryd,131507
+3489,Södra Vånga,SodraVanga,158400
+3490,Södra Vi,SodraVi,88408
+3492,Södra Ving,SodraVing,158410
+3494,Sofia,,18017
+3499,Sofielund,Sofielund,128015
+3500,Solberga,,126409
+3501,Solberga,,148211
+3502,Solberga,,168650
+3505,Solbergs kbfd,Solbergskbfd,228403
+3506,Sollefteå,Solleftea,228301
+3507,Sollentuna,Sollentuna,16301
+3508,Sollerön,Solleron,206203
+3509,Solna,Solna,18401
+3510,Sölvesborg,Solvesborg,108301
+3511,Sölvesborgs landsförsamling,Solvesborgslandsforsamling,108300
+3513,Söndrum,Sondrum,138009
+3514,Söne,Sone,168132
+3517,Söraby,Soraby,78021
+3518,Sörby,,118307
+3519,Sörby,,168606
+3520,Sörby,Sorby,58600
+3521,Söromsjöns kbfd,Soromsjonskbfd,206200
+3522,Sorsele,Sorsele,242201
+3523,Sorsele kbfd,Sorselekbfd,242200
+3524,Sorunda,Sorunda,41304
+3525,Sövde,Sovde,126504
+3526,Sövestad,Sovestad,128614
+3527,Spånga,Spanga,18030
+3528,Spånga kbfd,Spangakbfd,18000
+3529,Spannarp,Spannarp,138312
+3530,Spanska,Spanska,18000
+3531,Sparlösa,Sparlosa,166002
+3532,Sparrsätra,Sparrsatra,38107
+3533,Spekeröd,Spekerod,141501
+3534,Spelvik,Spelvik,48018
+3536,Spinnhuset,Spinnhuset,18000
+3538,Spjutstorp,Spjutstorp,116006
+3539,Sproge,Sproge,98064
+3540,Stacketorp,Stacketorp,166000
+3544,Staffanstorp,Staffanstorp,123007
+3545,Stafsinge,Stafsinge,138208
+3546,Stala,Stala,142103
+3547,Stamnared,Stamnared,138316
+3548,Stånga,Stanga,98073
+3549,Stångby,Stangby,128107
+3550,Starby,Starby,118208
+3552,Starrkärr,Starrkarr,152105
+3553,Starrkärrs kbfd,Starrkarrskbfd,152100
+3554,Stavby,Stavby,38039
+3555,Stävie,Stavie,126105
+3556,Stavnäs,Stavnas,178403
+3558,Stehag,Stehag,128502
+3559,Sten,Sten,58300
+3560,Stenåsa,Stenasa,84004
+3561,Stenberga,Stenberga,68512
+3562,Stenbrohult,Stenbrohult,76504
+3565,Steneby,Steneby,156006
+3566,Stenestad,Stenestad,121404
+3567,Stengårdshult,Stengardshult,66205
+3568,Steninge,Steninge,138012
+3569,Stenkumla,Stenkumla,98053
+3570,Stenkvista,Stenkvista,48419
+3571,Stenkyrka,,141902
+3572,Stenkyrka,Stenkyrka,98015
+3573,Stensele,Stensele,242101
+3574,Stensele kbfd,Stenselekbfd,242100
+3575,Stensjön,Stensjon,148104
+3576,Stenstorp,Stenstorp,168634
+3577,Stenum,Stenum,168209
+3579,Stiby,Stiby,118111
+3580,Stiftelsen Konung Oscar I,StiftelsenKonungOscarIsminne,18000
+3581,Stigsjö,Stigsjo,228004
+3582,Stigtomta,Stigtomta,48010
+3583,Stjärnorp,Stjarnorp,58022
+3584,Stjärnsund,Stjarnsund,208300
+3585,Stjärnsunds kbfd,Stjarnsundskbfd,208300
+3586,Stoby,Stoby,118303
+3587,Stockaryd,Stockaryd,68407
+3588,Stockholms domkyrkoförsamling,Stockholmsdomkyrkoforsamling,18001
+3589,Stockholms hospital,StockholmshospitalaKonradsbergforsinnesjuka,18000
+3594,Stockholms stads kronohäkte å Långholmen,StockholmsstadskronohakteaLangholmen,18000
+3595,Stockholms stads militärförsörjningsinrättning,tockholmsstadsmilitarforsorjningsinrattning,18000
+3596,Stockholms stads militärkår,Stockholmsstadsmilitarkar,18000
+3597,Stockholms stads norra kronohäkte för kvinnor,Stockholmsstadsnorrakronohakteforkvinnor,18000
+3598,Stockholms stads och läns kurhus,Stockholmsstadsochlanskurhus,18000
+3599,Stockholms stads rannsakningsfängelse,Stockholmsstadsrannsakningsfangelse,18000
+3600,Stockholms stads södra kronohäkte för män,Stockholmsstadssodrakronohakteforman,18000
+3601,Stocksund,Stocksund,16200
+3602,Stöde,Stode,228107
+3604,Stora Åby,StoraAby,50901
+3606,Stora Hammar,StoraHammar,123308
+3607,Stora Harrie,StoraHarrie,126109
+3608,Stora Herrestad,StoraHerrestad,128610
+3609,Stora Kil,StoraKil,171501
+3610,Stora Köpinge,StoraKopinge,128611
+3611,Stora Kopparberg,StoraKopparberg,208071
+3612,Stora Kopparbergs kbfd,StoraKopparbergskbfd,208003
+3613,Stora Lundby,StoraLundby,152403
+3614,Stora Malm,StoraMalm,48306
+3616,Stora Mellby,StoraMellby,158205
+3617,Stora Mellösa,StoraMellosa,188016
+3618,Stora Råby,StoraRaby,128103
+3620,Stora Skedvi,StoraSkedvi,208202
+3621,Stora Slågarp,StoraSlagarp,128700
+3622,Stora Tuna,StoraTuna,208171
+3623,Stora Tuna kbfd,StoraTunakbfd,208102
+3626,Storfors,Storfors,176001
+3627,Storfors kbfd,,176000
+3629,Storkyrkoförsamlingen,,18000
+3630,Storsjö,Storsjo,232605
+3631,Strå,Stra,58403
+3633,Straff- och arbetsfängelset,Straffocharbetsfangelset,58100
+3634,Straff- och arbetsfängelset å Långholmen och Stockholms stads södra kronohäkte för män,StraffocharbetsfangelsetaLangholmenochStockholmsstadssodrakronohakteforman,18000
+3635,Straff- och arbetsfängelset å Norrmalm,StraffocharbetsfangelsetaNorrmalm,18000
+3636,Strängnäs domkyrkoförsamling,Strangnasdomkyrkoforsamling,48601
+3637,Strängnäs landsförsamling,Strangnaslandsforsamling,48600
+3638,Strängnäs stadsförsamling,,48600
+3639,Strängsered,Strangsered,158418
+3640,Stråvalla,Stravalla,138321
+3644,Strö,Stro,168110
+3647,Ström,Strom,231301
+3649,Strömstad,Stromstad,148601
+3650,Strövelstorp,Strovelstorp,118206
+3651,Stugun,Stugun,230304
+3652,Sturkö,Sturko,108011
+3653,Styra,Styra,58300
+3654,Styrnäs,Styrnas,228208
+3655,Styrsö,Styrso,148037
+3656,Styrstad,Styrstad,58107
+3659,Sund,Sund,51203
+3660,Sundals-Ryr,SundalsRyr,158005
+3661,Sundborn,Sundborn,208007
+3662,Sundby,Sundby,48408
+3663,Sundbyberg,Sundbyberg,18301
+3664,Sundre,Sundre,98092
+3665,Sundsjö,Sundsjo,230505
+3666,Sundsvall,,228100
+3667,Sundsvalls Gustav Adolf,SundsvallsGustavAdolf,228101
+3668,Sundsvalls mosaiska,Sundsvallsmosaiska,228100
+3669,Sunne,Sunne,176601
+3670,Sunne,,238003
+3671,Sunnemo,Sunnemo,178305
+3672,Sunnersberg,Sunnersberg,168112
+3673,Suntak,Suntak,168509
+3674,Suntetorp,Suntetorp,168300
+3675,Sura,Sura,190701
+3677,Surteby-Kattunga,SurtebyKattunga,156312
+3678,Svabensverk,Svabensverk,212100
+3679,Svalöv,Svalov,121402
+3680,Sväm,Svam,50900
+3681,Svänasjö,Svanasjo,156300
+3682,Svanshals,Svanshals,50903
+3683,Svanskog,Svanskog,178511
+3684,Svanstein,Svanstein,251802
+3685,Svansteins kbfd,,251800
+3686,Svärdsjö,Svardsjo,208008
+3687,Svärta,Svarta,48004
+3688,Svarteborg,Svarteborg,143005
+3689,Svartnäs,Svartnas,208009
+3690,Svartrå,Svartra,138216
+3691,Svarttorp,Svarttorp,68012
+3692,Svartvik,Svartvik,228100
+3693,Svea artilleriregemente,Sveaartilleriregemente,18000
+3695,Svea ingenjörkår,Sveaingenjorkar,18400
+3696,Svea livgarde,Svealivgarde,18000
+3698,Svea trängkår,Sveatrangkar,188000
+3699,Svedala,Svedala,126301
+3701,Sveg,Sveg,236101
+3702,Svenarum,Svenarum,66506
+3703,Sveneby,Sveneby,166304
+3704,Svenljunga,Svenljunga,156501
+3705,Svenneby,Svenneby,143509
+3707,Svennevad,Svennevad,186105
+3709,Svenska gardesregementet,Svenskagardesregementet,18000
+3710,Svensköp,Svenskop,126605
+3711,Svenstorp,Svenstorp,126403
+3712,Sventorp,,168314
+3714,Svinhult,Svinhult,51205
+3715,Svinnegarn,Svinnegarn,38104
+3718,Sya,Sya,58615
+3719,Synnerål,Synneral,168600
+3721,Synnerby,,168212
+3722,Täby,taby2,16001
+3723,Täby,taby3,188006
+3724,Täby,taby1,58121
+3725,Tådene,tadene,168128
+3728,Tämta,tamta,158313
+3729,Täng,tang,160201
+3730,Tångeråsa,tangerasa,188024
+3731,Tannåker,,78119
+3732,Tännäs,tannas,236107
+3733,Tännäs lappförsamling,tanlapp,236100
+3734,Tånnö,tanno,68309
+3735,Tanum,tanum,143572
+3736,Tanums kyrkoområde,tanumskyrkoomrade,143502
+3737,Tärby,tarby,158310
+3738,Tärendö,tarendo,252105
+3739,Tärna,tarna1,198105
+3740,Tärna,tarna2,242103
+3741,Tarsled,tarsled,156600
+3742,Tåsjö,tasjo,231308
+3743,Tåssjö,tassjo,118204
+3744,Tåstarp,tastarp,118210
+3745,Tävelsås,tavelsas,78013
+3746,Tävelsås med Tofta,tavelsastofta,78000
+3747,Tavelsjö,tavelsjo,248003
+3748,Tavelsjö kbfd,tavelsjokbfd,248000
+3749,Taxinge,taxinge,18109
+3750,Teda,teda,38103
+3751,Teg,teg,248004
+3752,Tegelsmora,tegelsmora,36004
+3753,Tegnaby,tegnaby1,78000
+3754,Tegneby,tegneby,142101
+3755,Tengene,tengene,160209
+3756,Tensta,tenoteki,38023
+3757,Tiarp,tiarp,168622
+3760,Tiberg,tiberg,166300
+3761,Tibro,tibro,166201
+3762,Tidaholm,tidaholm,168501
+3763,Tidavad,tidavad,168006
+3764,Tidersrum,tidersrum,51301
+3765,Tierp,tierp,36005
+3766,Tillberga,tillberga,198017
+3767,Tillinge,tillinge,38105
+3768,Timmele,timmele,158429
+3769,Timmersdala,timmersdala,168324
+3770,Timrå,timra,226201
+3771,Tingsås,tingsas,76301
+3772,Tingstad,tingstad,58108
+3773,Tingstäde,tingstade,98014
+3776,Tirup,tirup,121401
+3777,Tisselskog,tisselskog,156007
+3778,Tissered,tissered,158400
+3780,Tived,tived,186003
+3783,Tjällmo,tjallmo,58322
+3785,Tjärby,tjarby,138110
+3786,Tjärnö,tjarno,148607
+3787,Tjärstad,tjarstad,51309
+3789,Tjörnarp,tjornarp,126708
+3790,Tjureda,tjureda,78019
+3791,Tjurkö,tjurko,108000
+3792,Tjustorp,tjustorp,126300
+3794,Toarp,toarp,158306
+3795,Töcksmark,tocksmark,176508
+3796,Tofta,tofta3,128205
+3797,Tofta,tofta1,78000
+3798,Tofta,tofta2,98054
+3799,Töftedal,toftedal,150404
+3800,Tofteryd,tofteryd,66503
+3801,Tolånga,tolanga,126507
+3802,Tolfta,tolfta,36001
+3803,Tolg,tolg,78022
+3804,Töllsjö,tollsjo,158317
+3807,Tölö,tolo,138402
+3810,Tomelilla,tomelilla,116005
+3815,Tönnersjö,tonnersjo,138006
+3816,Torbjörntorp,torbjorntorp,168640
+3817,Töre,tore,251471
+3818,Töreboda,toreboda,166301
+3819,Töre kbfd,torekbfd,251402
+3820,Torekov,torekov,116806
+3821,Torestorp,torestorp,156317
+3822,Toresund,toresund,48607
+3823,Torhamn,torhamn,108010
+3825,Törnevalla,tornevalla,58025
+3826,Törnsfall,torfall,88302
+3827,Torö,toro,19203
+3829,Torp,torp2,142106
+3830,Torp,torp,150703
+3831,Torp,torp3,226004
+3832,Torpa,torpa3,138314
+3833,Torpa,torpa4,158300
+3834,Torpa,torpa5,196003
+3835,Torpa,torpa1,51201
+3836,Torpa,torpa2,78114
+3837,Törringe,torringe,126304
+3838,Torrlösa,torrlosa,121415
+3839,Torrskog,torrskog,156005
+3840,Torrum,torrum,108000
+3841,Torsåker,torsaker2,210402
+3842,Torsåker,torsaker3,228210
+3843,Torsåker,torsaker1,48000
+3844,Torsång,torsang,208103
+3847,Torsås,torsas3,83402
+3848,Torsby,torsby,148205
+3849,Torset,torset,78100
+3850,Torshälla,torshalla,48403
+3853,Torskinge,torskinge,68307
+3854,Torslanda,torslanda,148028
+3855,Torslunda,torslunda,84015
+3856,Torsö,torso1,168013
+3858,Torstuna,torstuna,38134
+3859,Torsvi,torsvi,38113
+3860,Tortuna,tortuna,198018
+3862,Torup,torup2,131501
+3863,Tose,tose,143000
+3868,Tösse med Tydje,tosset,158504
+3869,Tossene,tossene,142706
+3870,Tostared,tostared,156311
+3872,Tosterup,tosterup,116017
+3873,Tottarp,tottarp,123012
+3874,Töve,tove,158400
+3877,Träkumla,trakumla,98049
+3878,Tranås,tranas,116007
+3879,Träne,trane,118005
+3881,Tranemo,tranemo,155201
+3883,Trångsund,trangsund,12602
+3884,Trankil,trankil,176506
+3885,Transtrand,transtrand,202305
+3886,Tranum,tranum,168127
+3887,Traryd,traryd,76703
+3888,Träslöv,traslov,138302
+3889,Trässberg,trassberg,168115
+3890,Trästena,trastena,166306
+3891,Tråvad,travad,166026
+3892,Trävattna,travattna,168603
+3897,Trehörna,treharna,50907
+3898,Trehörningsjö,trehorningsjo,228413
+3899,Trelleborg,trelleborg,128701
+3900,Trelleborgs landsförsamling,trelleborgslandsforsamling,128700
+3903,Trökörna,trokorna,160210
+3904,Trolle-Ljungby,trollby,118021
+3905,Trollenäs,trollenas,128504
+3906,Trollhättan,trollhattan,158101
+3907,Trönninge,tronninge,138008
+3908,Trönö,trono,218208
+3910,Trosa stadsförsamling,trosastadsforsamling,48028
+3911,Trosa-Vagnhärad,trosavagn,48031
+3912,Tryde,tryde,116004
+3913,Tryserum,tryserum,56305
+3914,Tullstorp,tullstorp,128726
+3915,Tumba,tumba,12703
+3916,Tumba kbfd,tumbakbfd,12700
+3917,Tumberg,tumberg,152700
+3918,Tumbo,tumbo,48411
+3919,Tun,tun,168118
+3922,Tuna,tuna8,228108
+3923,Tuna,tuna1,38040
+3924,Tuna,tuna2,48007
+3927,Tuna,tuna5,88409
+3928,Tunaberg,tunaberg,48005
+3932,Tunbyholm,tunbyholm,116000
+3933,Tunge,tunge,156203
+3936,Turinge,turinge,18105
+3938,Tutaryd,tutaryd,78104
+3940,Tuve,tuve,148030
+3941,Tvååker,tvaaker,138311
+3942,Tvärred,tvarred,158414
+3943,Två systrar,tvasystrar,88018
+3944,Tveta,tveta3,178502
+3945,Tveta,tveta1,18103
+3946,Tveta,tveta2,86007
+3947,Tving,tving,108017
+3948,Tydje,tydje,158500
+3949,Tygelsjö,tygelsjo,128021
+3950,Tyggestorp,tyggestorp,155200
+3951,Tynderö,tyndero,226204
+3952,Tyngsjö,tyngsjo,202300
+3953,Tynnered,tynnered,148024
+3954,Tynnereds kbfd,tynneredskbfd,148000
+3955,Tyresö,tyreso,13801
+3959,Tyska Sankta Gertrud,tysangert,18092
+3960,Tysslinge,tyslinge,188008
+3961,Tystberga,tystberga,48020
+3962,Ucklum,,141504
+3963,Uddevalla,uddevalla,148501
+3967,Ugglum,ugglum,168643
+3968,Ukna,ukna,88305
+3969,Ullånger,ullanger,228206
+3970,Ullared,ullared,138223
+3971,Ullasjö,ullsjo,156511
+3972,Ullene,ullene,168608
+3973,Ullerud,ullerud,176300
+3974,Ullervad,ullervad,168003
+3975,Ullstorp,ullstorp,116001
+3976,Ulricehamn,ulricehamn,158401
+3977,Ulrika,ulrika,58012
+3982,Umeå landsförsamling,umealands,248002
+3983,Umeå landsförsamlings södra kbfd,umealandsodrakbfd,248000
+3984,Umeå stadsförsamling,umeastadsforsamling,248001
+3985,Umnäs kbfd,umnaskbfd,242100
+3986,Undenäs,undenas,163704
+3987,Undersåker,undersaker,232105
+3988,Undersåkers lappförsamling,undersakerslappforsamling,232100
+3989,Undersvik,undersvik,218308
+3992,Ununge,ununge,18807
+3993,Uplanda,uplanda,166100
+3994,Uppåkra,uppakra,123006
+3995,Upphärad,uppharad,158105
+3997,Upplands artilleriregemente,uppart,38000
+3998,Uppsala,uppsala,38000
+3999,Uppsala domkyrkoförsamling,uppsaladomk,38001
+4000,Uppsala-Näs,uppsalanas,38012
+4001,Uråsa,urasa,78010
+4002,Urshult,urshult,76307
+4003,Utby,utby1,148000
+4004,Utby,utby2,168004
+4005,Utö,uto,13603
+4006,Utvängstorp,utvangstorp,162201
+4007,Uvered,uvered,168102
+4008,Vä,vaa,118007
+4009,Väckelsång,vackelsang,76306
+4010,Väcklinge,vacklinge,66200
+4011,Vad,,168328
+4012,Vada,vada,11506
+4013,Väddö,vaddo,18803
+4014,Vadensjö,vadensjo,128210
+4015,Väderstad,vaderstad,58612
+4016,Vadsbro,vadsbro,48211
+4017,Vadstena,vadstena,58401
+4018,Vadstena hospitalsförsamling,vadstenahospital,58400
+4019,Vadstena krigsmanshusförsamling,vadkrig,58400
+4023,Vagnhärad,vagnharad,48000
+4025,Vaksala,vaksala,38004
+4026,Väla,vala,168130
+4029,Valbo,valbo,218006
+4030,Valbo-Ryr,valboryr,143003
+4031,Valdemarsvik,valdemarsvik,56301
+4032,Valdshult,valdshult,66206
+4033,Välinge,valinge-0,128304
+4034,Valinge,valinge,138315
+4035,Vall,vall,98050
+4036,Valla,valla,141901
+4037,Vallby,vallby3,118116
+4038,Vallby,vallby1,38111
+4039,Vallby,vallby2,48409
+4040,Vallda,vallda,138404
+4041,Valleberga,valleberga,128618
+4042,Vallentuna,vallentuna,11501
+4043,Vallerstad,vallerstad,58608
+4044,Vallgårda,vallgarda,68000
+4045,Vällingby,vallingby,18031
+4046,Vällingby kbfd,vallingbykbfd,18000
+4047,Vallkärra,vallkarra,128106
+4048,Vallsjö,vallsjo,68400
+4049,Vallstena,vallstena,98024
+4050,Välluv,valluv,128309
+4051,Valö,valo,38203
+4053,Valstad,valstad,168512
+4054,Valtorp,valtorp,168638
+4056,Våmb,vamb,168303
+4057,Våmhus,vamhus,206202
+4058,Våmhus baptistförsamling,vamhusbaptistforsamling,206200
+4059,Vamlingbo,vamlingbo,98091
+4061,Väne-Åsaka,vaneasaka,158103
+4062,Vänersborg,vanersborg,158001
+4063,Vänersborgs landsförsarnling,vanersborgslandsforsamling,158000
+4064,Vänersnäs,vanernas,158007
+4065,Väne-Ryr,vaneryr,158002
+4067,Vånga,vanga2,118034
+4068,Vänga,vonga,158314
+4071,Vånga,vanga1,58110
+4072,Vänge,vange1,38014
+4073,Vänge,vange,98040
+4075,Vankiva,vankiva,118314
+4076,Vännäs,vannas,246001
+4077,Vännäsbygdens kbfd,vannaskbfd,246000
+4078,Vännäs centralorts kbfd,vannascentral,246000
+4081,Vansbro kbfd,vansbrokbfd,202102
+4082,Vansö,vanso,48610
+4083,Vanstad,vanstad,126509
+4084,Vantinge,vantinge,118200
+4086,Vantör,vantor2,18023
+4087,Vapnö,vapno,138010
+4088,Vara,vara,166001
+4089,Varberg,varberg,138301
+4090,Varbergs slottsförsamling,varbergsslottforsamling,138300
+4091,Varbergs straffängelse,varbergstraffangelse,138300
+4092,Vårdinge,vardinge,18106
+4093,Vårdnäs,vardnas,58009
+4094,Vårdsberg,vardsberg,58032
+4096,Vår Fru,varfru,38000
+4100,Vårfrukyrka,varfruk,38100
+4101,Vargöns kbfd,vargons,158000
+4102,Väring,varing,168317
+4103,Vårkumla,varkumla,168617
+4104,Värmdö,varmdo,12001
+4106,Värmskog,varmskog,176404
+4107,Värna,varna,56103
+4108,Värnamo,varnamo,68301
+4109,Varnhem,varnhem,168205
+4110,Varnum,varnum1,158411
+4111,Varnum,varnum2,166000
+4112,Varnum,varnum3,178100
+4113,Värö,varo,138320
+4114,Varola,varola,168312
+4115,Värsås,varnas,168315
+4116,Vartofta-Åsaka,vartoftaasaka,168627
+4117,Varv,varv2,168516
+4120,Varvet,varvet,148000
+4121,Vårvik,vorvik,156004
+4122,Varv och Styra,varvochstyra,58323
+4126,Väsby,vasby,128402
+4127,Väse,vase,178004
+4128,Väskinde,vaskinde,98018
+4130,Vassända-Naglum,vassnag,158000
+4131,Vässby,vassby,166000
+4132,Vassunda,vasunda,38034
+4133,Västanå bruksförsamling,vastanabruksforsamling,228000
+4134,Västanfors,vastanfors,198201
+4135,Västeråker,vasteraker,38010
+4137,Västerås Badelunda,vastbade,198003
+4138,Västerås-Barkarö,vastbark,198010
+4139,Västerås domkyrkoförsamling,vasdom,198001
+4141,Västerås Lundby,vaslundby,198002
+4142,Västerås Skerike,vastskerike,198004
+4144,Västerfärnebo,vasfarn,198102
+4146,Västergarn,vastergarn,98056
+4147,Västerhaninge,vasterhaninge,13606
+4148,Västerhejde,vasterhejde,98048
+4149,Västerhus,vasterhus,238000
+4150,Västerlanda,vasterlanda,156206
+4151,Västerled,vasterled,18029
+4152,Västerljung,vasterljung,48030
+4153,Västerlösa,vasterlosa,58015
+4154,Västerlövsta,vaslovsta,191701
+4155,Västermo,vastermo,48416
+4156,Västerplana,vasterplana,166120
+4158,Västerstad,vasterstad,126611
+4159,Västertälje,vastertalje,18112
+4160,Västervåla,vastervala,198202
+4161,Västervånga,vastervanga,158400
+4162,Västervik,vastervik,88301
+4164,Västland,vastland,36007
+4165,Västmanlands trängkår,vasttrang,198100
+4167,Västra Ämtervik,vastramt,176602
+4168,Västra Aros,vastraaros,198000
+4169,Västra Broby,vasbro,116702
+4171,Västra Ed,vastraed,88308
+4172,Västra Eneby,vastraene,51303
+4173,Västra Fågelvik,vastfagel,176507
+4174,Västra Frölunda,vastrafrolunda,148022
+4175,Västra Frölunda kbfd,frolundakb,148000
+4176,Västra Gerum,vastgerum,168216
+4177,Västra Harg,vastharg,58614
+4178,Västra Hoby,vastrahoby,128108
+4179,Västra Husby,veshus,58204
+4180,Västra Ingelstad,vastraing,123313
+4181,Västra Jät,vastrajat,78000
+4182,Västra Karaby,vastkara,126103
+4183,Västra Kärrstorp,vastrakarr,126303
+4184,Västra Karup,vastkarup,116804
+4185,Västra Klagstorp,vastraklag,128020
+4188,Västra Nöbbelöv,vastranob,126407
+4189,Västra Ny,vastrany,58303
+4191,Västra Ryd,vastraryd1,13904
+4192,Västra Ryd,vastraryd2,51204
+4194,Västra Sallerups kbfd,vastrasallerupkbfd,128500
+4195,Västra Skedvi,vastrasked,198303
+4196,Västra Skrävlinge,vastskravlinge,128009
+4197,Västra Skrukeby,vastskrukeby,58600
+4198,Västra Sönnarslöv,vassonar,116603
+4200,Västra Stenby,vastrasten,58324
+4201,Västra Strö,vastrastro,128505
+4202,Västra Sund,vastrasund,176600
+4203,Västra Tollstad,vostoll,50904
+4204,Västra Tommarp,vastratomm,128703
+4205,Västra Torsås,vastratoras,76411
+4206,Västra Torup,vastratorup,118322
+4207,Västra Tunhem,vastratun,158009
+4208,Västra Tunhems kbfd,vastratunhemskbfd,158000
+4210,Västra Vemmenhög,vastvemmenhog,126404
+4211,Västra Vemmerlöv,vastravemmerlov,128704
+4212,Västra Vingåker,vastravingaker,42801
+4213,Västra Vram,vastravram,118032
+4214,Västrum,vastrum,88304
+4215,Väte,vate,98059
+4216,Våthult,vathult,66202
+4217,Vätö,vato,18821
+4218,Vättak,vattak,168510
+4219,Vättlösa,vattlosa,166105
+4220,Väversunda,vaversunda,58409
+4221,Vaxholm,vaxholm,18701
+4223,Växjö domkyrkoförsamling,vaxdomk,78001
+4224,Växjö hospitalsförsamling,vaxjohospitalforsamling,78000
+4225,Växjö landsförsamling,vaxjolandsforsamling,78000
+4226,Växjö mosaiska,vaxjomosaiska,78000
+4228,Våxtorp,vamorp,138103
+4229,Veberöd,veberod,128121
+4230,Veckholm,veckholm,38114
+4231,Vedby,vedby,116602
+4232,Veddige,veddige,138319
+4233,Vederslöv,vederslov,78015
+4234,Vedevåg,veclevag,188500
+4237,Vedum,vedum1,168100
+4238,Veinge,veinge,138111
+4239,Velinga,velinga,168504
+4240,Vellinge,vellinge,123304
+4242,Vemdalen,vemdalen,236104
+4243,Vemmenhög,vemmenhog,126400
+4247,Vena,vena,86006
+4248,Vena kbfd,venakbfd,86000
+4249,Vendel,vendel,36003
+4253,Venjan,venjan,206205
+4254,Venjans kbfd,venjanskbfd,206200
+4255,Ventlinge,ventlinge,84011
+4256,Verum,verum,118311
+4257,Vesene,vesene,156615
+4258,Vessige,vessige,138213
+4259,Veta,veta,58618
+4260,Vetlanda,vetlanda,68501
+4264,Viby,viby3,186102
+4265,Viby,viby1,58617
+4266,Vibyggerå,vibyggera,228205
+4268,Vickleby,vickleby,84001
+4269,Vidbo,vidbo,19111
+4270,Vika,vika,208005
+4271,Viken,viken,128403
+4272,Viker,viker,188405
+4274,Vikingstad,vikingstad,58018
+4275,Viklau,viklau,98037
+4277,Viksjö,viksjo,228005
+4278,Viksta,viksta,38027
+4279,Viktoria,viktoria,88100
+4280,Vilhelmina,vilhelmina,246201
+4281,Vilhelmina kbfd,vilhelminakbfd,246200
+4282,Villberga,villberga,38117
+4283,Villie,villie,126412
+4284,Villstad,villstad,66209
+4285,Vilske-Kleva,vilskekl,168609
+4286,Vimmerby,vimmerby,88401
+4287,Vimmerby landsförsamling,vimmerbylandsforsamling,88400
+4289,Vinberg,vinberg,138211
+4291,Vindeln,vindeln,240401
+4296,Vinköl,vinkol,168215
+4297,Vinnerstad,vinnerstad,58300
+4298,Vinslöv,vinslov,118305
+4299,Vintrosa,vintrosa,188007
+4300,Vireda,vireda,60408
+4301,Virestad,virestad2,128700
+4302,Virestad,virestad1,76503
+4303,Virke,virke,126107
+4304,Virserum,virserum,86005
+4305,Visby,visby,98000
+4306,Visby domkyrkoförsamling,visbydomk,98001
+4307,Visby landsförsamling,visbylandsforsamling,98000
+4308,Visby norra landsförsamling,visbynorraland,98000
+4309,Visby ryska,visbyryska,98000
+4312,Visingsö,visingso,68009
+4314,Vislanda,vislanda,76409
+4315,Visnum,visnum,178105
+4316,Visnums-Kil,visnumskil,178104
+4317,Vissefjärda,vissefjarda,86202
+4318,Visseltofta,visseltofta,116304
+4319,Vist,vist2,158400
+4320,Vist,vist3,168600
+4321,Vist,vist1,58008
+4322,Vistorp,vistorp,168629
+4323,Vitaby,vitaby,118120
+4324,Vitsand,vitsand,173703
+4325,Vittangi,vittangi,258402
+4326,Vittaryd,vittaryd,78110
+4327,Vittinge,vittinge,191704
+4328,Vitträsks kbfd,vittraskskbfd,252300
+4329,Vittsjö,vittsjo,118312
+4330,Vittskövle,vittskovle,118030
+4332,Vollsjö,vollsjo,126512
+4333,Vomb,vomb,128122
+4335,Voxna,voxna,212102
+4336,Voxtorp,voxtorp2,88010
+4337,Vrå,vra,78115
+4339,Vram,vram1,118000
+4341,Vrem,vrem,143500
+4342,Vrena,vrena,48027
+4343,Vreta kloster,vretakloster,58019
+4344,Vrigstad,vrigstad,68403
+4345,Vuollerim,vuollerim,251005
+4346,Vuollerims kbfd,vuollerimskbfd,251000
+4347,Yllestad,,168628
+4348,Ysane,ysane,108303
+4349,Ysby,ysby,138108
+4351,Ystad,ystad,128601
+4352,Ystads garnisonsförsamling,ystadgarn,128600
+4354,Ystads Sankt Petri,ystsanpetri,128600
+4356,Ytterby,ytterby,148207
+4358,Yttergran,yttergran,30502
+4359,Ytterhogdal,ytterhogdal,236109
+4361,Ytterjärna,ytterjarna,18108
+4362,Ytterlännäs,ytterlan,228211
+4363,Ytterselö,ytterselo,48608
+4366,Yxnerum,yxnerum,56105
+4368,Voxtorp,voxtorp1,68310

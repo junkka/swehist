@@ -1,0 +1,57 @@
+inst/sources/
+inst/doc
+.Rprofile
+.Rproj.user
+.Rhistory
+Rplot*.png
+
+# Raw data (large, not tracked)
+data-raw/data
+data-raw/*.zip
+data-raw/*.rda
+
+# Build intermediates
+data-raw/intermediate/
+
+# HTML output (rendered vignettes, reports)
+vignettes/*.html
+data-raw/*.html
+
+# IDE/editor
+histmaps.sublime-project
+histmaps.sublime-workspace
+.vscode/
+db_config.R
+/doc/
+/Meta/
+
+
+# Local working notes (not published)
+.claude/
+AUDIT_*.md
+RELEASING.md
+
+# Research and validation (not published: the repo holds only what builds and documents the data)
+data-raw/validation/
+data-raw/model/data/*_research*.md
+data-raw/model/skane_experiment.R
+data-raw/model/run_pilot.sh
+data-raw/sfgt/checks/
+data-raw/sfgt/march2026/
+data-raw/sfgt/check_relations.R
+data-raw/residential.csv
+data-raw/sources/scb_events.csv
+
+# SFGT source texts (not published; made by data-raw/sfgt/prepare_batches.R)
+data-raw/sfgt/batches
+
+
+# Redesign pilot build outputs
+data-raw/model/out/
+
+# R CMD check leftovers
+swehist.Rcheck/
+swehist_*.tar.gz
+
+# screenshots dropped in the repo root
+Screenshot*.png

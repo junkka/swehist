@@ -1,0 +1,15 @@
+# corrections_contract.csv - kontrakt findings that are documented but NOT corrected.
+#
+# Both were found by the third held-out sample after
+# it had been measured and spent. Unlike C001 in corrections_courts.csv, neither has any
+# corroboration inside the dataset: C001 is a court that contradicts its three sibling courts in
+# this same build, so it is a fault findable without the sample, while these two are cases where
+# the only evidence that the data are wrong is the sample's own reading. Correcting a fact because
+# a held-out sample scored it wrong is fitting the data to the instrument - two rows out of 1,100
+# would buy nothing measurable and would cost the sample whatever meaning it has left. They are
+# therefore shipped as known issues instead, as examples of a weakness the quality table already
+# grades: kontrakt membership is mostly derived from spatial containment, so where a parish's
+# deanery did not follow its harad the containment can take it to the wrong one.
+id,kind,type_id,topo_id,name,start,end,value,source,note
+K001,boundary_note,contract,,Ås kontrakt,1600-01-01,1990-12-31,membership: Varnums församling (Älvsborg) is placed in Herrljunga kontrakt where the evidence puts it in Ås kontrakt; not corrected,"J. W. Warholm, Skara stifts herdaminne II, XIII. Åhs kontrakt, prostlängden (""Joh. Sandmann 1704-28. Past. i Borås"", kontraktsprost); F. A. Westerling, Ecklesiastik-matrikel öfver Sverige (1866), ""13. Åhs Contract. (Elfsb. Län.)""","The prostlängd attests Ås kontrakt and its kontraktsprost directly for 1720, and prostar ""öfver Åhs härad"" from 1544; the build instead gives the parish Herrljunga kontrakt, a name that is anachronistic for 1720 (Herrljunga grew with the railway after 1862) and whose polygon is one static 1600-1990 feature. Not corrected: see the header. Example of the containment weakness in kontrakt membership."
+K002,boundary_note,contract,,Redvägs kontrakt,1600-01-01,1990-12-31,membership: Bjurbäcks församling is placed in Vartofta kontrakt where the evidence puts its pastorat in Redvägs kontrakt; not corrected,"Historiskt-geografiskt och statistiskt lexikon öfver Sverige (1859), https://runeberg.org/hgsl/1/0369.html: ""Tillika med Mulseryd, Angerdshestra och Bjurbäcks kapell utgör Bottnaryd ett konsistorielt pastorat af 2:dra klassen i Redvägs kontrakt af Skara stift""; J. W. Warholm, Skara stifts herdaminne, XII. Redvägs kontrakt","Bjurbäck was a kapell in the Bottnaryd pastorat, which the 1859 lexikon and Warholm both put in Redvägs kontrakt; the build gives Vartofta kontrakt, which is the härad the parish lies in. A kontrakt is not a härad and the two did not have to coincide. Not corrected: see the header."

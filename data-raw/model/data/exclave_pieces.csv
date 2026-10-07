@@ -1,0 +1,81 @@
+piece_id,distrikt,owner_name,owner_code90,host_name,km2,ambiguous,comp,host_comp
+X001,Dimbo-Ottravad,Ottravads församling,168508,Varvs församling (R-län),0.77,TRUE,38,634
+X002,Örebro Nikolai; Adolfsberg,Örebro Nikolai församling,188001,Gällersta församling,1.18,FALSE,80,1959
+X003,Järrestad,Järrestads församling,118104,Gladsaxs församling,1.05,FALSE,182,183
+X004,Sankt Peder,Sankt Peders församling,156204,Hålanda församling,2.56,FALSE,313,259
+X005,Rommele,Rommele församling,158106,Fors församling (P-län),1.75,FALSE,378,379
+X006,Barne-Åsaka,Barne-Åsaka församling,160307,Fåglums församling,2,FALSE,457,456
+X007,Lekåsa,Lekåsa församling,160308,Bitterna församling,1.95,FALSE,458,485
+X008,Ekby,Ekby församling (R-län),168005,Eks församling,3.5,FALSE,534,538
+X009,Tidavad,Tidavads församling,168006,Böja församling,1.86,FALSE,535,612
+X010,Odensåker,Odensåkers församling,168007,Böja församling,1.33,FALSE,536,612
+X011,Hassle,Hassle församling,168015,Berga församling (R-län),1.99,FALSE,544,545
+X012,Kållands-Åsaka,Kållands-Åsaka församling,168107,Mellby församling (R-län),2.71,FALSE,554,553
+X013,Våmb,Våmbs församling,168303,Norra Kyrketorps församling,1.25,FALSE,594,597
+X014,Horn,Horns församling (R-län),168318,Frösve församling,2.03,FALSE,605,607
+X015,Horn,Horns församling (R-län),168318,Timmersdala församling,5.27,FALSE,605,611
+X016,Berg,Bergs församling (R-län),168322,Lerdala församling,3.32,FALSE,609,610
+X017,Böja,Böja församling,168325,Eks församling,0.73,FALSE,612,538
+X018,Flistad,Flistads församling (R-län),168326,Götlunda församling (R-län),1.38,FALSE,613,614
+X019,Vad,Vads församling,168328,Götlunda församling (R-län),1.28,FALSE,615,614
+X020,Hångsdala,Hångsdala församling,168513,Östra Gerums församling,1.06,FALSE,632,633
+X021,Ugglum,Ugglums församling,168643,Vilske-Kleva församling,1.13,FALSE,679,646
+X022,Broddetorp,Broddetorps församling,168647,Skövde församling (R-län),4.01,FALSE,681,593
+X023,Fardhem,Fardhems församling,098079,Gerums församling,1.52,FALSE,705,1375
+X024,Bjursås,Bjursås församling,208011,Leksands församling,7.54,FALSE,744,2214
+X025,Åkerby,Åkerby församling,038020,Jumkils församling,1.14,FALSE,747,901
+X026,Åkerby,Åkerby församling,038020,Bälinge församling (C-län),1.78,FALSE,747,993
+X027,Åkerby,Åkerby församling,038020,Bälinge församling (C-län),2.47,FALSE,747,993
+X028,Lokrume,Lokrume församling,098020,Väskinde församling,0.81,FALSE,856,1416
+X029,Jonstorp,Jonstorps församling,128405,Väsby församling,4.54,FALSE,893,2189
+X030,Rödön,Rödöns församling,230901,Aspås församling,29.17,FALSE,956,892
+X031,Rödön,Rödöns församling,230901,Offerdals församling,13.45,FALSE,956,1369
+X032,Lau,Lau församling,098070,Ardre församling,1.63,FALSE,964,697
+X033,Bälinge,Bälinge församling (C-län),038021,Skuttunge församling,0.62,FALSE,993,1360
+X034,Näs,Näs församling (Z-län),238004,Hackås församling,22.27,FALSE,1004,707
+X035,Torsång,Torsångs församling,208103,Stora Tuna församling,1.12,FALSE,1044,48
+X036,Hejnum,Hejnums församling,098013,Fole församling,1.32,FALSE,1077,748
+X037,Villie,Villie församling,126412,Katslösa församling,0.94,FALSE,1098,841
+X038,Mockfjärd,Mockfjärds församling,202601,Gagnefs församling,5.73,FALSE,1142,1991
+X039,Mockfjärd,Mockfjärds församling,202601,Gagnefs församling,7.84,FALSE,1142,1991
+X040,Hagby,Hagby församling (C-län),038007,Vänge församling (C-län),0.7,FALSE,1182,2338
+X041,Torsåker,Torsåkers församling (Y-län),228210,Ytterlännäs församling,39.16,FALSE,1193,862
+X042,Allhelgona,Allhelgona församling (E-län),058605,Skänninge församling,4.9,FALSE,1215,1748
+X043,Heda,Heda församling,050905,Svanshals församling,1.29,FALSE,1240,1660
+X044,Gårdby,Gårdby församling,084017,Sandby församling,2.69,FALSE,1251,863
+X045,Fornåsa,Fornåsa församling,058309,Lönsås församling,1.28,FALSE,1274,1141
+X046,Bosjökloster,Bosjöklosters församling,126704,Höörs församling,0.8,FALSE,1308,1111
+X047,Skuttunge,Skuttunge församling,038022,Bälinge församling (C-län),20.2,FALSE,1360,993
+X048,Tofta,Tofta församling (I-län),098054,Eskelhems församling,2.51,FALSE,1367,1762
+X049,Gammalkil,Gammalkils församling,058013,Nykils församling,0.97,FALSE,1401,1019
+X050,Stora Hammar,Stora Hammars församling,123308,Rängs församling; Håslövs församling,3.22,FALSE,1418,239
+X051,Frösö,Frösö församling,238002,Sunne församling (Z-län),3.58,FALSE,1431,1321
+X052,Linde,Linde församling,098075,Lojsta församling,1.37,FALSE,1446,1721
+X053,Ramdala,Ramdala församling,108012,Jämjö församling,0.9,FALSE,1472,1802
+X054,Mattmar,Mattmars församling,232102,Mörsils församling,16.14,FALSE,1542,1734
+X055,Hammarlunda,Hammarlunda församling,128515,Holmby församling; Gårdstånga församling,2.44,FALSE,1567,242
+X056,Hörby,Hörby församling,126602,Äspinge församling,1.26,FALSE,1634,1221
+X057,Näskott,Näskotts församling,230902,Alsens församling,12.53,FALSE,1643,899
+X058,Näskott,Näskotts församling,230902,Offerdals församling,14.45,FALSE,1643,1369
+X059,Skatelöv,Skatelövs församling,076410,Västra Torsås församling,7.69,FALSE,1763,1012
+X060,Marieby,Marieby församling,238006,Brunflo församling,4.6,FALSE,1809,2162
+X061,Mörarp,Mörarps församling,128312,Kropps församling,1.71,FALSE,1837,1641
+X062,Mörarp,Mörarps församling,128312,Kropps församling,1.34,FALSE,1837,1641
+X063,Kågeröd,Kågeröds församling,121405,Svalövs församling,1.78,FALSE,1939,1983
+X064,Boda,Boda församling (W-län),203103,Bingsjö-Dådrans församling; Rättviks församling,23.19,FALSE,2005,46
+X065,Gustafs,Gustafs församling,208203,Silvbergs församling,26.37,FALSE,2018,2014
+X066,Gustafs,Gustafs församling,208203,Silvbergs församling,17.23,FALSE,2018,2014
+X067,Djura,Djura församling,202902,Leksands församling,23.67,FALSE,2029,2214
+X068,Djura,Djura församling,202902,Leksands församling,6.25,FALSE,2029,2214
+X069,Piteå stadsdistrikt,Piteå stadsförsamling,258101,Hortlaxs församling,6.14,FALSE,2083,2305
+X070,Tierp,Tierps församling,036005,Söderfors församling,19.01,FALSE,2086,2085
+X071,Gräsmark,Gräsmarks församling,176604,Sunne församling (S-län),1.68,FALSE,2112,2113
+X072,Brunflo,Brunflo församling,238007,Lockne församling,17.18,FALSE,2162,1488
+X073,Brunflo,Brunflo församling,238007,Kyrkås församling (Z-län),19.62,FALSE,2162,1785
+X074,Fryksände,Fryksände församling,173701,Vitsands församling,26.49,FALSE,2163,2164
+X075,Fridlevstad,Fridlevstads församling,108015,Sillhövda församling,7.54,FALSE,2178,2177
+X076,Ljusdal,Ljusdals församling,216101,Färila församling,105.68,FALSE,2188,2316
+X077,Ramsjö,Ramsjö församling,216106,Ljusdals församling,7.88,FALSE,2190,2188
+X078,Sankt Sigfrid,Sankt Sigfrids församling,088107,Madesjö församling,6.31,FALSE,2193,2340
+X079,Söderhamn,Söderhamns församling,218201,Norrala församling,5.52,FALSE,2301,812
+X080,Skellefteå landsdistrikt,Skellefteå landsförsamling,248204,Kågedalens församling,17.25,FALSE,2413,2336

@@ -1,0 +1,170 @@
+---
+output:
+  md_document:
+    variant: gfm
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(collapse = TRUE, comment = "#>", message = FALSE,
+                      fig.path = "README_files/", dpi = 96)
+```
+
+# swehist
+
+Boundaries of Swedish administrative units 1600-1990, as `sf` objects:
+parishes, counties, municipalities, pastorships, deaneries, dioceses,
+hundreds, magistrates courts, district courts, courts of appeal and
+bailiwicks. Each unit is stored once per period in which its territory was
+unchanged, with its predecessors and successors and the units it belonged
+to. The package gives maps for any year or period, and matches parish and
+unit names and codes in historical records to the maps.
+
+The boundaries come from the historical GIS data of Riksarkivet (the Swedish
+National Archives).
+
+## Installation
+
+```r
+install.packages("swehist",
+                 repos = c("https://junkka.r-universe.dev", "https://cloud.r-project.org"))
+# or from GitHub
+# remotes::install_github("junkka/swehist")
+```
+
+## Example
+
+```{r example, fig.width = 6, fig.height = 8}
+library(swehist)
+library(ggplot2)
+
+parishes <- get_boundaries(1900, "parish")
+counties <- get_borders(1900, "county")
+
+ggplot() +
+  geom_sf(data = parishes, fill = "white", colour = "grey75", linewidth = 0.05) +
+  geom_sf(data = counties, colour = "black", linewidth = 0.4) +
+  theme_void()
+```
+
+Records that name a parish or give its code are linked to the map with
+`match_units()`, and `assign_parent()` gives the county, pastorship, court
+or other unit a parish belonged to in a given year:
+
+```{r match}
+m <- match_units(c("Lövånger", "Burträsk", "Nysätra"), county = "AC", date = 1880)
+m[, c("input", "geom_id", "geom_name", "start", "end")]
+
+assign_parent(m$geom_id, 1880, "pastorship")
+```
+
+`vignette("usage", package = "swehist")` shows the main tasks: maps for a
+year or a period, linking records, parent and child units, unit histories.
+
+## Datasets
+
+```{r datasets, echo = FALSE, results = 'asis'}
+d <- c(boundaries = 'Units of 11 types, one row per unit and period (sf)',
+       relations = 'Successors between units, and transfers of territory',
+       hierarchy = 'Which unit belonged to which, by year, with the evidence behind it',
+       events = 'Creations, abolitions, renamings, mergers, splits and transfers',
+       parish_link = 'Parish codes and names (Riksarkivet, SCB, Skatteverket)',
+       parish_registry = "All parishes in Skatteverket's register, incl. those without territory",
+       parish_meta = 'Parish codes and county',
+       parish_codes = 'Every dated code (DDB, SCB, NAD) of every parish version',
+       unit_variants = 'Name variants used by `match_units()`',
+       quality_table = 'Coverage and evidence grade, by type and 50-year period',
+       known_issues = 'Researched deviations that no source lets us correct',
+       hist_town = 'County towns (sf)',
+       sweden = 'National outline: the union of all parishes (sf)')
+n <- vapply(names(d), function(x) nrow(get(x, envir = asNamespace('swehist'))), integer(1))
+cat('| Dataset | Rows | Contents |', '|---|---:|---|',
+    sprintf('| `%s` | %s | %s |', names(d), formatC(n, big.mark = ',', format = 'd'), d),
+    sep = '\n')
+```
+
+All spatial data are in SWEREF99 TM (EPSG:3006).
+
+## Administrative types
+
+```{r types, echo = FALSE, results = 'asis'}
+b <- sf::st_drop_geometry(swehist::boundaries)
+sw <- c(parish = 'Socken, församling', county = 'Län', municipality = 'Kommun',
+        pastorship = 'Pastorat', contract = 'Kontrakt', diocese = 'Stift',
+        hundred = 'Härad, tingslag', magistrates_court = 'Domsaga, rådhusrätt',
+        district_court = 'Tingsrätt', court_of_appeal = 'Hovrätt', bailiwick = 'Fögderi')
+en <- c('Parish', 'County', 'Municipality', 'Pastorship', 'Deanery', 'Diocese', 'Hundred',
+        'Magistrates court', 'District court', 'Court of appeal', 'Bailiwick')
+r <- do.call(rbind, lapply(seq_along(sw), function(i){
+  x <- b[b$type_id == names(sw)[i], ]
+  data.frame(en = en[i], sw = sw[[i]], id = names(sw)[i],
+             units = length(unique(x$unit_id)), versions = nrow(x),
+             years = paste0(min(x$start), '-', max(x$end)))
+}))
+cat('| Type | Swedish | `type_id` | Units | Versions | Years |', '|---|---|---|---:|---:|---|',
+    sprintf('| %s | %s | `%s` | %s | %s | %s |', r$en, r$sw, r$id,
+            formatC(r$units, big.mark = ',', format = 'd'),
+            formatC(r$versions, big.mark = ',', format = 'd'), r$years),
+    sep = '\n')
+```
+
+A *unit* is the thing itself; a *version* is one period in which its territory did not
+change. Regiments have no boundaries; `hierarchy` links them to their parishes.
+
+## Sources
+
+- **Riksarkivet** (Swedish National Archives): *Historiska GIS-kartor
+  (information om territoriella indelningar i Sverige från 1500-talets slut
+  till 1900-talets slut)* and the topographic register of the Nationell
+  Arkivdatabas (NAD), released under CC0.
+- **Skatteverket**: *Sveriges församlingar genom tiderna* (1989), for parish
+  identifiers, names and the parish histories used to date pastorship and
+  county links.
+- **Statistics Sweden (SCB)**: parish codes.
+- **The Demographic Data Base (DDB)**, Umeå University: parish names.
+
+`data-raw/` has the build pipeline. It needs the Riksarkivet source files,
+which are not in this repository (see `data-raw/README.md`).
+`VALIDATION.md` summarises the checks of the data against independent
+sources.
+
+## Citation
+
+`citation("swehist")` gives the reference.
+
+## History
+
+swehist grew out of my histmaps package (2015-2019,
+<https://github.com/junkka/histmaps>), which I rebuilt as swehist in 2026 with
+AI agents (Claude) doing much of the work.
+
+**How the data were made.** I designed the data model, set the rules for which
+sources count as evidence and in what order, and decided the cases where the
+sources disagree. Within that design I used AI agents to write the build code
+and to research the 1,310 correction rows that decide identity, membership and
+dates, each row carrying the printed or online source it rests on
+(`data-raw/model/corrections*.csv`). The *Sveriges statskalender* tables for
+the courts and the deaneries were parsed from scanned text by scripts the agents
+wrote, and a large language model read the parish histories in *Sveriges
+församlingar genom tiderna* into dated tables (`data-raw/sfgt/` holds the
+prompts and the output). The Skåne coordinate correction was fitted, and the
+missing exclaves found, the same way. The sources are cited row by row and can
+be checked, and the build is reproducible from them.
+
+To measure accuracy, agents researched two held-out samples from printed
+sources, without sight of the database. I checked about 100 of these facts by
+hand, chosen by browsing the samples rather than by a fixed rule and including
+many of the facts where the database and the source disagree. For each I
+confirmed that the cited source, at the recorded place, gives the recorded unit
+and that the unit is historically right, and for each disagreement also that
+the database, not the fact, is wrong. I found a few minor faults and no reason
+to doubt the facts as a whole. However, since the sample was not drawn at
+random, it supports the facts without giving an error rate for them.
+
+I have not checked the correction rows one by one. Treat a citation as the
+warrant for a value, and check it yourself where a result matters to your work.
+
+## License
+
+The code is licensed MIT and the data CC BY 4.0; see `LICENSE.md`.

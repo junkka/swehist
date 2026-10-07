@@ -1,0 +1,5450 @@
+[
+ {
+  "pid": 1100,
+  "parish_name": null,
+  "year": 1300,
+  "event_type": "formed",
+  "other_parish": null,
+  "notes": "1300-talet"
+ },
+ {
+  "pid": 1100,
+  "parish_name": null,
+  "year": 1652,
+  "event_type": "split_off",
+  "other_parish": "Ludvika",
+  "notes": null
+ },
+ {
+  "pid": 1100,
+  "parish_name": null,
+  "year": 1892,
+  "event_type": "transferred",
+  "other_parish": "Grängesberg-Hörkens kapellag",
+  "notes": "avskilt del till Grängesberg-Hörkens kapellag"
+ },
+ {
+  "pid": 1100,
+  "parish_name": null,
+  "year": 1904,
+  "event_type": "split_off",
+  "other_parish": "Grängesberg",
+  "notes": "1904-07-29"
+ },
+ {
+  "pid": 1102,
+  "parish_name": null,
+  "year": null,
+  "event_type": "other",
+  "other_parish": "Grängesberg-Hörkens kapellag",
+  "notes": "tidigare del av Grängesberg-Hörkens kapellag"
+ },
+ {
+  "pid": 1102,
+  "parish_name": null,
+  "year": 1904,
+  "event_type": "split_from",
+  "other_parish": "Grangärde",
+  "notes": "1904-07-29 (text 1904-0729); som kapellförsamling"
+ },
+ {
+  "pid": 1103,
+  "parish_name": null,
+  "year": 1892,
+  "event_type": "formed",
+  "other_parish": "Grangärde och Ljusnarsberg",
+  "notes": "bildat inom Grangärde i Kopparbergs län och Ljusnarsberg i Örebro län"
+ },
+ {
+  "pid": 1103,
+  "parish_name": null,
+  "year": 1904,
+  "event_type": "other",
+  "other_parish": "Grängesbergs kapellförsamling och Hörkens kapellförsamling",
+  "notes": "delat på Grängesbergs kapellförsamling och Hörkens kapellförsamling"
+ },
+ {
+  "pid": 1104,
+  "parish_name": null,
+  "year": 1837,
+  "event_type": "merged_into",
+  "other_parish": "Nottebäck med Granhult",
+  "notes": "beslut 1829-11-21"
+ },
+ {
+  "pid": 1105,
+  "parish_name": null,
+  "year": 1673,
+  "event_type": "split_from",
+  "other_parish": "Långsele",
+  "notes": "som bruksförsamling"
+ },
+ {
+  "pid": 1105,
+  "parish_name": null,
+  "year": 1873,
+  "event_type": "became_annex",
+  "other_parish": null,
+  "notes": "beslut 1867-11-29"
+ },
+ {
+  "pid": 1106,
+  "parish_name": "Gränna",
+  "year": 1652,
+  "event_type": "split_from",
+  "other_parish": "Gränna landsförsamling",
+  "notes": "text: Gränna (landsförsamling)"
+ },
+ {
+  "pid": 1106,
+  "parish_name": "Gränna",
+  "year": 1963,
+  "event_type": "incorporated",
+  "other_parish": "Gränna landsförsamling",
+  "notes": "1963-01-01"
+ },
+ {
+  "pid": 1107,
+  "parish_name": "Gränna landsförsamling",
+  "year": 1652,
+  "event_type": "split_off",
+  "other_parish": "Gränna stadsförsamling",
+  "notes": null
+ },
+ {
+  "pid": 1107,
+  "parish_name": "Gränna landsförsamling",
+  "year": 1963,
+  "event_type": "merged_into",
+  "other_parish": "Gränna",
+  "notes": "1963-01-01"
+ },
+ {
+  "pid": 1110,
+  "parish_name": null,
+  "year": 1751,
+  "event_type": "split_from",
+  "other_parish": "Sunne",
+  "notes": "som kapellförsamling"
+ },
+ {
+  "pid": 1110,
+  "parish_name": null,
+  "year": 1796,
+  "event_type": "became_annex",
+  "other_parish": null,
+  "notes": "1796-10-27"
+ },
+ {
+  "pid": 1111,
+  "parish_name": null,
+  "year": 1641,
+  "event_type": "split_from",
+  "other_parish": "Börstil",
+  "notes": "senast 1641; som kapellförsamling"
+ },
+ {
+  "pid": 1111,
+  "parish_name": null,
+  "year": null,
+  "event_type": "became_annex",
+  "other_parish": null,
+  "notes": "senare"
+ },
+ {
+  "pid": 1113,
+  "parish_name": null,
+  "year": 1908,
+  "event_type": "split_off",
+  "other_parish": "Forshaga",
+  "notes": "1908-11-01"
+ },
+ {
+  "pid": 1115,
+  "parish_name": "Grebbestad",
+  "year": 1893,
+  "event_type": "formed",
+  "other_parish": "Tanum",
+  "notes": "bildat inom Tanums församling"
+ },
+ {
+  "pid": 1125,
+  "parish_name": null,
+  "year": 1757,
+  "event_type": "incorporated",
+  "other_parish": "Skärvum",
+  "notes": null
+ },
+ {
+  "pid": 1129,
+  "parish_name": "Grovare",
+  "year": 1989,
+  "event_type": "merged_into",
+  "other_parish": "Fänneslunda",
+  "notes": "1989-01-01"
+ },
+ {
+  "pid": 1131,
+  "parish_name": null,
+  "year": 1716,
+  "event_type": "split_off",
+  "other_parish": "Borgvik",
+  "notes": "1716-01-11"
+ },
+ {
+  "pid": 1133,
+  "parish_name": null,
+  "year": 1799,
+  "event_type": "split_from",
+  "other_parish": "Morlanda",
+  "notes": "som kapellförsamling"
+ },
+ {
+  "pid": 1133,
+  "parish_name": null,
+  "year": 1888,
+  "event_type": "merged_into",
+  "other_parish": "Skaftö",
+  "notes": "1888-05-01"
+ },
+ {
+  "pid": 1134,
+  "parish_name": null,
+  "year": 1300,
+  "event_type": "split_off",
+  "other_parish": "Arnäs, Nordmaling",
+  "notes": "1300-talet"
+ },
+ {
+  "pid": 1135,
+  "parish_name": null,
+  "year": 1932,
+  "event_type": "formed",
+  "other_parish": "Stora Kopparberg",
+  "notes": "1932-07-01; bildat inom (Stora) Kopparbergs församling"
+ },
+ {
+  "pid": 1141,
+  "parish_name": null,
+  "year": 1633,
+  "event_type": "split_from",
+  "other_parish": "Noraskoga, Färnebo och Karlskoga",
+  "notes": "Noraskoga (Nora bergsförsamling) samt Färnebo och Karlskoga"
+ },
+ {
+  "pid": 1141,
+  "parish_name": null,
+  "year": 1644,
+  "event_type": "split_off",
+  "other_parish": "Hällefors",
+  "notes": null
+ },
+ {
+  "pid": 1142,
+  "parish_name": null,
+  "year": 1642,
+  "event_type": "split_off",
+  "other_parish": "Avesta",
+  "notes": "som kapellag"
+ },
+ {
+  "pid": 1142,
+  "parish_name": null,
+  "year": 1871,
+  "event_type": "became_annex",
+  "other_parish": null,
+  "notes": "1871-06-09; ambiguous: may refer to Avesta rather than this parish"
+ },
+ {
+  "pid": 1148,
+  "parish_name": null,
+  "year": 1896,
+  "event_type": "split_from",
+  "other_parish": "Lindesbergs landsförsamling",
+  "notes": "som kapellförsamling"
+ },
+ {
+  "pid": 1149,
+  "parish_name": null,
+  "year": null,
+  "event_type": "merged_into",
+  "other_parish": "Torsås",
+  "notes": "medeltiden"
+ },
+ {
+  "pid": 1149,
+  "parish_name": null,
+  "year": 1871,
+  "event_type": "split_from",
+  "other_parish": "Torsås",
+  "notes": "åter utbruten"
+ },
+ {
+  "pid": 1150,
+  "parish_name": null,
+  "year": 1857,
+  "event_type": "merged_into",
+  "other_parish": "Trollenäs",
+  "notes": "1857-01-10"
+ },
+ {
+  "pid": 1151,
+  "parish_name": null,
+  "year": 1548,
+  "event_type": "incorporated",
+  "other_parish": "Strängsered",
+  "notes": null
+ },
+ {
+  "pid": 1151,
+  "parish_name": null,
+  "year": 1554,
+  "event_type": "incorporated",
+  "other_parish": "Tissered",
+  "notes": null
+ },
+ {
+  "pid": 1151,
+  "parish_name": null,
+  "year": 1887,
+  "event_type": "split_off",
+  "other_parish": "Strängsered",
+  "notes": "1887-07-29; åter utbrutet"
+ },
+ {
+  "pid": 1152,
+  "parish_name": null,
+  "year": 1799,
+  "event_type": "split_from",
+  "other_parish": "Morlanda",
+  "notes": "som kapellförsamling"
+ },
+ {
+  "pid": 1152,
+  "parish_name": null,
+  "year": 1923,
+  "event_type": "became_annex",
+  "other_parish": null,
+  "notes": "1923-01-26"
+ },
+ {
+  "pid": 1154,
+  "parish_name": null,
+  "year": 1971,
+  "event_type": "split_from",
+  "other_parish": "Angered",
+  "notes": "1971-01-01"
+ },
+ {
+  "pid": 1156,
+  "parish_name": null,
+  "year": 1962,
+  "event_type": "split_from",
+  "other_parish": "Råneå",
+  "notes": "motsvarande Råneå övre kbfd"
+ },
+ {
+  "pid": 1158,
+  "parish_name": null,
+  "year": 1850,
+  "event_type": "split_off",
+  "other_parish": "Bogen",
+  "notes": null
+ },
+ {
+  "pid": 1161,
+  "parish_name": null,
+  "year": 1580,
+  "event_type": "split_from",
+  "other_parish": "Odensvi",
+  "notes": "omkring"
+ },
+ {
+  "pid": 1162,
+  "parish_name": "Gustafs",
+  "year": 1633,
+  "event_type": "formed",
+  "other_parish": "Stora Tuna",
+  "notes": "omkring; som kapellag under Tuna (Stora Tuna)"
+ },
+ {
+  "pid": 1169,
+  "parish_name": null,
+  "year": 1780,
+  "event_type": "split_from",
+  "other_parish": "Habo",
+  "notes": "kapellförsamling till 1889"
+ },
+ {
+  "pid": 1169,
+  "parish_name": null,
+  "year": 1889,
+  "event_type": "became_annex",
+  "other_parish": null,
+  "notes": "därefter annexförsamling (efter 1889)"
+ },
+ {
+  "pid": 1170,
+  "parish_name": "Gustav Adolf",
+  "year": 1789,
+  "event_type": "split_from",
+  "other_parish": "Ekshärad och Råda",
+  "notes": "beslut 1765-12-10; som kapellförsamling; text: Ekshärad (och Råda)"
+ },
+ {
+  "pid": 1170,
+  "parish_name": "Gustav Adolf",
+  "year": 1928,
+  "event_type": "became_annex",
+  "other_parish": null,
+  "notes": "1928-03-23"
+ },
+ {
+  "pid": 1174,
+  "parish_name": null,
+  "year": 1902,
+  "event_type": "split_from",
+  "other_parish": "Värmdö",
+  "notes": "1902-01-01"
+ },
+ {
+  "pid": 1175,
+  "parish_name": null,
+  "year": 1906,
+  "event_type": "split_from",
+  "other_parish": "Adolf Fredrik",
+  "notes": "1906-05-01"
+ },
+ {
+  "pid": 1176,
+  "parish_name": null,
+  "year": 1930,
+  "event_type": "formed",
+  "other_parish": "Ringarum",
+  "notes": "1930-01-01; bildat inom Ringarums församling"
+ },
+ {
+  "pid": 1176,
+  "parish_name": null,
+  "year": 1984,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1984-12-31"
+ },
+ {
+  "pid": 1178,
+  "parish_name": null,
+  "year": 1943,
+  "event_type": "formed",
+  "other_parish": "Anderstorp",
+  "notes": "1943-01-01; bildat inom Anderstorps församling"
+ },
+ {
+  "pid": 1178,
+  "parish_name": null,
+  "year": 1951,
+  "event_type": "transferred",
+  "other_parish": "Gislaved",
+  "notes": "1951-01-01; överfört till Gislaved"
+ },
+ {
+  "pid": 1178,
+  "parish_name": null,
+  "year": 1951,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1951-01-01; därvid upplöst"
+ },
+ {
+  "pid": 1180,
+  "parish_name": null,
+  "year": 1780,
+  "event_type": "incorporated",
+  "other_parish": "Fiskebäck",
+  "notes": null
+ },
+ {
+  "pid": 1180,
+  "parish_name": null,
+  "year": 1780,
+  "event_type": "split_off",
+  "other_parish": "Gustav Adolf",
+  "notes": null
+ },
+ {
+  "pid": 1184,
+  "parish_name": null,
+  "year": 1860,
+  "event_type": "split_off",
+  "other_parish": "Gillhov",
+  "notes": "1860-04-13"
+ },
+ {
+  "pid": 1184,
+  "parish_name": null,
+  "year": 1940,
+  "event_type": "incorporated",
+  "other_parish": "Gillhov",
+  "notes": "som kyrkobokföringsområde; 1926-02-12 enligt KBr ej längre kapellförsamling"
+ },
+ {
+  "pid": 1195,
+  "parish_name": null,
+  "year": 1957,
+  "event_type": "split_from",
+  "other_parish": "Brännkyrka",
+  "notes": "1957-01-01"
+ },
+ {
+  "pid": 1195,
+  "parish_name": null,
+  "year": 1963,
+  "event_type": "other",
+  "other_parish": null,
+  "notes": "indelad i två kbfd: Hägerstens östra kbfd och Hägerstens västra kbfd"
+ },
+ {
+  "pid": 1195,
+  "parish_name": null,
+  "year": 1969,
+  "event_type": "split_off",
+  "other_parish": "Skärholmen",
+  "notes": "1969-01-01; varvid kyrkobokföringsdistrikten upplösts"
+ },
+ {
+  "pid": 1196,
+  "parish_name": null,
+  "year": 1963,
+  "event_type": "formed",
+  "other_parish": "Hägersten",
+  "notes": "bildat inom Hägerstens församling (kbfd)"
+ },
+ {
+  "pid": 1196,
+  "parish_name": null,
+  "year": 1968,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1968-12-31; vid församlingsdelning"
+ },
+ {
+  "pid": 1197,
+  "parish_name": null,
+  "year": 1963,
+  "event_type": "formed",
+  "other_parish": "Hägersten",
+  "notes": "bildat inom Hägerstens församling (kbfd)"
+ },
+ {
+  "pid": 1197,
+  "parish_name": null,
+  "year": 1968,
+  "event_type": "split_off",
+  "other_parish": "Skärholmen",
+  "notes": "1968-12-31"
+ },
+ {
+  "pid": 1197,
+  "parish_name": null,
+  "year": 1968,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1968-12-31"
+ },
+ {
+  "pid": 1198,
+  "parish_name": null,
+  "year": 1907,
+  "event_type": "split_from",
+  "other_parish": "Norra Råda",
+  "notes": "som kapellförsamling"
+ },
+ {
+  "pid": 1198,
+  "parish_name": null,
+  "year": 1930,
+  "event_type": "became_annex",
+  "other_parish": null,
+  "notes": "efter 1930"
+ },
+ {
+  "pid": 1210,
+  "parish_name": null,
+  "year": 1556,
+  "event_type": "incorporated",
+  "other_parish": "Sanna",
+  "notes": "1556-11-30; del av Sanna"
+ },
+ {
+  "pid": 1210,
+  "parish_name": null,
+  "year": 1919,
+  "event_type": "split_off",
+  "other_parish": "Huskvarna",
+  "notes": "1919-05-01"
+ },
+ {
+  "pid": 1211,
+  "parish_name": null,
+  "year": 1962,
+  "event_type": "split_from",
+  "other_parish": "Gällivare",
+  "notes": "1962-01-01; motsvarande Hakkas kbfd"
+ },
+ {
+  "pid": 1212,
+  "parish_name": null,
+  "year": 1940,
+  "event_type": "split_from",
+  "other_parish": "Gällivare kbfd",
+  "notes": "1940-01-01; inom Gällivare församling (kbfd)"
+ },
+ {
+  "pid": 1212,
+  "parish_name": null,
+  "year": 1961,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1961-12-31 (text 1961-1231); vid församlingsdelning"
+ },
+ {
+  "pid": 1222,
+  "parish_name": null,
+  "year": 1528,
+  "event_type": "merged_into",
+  "other_parish": "Vänersnäs",
+  "notes": "mellan 1528 och 1540"
+ },
+ {
+  "pid": 1225,
+  "parish_name": null,
+  "year": 1644,
+  "event_type": "split_from",
+  "other_parish": "Grythyttan",
+  "notes": "som kapellförsamling"
+ },
+ {
+  "pid": 1225,
+  "parish_name": null,
+  "year": 1675,
+  "event_type": "became_annex",
+  "other_parish": null,
+  "notes": null
+ },
+ {
+  "pid": 1231,
+  "parish_name": null,
+  "year": 1923,
+  "event_type": "other",
+  "other_parish": null,
+  "notes": "1923-07-01; indelad i två kbfd: Hallingebergs norra kbfd och Hallingebergs södra kbfd"
+ },
+ {
+  "pid": 1231,
+  "parish_name": null,
+  "year": 1976,
+  "event_type": "other",
+  "other_parish": null,
+  "notes": "1976-12-31; kyrkobokföringsdistrikten upplösta"
+ },
+ {
+  "pid": 1232,
+  "parish_name": null,
+  "year": 1923,
+  "event_type": "formed",
+  "other_parish": "Hallingeberg",
+  "notes": "1923-07-01; bildat inom Hallingebergs församling (kbfd)"
+ },
+ {
+  "pid": 1232,
+  "parish_name": null,
+  "year": 1976,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1976-12-31"
+ },
+ {
+  "pid": 1233,
+  "parish_name": null,
+  "year": 1923,
+  "event_type": "formed",
+  "other_parish": "Hallingeberg",
+  "notes": "1923-07-01; bildat inom Hallingebergs församling (kbfd)"
+ },
+ {
+  "pid": 1233,
+  "parish_name": null,
+  "year": 1976,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1976-12-31"
+ },
+ {
+  "pid": 1236,
+  "parish_name": null,
+  "year": 1630,
+  "event_type": "merged_into",
+  "other_parish": "Dörarp",
+  "notes": "1630-talet"
+ },
+ {
+  "pid": 1243,
+  "parish_name": null,
+  "year": 1902,
+  "event_type": "formed",
+  "other_parish": null,
+  "notes": "1902-04-25"
+ },
+ {
+  "pid": 1243,
+  "parish_name": null,
+  "year": 1904,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1904-05-06"
+ },
+ {
+  "pid": 1251,
+  "parish_name": "Hälsingtuna",
+  "year": 1582,
+  "event_type": "split_off",
+  "other_parish": "Hudiksvall",
+  "notes": "1582-02-06"
+ },
+ {
+  "pid": 1253,
+  "parish_name": null,
+  "year": null,
+  "event_type": "merged_into",
+  "other_parish": "Ryda",
+  "notes": "year not given"
+ },
+ {
+  "pid": 1260,
+  "parish_name": null,
+  "year": 1924,
+  "event_type": "other",
+  "other_parish": null,
+  "notes": "1924-01-01; indelad i två kbfd: Hammarö kbfd och Skoghalls kbfd"
+ },
+ {
+  "pid": 1260,
+  "parish_name": null,
+  "year": 1957,
+  "event_type": "other",
+  "other_parish": null,
+  "notes": "1957-12-31; kyrkobokföringsdistrikten upplösta"
+ },
+ {
+  "pid": 1261,
+  "parish_name": null,
+  "year": 1924,
+  "event_type": "formed",
+  "other_parish": "Hammarö",
+  "notes": "1924-01-01; bildat inom Hammarö församling (kbfd)"
+ },
+ {
+  "pid": 1261,
+  "parish_name": null,
+  "year": 1957,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1957-12-31"
+ },
+ {
+  "pid": 1263,
+  "parish_name": null,
+  "year": 1781,
+  "event_type": "split_off",
+  "other_parish": "Borgvattnet",
+  "notes": null
+ },
+ {
+  "pid": 1263,
+  "parish_name": null,
+  "year": 1787,
+  "event_type": "transferred",
+  "other_parish": "Föllinge",
+  "notes": "överfört Laxsjö till Föllinge"
+ },
+ {
+  "pid": 1263,
+  "parish_name": null,
+  "year": 1893,
+  "event_type": "split_off",
+  "other_parish": "Gåxsjö",
+  "notes": "1893-01-01; beslut 1881-06-17 och 1892-01-22"
+ },
+ {
+  "pid": 1269,
+  "parish_name": null,
+  "year": 1324,
+  "event_type": "split_off",
+  "other_parish": "Skog",
+  "notes": "text '1-324', read as 1324 (uncertain)"
+ },
+ {
+  "pid": 1271,
+  "parish_name": null,
+  "year": 1768,
+  "event_type": "merged_into",
+  "other_parish": "Bjurum",
+  "notes": null
+ },
+ {
+  "pid": 1274,
+  "parish_name": null,
+  "year": 1500,
+  "event_type": "incorporated",
+  "other_parish": "Elinghem",
+  "notes": "troligen första hälften av 1500-talet"
+ },
+ {
+  "pid": 1279,
+  "parish_name": null,
+  "year": 1928,
+  "event_type": "formed",
+  "other_parish": "Nedertorneå-Haparanda",
+  "notes": "1928-04-13; bildat inom Nedertorneå-Haparanda församling (kbfd)"
+ },
+ {
+  "pid": 1279,
+  "parish_name": null,
+  "year": 1975,
+  "event_type": "incorporated",
+  "other_parish": "Nedertorneå kbfd",
+  "notes": "1975-01-01"
+ },
+ {
+  "pid": 1279,
+  "parish_name": null,
+  "year": 1976,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1976-12-31"
+ },
+ {
+  "pid": 1283,
+  "parish_name": null,
+  "year": 1500,
+  "event_type": "split_off",
+  "other_parish": "Jonsberg",
+  "notes": "1500-talet"
+ },
+ {
+  "pid": 1298,
+  "parish_name": null,
+  "year": 1528,
+  "event_type": "merged_into",
+  "other_parish": "Nylöse",
+  "notes": null
+ },
+ {
+  "pid": 1298,
+  "parish_name": null,
+  "year": 1951,
+  "event_type": "split_from",
+  "other_parish": "Göteborgs Gamlestad och Örgryte",
+  "notes": "1951-01-01; åter utbruten; se Nylöse"
+ },
+ {
+  "pid": 1301,
+  "parish_name": null,
+  "year": 1989,
+  "event_type": "incorporated",
+  "other_parish": "Bjärka",
+  "notes": "1989-01-01"
+ },
+ {
+  "pid": 1302,
+  "parish_name": null,
+  "year": 1595,
+  "event_type": "split_from",
+  "other_parish": "Västra Torsås",
+  "notes": "omkring"
+ },
+ {
+  "pid": 1306,
+  "parish_name": null,
+  "year": null,
+  "event_type": "split_from",
+  "other_parish": "Säbrå",
+  "notes": "som kapellförsamling; year not given"
+ },
+ {
+  "pid": 1306,
+  "parish_name": null,
+  "year": 1586,
+  "event_type": "split_off",
+  "other_parish": "Härnösand",
+  "notes": null
+ },
+ {
+  "pid": 1306,
+  "parish_name": null,
+  "year": 1873,
+  "event_type": "merged_into",
+  "other_parish": "Härnösand",
+  "notes": "1873-01-01"
+ },
+ {
+  "pid": 1308,
+  "parish_name": "Härnösands domkyrkoförsamling",
+  "year": 1586,
+  "event_type": "split_from",
+  "other_parish": "Härnö",
+  "notes": null
+ },
+ {
+  "pid": 1308,
+  "parish_name": "Härnösands domkyrkoförsamling",
+  "year": 1845,
+  "event_type": "split_off",
+  "other_parish": "Härnösands hospitalsförsamling",
+  "notes": null
+ },
+ {
+  "pid": 1308,
+  "parish_name": "Härnösands domkyrkoförsamling",
+  "year": 1873,
+  "event_type": "incorporated",
+  "other_parish": "Härnö",
+  "notes": "1873-01-01"
+ },
+ {
+  "pid": 1308,
+  "parish_name": "Härnösands domkyrkoförsamling",
+  "year": 1892,
+  "event_type": "incorporated",
+  "other_parish": "Härnösands hospitalsförsamling",
+  "notes": "1892-01-01"
+ },
+ {
+  "pid": 1309,
+  "parish_name": null,
+  "year": 1845,
+  "event_type": "split_from",
+  "other_parish": "Härnösand",
+  "notes": "territoriellt dock inom Säbrå"
+ },
+ {
+  "pid": 1309,
+  "parish_name": null,
+  "year": 1892,
+  "event_type": "merged_into",
+  "other_parish": "Härnösand",
+  "notes": "1892-01-01"
+ },
+ {
+  "pid": 1314,
+  "parish_name": null,
+  "year": 1892,
+  "event_type": "merged_into",
+  "other_parish": "Väderstad",
+  "notes": null
+ },
+ {
+  "pid": 1318,
+  "parish_name": null,
+  "year": 1962,
+  "event_type": "split_from",
+  "other_parish": "Spånga",
+  "notes": "1962-01-01; motsvarande Hässelby kbfd"
+ },
+ {
+  "pid": 1319,
+  "parish_name": null,
+  "year": 1949,
+  "event_type": "formed",
+  "other_parish": "Spånga",
+  "notes": "1949-05-01; bildat inom Spånga församling (kbfd)"
+ },
+ {
+  "pid": 1319,
+  "parish_name": null,
+  "year": 1961,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1961-12-31; vid församlingsdelning"
+ },
+ {
+  "pid": 1321,
+  "parish_name": null,
+  "year": 1687,
+  "event_type": "split_off",
+  "other_parish": "Lögdö bruksförsamling",
+  "notes": null
+ },
+ {
+  "pid": 1321,
+  "parish_name": null,
+  "year": 1932,
+  "event_type": "incorporated",
+  "other_parish": "Lögdö bruksförsamling",
+  "notes": "1932-01-01"
+ },
+ {
+  "pid": 1322,
+  "parish_name": null,
+  "year": 1500,
+  "event_type": "split_off",
+  "other_parish": "Enåsa",
+  "notes": "1500-talet"
+ },
+ {
+  "pid": 1325,
+  "parish_name": null,
+  "year": 1910,
+  "event_type": "split_from",
+  "other_parish": "Stoby och Vankiva",
+  "notes": "1910-05-01; text: Stoby (och Vankiva)"
+ },
+ {
+  "pid": 1326,
+  "parish_name": null,
+  "year": 1888,
+  "event_type": "split_from",
+  "other_parish": "Förkärla",
+  "notes": "1888-05-01"
+ },
+ {
+  "pid": 1331,
+  "parish_name": null,
+  "year": null,
+  "event_type": "merged_into",
+  "other_parish": "Västra Tollstad",
+  "notes": "medeltiden"
+ },
+ {
+  "pid": 1336,
+  "parish_name": null,
+  "year": 1500,
+  "event_type": "split_off",
+  "other_parish": "Singö",
+  "notes": "slutet av 1500-talet"
+ },
+ {
+  "pid": 1338,
+  "parish_name": null,
+  "year": 1593,
+  "event_type": "split_from",
+  "other_parish": "Malma",
+  "notes": null
+ },
+ {
+  "pid": 1341,
+  "parish_name": null,
+  "year": 1500,
+  "event_type": "merged_into",
+  "other_parish": "Sandhult",
+  "notes": "tillfälligt på 1500-talet"
+ },
+ {
+  "pid": 1341,
+  "parish_name": null,
+  "year": 1800,
+  "event_type": "merged_into",
+  "other_parish": "Sandhult",
+  "notes": "definitivt på 1800-talet"
+ },
+ {
+  "pid": 1344,
+  "parish_name": null,
+  "year": 1400,
+  "event_type": "split_from",
+  "other_parish": "Sveg",
+  "notes": "omkring"
+ },
+ {
+  "pid": 1344,
+  "parish_name": null,
+  "year": 1550,
+  "event_type": "split_off",
+  "other_parish": "Tännäs och Verndalen",
+  "notes": "senast omkring 1550"
+ },
+ {
+  "pid": 1344,
+  "parish_name": null,
+  "year": 1751,
+  "event_type": "split_off",
+  "other_parish": "Storsjö",
+  "notes": null
+ },
+ {
+  "pid": 1346,
+  "parish_name": "Hedemora",
+  "year": 1579,
+  "event_type": "split_off",
+  "other_parish": "Garpenberg",
+  "notes": "senast 1579 (möjligen 1400-talet)"
+ },
+ {
+  "pid": 1346,
+  "parish_name": "Hedemora",
+  "year": 1640,
+  "event_type": "split_off",
+  "other_parish": "Norns bruksförsamling",
+  "notes": "omkring"
+ },
+ {
+  "pid": 1346,
+  "parish_name": "Hedemora",
+  "year": 1700,
+  "event_type": "split_off",
+  "other_parish": "Hedemora landsförsamling",
+  "notes": "omkring"
+ },
+ {
+  "pid": 1346,
+  "parish_name": "Hedemora",
+  "year": 1961,
+  "event_type": "incorporated",
+  "other_parish": "Hedemora landsförsamling",
+  "notes": null
+ },
+ {
+  "pid": 1347,
+  "parish_name": null,
+  "year": 1700,
+  "event_type": "split_from",
+  "other_parish": "Hedemora",
+  "notes": "omkring"
+ },
+ {
+  "pid": 1347,
+  "parish_name": null,
+  "year": 1912,
+  "event_type": "incorporated",
+  "other_parish": "Norns bruksförsamling",
+  "notes": null
+ },
+ {
+  "pid": 1347,
+  "parish_name": null,
+  "year": 1961,
+  "event_type": "merged_into",
+  "other_parish": "Hedemora",
+  "notes": null
+ },
+ {
+  "pid": 1353,
+  "parish_name": "Hedvig Eleonora",
+  "year": 1672,
+  "event_type": "split_from",
+  "other_parish": "Holmkyrkan (Skeppsholm)",
+  "notes": "1672-04-17"
+ },
+ {
+  "pid": 1353,
+  "parish_name": "Hedvig Eleonora",
+  "year": 1724,
+  "event_type": "split_off",
+  "other_parish": "Borgerskapets änkhus",
+  "notes": null
+ },
+ {
+  "pid": 1353,
+  "parish_name": "Hedvig Eleonora",
+  "year": 1749,
+  "event_type": "split_off",
+  "other_parish": "Hedvig Eleonora fattighus",
+  "notes": null
+ },
+ {
+  "pid": 1353,
+  "parish_name": "Hedvig Eleonora",
+  "year": 1819,
+  "event_type": "split_off",
+  "other_parish": "Djurgårdens landsförsamling",
+  "notes": null
+ },
+ {
+  "pid": 1353,
+  "parish_name": "Hedvig Eleonora",
+  "year": 1868,
+  "event_type": "incorporated",
+  "other_parish": "Djurgårdens landsförsamling",
+  "notes": "1868-01-01"
+ },
+ {
+  "pid": 1353,
+  "parish_name": "Hedvig Eleonora",
+  "year": 1879,
+  "event_type": "incorporated",
+  "other_parish": "Allmänna institutet å Manilla för dövstumma och blinda",
+  "notes": null
+ },
+ {
+  "pid": 1353,
+  "parish_name": "Hedvig Eleonora",
+  "year": 1906,
+  "event_type": "split_off",
+  "other_parish": "Engelbrekt och Oskar",
+  "notes": "1906-05-01"
+ },
+ {
+  "pid": 1354,
+  "parish_name": null,
+  "year": 1749,
+  "event_type": "split_from",
+  "other_parish": "Hedvig Eleonora",
+  "notes": null
+ },
+ {
+  "pid": 1354,
+  "parish_name": null,
+  "year": 1872,
+  "event_type": "merged_into",
+  "other_parish": "Sabbatsbergs fattighus",
+  "notes": "juni 1872"
+ },
+ {
+  "pid": 1359,
+  "parish_name": "Helga Trefaldighet",
+  "year": 1544,
+  "event_type": "incorporated",
+  "other_parish": "Sankt Per",
+  "notes": null
+ },
+ {
+  "pid": 1359,
+  "parish_name": "Helga Trefaldighet",
+  "year": null,
+  "event_type": "split_off",
+  "other_parish": "Uppsala domkyrkoförsamling",
+  "notes": "därefter (after 1544); text: Uppsala (domkyrko)"
+ },
+ {
+  "pid": 1359,
+  "parish_name": "Helga Trefaldighet",
+  "year": 1974,
+  "event_type": "split_off",
+  "other_parish": "Gottsunda",
+  "notes": "1974-01-01"
+ },
+ {
+  "pid": 1361,
+  "parish_name": null,
+  "year": 1989,
+  "event_type": "merged_into",
+  "other_parish": "Nyköpings Alla Helgona",
+  "notes": "1989-01-01"
+ },
+ {
+  "pid": 1363,
+  "parish_name": null,
+  "year": 1400,
+  "event_type": "formed",
+  "other_parish": null,
+  "notes": "senare delen av 1400-talet"
+ },
+ {
+  "pid": 1364,
+  "parish_name": null,
+  "year": 1989,
+  "event_type": "split_from",
+  "other_parish": "Kalmar",
+  "notes": "1989-01-01"
+ },
+ {
+  "pid": 1368,
+  "parish_name": null,
+  "year": null,
+  "event_type": "other",
+  "other_parish": null,
+  "notes": "läge okänt"
+ },
+ {
+  "pid": 1369,
+  "parish_name": null,
+  "year": 1000,
+  "event_type": "formed",
+  "other_parish": null,
+  "notes": "1000-talets slut"
+ },
+ {
+  "pid": 1369,
+  "parish_name": null,
+  "year": 1536,
+  "event_type": "merged_into",
+  "other_parish": "Lunds domkyrkoförsamling",
+  "notes": null
+ },
+ {
+  "pid": 1373,
+  "parish_name": null,
+  "year": 1883,
+  "event_type": "incorporated",
+  "other_parish": "Ystads garnisonsförsamling och Ängelholms garnisonsförsamling",
+  "notes": "1883-10-01"
+ },
+ {
+  "pid": 1373,
+  "parish_name": null,
+  "year": 1897,
+  "event_type": "merged_into",
+  "other_parish": "Malmö garnisonsförsamling",
+  "notes": null
+ },
+ {
+  "pid": 1374,
+  "parish_name": null,
+  "year": 1927,
+  "event_type": "split_from",
+  "other_parish": "Helsingborg",
+  "notes": "1927-01-01; se Helsingborgs Maria"
+ },
+ {
+  "pid": 1375,
+  "parish_name": "Hälsingborgs landsförsamling",
+  "year": null,
+  "event_type": "other",
+  "other_parish": "Sankt Peter",
+  "notes": "antingen identisk med Sankt Peter"
+ },
+ {
+  "pid": 1375,
+  "parish_name": "Hälsingborgs landsförsamling",
+  "year": 1873,
+  "event_type": "split_from",
+  "other_parish": "Helsingborgs Maria",
+  "notes": "senast 1873-09-26 (alternativ till identitet med Sankt Peter)"
+ },
+ {
+  "pid": 1375,
+  "parish_name": "Hälsingborgs landsförsamling",
+  "year": 1890,
+  "event_type": "other",
+  "other_parish": null,
+  "notes": "ännu 1890 av SCB endast betraktad som kyrkobokföringsområde"
+ },
+ {
+  "pid": 1375,
+  "parish_name": "Hälsingborgs landsförsamling",
+  "year": 1919,
+  "event_type": "merged_into",
+  "other_parish": "Hälsingborgs stadsförsamling",
+  "notes": "1919-01-01; se Helsingborgs Maria"
+ },
+ {
+  "pid": 1376,
+  "parish_name": "Helsingborgs Maria",
+  "year": 1500,
+  "event_type": "incorporated",
+  "other_parish": "Sankt Peter och Sankt Clemens",
+  "notes": "1500-talet; Sankt Peter: se dock ovanstående"
+ },
+ {
+  "pid": 1376,
+  "parish_name": "Helsingborgs Maria",
+  "year": 1873,
+  "event_type": "split_off",
+  "other_parish": "Helsingborgs landsförsamling",
+  "notes": "senast 1873-09-26"
+ },
+ {
+  "pid": 1376,
+  "parish_name": "Helsingborgs Maria",
+  "year": 1919,
+  "event_type": "incorporated",
+  "other_parish": "Helsingborgs landsförsamling",
+  "notes": "1919-01-01"
+ },
+ {
+  "pid": 1376,
+  "parish_name": "Helsingborgs Maria",
+  "year": 1927,
+  "event_type": "split_off",
+  "other_parish": "Helsingborgs Gustav Adolf",
+  "notes": "1927-01-01"
+ },
+ {
+  "pid": 1376,
+  "parish_name": "Helsingborgs Maria",
+  "year": 1977,
+  "event_type": "split_off",
+  "other_parish": "Filborna",
+  "notes": "1977-01-01"
+ },
+ {
+  "pid": 1380,
+  "parish_name": "Hemmesjö med Tegnaby",
+  "year": 1854,
+  "event_type": "incorporated",
+  "other_parish": "Tegnaby",
+  "notes": null
+ },
+ {
+  "pid": 1383,
+  "parish_name": null,
+  "year": 1845,
+  "event_type": "split_from",
+  "other_parish": "Högsjö",
+  "notes": "1845-11-12; som kapellförsamling"
+ },
+ {
+  "pid": 1383,
+  "parish_name": null,
+  "year": 1871,
+  "event_type": "became_annex",
+  "other_parish": null,
+  "notes": "1871-03-17"
+ },
+ {
+  "pid": 1386,
+  "parish_name": null,
+  "year": 1625,
+  "event_type": "split_from",
+  "other_parish": "Dädesjö",
+  "notes": "omkring"
+ },
+ {
+  "pid": 1392,
+  "parish_name": null,
+  "year": 1964,
+  "event_type": "incorporated",
+  "other_parish": "Tarsled",
+  "notes": null
+ },
+ {
+  "pid": 1396,
+  "parish_name": null,
+  "year": 1617,
+  "event_type": "split_from",
+  "other_parish": "Övertorneå",
+  "notes": "1617-10-28; som kapellförsamling"
+ },
+ {
+  "pid": 1396,
+  "parish_name": null,
+  "year": 1637,
+  "event_type": "became_annex",
+  "other_parish": null,
+  "notes": null
+ },
+ {
+  "pid": 1415,
+  "parish_name": "Hjo",
+  "year": 1600,
+  "event_type": "split_off",
+  "other_parish": "Hjo landsförsamling",
+  "notes": "omkring"
+ },
+ {
+  "pid": 1415,
+  "parish_name": "Hjo",
+  "year": 1989,
+  "event_type": "incorporated",
+  "other_parish": "Hjo landsförsamling",
+  "notes": "1989-01-01"
+ },
+ {
+  "pid": 1416,
+  "parish_name": null,
+  "year": 1500,
+  "event_type": "split_from",
+  "other_parish": "Hjo stadsförsamling",
+  "notes": "tidigast 1500-talet; text: Hjo (stadsförsamlingen)"
+ },
+ {
+  "pid": 1416,
+  "parish_name": null,
+  "year": 1989,
+  "event_type": "merged_into",
+  "other_parish": "Hjo",
+  "notes": "1989-01-01"
+ },
+ {
+  "pid": 1420,
+  "parish_name": "Hjortsberga med Kvenneberga",
+  "year": 1957,
+  "event_type": "incorporated",
+  "other_parish": "Kvenneberga",
+  "notes": null
+ },
+ {
+  "pid": 1423,
+  "parish_name": null,
+  "year": 1640,
+  "event_type": "split_from",
+  "other_parish": "Nora bergsförsamling",
+  "notes": "omkring"
+ },
+ {
+  "pid": 1427,
+  "parish_name": null,
+  "year": 1911,
+  "event_type": "split_from",
+  "other_parish": "Torsåker",
+  "notes": "1911-01-01; som (oegentlig) kapellförsamling"
+ },
+ {
+  "pid": 1427,
+  "parish_name": null,
+  "year": 1930,
+  "event_type": "became_annex",
+  "other_parish": null,
+  "notes": "1930-talet"
+ },
+ {
+  "pid": 1431,
+  "parish_name": null,
+  "year": 1925,
+  "event_type": "split_from",
+  "other_parish": "Maria Magdalena",
+  "notes": "1925-01-01"
+ },
+ {
+  "pid": 1432,
+  "parish_name": null,
+  "year": 1852,
+  "event_type": "split_from",
+  "other_parish": "Väsby",
+  "notes": "1852-11-23; som bruksförsamling"
+ },
+ {
+  "pid": 1432,
+  "parish_name": null,
+  "year": 1919,
+  "event_type": "other",
+  "other_parish": null,
+  "notes": "1919-01-01; ej längre bruksförsamling"
+ },
+ {
+  "pid": 1435,
+  "parish_name": null,
+  "year": 1890,
+  "event_type": "incorporated",
+  "other_parish": "Västra Skrukeby",
+  "notes": "1890-01-01"
+ },
+ {
+  "pid": 1439,
+  "parish_name": null,
+  "year": 1646,
+  "event_type": "split_from",
+  "other_parish": "Stavnäs och Arvika",
+  "notes": "som kapellförsamling; text: Stavnäs (och Arvika)"
+ },
+ {
+  "pid": 1439,
+  "parish_name": null,
+  "year": 1830,
+  "event_type": "became_annex",
+  "other_parish": null,
+  "notes": "1830-09-19"
+ },
+ {
+  "pid": 1443,
+  "parish_name": null,
+  "year": 1963,
+  "event_type": "split_from",
+  "other_parish": "Västra Frölunda och Annedal",
+  "notes": "text: Västra Frölunda (och Annedal)"
+ },
+ {
+  "pid": 1444,
+  "parish_name": null,
+  "year": 1732,
+  "event_type": "split_off",
+  "other_parish": "Långemåla",
+  "notes": "1732-07-18"
+ },
+ {
+  "pid": 1444,
+  "parish_name": null,
+  "year": 1880,
+  "event_type": "split_off",
+  "other_parish": "Fågelfors",
+  "notes": "1880-11-05"
+ },
+ {
+  "pid": 1446,
+  "parish_name": null,
+  "year": 1845,
+  "event_type": "split_off",
+  "other_parish": "Hemsö",
+  "notes": "1845-11-12"
+ },
+ {
+  "pid": 1456,
+  "parish_name": null,
+  "year": 1692,
+  "event_type": "formed",
+  "other_parish": null,
+  "notes": null
+ },
+ {
+  "pid": 1456,
+  "parish_name": null,
+  "year": 1839,
+  "event_type": "merged_into",
+  "other_parish": "Tyska Sankta Gertrud",
+  "notes": null
+ },
+ {
+  "pid": 1458,
+  "parish_name": null,
+  "year": 1550,
+  "event_type": "incorporated",
+  "other_parish": "Östanå",
+  "notes": "omkring"
+ },
+ {
+  "pid": 1459,
+  "parish_name": null,
+  "year": 1300,
+  "event_type": "split_from",
+  "other_parish": "Liden",
+  "notes": "senast omkring 1300; som annexförsamling"
+ },
+ {
+  "pid": 1459,
+  "parish_name": null,
+  "year": null,
+  "event_type": "became_kapell",
+  "other_parish": null,
+  "notes": "senare kapellförsamling"
+ },
+ {
+  "pid": 1459,
+  "parish_name": null,
+  "year": 1864,
+  "event_type": "became_annex",
+  "other_parish": null,
+  "notes": "1864-11-18; åter förklarad annexförsamling"
+ },
+ {
+  "pid": 1461,
+  "parish_name": null,
+  "year": null,
+  "event_type": "merged_into",
+  "other_parish": "Lovene",
+  "notes": "mycket tidigt; nu i Karleby"
+ },
+ {
+  "pid": 1466,
+  "parish_name": null,
+  "year": 1802,
+  "event_type": "split_from",
+  "other_parish": "Umeå landsförsamling",
+  "notes": "som kapellförsamling"
+ },
+ {
+  "pid": 1466,
+  "parish_name": null,
+  "year": 1923,
+  "event_type": "became_annex",
+  "other_parish": null,
+  "notes": "1923-08-24"
+ },
+ {
+  "pid": 1467,
+  "parish_name": null,
+  "year": 1863,
+  "event_type": "split_from",
+  "other_parish": "Umeå landsförsamling",
+  "notes": "1863-02-27; som kapellförsamling av vid Holmsunds lastageplats befintlig personal, territoriella gränser då ej fastställda"
+ },
+ {
+  "pid": 1468,
+  "parish_name": null,
+  "year": 1500,
+  "event_type": "incorporated",
+  "other_parish": "Överhölö",
+  "notes": "1500-talet"
+ },
+ {
+  "pid": 1473,
+  "parish_name": null,
+  "year": 1803,
+  "event_type": "merged_into",
+  "other_parish": "Järpås",
+  "notes": null
+ },
+ {
+  "pid": 1478,
+  "parish_name": null,
+  "year": 1904,
+  "event_type": "split_from",
+  "other_parish": "Ljusnarsberg",
+  "notes": "som kapellförsamling (sedan 1892 del av Grängesberg-Hörkens kapellag)"
+ },
+ {
+  "pid": 1478,
+  "parish_name": null,
+  "year": 1927,
+  "event_type": "merged_into",
+  "other_parish": "Ljusnarsberg",
+  "notes": "1927-01-01"
+ },
+ {
+  "pid": 1479,
+  "parish_name": null,
+  "year": 1927,
+  "event_type": "formed",
+  "other_parish": "Ljusnarsberg",
+  "notes": "1927 inofficiellt kbfd inom Ljusnarsbergs församling"
+ },
+ {
+  "pid": 1479,
+  "parish_name": null,
+  "year": 1951,
+  "event_type": "other",
+  "other_parish": "Ljusnarsberg",
+  "notes": "1951-01-01 officiellt kbfd inom Ljusnarsbergs församling"
+ },
+ {
+  "pid": 1484,
+  "parish_name": null,
+  "year": 1989,
+  "event_type": "merged_into",
+  "other_parish": "Broddetorp",
+  "notes": "1989-01-01"
+ },
+ {
+  "pid": 1485,
+  "parish_name": null,
+  "year": 1940,
+  "event_type": "formed",
+  "other_parish": "By",
+  "notes": "1940-01-01; bildat inom By församling (kbfd)"
+ },
+ {
+  "pid": 1486,
+  "parish_name": null,
+  "year": 1913,
+  "event_type": "split_from",
+  "other_parish": "Umeå landsförsamling och Nordmaling",
+  "notes": "1913-05-01; text: Umeå landsförsamling (och Nordmaling)"
+ },
+ {
+  "pid": 1487,
+  "parish_name": null,
+  "year": 1792,
+  "event_type": "split_from",
+  "other_parish": "Umeå landsförsamling",
+  "notes": null
+ },
+ {
+  "pid": 1487,
+  "parish_name": null,
+  "year": 1861,
+  "event_type": "merged_into",
+  "other_parish": "Umeå landsförsamling",
+  "notes": null
+ },
+ {
+  "pid": 1491,
+  "parish_name": "Hörsne med Bara",
+  "year": 1884,
+  "event_type": "incorporated",
+  "other_parish": "Bara",
+  "notes": null
+ },
+ {
+  "pid": 1492,
+  "parish_name": null,
+  "year": 1918,
+  "event_type": "split_from",
+  "other_parish": "Piteå landsförsamling",
+  "notes": "1918-01-01; beslut 1905-03-31 och 1917-09-28"
+ },
+ {
+  "pid": 1495,
+  "parish_name": null,
+  "year": null,
+  "event_type": "formed",
+  "other_parish": "Vika",
+  "notes": "bildat som kapellag under Vika"
+ },
+ {
+  "pid": 1495,
+  "parish_name": null,
+  "year": 1930,
+  "event_type": "became_kapell",
+  "other_parish": null,
+  "notes": null
+ },
+ {
+  "pid": 1495,
+  "parish_name": null,
+  "year": 1940,
+  "event_type": "became_annex",
+  "other_parish": null,
+  "notes": null
+ },
+ {
+  "pid": 1498,
+  "parish_name": null,
+  "year": 1554,
+  "event_type": "incorporated",
+  "other_parish": "Kinnared",
+  "notes": null
+ },
+ {
+  "pid": 1500,
+  "parish_name": "Hotagens lappförsamling",
+  "year": 1746,
+  "event_type": "split_from",
+  "other_parish": "Åsele",
+  "notes": null
+ },
+ {
+  "pid": 1500,
+  "parish_name": "Hotagens lappförsamling",
+  "year": 1750,
+  "event_type": "split_off",
+  "other_parish": "Undersåkers lappförsamling",
+  "notes": "1750-talet"
+ },
+ {
+  "pid": 1500,
+  "parish_name": "Hotagens lappförsamling",
+  "year": 1842,
+  "event_type": "split_off",
+  "other_parish": "Frostvikens lappförsamling",
+  "notes": null
+ },
+ {
+  "pid": 1500,
+  "parish_name": "Hotagens lappförsamling",
+  "year": 1941,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1941-12-31"
+ },
+ {
+  "pid": 1504,
+  "parish_name": "Hova",
+  "year": 1587,
+  "event_type": "transferred",
+  "other_parish": "Tivedsbodarne (Ramundeboda)",
+  "notes": "1587-08-20; överfört del (Finnerödja) till nybildade Tivedsbodarne (Ramundeboda)"
+ },
+ {
+  "pid": 1504,
+  "parish_name": "Hova",
+  "year": 1790,
+  "event_type": "incorporated",
+  "other_parish": "Fagerlid",
+  "notes": "1790-talet"
+ },
+ {
+  "pid": 1506,
+  "parish_name": null,
+  "year": 1546,
+  "event_type": "incorporated",
+  "other_parish": "Östby",
+  "notes": "efter 1546 (text 'efter1 1546')"
+ },
+ {
+  "pid": 1507,
+  "parish_name": null,
+  "year": 1602,
+  "event_type": "formed",
+  "other_parish": null,
+  "notes": null
+ },
+ {
+  "pid": 1507,
+  "parish_name": null,
+  "year": 1694,
+  "event_type": "split_off",
+  "other_parish": "Livbataljonsförsamlingen, Södra bataljonsförsamlingen och Norra bataljonsförsamlingen",
+  "notes": "1694-01-01"
+ },
+ {
+  "pid": 1508,
+  "parish_name": null,
+  "year": 1942,
+  "event_type": "other",
+  "other_parish": null,
+  "notes": "1942-01-01; indelad i två kbfd: Hovmantorps kbfd och Lessebo kbfd"
+ },
+ {
+  "pid": 1508,
+  "parish_name": null,
+  "year": 1961,
+  "event_type": "split_off",
+  "other_parish": "Lessebo",
+  "notes": "1961-01-01; varvid kyrkobokföringsdistrikten upplösts"
+ },
+ {
+  "pid": 1509,
+  "parish_name": null,
+  "year": 1942,
+  "event_type": "formed",
+  "other_parish": "Hovmantorp",
+  "notes": "1942-01-01; bildat inom Hovmantorps församling (kbfd)"
+ },
+ {
+  "pid": 1509,
+  "parish_name": null,
+  "year": 1960,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1960-12-31; vid församlingsdelning"
+ },
+ {
+  "pid": 1513,
+  "parish_name": null,
+  "year": 1974,
+  "event_type": "split_off",
+  "other_parish": "Trångsänd",
+  "notes": "1974-01-01"
+ },
+ {
+  "pid": 1513,
+  "parish_name": null,
+  "year": 1989,
+  "event_type": "split_off",
+  "other_parish": "Flemingsberg och Sankt Mikael",
+  "notes": "1989-01-01"
+ },
+ {
+  "pid": 1516,
+  "parish_name": null,
+  "year": 1582,
+  "event_type": "split_from",
+  "other_parish": "Hälsingtuna",
+  "notes": "1582-02-06; text: Tuna (Hälsingtuna)"
+ },
+ {
+  "pid": 1517,
+  "parish_name": null,
+  "year": 1970,
+  "event_type": "merged_into",
+  "other_parish": "Ny-Huggenäs",
+  "notes": "1970-01-01"
+ },
+ {
+  "pid": 1519,
+  "parish_name": null,
+  "year": null,
+  "event_type": "merged_into",
+  "other_parish": "Gärdhem",
+  "notes": "medeltiden"
+ },
+ {
+  "pid": 1522,
+  "parish_name": null,
+  "year": 1955,
+  "event_type": "split_from",
+  "other_parish": "Vena",
+  "notes": "1955-01-01; motsvarande Hultsfreds kbfd"
+ },
+ {
+  "pid": 1523,
+  "parish_name": null,
+  "year": 1919,
+  "event_type": "formed",
+  "other_parish": "Vena",
+  "notes": "1919-04-16; kyrkobokföringsområde"
+ },
+ {
+  "pid": 1523,
+  "parish_name": null,
+  "year": 1937,
+  "event_type": "other",
+  "other_parish": "Vena",
+  "notes": "1937-01-01; kbfd inom Vena församling"
+ },
+ {
+  "pid": 1523,
+  "parish_name": null,
+  "year": 1954,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1954-12-31; vid församlingsdelning"
+ },
+ {
+  "pid": 1526,
+  "parish_name": null,
+  "year": null,
+  "event_type": "merged_into",
+  "other_parish": "Ausås",
+  "notes": "tidigt"
+ },
+ {
+  "pid": 1527,
+  "parish_name": null,
+  "year": 1909,
+  "event_type": "split_from",
+  "other_parish": "Tossene",
+  "notes": "1909-01-01; som kapellförsamling"
+ },
+ {
+  "pid": 1527,
+  "parish_name": null,
+  "year": 1917,
+  "event_type": "became_annex",
+  "other_parish": null,
+  "notes": "1917-05-01"
+ },
+ {
+  "pid": 1532,
+  "parish_name": null,
+  "year": null,
+  "event_type": "split_from",
+  "other_parish": "Kall",
+  "notes": "year not given"
+ },
+ {
+  "pid": 1532,
+  "parish_name": null,
+  "year": null,
+  "event_type": "merged_into",
+  "other_parish": "Kall",
+  "notes": "year not given"
+ },
+ {
+  "pid": 1541,
+  "parish_name": null,
+  "year": 1909,
+  "event_type": "split_off",
+  "other_parish": "Stjärnsund",
+  "notes": "1909-05-01"
+ },
+ {
+  "pid": 1541,
+  "parish_name": null,
+  "year": 1940,
+  "event_type": "incorporated",
+  "other_parish": "Stjärnsund",
+  "notes": "1940-01-01"
+ },
+ {
+  "pid": 1541,
+  "parish_name": null,
+  "year": 1940,
+  "event_type": "other",
+  "other_parish": null,
+  "notes": "1940-01-01; indelad i två kbfd: Husby kbfd och Stjärnsunds kbfd"
+ },
+ {
+  "pid": 1541,
+  "parish_name": null,
+  "year": 1945,
+  "event_type": "other",
+  "other_parish": "Långshyttans kbfd",
+  "notes": "Långshyttans kbfd utbrutet ur Husby kbfd"
+ },
+ {
+  "pid": 1541,
+  "parish_name": null,
+  "year": 1967,
+  "event_type": "other",
+  "other_parish": "Stjärnsunds kbfd",
+  "notes": "1967-07-01; Stjärnsunds kbfd uppgått i Husby kbfd"
+ },
+ {
+  "pid": 1551,
+  "parish_name": null,
+  "year": 1940,
+  "event_type": "formed",
+  "other_parish": "Husby",
+  "notes": "1940-01-01; bildat inom Husby församling (kbfd)"
+ },
+ {
+  "pid": 1551,
+  "parish_name": null,
+  "year": 1945,
+  "event_type": "split_off",
+  "other_parish": "Långshyttans kbfd",
+  "notes": "1945-01-01"
+ },
+ {
+  "pid": 1551,
+  "parish_name": null,
+  "year": 1967,
+  "event_type": "incorporated",
+  "other_parish": "Stjärnsunds kbfd",
+  "notes": "1967-07-01"
+ },
+ {
+  "pid": 1559,
+  "parish_name": null,
+  "year": 1919,
+  "event_type": "split_from",
+  "other_parish": "Hakarp",
+  "notes": "1919-05-01"
+ },
+ {
+  "pid": 1563,
+  "parish_name": null,
+  "year": 1902,
+  "event_type": "split_off",
+  "other_parish": "Limhamn",
+  "notes": "1902-04-25"
+ },
+ {
+  "pid": 1563,
+  "parish_name": null,
+  "year": 1908,
+  "event_type": "merged_into",
+  "other_parish": "Limhamn",
+  "notes": "1908-05-01"
+ },
+ {
+  "pid": 1563,
+  "parish_name": null,
+  "year": 1969,
+  "event_type": "split_from",
+  "other_parish": "Limhamn",
+  "notes": "1969-01-01; åter utbruten"
+ },
+ {
+  "pid": 1570,
+  "parish_name": null,
+  "year": null,
+  "event_type": "split_from",
+  "other_parish": "Särna",
+  "notes": "year not given"
+ },
+ {
+  "pid": 1570,
+  "parish_name": null,
+  "year": 1645,
+  "event_type": "merged_into",
+  "other_parish": "Älvdalen",
+  "notes": "1645-12-24"
+ },
+ {
+  "pid": 1570,
+  "parish_name": null,
+  "year": 1651,
+  "event_type": "split_from",
+  "other_parish": "Särna",
+  "notes": "efter 1651; åter utbruten (text 'äter'); som kapellförsamling"
+ },
+ {
+  "pid": 1573,
+  "parish_name": null,
+  "year": 1546,
+  "event_type": "merged_into",
+  "other_parish": "Liared och Knätte",
+  "notes": "efter 1546; text: Liared (och Knätte)"
+ },
+ {
+  "pid": 1583,
+  "parish_name": null,
+  "year": 1546,
+  "event_type": "merged_into",
+  "other_parish": "Kölingared",
+  "notes": "efter 1546"
+ },
+ {
+  "pid": 1584,
+  "parish_name": null,
+  "year": 1792,
+  "event_type": "split_from",
+  "other_parish": "Värmdö",
+  "notes": "stundom benämnd kapellförsamling"
+ },
+ {
+  "pid": 1584,
+  "parish_name": null,
+  "year": 1922,
+  "event_type": "became_annex",
+  "other_parish": null,
+  "notes": "1922-04-28; förklarad annexförsamling"
+ },
+ {
+  "pid": 1590,
+  "parish_name": null,
+  "year": 1822,
+  "event_type": "formed",
+  "other_parish": null,
+  "notes": null
+ },
+ {
+  "pid": 1590,
+  "parish_name": null,
+  "year": 1849,
+  "event_type": "merged_into",
+  "other_parish": "Solna",
+  "notes": null
+ },
+ {
+  "pid": 1596,
+  "parish_name": null,
+  "year": 1452,
+  "event_type": "incorporated",
+  "other_parish": "Ölanda",
+  "notes": null
+ },
+ {
+  "pid": 1603,
+  "parish_name": "Jakob",
+  "year": 1643,
+  "event_type": "split_from",
+  "other_parish": "Norrmalm (Klara)",
+  "notes": "1643-11-25"
+ },
+ {
+  "pid": 1603,
+  "parish_name": "Jakob",
+  "year": 1671,
+  "event_type": "split_off",
+  "other_parish": "Brunkebergs- och Kungsbacksförsamlingen",
+  "notes": "1671-11-03 (text 1671-1103); Brunkebergsdelen"
+ },
+ {
+  "pid": 1603,
+  "parish_name": "Jakob",
+  "year": 1674,
+  "event_type": "incorporated",
+  "other_parish": "Brunkebergs- och Kungsbacksförsamlingen",
+  "notes": "1674-03-12; Brunkebergsdelen av denna"
+ },
+ {
+  "pid": 1603,
+  "parish_name": "Jakob",
+  "year": 1907,
+  "event_type": "split_off",
+  "other_parish": "Johannes",
+  "notes": "1907-05-01"
+ },
+ {
+  "pid": 1603,
+  "parish_name": "Jakob",
+  "year": 1989,
+  "event_type": "merged_into",
+  "other_parish": "Stockholms domkyrkoförsamling",
+  "notes": "1989-01-01"
+ },
+ {
+  "pid": 1609,
+  "parish_name": "Jämshög",
+  "year": 1865,
+  "event_type": "split_off",
+  "other_parish": "Kyrkhult",
+  "notes": "1865-05-01"
+ },
+ {
+  "pid": 1609,
+  "parish_name": "Jämshög",
+  "year": 1940,
+  "event_type": "other",
+  "other_parish": null,
+  "notes": "1940-01-01; indelad i två kbfd: Jämshögs kbfd och Olofströms kbfd"
+ },
+ {
+  "pid": 1610,
+  "parish_name": null,
+  "year": 1940,
+  "event_type": "formed",
+  "other_parish": "Jämshög",
+  "notes": "1940-01-01; bildat inom Jämshögs församling (kbfd)"
+ },
+ {
+  "pid": 1611,
+  "parish_name": null,
+  "year": null,
+  "event_type": "merged_into",
+  "other_parish": "Mulseryd",
+  "notes": "medeltiden"
+ },
+ {
+  "pid": 1613,
+  "parish_name": "Järbo",
+  "year": 1862,
+  "event_type": "split_from",
+  "other_parish": "Ovansjö",
+  "notes": "som kapellförsamling"
+ },
+ {
+  "pid": 1615,
+  "parish_name": null,
+  "year": 1950,
+  "event_type": "other",
+  "other_parish": null,
+  "notes": "1950-01-01; indelad i två kbfd: Järfälla norra kbfd och Järfälla södra kbfd"
+ },
+ {
+  "pid": 1615,
+  "parish_name": null,
+  "year": 1967,
+  "event_type": "other",
+  "other_parish": null,
+  "notes": "1967-05-31; kyrkobokföringsdistrikten upplösta"
+ },
+ {
+  "pid": 1616,
+  "parish_name": null,
+  "year": 1950,
+  "event_type": "formed",
+  "other_parish": "Järfälla",
+  "notes": "1950-01-01; bildat inom Järfälla församling (kbfd)"
+ },
+ {
+  "pid": 1616,
+  "parish_name": null,
+  "year": 1967,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1967-05-31"
+ },
+ {
+  "pid": 1617,
+  "parish_name": null,
+  "year": 1950,
+  "event_type": "formed",
+  "other_parish": "Järfälla",
+  "notes": "1950-01-01; bildat inom Järfälla församling (kbfd)"
+ },
+ {
+  "pid": 1617,
+  "parish_name": null,
+  "year": 1967,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1967-05-31"
+ },
+ {
+  "pid": 1621,
+  "parish_name": "Järna",
+  "year": 1938,
+  "event_type": "other",
+  "other_parish": null,
+  "notes": "1938-01-01; indelad i två kbfd: Järna kbfd och Vansbro kbfd"
+ },
+ {
+  "pid": 1622,
+  "parish_name": null,
+  "year": 1938,
+  "event_type": "formed",
+  "other_parish": "Järna",
+  "notes": "1938-01-01; bildat inom Järna församling (kbfd)"
+ },
+ {
+  "pid": 1623,
+  "parish_name": "Järnboås",
+  "year": 1660,
+  "event_type": "split_from",
+  "other_parish": "Nora bergsförsamling",
+  "notes": null
+ },
+ {
+  "pid": 1625,
+  "parish_name": "Järpås",
+  "year": 1546,
+  "event_type": "incorporated",
+  "other_parish": "Kållands-Vedum",
+  "notes": "efter 1546 (slutet av 1500-talet?); text: (Kållands-)Vedum"
+ },
+ {
+  "pid": 1625,
+  "parish_name": "Järpås",
+  "year": 1803,
+  "event_type": "incorporated",
+  "other_parish": "Höra",
+  "notes": null
+ },
+ {
+  "pid": 1631,
+  "parish_name": null,
+  "year": 1500,
+  "event_type": "incorporated",
+  "other_parish": "Västra Jät",
+  "notes": "omkring"
+ },
+ {
+  "pid": 1641,
+  "parish_name": null,
+  "year": 1907,
+  "event_type": "split_from",
+  "other_parish": "Jakob och Johannes",
+  "notes": "1907-05-01; se Jakob"
+ },
+ {
+  "pid": 1645,
+  "parish_name": null,
+  "year": 1607,
+  "event_type": "split_from",
+  "other_parish": "Luleå",
+  "notes": null
+ },
+ {
+  "pid": 1645,
+  "parish_name": null,
+  "year": 1696,
+  "event_type": "split_off",
+  "other_parish": "Kvikkjokk",
+  "notes": "1696-01-05"
+ },
+ {
+  "pid": 1645,
+  "parish_name": null,
+  "year": 1742,
+  "event_type": "split_off",
+  "other_parish": "Gällivare",
+  "notes": "1742-10-11"
+ },
+ {
+  "pid": 1645,
+  "parish_name": null,
+  "year": 1923,
+  "event_type": "incorporated",
+  "other_parish": "Kvikkjokk",
+  "notes": "1923-05-01"
+ },
+ {
+  "pid": 1645,
+  "parish_name": null,
+  "year": 1923,
+  "event_type": "other",
+  "other_parish": null,
+  "notes": "1923-05-01; indelad i fyra kbfd: Jokkmokks kbfd, Kvikkjokks kbfd, Porjus kbfd och Puottaure kbfd"
+ },
+ {
+  "pid": 1645,
+  "parish_name": null,
+  "year": 1959,
+  "event_type": "other",
+  "other_parish": "Vuollerims kbfd",
+  "notes": "1959-11-01; Vuollerims kbfd utbrutet ur Jokkmokks (och Puottaure) kbfd"
+ },
+ {
+  "pid": 1645,
+  "parish_name": null,
+  "year": 1962,
+  "event_type": "split_off",
+  "other_parish": "Porjus och Vuollerim",
+  "notes": "1962-01-01; varvid motsvarande kbfd upplösts"
+ },
+ {
+  "pid": 1645,
+  "parish_name": null,
+  "year": 1975,
+  "event_type": "other",
+  "other_parish": null,
+  "notes": "1975-12-31; återstående kbfd upplösta"
+ },
+ {
+  "pid": 1646,
+  "parish_name": null,
+  "year": 1923,
+  "event_type": "formed",
+  "other_parish": "Jokkmokk",
+  "notes": "1923-05-01; bildat inom Jokkmokks församling (kbfd)"
+ },
+ {
+  "pid": 1646,
+  "parish_name": null,
+  "year": 1959,
+  "event_type": "split_off",
+  "other_parish": "Vuollerims kbfd",
+  "notes": "1959-11-01"
+ },
+ {
+  "pid": 1646,
+  "parish_name": null,
+  "year": 1975,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1975-12-31"
+ },
+ {
+  "pid": 1649,
+  "parish_name": null,
+  "year": 1769,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": null
+ },
+ {
+  "pid": 1650,
+  "parish_name": "Jönköpings Kristina",
+  "year": 1600,
+  "event_type": "split_off",
+  "other_parish": "Jönköpings slottsförsamling (Jönköpings Sofia)",
+  "notes": "omkring"
+ },
+ {
+  "pid": 1653,
+  "parish_name": "Jönköpings Sofia",
+  "year": 1600,
+  "event_type": "split_from",
+  "other_parish": "Jönköping (Jönköpings Kristina)",
+  "notes": "omkring"
+ },
+ {
+  "pid": 1656,
+  "parish_name": null,
+  "year": 1500,
+  "event_type": "split_from",
+  "other_parish": "Häradshammar",
+  "notes": "1500-talet; som kapellförsamling"
+ },
+ {
+  "pid": 1656,
+  "parish_name": null,
+  "year": 1720,
+  "event_type": "became_annex",
+  "other_parish": null,
+  "notes": "omkring"
+ },
+ {
+  "pid": 1657,
+  "parish_name": null,
+  "year": 1864,
+  "event_type": "split_from",
+  "other_parish": "Partille",
+  "notes": "som inofficiell bruksförsamling"
+ },
+ {
+  "pid": 1657,
+  "parish_name": null,
+  "year": 1945,
+  "event_type": "other",
+  "other_parish": null,
+  "notes": "1945-01-01; ändrat till kbfd"
+ },
+ {
+  "pid": 1660,
+  "parish_name": null,
+  "year": 1834,
+  "event_type": "formed",
+  "other_parish": "Norsjö",
+  "notes": "beslut 1823-10-08 och 1832-12-08; bildad som kapellag i Norsjö"
+ },
+ {
+  "pid": 1660,
+  "parish_name": null,
+  "year": 1926,
+  "event_type": "other",
+  "other_parish": null,
+  "notes": "1926-01-01; indelad i två kbfd: Jörns västra kbfd och Jörns östra kbfd"
+ },
+ {
+  "pid": 1660,
+  "parish_name": null,
+  "year": 1941,
+  "event_type": "other",
+  "other_parish": null,
+  "notes": "1941-12-31; kyrkobokföringsdistrikten upplösta"
+ },
+ {
+  "pid": 1661,
+  "parish_name": null,
+  "year": 1926,
+  "event_type": "formed",
+  "other_parish": "Jörn",
+  "notes": "1926-01-01; bildat inom Jörns församling (kbfd)"
+ },
+ {
+  "pid": 1661,
+  "parish_name": null,
+  "year": 1941,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1941-12-31"
+ },
+ {
+  "pid": 1662,
+  "parish_name": null,
+  "year": 1926,
+  "event_type": "formed",
+  "other_parish": "Jörn",
+  "notes": "1926-01-01; bildat inom Jörns församling (kbfd)"
+ },
+ {
+  "pid": 1662,
+  "parish_name": null,
+  "year": 1941,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1941-12-31"
+ },
+ {
+  "pid": 1665,
+  "parish_name": "Jukkasjärvi",
+  "year": 1606,
+  "event_type": "split_from",
+  "other_parish": "Enontekis",
+  "notes": "1606-10-20; som kapellförsamling"
+ },
+ {
+  "pid": 1665,
+  "parish_name": "Jukkasjärvi",
+  "year": 1913,
+  "event_type": "split_off",
+  "other_parish": "Vittangi",
+  "notes": "1913-01-01"
+ },
+ {
+  "pid": 1670,
+  "parish_name": null,
+  "year": 1914,
+  "event_type": "split_from",
+  "other_parish": "Pajala",
+  "notes": "1914-01-01"
+ },
+ {
+  "pid": 1671,
+  "parish_name": null,
+  "year": 1830,
+  "event_type": "other",
+  "other_parish": null,
+  "notes": "före 1830 stundom benämnd kapellförsamling"
+ },
+ {
+  "pid": 1673,
+  "parish_name": null,
+  "year": 1792,
+  "event_type": "formed",
+  "other_parish": null,
+  "notes": null
+ },
+ {
+  "pid": 1673,
+  "parish_name": null,
+  "year": 1875,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": null
+ },
+ {
+  "pid": 1675,
+  "parish_name": null,
+  "year": 1933,
+  "event_type": "split_from",
+  "other_parish": "Skellefteå landsförsamling",
+  "notes": "1933-01-01; beslut 1916-12-01 och 1932-08-30"
+ },
+ {
+  "pid": 1679,
+  "parish_name": null,
+  "year": null,
+  "event_type": "split_off",
+  "other_parish": "Huså bruks kapellförsamling",
+  "notes": "year not given"
+ },
+ {
+  "pid": 1679,
+  "parish_name": null,
+  "year": null,
+  "event_type": "incorporated",
+  "other_parish": "Huså bruks kapellförsamling",
+  "notes": "year not given"
+ },
+ {
+  "pid": 1688,
+  "parish_name": "Kallinge kbfd",
+  "year": 1921,
+  "event_type": "formed",
+  "other_parish": "Ronneby",
+  "notes": "1921-07-09; bildat inom Ronneby församling"
+ },
+ {
+  "pid": 1689,
+  "parish_name": "Källna",
+  "year": 1977,
+  "event_type": "merged_into",
+  "other_parish": "Östra Ljungby",
+  "notes": "1977-01-01"
+ },
+ {
+  "pid": 1693,
+  "parish_name": null,
+  "year": null,
+  "event_type": "merged_into",
+  "other_parish": "Svalöv",
+  "notes": "medeltiden"
+ },
+ {
+  "pid": 1699,
+  "parish_name": "Kalmar domkyrkoförsamling",
+  "year": 1500,
+  "event_type": "incorporated",
+  "other_parish": "Sankta Birgitta",
+  "notes": "1500-talet"
+ },
+ {
+  "pid": 1699,
+  "parish_name": "Kalmar domkyrkoförsamling",
+  "year": 1580,
+  "event_type": "split_off",
+  "other_parish": "Kalmar slottsförsamling",
+  "notes": "omkring"
+ },
+ {
+  "pid": 1699,
+  "parish_name": "Kalmar domkyrkoförsamling",
+  "year": 1884,
+  "event_type": "incorporated",
+  "other_parish": "Kalmar slottsförsamling",
+  "notes": "1884-02-01"
+ },
+ {
+  "pid": 1699,
+  "parish_name": "Kalmar domkyrkoförsamling",
+  "year": 1925,
+  "event_type": "incorporated",
+  "other_parish": "Kalmar landsförsamling",
+  "notes": "1925-01-01"
+ },
+ {
+  "pid": 1699,
+  "parish_name": "Kalmar domkyrkoförsamling",
+  "year": 1989,
+  "event_type": "split_off",
+  "other_parish": "Kalmar Sankt Johannes, Heliga korset, Sankta Birgitta och Två systrar",
+  "notes": "1989-01-01"
+ },
+ {
+  "pid": 1700,
+  "parish_name": null,
+  "year": 1925,
+  "event_type": "merged_into",
+  "other_parish": "Kalmar",
+  "notes": "1925-01-01"
+ },
+ {
+  "pid": 1701,
+  "parish_name": null,
+  "year": 1888,
+  "event_type": "formed",
+  "other_parish": null,
+  "notes": null
+ },
+ {
+  "pid": 1701,
+  "parish_name": null,
+  "year": 1898,
+  "event_type": "split_off",
+  "other_parish": "Växjö mosaiska",
+  "notes": null
+ },
+ {
+  "pid": 1702,
+  "parish_name": null,
+  "year": 1989,
+  "event_type": "split_from",
+  "other_parish": "Kalmar",
+  "notes": "1989-01-01"
+ },
+ {
+  "pid": 1703,
+  "parish_name": null,
+  "year": 1580,
+  "event_type": "split_from",
+  "other_parish": "Kalmar stadsförsamling",
+  "notes": "omkring; text: Kalmar (stadsförsamling)"
+ },
+ {
+  "pid": 1703,
+  "parish_name": null,
+  "year": 1884,
+  "event_type": "merged_into",
+  "other_parish": "Kalmar stadsförsamling",
+  "notes": "1884-02-01"
+ },
+ {
+  "pid": 1705,
+  "parish_name": null,
+  "year": 1628,
+  "event_type": "formed",
+  "other_parish": null,
+  "notes": null
+ },
+ {
+  "pid": 1705,
+  "parish_name": null,
+  "year": 1652,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1652-03-19"
+ },
+ {
+  "pid": 1710,
+  "parish_name": null,
+  "year": 1919,
+  "event_type": "split_from",
+  "other_parish": "Burträsk",
+  "notes": "1919-05-01"
+ },
+ {
+  "pid": 1711,
+  "parish_name": null,
+  "year": 1754,
+  "event_type": "formed",
+  "other_parish": null,
+  "notes": null
+ },
+ {
+  "pid": 1711,
+  "parish_name": null,
+  "year": 1759,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": null
+ },
+ {
+  "pid": 1713,
+  "parish_name": null,
+  "year": 1632,
+  "event_type": "merged_into",
+  "other_parish": "Räng",
+  "notes": "1632 eller strax därefter"
+ },
+ {
+  "pid": 1718,
+  "parish_name": null,
+  "year": 1686,
+  "event_type": "split_from",
+  "other_parish": "Västerfärnebo",
+  "notes": null
+ },
+ {
+  "pid": 1719,
+  "parish_name": null,
+  "year": 1923,
+  "event_type": "split_from",
+  "other_parish": "Färila",
+  "notes": "1923-01-01; som församling, förut kapellag i Färila"
+ },
+ {
+  "pid": 1722,
+  "parish_name": "Karesuando",
+  "year": 1813,
+  "event_type": "split_from",
+  "other_parish": "Enontekis",
+  "notes": "text '181-3', read as 1813; Enontekis i Finland"
+ },
+ {
+  "pid": 1723,
+  "parish_name": null,
+  "year": 1795,
+  "event_type": "split_from",
+  "other_parish": "Morlanda",
+  "notes": "1795-11-19; som kapellförsamling"
+ },
+ {
+  "pid": 1723,
+  "parish_name": null,
+  "year": 1923,
+  "event_type": "became_annex",
+  "other_parish": null,
+  "notes": "1923-01-26"
+ },
+ {
+  "pid": 1726,
+  "parish_name": null,
+  "year": 1540,
+  "event_type": "incorporated",
+  "other_parish": "Lovene",
+  "notes": null
+ },
+ {
+  "pid": 1726,
+  "parish_name": null,
+  "year": 1545,
+  "event_type": "incorporated",
+  "other_parish": "Leaby",
+  "notes": "omkring"
+ },
+ {
+  "pid": 1729,
+  "parish_name": "Karl Gustav",
+  "year": 1745,
+  "event_type": "split_from",
+  "other_parish": "Nedertorneå",
+  "notes": "som kapellag"
+ },
+ {
+  "pid": 1729,
+  "parish_name": "Karl Gustav",
+  "year": 1809,
+  "event_type": "split_off",
+  "other_parish": "Karungi",
+  "notes": "Karungi i Finland"
+ },
+ {
+  "pid": 1731,
+  "parish_name": null,
+  "year": 1885,
+  "event_type": "split_from",
+  "other_parish": "Mölltorp och Undenäs",
+  "notes": "text: Mölltorp (och Undenäs)"
+ },
+ {
+  "pid": 1731,
+  "parish_name": null,
+  "year": 1960,
+  "event_type": "incorporated",
+  "other_parish": "Karlsborgs garnisonsförsamling",
+  "notes": "1960-01-01"
+ },
+ {
+  "pid": 1732,
+  "parish_name": "Karlsborgs garnisonsförsamling",
+  "year": 1831,
+  "event_type": "split_from",
+  "other_parish": "Mölltorp och Ransberg",
+  "notes": "1831-08-06"
+ },
+ {
+  "pid": 1732,
+  "parish_name": "Karlsborgs garnisonsförsamling",
+  "year": 1894,
+  "event_type": "split_off",
+  "other_parish": "Vendes trängbataljon",
+  "notes": null
+ },
+ {
+  "pid": 1732,
+  "parish_name": "Karlsborgs garnisonsförsamling",
+  "year": 1960,
+  "event_type": "merged_into",
+  "other_parish": "Karlsborg",
+  "notes": "1960-01-01"
+ },
+ {
+  "pid": 1733,
+  "parish_name": null,
+  "year": 1753,
+  "event_type": "split_from",
+  "other_parish": "Karlskoga",
+  "notes": null
+ },
+ {
+  "pid": 1733,
+  "parish_name": null,
+  "year": 1922,
+  "event_type": "merged_into",
+  "other_parish": "Karlskoga",
+  "notes": "1922-03-17"
+ },
+ {
+  "pid": 1734,
+  "parish_name": null,
+  "year": 1664,
+  "event_type": "split_from",
+  "other_parish": "Asarum",
+  "notes": null
+ },
+ {
+  "pid": 1734,
+  "parish_name": null,
+  "year": 1865,
+  "event_type": "incorporated",
+  "other_parish": "Frisholmens kastellförsamling",
+  "notes": null
+ },
+ {
+  "pid": 1736,
+  "parish_name": "Karlskoga",
+  "year": 1583,
+  "event_type": "split_from",
+  "other_parish": "Knista",
+  "notes": null
+ },
+ {
+  "pid": 1736,
+  "parish_name": "Karlskoga",
+  "year": 1630,
+  "event_type": "split_off",
+  "other_parish": "Bjurtjärn",
+  "notes": null
+ },
+ {
+  "pid": 1736,
+  "parish_name": "Karlskoga",
+  "year": 1753,
+  "event_type": "split_off",
+  "other_parish": "Karlsdal",
+  "notes": null
+ },
+ {
+  "pid": 1736,
+  "parish_name": "Karlskoga",
+  "year": 1883,
+  "event_type": "split_off",
+  "other_parish": "Degerfors",
+  "notes": null
+ },
+ {
+  "pid": 1736,
+  "parish_name": "Karlskoga",
+  "year": 1922,
+  "event_type": "incorporated",
+  "other_parish": "Karlsdal",
+  "notes": "1922-03-17"
+ },
+ {
+  "pid": 1737,
+  "parish_name": "Kungliga Karlskrona Amiralitetsförsamling",
+  "year": 1681,
+  "event_type": "formed",
+  "other_parish": null,
+  "notes": null
+ },
+ {
+  "pid": 1738,
+  "parish_name": null,
+  "year": 1808,
+  "event_type": "formed",
+  "other_parish": null,
+  "notes": null
+ },
+ {
+  "pid": 1738,
+  "parish_name": null,
+  "year": 1866,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1866-07-04"
+ },
+ {
+  "pid": 1740,
+  "parish_name": null,
+  "year": 1855,
+  "event_type": "other",
+  "other_parish": null,
+  "notes": "fanns 1855"
+ },
+ {
+  "pid": 1741,
+  "parish_name": "Karlskrona stadsförsamling",
+  "year": 1680,
+  "event_type": "split_from",
+  "other_parish": "Augerum",
+  "notes": "1680-08-10"
+ },
+ {
+  "pid": 1741,
+  "parish_name": "Karlskrona stadsförsamling",
+  "year": 1846,
+  "event_type": "incorporated",
+  "other_parish": "Karlskrona tyska",
+  "notes": "1846-11-01; beslut 1838-07-13 och 1839-06-21"
+ },
+ {
+  "pid": 1741,
+  "parish_name": "Karlskrona stadsförsamling",
+  "year": 1964,
+  "event_type": "incorporated",
+  "other_parish": "Tjurkö",
+  "notes": "1964-01-01"
+ },
+ {
+  "pid": 1743,
+  "parish_name": null,
+  "year": 1680,
+  "event_type": "split_from",
+  "other_parish": "Augerum",
+  "notes": "1680-08-10"
+ },
+ {
+  "pid": 1743,
+  "parish_name": null,
+  "year": 1846,
+  "event_type": "merged_into",
+  "other_parish": "Karlskrona stadsförsamling",
+  "notes": "1846-11-01; beslut 1838-07-13 och 1839-06-21"
+ },
+ {
+  "pid": 1744,
+  "parish_name": null,
+  "year": 1796,
+  "event_type": "merged_into",
+  "other_parish": "Söderby-Karl",
+  "notes": "1796-12-20"
+ },
+ {
+  "pid": 1746,
+  "parish_name": "Karlslunda",
+  "year": 1650,
+  "event_type": "split_from",
+  "other_parish": "Arby",
+  "notes": "1650-talet; som kapellförsamling"
+ },
+ {
+  "pid": 1746,
+  "parish_name": "Karlslunda",
+  "year": 1873,
+  "event_type": "became_annex",
+  "other_parish": null,
+  "notes": "1873-05-01; beslut 1868-11-06"
+ },
+ {
+  "pid": 1748,
+  "parish_name": "Karlstads domkyrkoförsamling",
+  "year": 1584,
+  "event_type": "split_from",
+  "other_parish": "Tingvalla (Karlstads landsförsamling)",
+  "notes": "1584-03-05"
+ },
+ {
+  "pid": 1748,
+  "parish_name": "Karlstads domkyrkoförsamling",
+  "year": 1934,
+  "event_type": "incorporated",
+  "other_parish": "Karlstads landsförsamling",
+  "notes": "1934-01-01"
+ },
+ {
+  "pid": 1748,
+  "parish_name": "Karlstads domkyrkoförsamling",
+  "year": 1962,
+  "event_type": "split_off",
+  "other_parish": "Norrstrand",
+  "notes": "1962-01-01"
+ },
+ {
+  "pid": 1749,
+  "parish_name": "Karlstads landsförsamling",
+  "year": 1584,
+  "event_type": "split_off",
+  "other_parish": "Karlstads stadsförsamling",
+  "notes": null
+ },
+ {
+  "pid": 1749,
+  "parish_name": "Karlstads landsförsamling",
+  "year": 1934,
+  "event_type": "merged_into",
+  "other_parish": "Karlstad (domkyrkoförsamlingen)",
+  "notes": "1934-01-01"
+ },
+ {
+  "pid": 1751,
+  "parish_name": null,
+  "year": 1682,
+  "event_type": "split_from",
+  "other_parish": "Marstrand",
+  "notes": null
+ },
+ {
+  "pid": 1751,
+  "parish_name": null,
+  "year": 1883,
+  "event_type": "merged_into",
+  "other_parish": "Marstrand",
+  "notes": "1883-01-01"
+ },
+ {
+  "pid": 1754,
+  "parish_name": "Kärnbo",
+  "year": 1605,
+  "event_type": "split_off",
+  "other_parish": "Mariefred",
+  "notes": null
+ },
+ {
+  "pid": 1754,
+  "parish_name": "Kärnbo",
+  "year": 1967,
+  "event_type": "merged_into",
+  "other_parish": "Mariefred",
+  "notes": "1967-01-01"
+ },
+ {
+  "pid": 1757,
+  "parish_name": null,
+  "year": 1540,
+  "event_type": "incorporated",
+  "other_parish": "Döve",
+  "notes": "före 1540; del av Döve (delen 1883 överförd till Börstig)"
+ },
+ {
+  "pid": 1757,
+  "parish_name": null,
+  "year": 1883,
+  "event_type": "transferred",
+  "other_parish": "Börstig",
+  "notes": "delen av Döve överförd till Börstig"
+ },
+ {
+  "pid": 1759,
+  "parish_name": null,
+  "year": null,
+  "event_type": "merged_into",
+  "other_parish": "Kvidinge",
+  "notes": "tidigt"
+ },
+ {
+  "pid": 1767,
+  "parish_name": "Katarina",
+  "year": 1654,
+  "event_type": "split_from",
+  "other_parish": "Maria Magdalena",
+  "notes": null
+ },
+ {
+  "pid": 1767,
+  "parish_name": "Katarina",
+  "year": 1859,
+  "event_type": "split_off",
+  "other_parish": "Allmänna arbetsinrättningen",
+  "notes": null
+ },
+ {
+  "pid": 1767,
+  "parish_name": "Katarina",
+  "year": 1887,
+  "event_type": "incorporated",
+  "other_parish": "Danviks hospital",
+  "notes": "1887-05-01"
+ },
+ {
+  "pid": 1767,
+  "parish_name": "Katarina",
+  "year": 1889,
+  "event_type": "incorporated",
+  "other_parish": "Allmänna arbetsinrättningen",
+  "notes": null
+ },
+ {
+  "pid": 1767,
+  "parish_name": "Katarina",
+  "year": 1917,
+  "event_type": "split_off",
+  "other_parish": "Sofia",
+  "notes": "1917-05-01"
+ },
+ {
+  "pid": 1768,
+  "parish_name": null,
+  "year": 1867,
+  "event_type": "split_from",
+  "other_parish": "Bollnäs och Hanebo",
+  "notes": "1867 ansedd som kapellförsamling; text: Bollnäs (och Hanebo)"
+ },
+ {
+  "pid": 1768,
+  "parish_name": null,
+  "year": 1922,
+  "event_type": "other",
+  "other_parish": null,
+  "notes": "1922-04-21 enligt KBr ej kapellförsamling"
+ },
+ {
+  "pid": 1768,
+  "parish_name": null,
+  "year": 1971,
+  "event_type": "other",
+  "other_parish": "Bollnäs",
+  "notes": "till 1971-12-31 särskild kyrkobokföring inom Bollnäs församling"
+ },
+ {
+  "pid": 1769,
+  "parish_name": null,
+  "year": 1961,
+  "event_type": "split_from",
+  "other_parish": "Stora Malm",
+  "notes": "1961-01-01"
+ },
+ {
+  "pid": 1774,
+  "parish_name": null,
+  "year": 1959,
+  "event_type": "merged_into",
+  "other_parish": "Frustuna-Kattnäs",
+  "notes": null
+ },
+ {
+  "pid": 1775,
+  "parish_name": null,
+  "year": 1926,
+  "event_type": "merged_into",
+  "other_parish": "Surteby-Kattunga",
+  "notes": "1926-01-01"
+ },
+ {
+  "pid": 1776,
+  "parish_name": null,
+  "year": 1948,
+  "event_type": "formed",
+  "other_parish": "Pajala",
+  "notes": "1948-01-01; bildat inom Pajala församling (kbfd)"
+ },
+ {
+  "pid": 1776,
+  "parish_name": null,
+  "year": 1970,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1970-12-31"
+ },
+ {
+  "pid": 1781,
+  "parish_name": null,
+  "year": 1655,
+  "event_type": "split_from",
+  "other_parish": "Övertorneå",
+  "notes": null
+ },
+ {
+  "pid": 1781,
+  "parish_name": null,
+  "year": 1837,
+  "event_type": "merged_into",
+  "other_parish": "Pajala",
+  "notes": "1837-01-01"
+ },
+ {
+  "pid": 1783,
+  "parish_name": null,
+  "year": 1635,
+  "event_type": "incorporated",
+  "other_parish": "Bäckaskog",
+  "notes": "omkring"
+ },
+ {
+  "pid": 1795,
+  "parish_name": null,
+  "year": 1554,
+  "event_type": "merged_into",
+  "other_parish": "Hössna",
+  "notes": null
+ },
+ {
+  "pid": 1800,
+  "parish_name": null,
+  "year": 1949,
+  "event_type": "split_from",
+  "other_parish": "Malmö Sankt Pauli, Malmö Karoli och Västra Skrävlinge",
+  "notes": "1949-01-01; text: Malmö Sankt Pauli (samt Malmö Karoli och Västra Skrävlinge)"
+ },
+ {
+  "pid": 1803,
+  "parish_name": null,
+  "year": 1980,
+  "event_type": "split_from",
+  "other_parish": "Spånga",
+  "notes": "1980-01-01; motsvarande Kista kbfd"
+ },
+ {
+  "pid": 1804,
+  "parish_name": null,
+  "year": 1976,
+  "event_type": "formed",
+  "other_parish": "Spånga",
+  "notes": "1976-01-01; bildat inom Spånga församling (kbfd)"
+ },
+ {
+  "pid": 1804,
+  "parish_name": null,
+  "year": 1979,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1979-12-31; vid församlingsdelning"
+ },
+ {
+  "pid": 1808,
+  "parish_name": null,
+  "year": 1794,
+  "event_type": "split_from",
+  "other_parish": "Stenkyrka",
+  "notes": "som kapellförsamling"
+ },
+ {
+  "pid": 1808,
+  "parish_name": null,
+  "year": 1920,
+  "event_type": "became_annex",
+  "other_parish": null,
+  "notes": "1920-05-01"
+ },
+ {
+  "pid": 1812,
+  "parish_name": "Klara",
+  "year": 1587,
+  "event_type": "split_from",
+  "other_parish": "Storkyrkoförsamlingen",
+  "notes": null
+ },
+ {
+  "pid": 1812,
+  "parish_name": "Klara",
+  "year": 1643,
+  "event_type": "split_off",
+  "other_parish": "Jakob",
+  "notes": "1643-11-25"
+ },
+ {
+  "pid": 1812,
+  "parish_name": "Klara",
+  "year": 1671,
+  "event_type": "split_off",
+  "other_parish": "Kungsholm",
+  "notes": "1671-03-22"
+ },
+ {
+  "pid": 1812,
+  "parish_name": "Klara",
+  "year": 1671,
+  "event_type": "transferred",
+  "other_parish": "Brunkebergs- och Kungsbacksförsamlingen",
+  "notes": "1671-11-03; del till Brunkebergs- och Kungsbacksförsamlingen"
+ },
+ {
+  "pid": 1812,
+  "parish_name": "Klara",
+  "year": 1675,
+  "event_type": "split_off",
+  "other_parish": "Sankt Olof (Adolf Fredrik)",
+  "notes": null
+ },
+ {
+  "pid": 1812,
+  "parish_name": "Klara",
+  "year": 1867,
+  "event_type": "split_off",
+  "other_parish": "Frimurarebarnhuset",
+  "notes": null
+ },
+ {
+  "pid": 1812,
+  "parish_name": "Klara",
+  "year": 1989,
+  "event_type": "merged_into",
+  "other_parish": "Stockholms domkyrkoförsamling",
+  "notes": "1989-01-01 (text 1.989-01-01)"
+ },
+ {
+  "pid": 1814,
+  "parish_name": null,
+  "year": 1550,
+  "event_type": "merged_into",
+  "other_parish": "Sankt Per",
+  "notes": "omkring"
+ },
+ {
+  "pid": 1826,
+  "parish_name": null,
+  "year": 1500,
+  "event_type": "split_from",
+  "other_parish": "Berg",
+  "notes": "1500-talet"
+ },
+ {
+  "pid": 1829,
+  "parish_name": null,
+  "year": 1546,
+  "event_type": "incorporated",
+  "other_parish": "Igelsred",
+  "notes": "efter 1546; del av Igelsred"
+ },
+ {
+  "pid": 1831,
+  "parish_name": null,
+  "year": 1583,
+  "event_type": "split_off",
+  "other_parish": "Möckelsbodar (Karlskoga)",
+  "notes": null
+ },
+ {
+  "pid": 1838,
+  "parish_name": null,
+  "year": 1546,
+  "event_type": "incorporated",
+  "other_parish": "Ingared",
+  "notes": "efter 1546"
+ },
+ {
+  "pid": 1840,
+  "parish_name": "Kolsva",
+  "year": 1943,
+  "event_type": "incorporated",
+  "other_parish": "Malma",
+  "notes": "1943-01-01"
+ },
+ {
+  "pid": 1840,
+  "parish_name": "Kolsva",
+  "year": 1943,
+  "event_type": "other",
+  "other_parish": null,
+  "notes": "1943-01-01; indelad i två kbfd: Bro-Malma norra kbfd och Bro-Malma södra kbfd (ej lika med de tidigare församlingarna)"
+ },
+ {
+  "pid": 1840,
+  "parish_name": "Kolsva",
+  "year": 1961,
+  "event_type": "other",
+  "other_parish": null,
+  "notes": "1961-12-31; kyrkobokföringsdistrikten upplösta"
+ },
+ {
+  "pid": 1841,
+  "parish_name": "Kolsva norra kbfd",
+  "year": 1943,
+  "event_type": "formed",
+  "other_parish": "Bro-Malma (Kolsva)",
+  "notes": "1943-01-01; bildat inom Bro-Malma (Kolsva) församling"
+ },
+ {
+  "pid": 1841,
+  "parish_name": "Kolsva norra kbfd",
+  "year": 1961,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1961-12-31"
+ },
+ {
+  "pid": 1842,
+  "parish_name": "Kolsva södra kbfd",
+  "year": 1943,
+  "event_type": "formed",
+  "other_parish": "Bro-Malma (Kolsva)",
+  "notes": "1943-01-01; bildat inom Bro-Malma (Kolsva) församling"
+ },
+ {
+  "pid": 1842,
+  "parish_name": "Kolsva södra kbfd",
+  "year": 1961,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1961-12-31 (text 1961-1.2-31)"
+ },
+ {
+  "pid": 1847,
+  "parish_name": null,
+  "year": 1220,
+  "event_type": "formed",
+  "other_parish": null,
+  "notes": "omkring"
+ },
+ {
+  "pid": 1848,
+  "parish_name": null,
+  "year": null,
+  "event_type": "other",
+  "other_parish": "Konungsund",
+  "notes": "särskild kyrkobokföring inom Konungsunds församling"
+ },
+ {
+  "pid": 1848,
+  "parish_name": null,
+  "year": 1885,
+  "event_type": "merged_into",
+  "other_parish": "Krokek",
+  "notes": "1885-05-01; beslut 1857-03-31"
+ },
+ {
+  "pid": 1849,
+  "parish_name": "Köping",
+  "year": 1920,
+  "event_type": "incorporated",
+  "other_parish": "Köpings landsförsamling",
+  "notes": "1920-01-01"
+ },
+ {
+  "pid": 1854,
+  "parish_name": null,
+  "year": 1920,
+  "event_type": "merged_into",
+  "other_parish": "Köping",
+  "notes": "1920-01-01"
+ },
+ {
+  "pid": 1858,
+  "parish_name": null,
+  "year": 1856,
+  "event_type": "split_from",
+  "other_parish": "Övertorneå",
+  "notes": "1856-06-20; som kapellförsamling"
+ },
+ {
+  "pid": 1863,
+  "parish_name": null,
+  "year": 1960,
+  "event_type": "split_from",
+  "other_parish": "Göteborgs Gamlestad",
+  "notes": "se Nylöse; motsvarande Kortedala kbfd"
+ },
+ {
+  "pid": 1864,
+  "parish_name": null,
+  "year": 1955,
+  "event_type": "split_from",
+  "other_parish": "Nylöse kbfd",
+  "notes": "inom Göteborgs Gamlestads församling (se Nylöse) (kbfd)"
+ },
+ {
+  "pid": 1864,
+  "parish_name": null,
+  "year": 1959,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1959-12-31; vid församlingsdelning"
+ },
+ {
+  "pid": 1870,
+  "parish_name": null,
+  "year": null,
+  "event_type": "became_kapell",
+  "other_parish": null,
+  "notes": "förr kapellförsamling"
+ },
+ {
+  "pid": 1870,
+  "parish_name": null,
+  "year": 1612,
+  "event_type": "became_annex",
+  "other_parish": null,
+  "notes": "förklarad annexförsamling"
+ },
+ {
+  "pid": 1878,
+  "parish_name": null,
+  "year": 1794,
+  "event_type": "formed",
+  "other_parish": null,
+  "notes": null
+ },
+ {
+  "pid": 1878,
+  "parish_name": null,
+  "year": 1927,
+  "event_type": "merged_into",
+  "other_parish": "Kristianstad (Heliga Trefaldighet)",
+  "notes": "1927-05-01"
+ },
+ {
+  "pid": 1879,
+  "parish_name": "Kristianstads Heliga Trefaldighet",
+  "year": 1614,
+  "event_type": "split_from",
+  "other_parish": "Råbelöv och Nosaby",
+  "notes": "text: Råbelöv (och Nosaby)"
+ },
+ {
+  "pid": 1879,
+  "parish_name": "Kristianstads Heliga Trefaldighet",
+  "year": 1927,
+  "event_type": "incorporated",
+  "other_parish": "Kristianstads garnisonsförsamling",
+  "notes": "1927-05-01"
+ },
+ {
+  "pid": 1880,
+  "parish_name": null,
+  "year": 1930,
+  "event_type": "other",
+  "other_parish": "Garnisonsförsamlingen",
+  "notes": "inom Garnisonsförsamlingen utgjorde Slottsförsamlingen egen enhet (enligt SCB 1930)"
+ },
+ {
+  "pid": 1886,
+  "parish_name": null,
+  "year": 1642,
+  "event_type": "split_from",
+  "other_parish": "Varnum",
+  "notes": "1642-10-29"
+ },
+ {
+  "pid": 1886,
+  "parish_name": null,
+  "year": 1960,
+  "event_type": "incorporated",
+  "other_parish": "Varnum",
+  "notes": null
+ },
+ {
+  "pid": 1890,
+  "parish_name": null,
+  "year": 1656,
+  "event_type": "split_from",
+  "other_parish": "Förlösa och Dörby",
+  "notes": "1656-10-14; text: Förlösa (och Dörby)"
+ },
+ {
+  "pid": 1892,
+  "parish_name": null,
+  "year": 1500,
+  "event_type": "split_from",
+  "other_parish": "Dagsberg",
+  "notes": "1500-talet"
+ },
+ {
+  "pid": 1892,
+  "parish_name": null,
+  "year": 1885,
+  "event_type": "incorporated",
+  "other_parish": "Konungsunds Kolmårdsrote",
+  "notes": "1885-05-01; beslut 1857-03-31"
+ },
+ {
+  "pid": 1894,
+  "parish_name": null,
+  "year": 1952,
+  "event_type": "formed",
+  "other_parish": "Skee",
+  "notes": "bildat inom Skee församling (kbfd)"
+ },
+ {
+  "pid": 1894,
+  "parish_name": null,
+  "year": 1966,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1966-09-30"
+ },
+ {
+  "pid": 1900,
+  "parish_name": null,
+  "year": 1624,
+  "event_type": "split_from",
+  "other_parish": "Färnebo",
+  "notes": null
+ },
+ {
+  "pid": 1900,
+  "parish_name": null,
+  "year": 1643,
+  "event_type": "split_off",
+  "other_parish": "Lungsund",
+  "notes": null
+ },
+ {
+  "pid": 1900,
+  "parish_name": null,
+  "year": 1944,
+  "event_type": "other",
+  "other_parish": null,
+  "notes": "1944-01-01; indelad två kbfd: Kroppa kbfd och Storförs kbfd"
+ },
+ {
+  "pid": 1900,
+  "parish_name": null,
+  "year": 1960,
+  "event_type": "split_off",
+  "other_parish": "Storfors",
+  "notes": "1960-01-01; varvid kyrkobokföringsdistrikten upplösts"
+ },
+ {
+  "pid": 1901,
+  "parish_name": null,
+  "year": 1944,
+  "event_type": "formed",
+  "other_parish": "Kroppa",
+  "notes": "1944-01-01; bildat inom Kroppa församling (kbfd)"
+ },
+ {
+  "pid": 1901,
+  "parish_name": null,
+  "year": 1959,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1959-12-31; vid församlingsdelning"
+ },
+ {
+  "pid": 1902,
+  "parish_name": null,
+  "year": 1945,
+  "event_type": "formed",
+  "other_parish": "Folkärna",
+  "notes": "1945-01-01; bildat inom Folkärna församling (kbfd)"
+ },
+ {
+  "pid": 1906,
+  "parish_name": null,
+  "year": 1969,
+  "event_type": "split_from",
+  "other_parish": "Fosie",
+  "notes": "1969-01-01"
+ },
+ {
+  "pid": 1908,
+  "parish_name": "Kullings-Skövde",
+  "year": 1989,
+  "event_type": "incorporated",
+  "other_parish": "Tumberg",
+  "notes": "1989-01-01"
+ },
+ {
+  "pid": 1913,
+  "parish_name": null,
+  "year": 1500,
+  "event_type": "merged_into",
+  "other_parish": "Visingsö",
+  "notes": "1500-talet"
+ },
+ {
+  "pid": 1915,
+  "parish_name": "Kongelf",
+  "year": 1127,
+  "event_type": "split_from",
+  "other_parish": "Ytterby",
+  "notes": null
+ },
+ {
+  "pid": 1915,
+  "parish_name": "Kongelf",
+  "year": 1300,
+  "event_type": "split_off",
+  "other_parish": "Nicolai",
+  "notes": "troligen 1300-talet"
+ },
+ {
+  "pid": 1915,
+  "parish_name": "Kongelf",
+  "year": 1500,
+  "event_type": "incorporated",
+  "other_parish": "Nicolai",
+  "notes": "1500-talet åter sammanslagen"
+ },
+ {
+  "pid": 1915,
+  "parish_name": "Kongelf",
+  "year": 1613,
+  "event_type": "transferred",
+  "other_parish": "Ytterby",
+  "notes": "1613 flyttad, det gamla området fört till och det nya erhållet från Ytterby"
+ },
+ {
+  "pid": 1916,
+  "parish_name": null,
+  "year": 1700,
+  "event_type": "split_from",
+  "other_parish": "Torpa",
+  "notes": "1700-09-09"
+ },
+ {
+  "pid": 1922,
+  "parish_name": "Brunkebergs- och Kungsbacksförsamlingen",
+  "year": 1671,
+  "event_type": "split_from",
+  "other_parish": "Jakob och Klara",
+  "notes": "1671-11-03; ur Jakob (och Kungsbacksdelen ur Klara)"
+ },
+ {
+  "pid": 1922,
+  "parish_name": "Brunkebergs- och Kungsbacksförsamlingen",
+  "year": 1674,
+  "event_type": "transferred",
+  "other_parish": "Jakob",
+  "notes": "1674-03-12; Brunkebergsdelen (Johannes) återgått till Jakob"
+ },
+ {
+  "pid": 1922,
+  "parish_name": "Brunkebergs- och Kungsbacksförsamlingen",
+  "year": 1675,
+  "event_type": "merged_into",
+  "other_parish": "Sankt Olof (Adolf Fredrik)",
+  "notes": "nybildade Sankt Olof (Adolf Fredrik)"
+ },
+ {
+  "pid": 1925,
+  "parish_name": "Kungsholm",
+  "year": 1671,
+  "event_type": "split_from",
+  "other_parish": "Klara",
+  "notes": "1671-03-22"
+ },
+ {
+  "pid": 1925,
+  "parish_name": "Kungsholm",
+  "year": 1850,
+  "event_type": "split_off",
+  "other_parish": "Stockholms stads och läns kurhus",
+  "notes": "omkring"
+ },
+ {
+  "pid": 1925,
+  "parish_name": "Kungsholm",
+  "year": 1860,
+  "event_type": "split_off",
+  "other_parish": "Serafimerlasarettet",
+  "notes": "omkring"
+ },
+ {
+  "pid": 1925,
+  "parish_name": "Kungsholm",
+  "year": 1865,
+  "event_type": "split_off",
+  "other_parish": "Frimurarebarnhuset",
+  "notes": "omkring"
+ },
+ {
+  "pid": 1925,
+  "parish_name": "Kungsholm",
+  "year": 1889,
+  "event_type": "incorporated",
+  "other_parish": "Allmänna försörjningsinrättningen, Frimurarebarnhuset, Serafimerlasarettet, Stockholms hospital samt Stockholms stads och läns kurhus",
+  "notes": null
+ },
+ {
+  "pid": 1925,
+  "parish_name": "Kungsholm",
+  "year": 1925,
+  "event_type": "split_off",
+  "other_parish": "Sankt Göran",
+  "notes": "1925-01-01"
+ },
+ {
+  "pid": 1926,
+  "parish_name": null,
+  "year": 1943,
+  "event_type": "incorporated",
+  "other_parish": "Arnö",
+  "notes": "1943-01-01"
+ },
+ {
+  "pid": 1931,
+  "parish_name": null,
+  "year": 1546,
+  "event_type": "incorporated",
+  "other_parish": "Badene",
+  "notes": "efter 1546; text has stray prefix 'Pastoratskod.- 030104'"
+ },
+ {
+  "pid": 1932,
+  "parish_name": null,
+  "year": 1615,
+  "event_type": "split_from",
+  "other_parish": "Östra Husby",
+  "notes": null
+ },
+ {
+  "pid": 1933,
+  "parish_name": null,
+  "year": 1957,
+  "event_type": "merged_into",
+  "other_parish": "Hjortsberga och Kvenneberga",
+  "notes": null
+ },
+ {
+  "pid": 1936,
+  "parish_name": null,
+  "year": null,
+  "event_type": "incorporated",
+  "other_parish": "Kärraberga",
+  "notes": "tidigt"
+ },
+ {
+  "pid": 1938,
+  "parish_name": null,
+  "year": 1696,
+  "event_type": "split_from",
+  "other_parish": "Jokkmokk",
+  "notes": "1696-01-05"
+ },
+ {
+  "pid": 1938,
+  "parish_name": null,
+  "year": null,
+  "event_type": "became_kapell",
+  "other_parish": null,
+  "notes": "senare betraktad som kapellförsamling"
+ },
+ {
+  "pid": 1938,
+  "parish_name": null,
+  "year": 1923,
+  "event_type": "merged_into",
+  "other_parish": "Jokkmokk",
+  "notes": "1923-05-01; blev Kvikkjokks kbfd"
+ },
+ {
+  "pid": 1939,
+  "parish_name": null,
+  "year": 1923,
+  "event_type": "formed",
+  "other_parish": "Jokkmokk",
+  "notes": "1923-05-01; bildat inom Jokkmokks församling (kbfd)"
+ },
+ {
+  "pid": 1939,
+  "parish_name": null,
+  "year": 1975,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1975-12-31"
+ },
+ {
+  "pid": 1940,
+  "parish_name": null,
+  "year": null,
+  "event_type": "incorporated",
+  "other_parish": "Vrem",
+  "notes": "tidigt"
+ },
+ {
+  "pid": 1940,
+  "parish_name": null,
+  "year": 1882,
+  "event_type": "other",
+  "other_parish": null,
+  "notes": "kyrkobokföringen uppdelad på Kville och Fjällbacka"
+ },
+ {
+  "pid": 1940,
+  "parish_name": null,
+  "year": 1942,
+  "event_type": "other",
+  "other_parish": null,
+  "notes": "1942-01-01; indelad i två kbfd: Kville kbfd och Fjällbacka kbfd"
+ },
+ {
+  "pid": 1941,
+  "parish_name": null,
+  "year": 1882,
+  "event_type": "other",
+  "other_parish": "Kville",
+  "notes": "från 1882 särskild kyrkobokföring"
+ },
+ {
+  "pid": 1941,
+  "parish_name": null,
+  "year": 1942,
+  "event_type": "formed",
+  "other_parish": "Kville",
+  "notes": "1942-01-01; kbfd inom Kville församling"
+ },
+ {
+  "pid": 1942,
+  "parish_name": null,
+  "year": 1655,
+  "event_type": "split_off",
+  "other_parish": "Simonstorp",
+  "notes": "beslut 1640-02-17 och 1649"
+ },
+ {
+  "pid": 1944,
+  "parish_name": null,
+  "year": 1638,
+  "event_type": "transferred",
+  "other_parish": "Nysund",
+  "notes": "del till nybildade Nysund"
+ },
+ {
+  "pid": 1949,
+  "parish_name": null,
+  "year": 1400,
+  "event_type": "split_from",
+  "other_parish": "Lit",
+  "notes": "omkring"
+ },
+ {
+  "pid": 1952,
+  "parish_name": null,
+  "year": 1571,
+  "event_type": "merged_into",
+  "other_parish": "Fredsberg",
+  "notes": "efter 1571"
+ },
+ {
+  "pid": 1956,
+  "parish_name": null,
+  "year": 1865,
+  "event_type": "split_from",
+  "other_parish": "Jämshög",
+  "notes": "1865-05-01"
+ },
+ {
+  "pid": 1960,
+  "parish_name": null,
+  "year": 1895,
+  "event_type": "merged_into",
+  "other_parish": "Vänge och Läby",
+  "notes": "beslut 1890-02-28; se Vänge"
+ },
+ {
+  "pid": 1960,
+  "parish_name": null,
+  "year": 1934,
+  "event_type": "split_from",
+  "other_parish": "Vänge och Läby",
+  "notes": "1934-01-01; åter utbruten"
+ },
+ {
+  "pid": 1962,
+  "parish_name": null,
+  "year": 1830,
+  "event_type": "merged_into",
+  "other_parish": "Otterstad",
+  "notes": "senast 1830; oklart om det varit egen församling"
+ },
+ {
+  "pid": 1964,
+  "parish_name": null,
+  "year": 1797,
+  "event_type": "split_from",
+  "other_parish": "Ljustorp",
+  "notes": null
+ },
+ {
+  "pid": 1964,
+  "parish_name": null,
+  "year": 1937,
+  "event_type": "merged_into",
+  "other_parish": "Ljustorp",
+  "notes": "1937-01-01"
+ },
+ {
+  "pid": 1968,
+  "parish_name": "Laholm",
+  "year": 1972,
+  "event_type": "incorporated",
+  "other_parish": "Laholms landsförsamling",
+  "notes": "1972-01-01"
+ },
+ {
+  "pid": 1969,
+  "parish_name": null,
+  "year": 1972,
+  "event_type": "merged_into",
+  "other_parish": "Laholm",
+  "notes": "1972-01-01"
+ },
+ {
+  "pid": 1976,
+  "parish_name": null,
+  "year": 1500,
+  "event_type": "formed",
+  "other_parish": "Sankt Johannis, Sankt Nicolai och Sankt Olai",
+  "notes": "1500-talet sammanslagen av Sankt Johannis, Sankt Nicolai och Sankt Olai"
+ },
+ {
+  "pid": 1977,
+  "parish_name": null,
+  "year": 1884,
+  "event_type": "incorporated",
+  "other_parish": "Landskrona slotts- och straffängelseförsamling",
+  "notes": null
+ },
+ {
+  "pid": 1977,
+  "parish_name": null,
+  "year": 1897,
+  "event_type": "other",
+  "other_parish": "Vendes trängbataljon",
+  "notes": "från 1897 identisk med Vendes trängbataljon"
+ },
+ {
+  "pid": 1978,
+  "parish_name": null,
+  "year": 1884,
+  "event_type": "merged_into",
+  "other_parish": "Landskrona garnisonsförsamling",
+  "notes": null
+ },
+ {
+  "pid": 1985,
+  "parish_name": null,
+  "year": 1954,
+  "event_type": "incorporated",
+  "other_parish": "Eker och Ånsta",
+  "notes": "1954-01-01"
+ },
+ {
+  "pid": 1985,
+  "parish_name": null,
+  "year": 1977,
+  "event_type": "split_off",
+  "other_parish": "Mikael",
+  "notes": "1977-01-01"
+ },
+ {
+  "pid": 1987,
+  "parish_name": null,
+  "year": 1732,
+  "event_type": "split_from",
+  "other_parish": "Högsby",
+  "notes": null
+ },
+ {
+  "pid": 1990,
+  "parish_name": null,
+  "year": 1574,
+  "event_type": "merged_into",
+  "other_parish": "Fristad",
+  "notes": null
+ },
+ {
+  "pid": 1991,
+  "parish_name": "Längjum",
+  "year": 1800,
+  "event_type": "incorporated",
+  "other_parish": "Vässby",
+  "notes": "omkring"
+ },
+ {
+  "pid": 1994,
+  "parish_name": null,
+  "year": 1673,
+  "event_type": "split_off",
+  "other_parish": "Graninge",
+  "notes": null
+ },
+ {
+  "pid": 1995,
+  "parish_name": null,
+  "year": 1500,
+  "event_type": "incorporated",
+  "other_parish": "Lönskog",
+  "notes": "omkring"
+ },
+ {
+  "pid": 1995,
+  "parish_name": null,
+  "year": 1644,
+  "event_type": "incorporated",
+  "other_parish": "Åskog",
+  "notes": "före 1644"
+ },
+ {
+  "pid": 1996,
+  "parish_name": null,
+  "year": 1945,
+  "event_type": "split_from",
+  "other_parish": "Husby kbfd",
+  "notes": "1945-01-01; inom Husby församling (kbfd)"
+ },
+ {
+  "pid": 1998,
+  "parish_name": null,
+  "year": 1546,
+  "event_type": "merged_into",
+  "other_parish": "Saleby",
+  "notes": "efter 1546"
+ },
+ {
+  "pid": 1999,
+  "parish_name": null,
+  "year": 1650,
+  "event_type": "split_off",
+  "other_parish": "Blidö",
+  "notes": "före 1650"
+ },
+ {
+  "pid": 2006,
+  "parish_name": "Lansjärvs kbfd",
+  "year": 1939,
+  "event_type": "formed",
+  "other_parish": "Överkalix",
+  "notes": "1939-01-01 (text 1939-0101); bildat inom Överkalix församling"
+ },
+ {
+  "pid": 2006,
+  "parish_name": "Lansjärvs kbfd",
+  "year": 1978,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1978-12-31"
+ },
+ {
+  "pid": 2007,
+  "parish_name": null,
+  "year": 1500,
+  "event_type": "incorporated",
+  "other_parish": "Gann",
+  "notes": "troligen 1500-talet"
+ },
+ {
+  "pid": 2012,
+  "parish_name": null,
+  "year": 1552,
+  "event_type": "incorporated",
+  "other_parish": "Borga",
+  "notes": "tidigast 1552; del av Borga"
+ },
+ {
+  "pid": 2012,
+  "parish_name": null,
+  "year": 1555,
+  "event_type": "incorporated",
+  "other_parish": "Edum",
+  "notes": "efter 1555"
+ },
+ {
+  "pid": 2016,
+  "parish_name": null,
+  "year": 1980,
+  "event_type": "incorporated",
+  "other_parish": "Torsåker, Sättersta och Bogsta",
+  "notes": "1980-01-01"
+ },
+ {
+  "pid": 2017,
+  "parish_name": null,
+  "year": 1962,
+  "event_type": "split_from",
+  "other_parish": "Vilhelmina kbfd",
+  "notes": "inom Vilhelmina församling (kbfd)"
+ },
+ {
+  "pid": 2017,
+  "parish_name": null,
+  "year": 1978,
+  "event_type": "merged_into",
+  "other_parish": "Vilhelmina kbfd",
+  "notes": "1978-01-01"
+ },
+ {
+  "pid": 2028,
+  "parish_name": null,
+  "year": 1887,
+  "event_type": "split_from",
+  "other_parish": "Föllinge",
+  "notes": "1887-03-03; beslut 1872-06-21; stundom betraktad som kapellförsamling"
+ },
+ {
+  "pid": 2028,
+  "parish_name": null,
+  "year": 1922,
+  "event_type": "became_annex",
+  "other_parish": null,
+  "notes": "1922-04-21; förklarad annexförsamling"
+ },
+ {
+  "pid": 2029,
+  "parish_name": null,
+  "year": 1545,
+  "event_type": "merged_into",
+  "other_parish": "Karleby",
+  "notes": "omkring"
+ },
+ {
+  "pid": 2035,
+  "parish_name": null,
+  "year": 1640,
+  "event_type": "split_off",
+  "other_parish": "Djura",
+  "notes": "omkring"
+ },
+ {
+  "pid": 2035,
+  "parish_name": null,
+  "year": 1875,
+  "event_type": "split_off",
+  "other_parish": "Siljansnäs",
+  "notes": "1875-05-01; beslut 1866-05-18"
+ },
+ {
+  "pid": 2036,
+  "parish_name": null,
+  "year": 1584,
+  "event_type": "split_off",
+  "other_parish": "Mariestad",
+  "notes": null
+ },
+ {
+  "pid": 2037,
+  "parish_name": null,
+  "year": 1851,
+  "event_type": "split_from",
+  "other_parish": "Fryksände och Östmark",
+  "notes": "beslut 1844-10-15 och 1849-09-19; som (oegentlig) kapellförsamling; text: Fryksände (och Östmark)"
+ },
+ {
+  "pid": 2037,
+  "parish_name": null,
+  "year": 1922,
+  "event_type": "became_annex",
+  "other_parish": null,
+  "notes": "1922-02-24"
+ },
+ {
+  "pid": 2038,
+  "parish_name": null,
+  "year": 1781,
+  "event_type": "merged_into",
+  "other_parish": "Gustav (Börringe)",
+  "notes": null
+ },
+ {
+  "pid": 2049,
+  "parish_name": null,
+  "year": 1961,
+  "event_type": "split_from",
+  "other_parish": "Hovmantorp",
+  "notes": "1961-01-01; motsvarande Lessebo kbfd"
+ },
+ {
+  "pid": 2050,
+  "parish_name": null,
+  "year": 1942,
+  "event_type": "formed",
+  "other_parish": "Hovmantorp",
+  "notes": "1942-01-01; bildat inom Hovmantorps församling (kbfd)"
+ },
+ {
+  "pid": 2050,
+  "parish_name": null,
+  "year": 1960,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1960-12-31; vid församlingsdelning"
+ },
+ {
+  "pid": 2055,
+  "parish_name": null,
+  "year": 1989,
+  "event_type": "split_from",
+  "other_parish": "Trollhättan",
+  "notes": "1989-01-01"
+ },
+ {
+  "pid": 2056,
+  "parish_name": null,
+  "year": 1546,
+  "event_type": "incorporated",
+  "other_parish": "Igelsered",
+  "notes": "efter 1546; delvis"
+ },
+ {
+  "pid": 2058,
+  "parish_name": "Liden",
+  "year": 1300,
+  "event_type": "split_off",
+  "other_parish": "Holm",
+  "notes": "senast omkring 1300"
+ },
+ {
+  "pid": 2061,
+  "parish_name": null,
+  "year": 1653,
+  "event_type": "split_from",
+  "other_parish": "Danderyd och Solna",
+  "notes": "1653-09-16; text: Danderyd (och Solna)"
+ },
+ {
+  "pid": 2070,
+  "parish_name": null,
+  "year": 1943,
+  "event_type": "formed",
+  "other_parish": "Bromma",
+  "notes": "1943-09-01; bildat inom Bromma församling (kbfd)"
+ },
+ {
+  "pid": 2070,
+  "parish_name": null,
+  "year": 1954,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1954-12-31; vid församlingsdelning"
+ },
+ {
+  "pid": 2071,
+  "parish_name": null,
+  "year": 1818,
+  "event_type": "merged_into",
+  "other_parish": "Rytterne",
+  "notes": "1818-01-01"
+ },
+ {
+  "pid": 2072,
+  "parish_name": null,
+  "year": 1980,
+  "event_type": "merged_into",
+  "other_parish": "Alstad",
+  "notes": "1980-01-01"
+ },
+ {
+  "pid": 2075,
+  "parish_name": null,
+  "year": 1407,
+  "event_type": "split_from",
+  "other_parish": "Sveg",
+  "notes": null
+ },
+ {
+  "pid": 2079,
+  "parish_name": "Lillkyrka-Ödeby",
+  "year": 1981,
+  "event_type": "incorporated",
+  "other_parish": "Ödeby",
+  "notes": "1981-01-01"
+ },
+ {
+  "pid": 2080,
+  "parish_name": null,
+  "year": 1200,
+  "event_type": "split_from",
+  "other_parish": "Malung",
+  "notes": "troligen 1200-talet"
+ },
+ {
+  "pid": 2080,
+  "parish_name": null,
+  "year": 1500,
+  "event_type": "split_off",
+  "other_parish": "Transtrand",
+  "notes": "1500-talet; som kapellag"
+ },
+ {
+  "pid": 2080,
+  "parish_name": null,
+  "year": 1914,
+  "event_type": "other",
+  "other_parish": "Rörbäcksnäs",
+  "notes": "särskild kyrkobokföring för Rörbäcksnäs"
+ },
+ {
+  "pid": 2080,
+  "parish_name": null,
+  "year": 1923,
+  "event_type": "other",
+  "other_parish": null,
+  "notes": "1923-04-06; indelad i två kbfd: Lima kbfd och Rörbäcksnäs kbfd"
+ },
+ {
+  "pid": 2080,
+  "parish_name": null,
+  "year": 1971,
+  "event_type": "other",
+  "other_parish": null,
+  "notes": "1971-03-31; kyrkobokföringsdistrikten upplösta"
+ },
+ {
+  "pid": 2081,
+  "parish_name": null,
+  "year": 1923,
+  "event_type": "formed",
+  "other_parish": "Lima",
+  "notes": "1923-04-06; bildat inom Lima församling (kbfd)"
+ },
+ {
+  "pid": 2081,
+  "parish_name": null,
+  "year": 1971,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1971-03-31"
+ },
+ {
+  "pid": 2082,
+  "parish_name": null,
+  "year": 1902,
+  "event_type": "split_from",
+  "other_parish": "Hyllie",
+  "notes": "1902-04-25; beslut 1899-02-22"
+ },
+ {
+  "pid": 2082,
+  "parish_name": null,
+  "year": 1908,
+  "event_type": "incorporated",
+  "other_parish": "Hyllie",
+  "notes": "1908-05-01"
+ },
+ {
+  "pid": 2082,
+  "parish_name": null,
+  "year": 1908,
+  "event_type": "became_annex",
+  "other_parish": null,
+  "notes": "därefter annexförsamling"
+ },
+ {
+  "pid": 2082,
+  "parish_name": null,
+  "year": 1969,
+  "event_type": "split_off",
+  "other_parish": "Hyllie",
+  "notes": "1969-01-01; åter utbrutet"
+ },
+ {
+  "pid": 2084,
+  "parish_name": null,
+  "year": 1546,
+  "event_type": "merged_into",
+  "other_parish": "Tranemo",
+  "notes": "efter 1546"
+ },
+ {
+  "pid": 2086,
+  "parish_name": null,
+  "year": 1420,
+  "event_type": "split_off",
+  "other_parish": "Nya Varberg",
+  "notes": "omkring"
+ },
+ {
+  "pid": 2086,
+  "parish_name": null,
+  "year": null,
+  "event_type": "incorporated",
+  "other_parish": "Nya Varberg",
+  "notes": "sedan åter införlivat"
+ },
+ {
+  "pid": 2087,
+  "parish_name": "Linde",
+  "year": 1589,
+  "event_type": "split_off",
+  "other_parish": "Ramsberg",
+  "notes": "1589-07-10"
+ },
+ {
+  "pid": 2087,
+  "parish_name": "Linde",
+  "year": 1624,
+  "event_type": "split_off",
+  "other_parish": "Ljusnarsberg",
+  "notes": null
+ },
+ {
+  "pid": 2087,
+  "parish_name": "Linde",
+  "year": 1643,
+  "event_type": "split_off",
+  "other_parish": "Lindesbergs stadsförsamling",
+  "notes": null
+ },
+ {
+  "pid": 2087,
+  "parish_name": "Linde",
+  "year": 1872,
+  "event_type": "incorporated",
+  "other_parish": "Vedevågs bruksförsamling",
+  "notes": "1872-01-01"
+ },
+ {
+  "pid": 2087,
+  "parish_name": "Linde",
+  "year": 1896,
+  "event_type": "split_off",
+  "other_parish": "Guldsmedshyttan",
+  "notes": "som kapellförsamling"
+ },
+ {
+  "pid": 2087,
+  "parish_name": "Linde",
+  "year": 1967,
+  "event_type": "merged_into",
+  "other_parish": "Lindesberg",
+  "notes": "1967-01-01"
+ },
+ {
+  "pid": 2090,
+  "parish_name": null,
+  "year": null,
+  "event_type": "transferred",
+  "other_parish": "Trehörna",
+  "notes": "delar avsöndrade vid bildandet av Trehörna"
+ },
+ {
+  "pid": 2093,
+  "parish_name": "Lindesberg",
+  "year": 1643,
+  "event_type": "split_from",
+  "other_parish": "Linde",
+  "notes": null
+ },
+ {
+  "pid": 2093,
+  "parish_name": "Lindesberg",
+  "year": 1967,
+  "event_type": "incorporated",
+  "other_parish": "Linde",
+  "notes": "1967-01-01"
+ },
+ {
+  "pid": 2097,
+  "parish_name": null,
+  "year": 1915,
+  "event_type": "split_from",
+  "other_parish": "Skog",
+  "notes": "1915-05-01; som kapellag"
+ },
+ {
+  "pid": 2097,
+  "parish_name": null,
+  "year": 1917,
+  "event_type": "became_kapell",
+  "other_parish": null,
+  "notes": "1917-01-01"
+ },
+ {
+  "pid": 2097,
+  "parish_name": null,
+  "year": 1923,
+  "event_type": "became_annex",
+  "other_parish": null,
+  "notes": "1923-01-19"
+ },
+ {
+  "pid": 2099,
+  "parish_name": null,
+  "year": 1972,
+  "event_type": "split_from",
+  "other_parish": "Linköpings Sankt Lars",
+  "notes": "1972-01-01"
+ },
+ {
+  "pid": 2100,
+  "parish_name": "Linköpings domkyrkoförsamling",
+  "year": 1989,
+  "event_type": "split_off",
+  "other_parish": "Linköpings Skäggetorp och Linköpings Ryd",
+  "notes": "1989-01-01"
+ },
+ {
+  "pid": 2101,
+  "parish_name": null,
+  "year": 1972,
+  "event_type": "split_from",
+  "other_parish": "Linköpings Sankt Lars",
+  "notes": "1972-01-01"
+ },
+ {
+  "pid": 2102,
+  "parish_name": null,
+  "year": 1989,
+  "event_type": "split_from",
+  "other_parish": "Linköpings domkyrkoförsamling",
+  "notes": "1989-01-01"
+ },
+ {
+  "pid": 2103,
+  "parish_name": "Linköpings Sankt Lars",
+  "year": 1972,
+  "event_type": "split_off",
+  "other_parish": "Linköpings Berga och Linköpings Johannelund",
+  "notes": "1972-01-01"
+ },
+ {
+  "pid": 2104,
+  "parish_name": null,
+  "year": 1989,
+  "event_type": "split_from",
+  "other_parish": "Linköpings domkyrkoförsamling",
+  "notes": "1989-01-01"
+ },
+ {
+  "pid": 2106,
+  "parish_name": null,
+  "year": 1590,
+  "event_type": "split_off",
+  "other_parish": "Södra Sandsjö",
+  "notes": "början av 1590-talet; text: (Södra) Sandsjö"
+ },
+ {
+  "pid": 2107,
+  "parish_name": "Linsell",
+  "year": 1798,
+  "event_type": "split_from",
+  "other_parish": "Sveg",
+  "notes": "som kapellförsamling"
+ },
+ {
+  "pid": 2107,
+  "parish_name": "Linsell",
+  "year": 1870,
+  "event_type": "became_annex",
+  "other_parish": null,
+  "notes": "1870-05-12; faktisk annexförsamling"
+ },
+ {
+  "pid": 2107,
+  "parish_name": "Linsell",
+  "year": 1922,
+  "event_type": "became_annex",
+  "other_parish": null,
+  "notes": "1922-04-21; till namnet annexförsamling"
+ },
+ {
+  "pid": 2112,
+  "parish_name": null,
+  "year": 1694,
+  "event_type": "split_from",
+  "other_parish": "Hovförsamlingen",
+  "notes": "1694-01-01"
+ },
+ {
+  "pid": 2112,
+  "parish_name": null,
+  "year": 1790,
+  "event_type": "incorporated",
+  "other_parish": "Södra bataljonsförsamlingen",
+  "notes": "1790-08-22"
+ },
+ {
+  "pid": 2112,
+  "parish_name": null,
+  "year": 1791,
+  "event_type": "merged_into",
+  "other_parish": "Svea livgarde",
+  "notes": null
+ },
+ {
+  "pid": 2113,
+  "parish_name": null,
+  "year": 1860,
+  "event_type": "formed",
+  "other_parish": null,
+  "notes": "församling omkring 1860"
+ },
+ {
+  "pid": 2114,
+  "parish_name": null,
+  "year": 1694,
+  "event_type": "formed",
+  "other_parish": null,
+  "notes": "tidigast 1694"
+ },
+ {
+  "pid": 2114,
+  "parish_name": null,
+  "year": 1821,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "senast 1821-05-02"
+ },
+ {
+  "pid": 2117,
+  "parish_name": "Livgardet till häst",
+  "year": 1772,
+  "event_type": "formed",
+  "other_parish": null,
+  "notes": null
+ },
+ {
+  "pid": 2117,
+  "parish_name": "Livgardet till häst",
+  "year": 1927,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1927-04-30; befolkningen förd till respektive territoriell församling"
+ },
+ {
+  "pid": 2129,
+  "parish_name": null,
+  "year": 1556,
+  "event_type": "incorporated",
+  "other_parish": "Sanna",
+  "notes": "1556-11-30"
+ },
+ {
+  "pid": 2136,
+  "parish_name": null,
+  "year": 1856,
+  "event_type": "split_off",
+  "other_parish": "Sankt Sigfrid",
+  "notes": "senast 1856"
+ },
+ {
+  "pid": 2138,
+  "parish_name": null,
+  "year": null,
+  "event_type": "merged_into",
+  "other_parish": "Sandhem",
+  "notes": "tidigt"
+ },
+ {
+  "pid": 2142,
+  "parish_name": null,
+  "year": 1852,
+  "event_type": "split_off",
+  "other_parish": "Ramsjö",
+  "notes": "1852-02-10; text contains stray '234 Ljushult'"
+ },
+ {
+  "pid": 2144,
+  "parish_name": "Ljusnarsberg",
+  "year": 1624,
+  "event_type": "split_from",
+  "other_parish": "Lindesberg",
+  "notes": null
+ },
+ {
+  "pid": 2144,
+  "parish_name": "Ljusnarsberg",
+  "year": 1892,
+  "event_type": "transferred",
+  "other_parish": "Grängesberg-Hörkens kapellag",
+  "notes": "del till Grängesberg-Hörkens kapellag"
+ },
+ {
+  "pid": 2144,
+  "parish_name": "Ljusnarsberg",
+  "year": 1904,
+  "event_type": "split_off",
+  "other_parish": "Hörken",
+  "notes": "som församling"
+ },
+ {
+  "pid": 2144,
+  "parish_name": "Ljusnarsberg",
+  "year": 1927,
+  "event_type": "incorporated",
+  "other_parish": "Hörken",
+  "notes": "1927-01-01; men fortfarande skild kyrkobokföring"
+ },
+ {
+  "pid": 2144,
+  "parish_name": "Ljusnarsberg",
+  "year": 1951,
+  "event_type": "other",
+  "other_parish": null,
+  "notes": "1951-01-01; indelad i två kbfd: Ljusnarsbergs kbfd och Hörkens kbfd"
+ },
+ {
+  "pid": 2145,
+  "parish_name": null,
+  "year": 1951,
+  "event_type": "formed",
+  "other_parish": "Ljusnarsberg",
+  "notes": "1951-01-01; bildat inom Ljusnarsbergs församling (kbfd)"
+ },
+ {
+  "pid": 2146,
+  "parish_name": "Ljusne",
+  "year": 1828,
+  "event_type": "split_from",
+  "other_parish": "Söderala",
+  "notes": "som bruksförsamling"
+ },
+ {
+  "pid": 2146,
+  "parish_name": "Ljusne",
+  "year": 1896,
+  "event_type": "became_kapell",
+  "other_parish": "Söderala",
+  "notes": "ombildad till kapellag inom Söderala församling"
+ },
+ {
+  "pid": 2146,
+  "parish_name": "Ljusne",
+  "year": 1917,
+  "event_type": "split_from",
+  "other_parish": "Söderala",
+  "notes": "1917-05-01"
+ },
+ {
+  "pid": 2147,
+  "parish_name": "Ljusnedal",
+  "year": 1680,
+  "event_type": "split_from",
+  "other_parish": "Tännäs",
+  "notes": "1680-talet; som bruksförsamling; stundom betraktad som kapellförsamling till Hede"
+ },
+ {
+  "pid": 2147,
+  "parish_name": "Ljusnedal",
+  "year": 1922,
+  "event_type": "became_annex",
+  "other_parish": null,
+  "notes": "1922-05-05"
+ },
+ {
+  "pid": 2149,
+  "parish_name": "Ljusterö",
+  "year": 1631,
+  "event_type": "split_from",
+  "other_parish": "Riala",
+  "notes": "som kapellförsamling"
+ },
+ {
+  "pid": 2149,
+  "parish_name": "Ljusterö",
+  "year": 1869,
+  "event_type": "incorporated",
+  "other_parish": "Södra Ljusterö",
+  "notes": "beslut 1860-05-25; Södra Ljusterö mm"
+ },
+ {
+  "pid": 2150,
+  "parish_name": null,
+  "year": 1797,
+  "event_type": "split_off",
+  "other_parish": "Lagfors bruksförsamling",
+  "notes": null
+ },
+ {
+  "pid": 2150,
+  "parish_name": null,
+  "year": 1937,
+  "event_type": "incorporated",
+  "other_parish": "Lagfors bruksförsamling",
+  "notes": null
+ },
+ {
+  "pid": 2151,
+  "parish_name": null,
+  "year": 1983,
+  "event_type": "merged_into",
+  "other_parish": "Oxie",
+  "notes": "1983-01-01"
+ },
+ {
+  "pid": 2159,
+  "parish_name": null,
+  "year": 1609,
+  "event_type": "split_off",
+  "other_parish": "Loftahammar",
+  "notes": null
+ },
+ {
+  "pid": 2159,
+  "parish_name": null,
+  "year": 1931,
+  "event_type": "split_off",
+  "other_parish": "Överum",
+  "notes": "1931-01-01"
+ },
+ {
+  "pid": 2160,
+  "parish_name": null,
+  "year": 1609,
+  "event_type": "split_from",
+  "other_parish": "Lofta",
+  "notes": null
+ },
+ {
+  "pid": 2161,
+  "parish_name": null,
+  "year": 1687,
+  "event_type": "formed",
+  "other_parish": null,
+  "notes": "anses bildad 1687 genom inrättande av brukspredikantbefattning"
+ },
+ {
+  "pid": 2161,
+  "parish_name": null,
+  "year": 1932,
+  "event_type": "merged_into",
+  "other_parish": "Hässjö och Timrå",
+  "notes": "1932-01-01 (text 1932-0101); text: Hässjö (och Timrå)"
+ },
+ {
+  "pid": 2171,
+  "parish_name": null,
+  "year": 1500,
+  "event_type": "merged_into",
+  "other_parish": "Långserud",
+  "notes": "omkring"
+ },
+ {
+  "pid": 2172,
+  "parish_name": null,
+  "year": 1748,
+  "event_type": "split_from",
+  "other_parish": "Färila",
+  "notes": "som bruksförsamling"
+ },
+ {
+  "pid": 2172,
+  "parish_name": null,
+  "year": 1820,
+  "event_type": "became_kapell",
+  "other_parish": null,
+  "notes": null
+ },
+ {
+  "pid": 2172,
+  "parish_name": null,
+  "year": 1931,
+  "event_type": "split_off",
+  "other_parish": "Hamra",
+  "notes": "1931-08-08"
+ },
+ {
+  "pid": 2173,
+  "parish_name": null,
+  "year": 1743,
+  "event_type": "incorporated",
+  "other_parish": "Lyckeby",
+  "notes": null
+ },
+ {
+  "pid": 2177,
+  "parish_name": null,
+  "year": 1803,
+  "event_type": "merged_into",
+  "other_parish": "Borg och Löt (Norrköpings Borg)",
+  "notes": "beslut 1783-10-21"
+ },
+ {
+  "pid": 2179,
+  "parish_name": null,
+  "year": null,
+  "event_type": "became_kapell",
+  "other_parish": "Skellefteå",
+  "notes": "först kapell under Skellefteå"
+ },
+ {
+  "pid": 2179,
+  "parish_name": null,
+  "year": 1400,
+  "event_type": "split_from",
+  "other_parish": "Skellefteå landsförsamling",
+  "notes": "1400-talet"
+ },
+ {
+  "pid": 2180,
+  "parish_name": null,
+  "year": null,
+  "event_type": "incorporated",
+  "other_parish": "Holma",
+  "notes": "tidigt"
+ },
+ {
+  "pid": 2180,
+  "parish_name": null,
+  "year": 1540,
+  "event_type": "merged_into",
+  "other_parish": "Karleby",
+  "notes": null
+ },
+ {
+  "pid": 2185,
+  "parish_name": null,
+  "year": null,
+  "event_type": "other",
+  "other_parish": "Österlövsta",
+  "notes": "i Österlövsta församling"
+ },
+ {
+  "pid": 2187,
+  "parish_name": null,
+  "year": 1652,
+  "event_type": "split_from",
+  "other_parish": "Grangärde",
+  "notes": "omkring; utbrutet som kapellag under Grangärde"
+ },
+ {
+  "pid": 2190,
+  "parish_name": "Luleå domkyrkoförsamling",
+  "year": 1667,
+  "event_type": "split_from",
+  "other_parish": "Luleå",
+  "notes": null
+ },
+ {
+  "pid": 2190,
+  "parish_name": "Luleå domkyrkoförsamling",
+  "year": 1962,
+  "event_type": "split_off",
+  "other_parish": "Örnäset",
+  "notes": null
+ },
+ {
+  "pid": 2195,
+  "parish_name": null,
+  "year": 1607,
+  "event_type": "split_off",
+  "other_parish": "Göteborgs lutherska",
+  "notes": null
+ },
+ {
+  "pid": 2195,
+  "parish_name": null,
+  "year": 1612,
+  "event_type": "incorporated",
+  "other_parish": "Göteborgs lutherska",
+  "notes": null
+ },
+ {
+  "pid": 2195,
+  "parish_name": null,
+  "year": 1872,
+  "event_type": "incorporated",
+  "other_parish": "Nya Älvsborg",
+  "notes": "1872-01-01"
+ },
+ {
+  "pid": 2195,
+  "parish_name": null,
+  "year": 1951,
+  "event_type": "other",
+  "other_parish": null,
+  "notes": "1951-01-01; indelad i två kbfd: Lundby kbfd och Brämaregårdens kbfd"
+ },
+ {
+  "pid": 2195,
+  "parish_name": null,
+  "year": 1957,
+  "event_type": "other",
+  "other_parish": "Biskopsgårdens kbfd",
+  "notes": "1957-04-01; Biskopsgårdens kbfd utbrutet ur Lundby kbfd"
+ },
+ {
+  "pid": 2195,
+  "parish_name": null,
+  "year": 1961,
+  "event_type": "split_off",
+  "other_parish": "Brämaregården och Biskopsgården",
+  "notes": "1961-01-01; varvid kyrkobokföringsdistrikten upplösts"
+ },
+ {
+  "pid": 2200,
+  "parish_name": null,
+  "year": 1951,
+  "event_type": "formed",
+  "other_parish": "Lundby",
+  "notes": "1951-01-01; bildat inom Lundby församling (kbfd)"
+ },
+ {
+  "pid": 2200,
+  "parish_name": null,
+  "year": 1957,
+  "event_type": "split_off",
+  "other_parish": "Biskopsgårdens kbfd",
+  "notes": "1957-04-01"
+ },
+ {
+  "pid": 2200,
+  "parish_name": null,
+  "year": 1960,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1960-12-31; vid församlingsdelning"
+ },
+ {
+  "pid": 2201,
+  "parish_name": null,
+  "year": 1962,
+  "event_type": "split_from",
+  "other_parish": "Lunds domkyrkoförsamling",
+  "notes": null
+ },
+ {
+  "pid": 2202,
+  "parish_name": "Lunds domkyrkoförsamling",
+  "year": null,
+  "event_type": "other",
+  "other_parish": null,
+  "notes": "till 1536 en mindre församling, som utnyttjade domkyrkans krypta, Kraftskyrkan"
+ },
+ {
+  "pid": 2202,
+  "parish_name": "Lunds domkyrkoförsamling",
+  "year": 1536,
+  "event_type": "incorporated",
+  "other_parish": "Heligkors, Sankta Maria magle, Sankta Maria minor, Sankt Andreas, Sankt Botulf, Sankt Clemens, Sankt Drotten, Sankt Godehard, Sankt Jakob, Sankt Mikael, Sankt Måns, Sankt Mårten, Sankt Nikolaus, Sankt Olof, Sankt Paul, Sankt Peter vid Bredgatan, Sankt Petri lille, Sankt Stefan och Sankt Torne",
+  "notes": null
+ },
+ {
+  "pid": 2202,
+  "parish_name": "Lunds domkyrkoförsamling",
+  "year": 1944,
+  "event_type": "incorporated",
+  "other_parish": "Lunds landsförsamling",
+  "notes": "1944-01-01"
+ },
+ {
+  "pid": 2202,
+  "parish_name": "Lunds domkyrkoförsamling",
+  "year": 1962,
+  "event_type": "split_off",
+  "other_parish": "Lunds Allhelgonaförsamling",
+  "notes": null
+ },
+ {
+  "pid": 2203,
+  "parish_name": "Sankt Jörgens hospital",
+  "year": null,
+  "event_type": "other",
+  "other_parish": "Lunds landsförsamling",
+  "notes": "möjligen fortsatt i Lunds landsförsamling"
+ },
+ {
+  "pid": 2204,
+  "parish_name": null,
+  "year": 1944,
+  "event_type": "merged_into",
+  "other_parish": "Lunds domkyrkoförsamling och Hardeberga",
+  "notes": "1944-01-01; text: Lunds domkyrkoförsamling (och Hardeberga)"
+ },
+ {
+  "pid": 2206,
+  "parish_name": null,
+  "year": 1449,
+  "event_type": "merged_into",
+  "other_parish": "Götlunda",
+  "notes": null
+ },
+ {
+  "pid": 2207,
+  "parish_name": null,
+  "year": 1643,
+  "event_type": "split_from",
+  "other_parish": "Kroppa",
+  "notes": null
+ },
+ {
+  "pid": 2209,
+  "parish_name": null,
+  "year": 1516,
+  "event_type": "merged_into",
+  "other_parish": "Barkåkra",
+  "notes": null
+ },
+ {
+  "pid": 2211,
+  "parish_name": null,
+  "year": null,
+  "event_type": "incorporated",
+  "other_parish": "Synnerål",
+  "notes": "medeltiden; del av Synnerål"
+ },
+ {
+  "pid": 2214,
+  "parish_name": null,
+  "year": 1743,
+  "event_type": "merged_into",
+  "other_parish": "Lösen",
+  "notes": null
+ },
+ {
+  "pid": 2215,
+  "parish_name": null,
+  "year": 1606,
+  "event_type": "split_from",
+  "other_parish": "Umeå landsförsamling",
+  "notes": null
+ },
+ {
+  "pid": 2215,
+  "parish_name": null,
+  "year": 1648,
+  "event_type": "split_off",
+  "other_parish": "Åsele",
+  "notes": null
+ },
+ {
+  "pid": 2215,
+  "parish_name": null,
+  "year": 1674,
+  "event_type": "split_off",
+  "other_parish": "Gillesnuole (Sorsele)",
+  "notes": null
+ },
+ {
+  "pid": 2215,
+  "parish_name": null,
+  "year": 1780,
+  "event_type": "split_off",
+  "other_parish": "Tärna",
+  "notes": null
+ },
+ {
+  "pid": 2215,
+  "parish_name": null,
+  "year": 1815,
+  "event_type": "split_off",
+  "other_parish": "Stensele",
+  "notes": "1815-05-17"
+ },
+ {
+  "pid": 2215,
+  "parish_name": null,
+  "year": 1848,
+  "event_type": "split_off",
+  "other_parish": "Örträsk",
+  "notes": "1848-09-29 (text 184809-29)"
+ },
+ {
+  "pid": 2215,
+  "parish_name": null,
+  "year": 1923,
+  "event_type": "other",
+  "other_parish": null,
+  "notes": "1923-05-01; indelad i två kbfd: Lycksele kbfd och Björksele kbfd"
+ },
+ {
+  "pid": 2215,
+  "parish_name": null,
+  "year": 1962,
+  "event_type": "split_off",
+  "other_parish": "Björksele",
+  "notes": "1962-01-01; varvid kyrkobokföringsdistrikten upplösts"
+ },
+ {
+  "pid": 2216,
+  "parish_name": null,
+  "year": 1923,
+  "event_type": "formed",
+  "other_parish": "Lycksele",
+  "notes": "1923-05-01; bildat inom Lycksele församling (kbfd)"
+ },
+ {
+  "pid": 2216,
+  "parish_name": null,
+  "year": 1961,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1961-12-31"
+ },
+ {
+  "pid": 2221,
+  "parish_name": null,
+  "year": 1700,
+  "event_type": "split_off",
+  "other_parish": "Lysekil",
+  "notes": "omkring"
+ },
+ {
+  "pid": 2222,
+  "parish_name": null,
+  "year": 1700,
+  "event_type": "split_from",
+  "other_parish": "Lyse",
+  "notes": "omkring; som kapellförsamling"
+ },
+ {
+  "pid": 2224,
+  "parish_name": null,
+  "year": 1894,
+  "event_type": "split_off",
+  "other_parish": "Örsjö",
+  "notes": "1894-05-01; beslut 1883-02-16"
+ },
+ {
+  "pid": 2224,
+  "parish_name": null,
+  "year": 1932,
+  "event_type": "other",
+  "other_parish": null,
+  "notes": "1932-01-01; indelad i två kbfd: Madesjö kbfd och Nybro kbfd"
+ },
+ {
+  "pid": 2224,
+  "parish_name": null,
+  "year": 1939,
+  "event_type": "split_off",
+  "other_parish": "Nybro",
+  "notes": "1939-01-01; varvid kyrkobokföringsdistrikten upplösts"
+ },
+ {
+  "pid": 2225,
+  "parish_name": null,
+  "year": 1932,
+  "event_type": "formed",
+  "other_parish": "Madesjö",
+  "notes": "1932-01-01; bildat inom Madesjö församling (kbfd)"
+ },
+ {
+  "pid": 2225,
+  "parish_name": null,
+  "year": 1938,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1938-12-31; vid församlingsdelning"
+ },
+ {
+  "pid": 2234,
+  "parish_name": null,
+  "year": 1862,
+  "event_type": "split_from",
+  "other_parish": "Arvidsjaur",
+  "notes": "som kapellförsamling"
+ },
+ {
+  "pid": 2238,
+  "parish_name": null,
+  "year": 1937,
+  "event_type": "formed",
+  "other_parish": "Målilla med Gårdveda",
+  "notes": "1937-01-01; bildat inom Målilla med Gårdveda församling (kbfd)"
+ },
+ {
+  "pid": 2238,
+  "parish_name": null,
+  "year": 1961,
+  "event_type": "dissolved",
+  "other_parish": null,
+  "notes": "1961-12-31"
+ }
+]

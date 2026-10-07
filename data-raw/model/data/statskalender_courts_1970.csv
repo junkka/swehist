@@ -1,0 +1,160 @@
+year,url,page,hovratt,county_raw,court_no,court_name,court_kind,seat,unit,unit_kind,partial,unit_source,source_text
+1970,https://runeberg.org/statskal/1970/0303.html,303,SVEA,Stockholms,1,Stockholms rådhusrätt,radhusratt,,Stockholms,stad,FALSE,name,Stockholms rådhusrätt
+1970,https://runeberg.org/statskal/1970/0304.html,304,SVEA,Stockholms,2,Södertälje rådhusrätt,radhusratt,Södertälje,Södertälje,stad,FALSE,name,Rådhusrätten i Södertälje
+1970,https://runeberg.org/statskal/1970/0304.html,304,SVEA,Stockholms,3,Norra Roslags domsaga,domsaga,Östhammar o. Häverödal,Norra Roslags,,FALSE,name,Norra Roslags domsaga
+1970,https://runeberg.org/statskal/1970/0305.html,305,Svea hovrätt,Stockholms,4,Mellersta Roslags domsaga,domsaga,Norrtälje,Mellersta Roslags,,FALSE,name,Mellersta Roslags domsaga
+1970,https://runeberg.org/statskal/1970/0305.html,305,Svea hovrätt,Stockholms,5,Stockholms läns västra domsaga,domsaga,Stockholm,Stockholms läns västra,,FALSE,name,Stockholms läns västra domsaga
+1970,https://runeberg.org/statskal/1970/0305.html,305,Svea hovrätt,Stockholms,6,Södra Roslags domsaga,domsaga,Stockholm,Södra Roslags,,FALSE,name,Södra Roslags domsaga
+1970,https://runeberg.org/statskal/1970/0305.html,305,Svea hovrätt,Stockholms,7,Solna domsaga,domsaga,Solna,Solna,,FALSE,name,Solna domsaga
+1970,https://runeberg.org/statskal/1970/0305.html,305,Svea hovrätt,Stockholms,8,Sollentuna och Färentuna domsaga,domsaga,Haga,Sollentuna,,FALSE,name,Sollentuna och Färentuna domsaga
+1970,https://runeberg.org/statskal/1970/0305.html,305,Svea hovrätt,Stockholms,8,Sollentuna och Färentuna domsaga,domsaga,Haga,Färentuna,,FALSE,name,Sollentuna och Färentuna domsaga
+1970,https://runeberg.org/statskal/1970/0305.html,305,Svea hovrätt,Stockholms,9,Södertörns domsaga,domsaga,Stockholm,Södertörns,,FALSE,name,Södertörns domsaga
+1970,https://runeberg.org/statskal/1970/0305.html,305,Svea hovrätt,Stockholms,10,Svartlösa domsaga,domsaga,Huddinge,Svartlösa,,FALSE,name,Svartlösa domsaga
+1970,https://runeberg.org/statskal/1970/0306.html,306,Svea hovrätt,Uppsala,11,Uppsala rådhusrätt,radhusratt,Uppsala,Uppsala,stad,FALSE,name,Rådhusrätten i Uppsala
+1970,https://runeberg.org/statskal/1970/0306.html,306,Svea hovrätt,Uppsala,12,Uppsala läns södra domsaga,domsaga,,Tiunda,tingslag,FALSE,list,Uppsala läns södra domsaga
+1970,https://runeberg.org/statskal/1970/0306.html,306,Svea hovrätt,Uppsala,12,Uppsala läns södra domsaga,domsaga,,Trögds,tingslag,FALSE,list,Uppsala läns södra domsaga
+1970,https://runeberg.org/statskal/1970/0306.html,306,Svea hovrätt,Uppsala,13,Uppsala läns norra domsaga,domsaga,Uppsala,Uppsala läns norra,,FALSE,name,Uppsala läns norra domsaga
+1970,https://runeberg.org/statskal/1970/0306.html,306,Svea hovrätt,Södermanlands,14,Eskilstuna rådhusrätt,radhusratt,Eskilstuna,Eskilstuna,stad,FALSE,name,Rådhusrätten i Eskilstuna
+1970,https://runeberg.org/statskal/1970/0306.html,306,Svea hovrätt,Södermanlands,15,Nyköpings domsaga,domsaga,Nyköping o. Gnesta,Nyköpings,,FALSE,name,Nyköpings domsaga
+1970,https://runeberg.org/statskal/1970/0306.html,306,Svea hovrätt,Södermanlands,16,Oppunda och Villåttinge domsaga,domsaga,Katrineholm o. Malmköping,Oppunda,,FALSE,name,Oppunda och Villåttinge domsaga
+1970,https://runeberg.org/statskal/1970/0306.html,306,Svea hovrätt,Södermanlands,16,Oppunda och Villåttinge domsaga,domsaga,Katrineholm o. Malmköping,Villåttinge,,FALSE,name,Oppunda och Villåttinge domsaga
+1970,https://runeberg.org/statskal/1970/0306.html,306,Svea hovrätt,Södermanlands,17,Livgedingets domsaga,domsaga,Eskilstuna o. Strängnäs,Livgedingets,,FALSE,name,Livgedingets domsaga
+1970,https://runeberg.org/statskal/1970/0306.html,306,Svea hovrätt,Gotlands,18,Gotlands domsaga,domsaga,Visby o. Skogs,Gotlands,,FALSE,name,Gotlands domsaga
+1970,https://runeberg.org/statskal/1970/0307.html,307,Svea hovrätt,Örebro,19,Örebro rådhusrätt,radhusratt,Örebro,Örebro,stad,FALSE,name,Rådhusrätten i Örebro
+1970,https://runeberg.org/statskal/1970/0307.html,307,Svea hovrätt,Örebro,20,Östernärkes domsaga,domsaga,Örebro,Östernärkes,,FALSE,name,Östernärkes domsaga
+1970,https://runeberg.org/statskal/1970/0307.html,307,Svea hovrätt,Örebro,21,Västernärkes domsaga,domsaga,"Hallsberg, Askersund o. Fjugesta",Västernärkes,,FALSE,name,Västernärkes domsaga
+1970,https://runeberg.org/statskal/1970/0307.html,307,Svea hovrätt,Örebro,22,Karlskoga domsaga,domsaga,Karlskoga,Karlskoga,,FALSE,name,Karlskoga domsaga
+1970,https://runeberg.org/statskal/1970/0307.html,307,Svea hovrätt,Örebro,23,Lindes och Nora domsaga,domsaga,Lindesberg o. Nora,Lindes,,FALSE,name,Lindes och Nora domsaga
+1970,https://runeberg.org/statskal/1970/0307.html,307,Svea hovrätt,Örebro,23,Lindes och Nora domsaga,domsaga,Lindesberg o. Nora,Nora,,FALSE,name,Lindes och Nora domsaga
+1970,https://runeberg.org/statskal/1970/0307.html,307,Svea hovrätt,Västmanlands,24,Västerås rådhusrätt,radhusratt,Västerås,Västerås,stad,FALSE,name,Rådhusrätten i Västerås
+1970,https://runeberg.org/statskal/1970/0307.html,307,Svea hovrätt,Västmanlands,25,Västmanlands mellersta domsaga,domsaga,Norberg o. Fagersta,Västmanlands mellersta,,FALSE,name,Västmanlands mellersta domsaga
+1970,https://runeberg.org/statskal/1970/0307.html,307,Svea hovrätt,Västmanlands,26,Västmanlands västra domsaga,domsaga,,Åkerbo o.Skinnskattebergs,tingslag,FALSE,list,Västmanlands västra domsaga
+1970,https://runeberg.org/statskal/1970/0307.html,307,Svea hovrätt,Västmanlands,26,Västmanlands västra domsaga,domsaga,,Snevringe,tingslag,FALSE,list,Västmanlands västra domsaga
+1970,https://runeberg.org/statskal/1970/0307.html,307,Svea hovrätt,Västmanlands,27,Västmanlands östra domsaga,domsaga,Sala,Västmanlands östra,,FALSE,name,Västmanlands östra domsaga
+1970,https://runeberg.org/statskal/1970/0307.html,307,Svea hovrätt,Kopparbergs,28,Falu domsaga,domsaga,,Norra,tingslaget,FALSE,list,Falu domsaga
+1970,https://runeberg.org/statskal/1970/0307.html,307,Svea hovrätt,Kopparbergs,28,Falu domsaga,domsaga,,Södra,tingslaget,FALSE,list,Falu domsaga
+1970,https://runeberg.org/statskal/1970/0308.html,308,Svea hovrätt,Kopparbergs,29,Hedemora domsaga,domsaga,,Folkare,tingslag,FALSE,list,Hedemora domsaga
+1970,https://runeberg.org/statskal/1970/0308.html,308,Svea hovrätt,Kopparbergs,29,Hedemora domsaga,domsaga,,Hedemora,tingslag,FALSE,list,Hedemora domsaga
+1970,https://runeberg.org/statskal/1970/0308.html,308,Svea hovrätt,Kopparbergs,30,Västerbergslags domsaga,domsaga,Ludvika,Västerbergslags,,FALSE,name,Västerbergslags domsaga
+1970,https://runeberg.org/statskal/1970/0308.html,308,Svea hovrätt,Kopparbergs,31,Nås och Malungs domsaga,domsaga,Malung o. Nås,Nås,,FALSE,name,Nås och Malungs domsaga
+1970,https://runeberg.org/statskal/1970/0308.html,308,Svea hovrätt,Kopparbergs,31,Nås och Malungs domsaga,domsaga,Malung o. Nås,Malungs,,FALSE,name,Nås och Malungs domsaga
+1970,https://runeberg.org/statskal/1970/0308.html,308,Svea hovrätt,Kopparbergs,32,Nedansiljans domsaga,domsaga,Leksand o. Rättvik,Nedansiljans,,FALSE,name,Nedansiljans domsaga
+1970,https://runeberg.org/statskal/1970/0308.html,308,Svea hovrätt,Kopparbergs,33,Ovansiljans domsaga,domsaga,,Mora o. Orsa,tingslag,FALSE,list,Ovansiljans domsaga
+1970,https://runeberg.org/statskal/1970/0308.html,308,Svea hovrätt,Gävleborgs,34,Gävle rådhusrätt,radhusratt,Gävle,Gävle,stad,FALSE,name,Rådhusrätten i Gävle
+1970,https://runeberg.org/statskal/1970/0308.html,308,Svea hovrätt,Gävleborgs,35,Gästriklands östra domsaga,domsaga,Gävle,Gästriklands östra,,FALSE,name,Gästriklands östra domsaga
+1970,https://runeberg.org/statskal/1970/0308.html,308,Svea hovrätt,Gävleborgs,36,Gästriklands västra domsaga,domsaga,Storvik,Gästriklands västra,,FALSE,name,Gästriklands västra domsaga
+1970,https://runeberg.org/statskal/1970/0309.html,309,GÖTA,Östergötlands,37,Linköping rådhusrätt,radhusratt,Linköping,Linköping,stad,FALSE,name,Rådhusrätten i Linköping
+1970,https://runeberg.org/statskal/1970/0309.html,309,GÖTA,Östergötlands,38,Norrköping rådhusrätt,radhusratt,Norrköping,Norrköping,stad,FALSE,name,Rådhusrätten i Norrköping
+1970,https://runeberg.org/statskal/1970/0309.html,309,GÖTA,Östergötlands,39,Motala rådhusrätt,radhusratt,Motala,Motala,stad,FALSE,name,Rådhusrätten i Motala
+1970,https://runeberg.org/statskal/1970/0309.html,309,GÖTA,Östergötlands,40,Folkungabygdens domsaga,domsaga,,Folkungabygdens,,FALSE,name,Folkungabygdens domsaga
+1970,https://runeberg.org/statskal/1970/0309.html,309,GÖTA,Östergötlands,41,Bråbygdens och Finspånga läns domsaga,domsaga,Norrköping och Finspång,Bråbygdens,,FALSE,name,Bråbygdens och Finspånga läns domsaga
+1970,https://runeberg.org/statskal/1970/0309.html,309,GÖTA,Östergötlands,41,Bråbygdens och Finspånga läns domsaga,domsaga,Norrköping och Finspång,Finspånga läns,,FALSE,name,Bråbygdens och Finspånga läns domsaga
+1970,https://runeberg.org/statskal/1970/0309.html,309,GÖTA,Östergötlands,42,Linköpings domsaga,domsaga,Linköping o. Kisa,Linköpings,,FALSE,name,Linköpings domsaga
+1970,https://runeberg.org/statskal/1970/0310.html,310,GÖTA,Jönköpings,43,Jönköping rådhusrätt,radhusratt,Jönköping,Jönköping,stad,FALSE,name,Rådhusrätten i Jönköping
+1970,https://runeberg.org/statskal/1970/0310.html,310,GÖTA,Jönköpings,44,Norra och Södra Vedbo domsaga,domsaga,Eksjö o. Tranås,Norra Vedbo,,FALSE,name,Norra och Södra Vedbo domsaga
+1970,https://runeberg.org/statskal/1970/0310.html,310,GÖTA,Jönköpings,44,Norra och Södra Vedbo domsaga,domsaga,Eksjö o. Tranås,Södra Vedbo,,FALSE,name,Norra och Södra Vedbo domsaga
+1970,https://runeberg.org/statskal/1970/0310.html,310,GÖTA,Jönköpings,45,Njudungs domsaga,domsaga,Vetlanda o. Sävsjö,Njudungs,,FALSE,name,Njudungs domsaga
+1970,https://runeberg.org/statskal/1970/0310.html,310,GÖTA,Jönköpings,46,Östbo och Västbo domsaga,domsaga,Värnamo o. Reftele,Östbo,,FALSE,name,Östbo och Västbo domsaga
+1970,https://runeberg.org/statskal/1970/0310.html,310,GÖTA,Jönköpings,46,Östbo och Västbo domsaga,domsaga,Värnamo o. Reftele,Västbo,,FALSE,name,Östbo och Västbo domsaga
+1970,https://runeberg.org/statskal/1970/0310.html,310,GÖTA,Kronobergs,47,Växjö rådhusrätt,radhusratt,Växjö,Växjö,stad,FALSE,name,Rådhusrätten i Växjö
+1970,https://runeberg.org/statskal/1970/0310.html,310,GÖTA,Kronobergs,48,Östra Värends domsaga,domsaga,Växjö o. Lenhovda,Östra Värends,,FALSE,name,Östra Värends domsaga
+1970,https://runeberg.org/statskal/1970/0310.html,310,GÖTA,Kronobergs,49,Mellersta Värends domsaga,domsaga,Växjö,Mellersta Värends,,FALSE,name,Mellersta Värends domsaga
+1970,https://runeberg.org/statskal/1970/0310.html,310,GÖTA,Kronobergs,50,Västra Värends domsaga,domsaga,Alvesta,Västra Värends,,FALSE,name,Västra Värends domsaga
+1970,https://runeberg.org/statskal/1970/0310.html,310,GÖTA,Kronobergs,51,Sunnerbo domsaga,domsaga,Ljungby,Sunnerbo,,FALSE,name,Sunnerbo domsaga
+1970,https://runeberg.org/statskal/1970/0310.html,310,GÖTA,Kalmar,52,Kalmar rådhusrätt,radhusratt,Kalmar,Kalmar,stad,FALSE,name,Rådhusrätten i Kalmar
+1970,https://runeberg.org/statskal/1970/0311.html,311,Göta hovrätt,Kalmar,53,Västerviks domsaga,domsaga,Västervik o. Vimmerby,Västerviks,,FALSE,name,Västerviks domsaga
+1970,https://runeberg.org/statskal/1970/0311.html,311,Göta hovrätt,Kalmar,54,Oskarshamns domsaga,domsaga,Oskarshamn o. Högsby,Oskarshamns,,FALSE,name,Oskarshamns domsaga
+1970,https://runeberg.org/statskal/1970/0311.html,311,Göta hovrätt,Kalmar,55,Möre och Ölands domsaga,domsaga,Kalmar o. Borgholm,Möre,,FALSE,name,Möre och Ölands domsaga
+1970,https://runeberg.org/statskal/1970/0311.html,311,Göta hovrätt,Kalmar,55,Möre och Ölands domsaga,domsaga,Kalmar o. Borgholm,Ölands,,FALSE,name,Möre och Ölands domsaga
+1970,https://runeberg.org/statskal/1970/0311.html,311,Göta hovrätt,Skaraborgs,56,Vadsbo domsaga,domsaga,Mariestad o. Moholm,Vadsbo,,FALSE,name,Vadsbo domsaga
+1970,https://runeberg.org/statskal/1970/0311.html,311,Göta hovrätt,Skaraborgs,57,Skövde domsaga,domsaga,,Skövde,tingslag,FALSE,list,Skövde domsaga
+1970,https://runeberg.org/statskal/1970/0311.html,311,Göta hovrätt,Skaraborgs,57,Skövde domsaga,domsaga,,Gudhems o. Kåkinds,tingslag,FALSE,list,Skövde domsaga
+1970,https://runeberg.org/statskal/1970/0311.html,311,Göta hovrätt,Skaraborgs,58,Vartofta och Frökinds domsaga,domsaga,Falköping o. Tidaholm,Vartofta,,FALSE,name,Vartofta och Frökinds domsaga
+1970,https://runeberg.org/statskal/1970/0311.html,311,Göta hovrätt,Skaraborgs,58,Vartofta och Frökinds domsaga,domsaga,Falköping o. Tidaholm,Frökinds,,FALSE,name,Vartofta och Frökinds domsaga
+1970,https://runeberg.org/statskal/1970/0311.html,311,Göta hovrätt,Skaraborgs,59,Skarabygdens domsaga,domsaga,Skara o. Floby,Skarabygdens,,FALSE,name,Skarabygdens domsaga
+1970,https://runeberg.org/statskal/1970/0312.html,312,HOVRÄTTEN ÖVER SKÅNE OCH BLEKINGE,Blekinge,60,Karlskrona rådhusrätt,radhusratt,Karlskrona,Karlskrona,stad,FALSE,name,Rådhusrätten i Karlskrona
+1970,https://runeberg.org/statskal/1970/0312.html,312,HOVRÄTTEN ÖVER SKÅNE OCH BLEKINGE,Blekinge,61,Östra och Medelsta domsaga,domsaga,Lyckeby o. Ronneby,Östra,,FALSE,name,Östra och Medelsta domsaga
+1970,https://runeberg.org/statskal/1970/0312.html,312,HOVRÄTTEN ÖVER SKÅNE OCH BLEKINGE,Blekinge,61,Östra och Medelsta domsaga,domsaga,Lyckeby o. Ronneby,Medelsta,,FALSE,name,Östra och Medelsta domsaga
+1970,https://runeberg.org/statskal/1970/0312.html,312,HOVRÄTTEN ÖVER SKÅNE OCH BLEKINGE,Blekinge,62,Bräkne och Karlshamns domsaga,domsaga,Karlshamn,Bräkne,,FALSE,name,Bräkne och Karlshamns domsaga
+1970,https://runeberg.org/statskal/1970/0312.html,312,HOVRÄTTEN ÖVER SKÅNE OCH BLEKINGE,Blekinge,62,Bräkne och Karlshamns domsaga,domsaga,Karlshamn,Karlshamns,,FALSE,name,Bräkne och Karlshamns domsaga
+1970,https://runeberg.org/statskal/1970/0312.html,312,HOVRÄTTEN ÖVER SKÅNE OCH BLEKINGE,Blekinge,63,Listers och Sölvesborgs domsaga,domsaga,Sölvesborg,Listers,,FALSE,name,Listers och Sölvesborgs domsaga
+1970,https://runeberg.org/statskal/1970/0312.html,312,HOVRÄTTEN ÖVER SKÅNE OCH BLEKINGE,Blekinge,63,Listers och Sölvesborgs domsaga,domsaga,Sölvesborg,Sölvesborgs,,FALSE,name,Listers och Sölvesborgs domsaga
+1970,https://runeberg.org/statskal/1970/0312.html,312,HOVRÄTTEN ÖVER SKÅNE OCH BLEKINGE,Kristianstads,64,Ingelstads och Järrestads domsaga,domsaga,Hammenhög o. Simrishamn,Ingelstads,,FALSE,name,Ingelstads och Järrestads domsaga
+1970,https://runeberg.org/statskal/1970/0312.html,312,HOVRÄTTEN ÖVER SKÅNE OCH BLEKINGE,Kristianstads,64,Ingelstads och Järrestads domsaga,domsaga,Hammenhög o. Simrishamn,Järrestads,,FALSE,name,Ingelstads och Järrestads domsaga
+1970,https://runeberg.org/statskal/1970/0312.html,312,HOVRÄTTEN ÖVER SKÅNE OCH BLEKINGE,Kristianstads,65,Kristianstads domsaga,domsaga,Kristianstad,Kristianstads,,FALSE,name,Kristianstads domsaga
+1970,https://runeberg.org/statskal/1970/0312.html,312,HOVRÄTTEN ÖVER SKÅNE OCH BLEKINGE,Kristianstads,66,Västra Göinge domsaga,domsaga,Hässleholm,Västra Göinge,,FALSE,name,Västra Göinge domsaga
+1970,https://runeberg.org/statskal/1970/0312.html,312,HOVRÄTTEN ÖVER SKÅNE OCH BLEKINGE,Kristianstads,67,Norra Åsbo domsaga,domsaga,Klippan,Norra Åsbo,,FALSE,name,Norra Åsbo domsaga
+1970,https://runeberg.org/statskal/1970/0313.html,313,Hovrätten Över Skåne o. Blekinge,Kristianstads,68,Södra Åsbo och Bjäre domsaga,domsaga,Ängelholm,Södra Åsbo,,FALSE,name,Södra Åsbo och Bjäre domsaga
+1970,https://runeberg.org/statskal/1970/0313.html,313,Hovrätten Över Skåne o. Blekinge,Kristianstads,68,Södra Åsbo och Bjäre domsaga,domsaga,Ängelholm,Bjäre,,FALSE,name,Södra Åsbo och Bjäre domsaga
+1970,https://runeberg.org/statskal/1970/0313.html,313,Hovrätten Över Skåne o. Blekinge,Malmöhus,69,Malmö rådhusrätt,radhusratt,Malmö,Malmö,stad,FALSE,name,Rådhusrätten i Malmö
+1970,https://runeberg.org/statskal/1970/0313.html,313,Hovrätten Över Skåne o. Blekinge,Malmöhus,70,Lund rådhusrätt,radhusratt,Lund,Lund,stad,FALSE,name,Rådhusrätten i Lund
+1970,https://runeberg.org/statskal/1970/0313.html,313,Hovrätten Över Skåne o. Blekinge,Malmöhus,71,Hälsingborg rådhusrätt,radhusratt,Hälsingborg,Hälsingborg,stad,FALSE,name,Rådhusrätten i Hälsingborg
+1970,https://runeberg.org/statskal/1970/0313.html,313,Hovrätten Över Skåne o. Blekinge,Malmöhus,72,Oxie och Skytts domsaga,domsaga,Malmö o. Trelleborg,Oxie,,FALSE,name,Oxie och Skytts domsaga
+1970,https://runeberg.org/statskal/1970/0313.html,313,Hovrätten Över Skåne o. Blekinge,Malmöhus,72,Oxie och Skytts domsaga,domsaga,Malmö o. Trelleborg,Skytts,,FALSE,name,Oxie och Skytts domsaga
+1970,https://runeberg.org/statskal/1970/0313.html,313,Hovrätten Över Skåne o. Blekinge,Malmöhus,73,Torna och Bara domsaga,domsaga,Lund,Torna,,FALSE,name,Torna och Bara domsaga
+1970,https://runeberg.org/statskal/1970/0313.html,313,Hovrätten Över Skåne o. Blekinge,Malmöhus,73,Torna och Bara domsaga,domsaga,Lund,Bara,,FALSE,name,Torna och Bara domsaga
+1970,https://runeberg.org/statskal/1970/0314.html,314,Hovrätten Över Skåne o. Blekinge,Malmöhus,74,Ystads domsaga,domsaga,Ystad,Ystads,,FALSE,name,Ystads domsaga
+1970,https://runeberg.org/statskal/1970/0314.html,314,Hovrätten Över Skåne o. Blekinge,Malmöhus,75,Frosta och Eslövs domsaga,domsaga,Eslöv o. Hörby,Frosta,,FALSE,name,Frosta och Eslövs domsaga
+1970,https://runeberg.org/statskal/1970/0314.html,314,Hovrätten Över Skåne o. Blekinge,Malmöhus,75,Frosta och Eslövs domsaga,domsaga,Eslöv o. Hörby,Eslövs,,FALSE,name,Frosta och Eslövs domsaga
+1970,https://runeberg.org/statskal/1970/0314.html,314,Hovrätten Över Skåne o. Blekinge,Malmöhus,76,Landskrona domsaga,domsaga,Marieholm o. Landskrona,Landskrona,,FALSE,name,Landskrona domsaga
+1970,https://runeberg.org/statskal/1970/0314.html,314,Hovrätten Över Skåne o. Blekinge,Malmöhus,77,Luggude domsaga,domsaga,Hälsingborg,Luggude,,FALSE,name,Luggude domsaga
+1970,https://runeberg.org/statskal/1970/0314.html,314,HOVRÄTTEN FÖR VÄSTRA SVERIGE,Hallands,78,Halmstad rådhusrätt,radhusratt,Halmstad,Halmstad,stad,FALSE,name,Rådhusrätten i Halmstad
+1970,https://runeberg.org/statskal/1970/0314.html,314,HOVRÄTTEN FÖR VÄSTRA SVERIGE,Hallands,79,Varberg rådhusrätt,radhusratt,Varberg,Varberg,stad,FALSE,name,Rådhusrätten i Varberg
+1970,https://runeberg.org/statskal/1970/0314.html,314,HOVRÄTTEN FÖR VÄSTRA SVERIGE,Hallands,80,Hallands södra domsaga,domsaga,Halmstad o. Laholm,Hallands södra,,FALSE,name,Hallands södra domsaga
+1970,https://runeberg.org/statskal/1970/0314.html,314,HOVRÄTTEN FÖR VÄSTRA SVERIGE,Hallands,81,Hallands mellersta domsaga,domsaga,Falkenberg o. Varberg,Hallands mellersta,,FALSE,name,Hallands mellersta domsaga
+1970,https://runeberg.org/statskal/1970/0314.html,314,HOVRÄTTEN FÖR VÄSTRA SVERIGE,Hallands,82,Hallands norra domsaga,domsaga,Skansen,Hallands norra,,FALSE,name,Hallands norra domsaga
+1970,https://runeberg.org/statskal/1970/0315.html,315,Hovrätten för Västra Sverige,Göteborgs och bohus,83,Göteborgs rådhusrätt,radhusratt,,Göteborgs,stad,FALSE,name,Göteborgs rådhusrätt
+1970,https://runeberg.org/statskal/1970/0315.html,315,Hovrätten för Västra Sverige,Göteborgs och bohus,84,Uddevalla rådhusrätt,radhusratt,Uddevalla,Uddevalla,stad,FALSE,name,Rådhusrätten i Uddevalla
+1970,https://runeberg.org/statskal/1970/0315.html,315,Hovrätten för Västra Sverige,Göteborgs och bohus,85,Askims och Mölndals domsaga,domsaga,Göteborg,Askims,,FALSE,name,Askims och Mölndals domsaga
+1970,https://runeberg.org/statskal/1970/0315.html,315,Hovrätten för Västra Sverige,Göteborgs och bohus,85,Askims och Mölndals domsaga,domsaga,Göteborg,Mölndals,,FALSE,name,Askims och Mölndals domsaga
+1970,https://runeberg.org/statskal/1970/0316.html,316,Hovrätten för Västra Sverige,Göteborgs och bohus,86,Sunnervikens domsaga,domsaga,Kvistrum,Sunnervikens,,FALSE,name,Sunnervikens domsaga
+1970,https://runeberg.org/statskal/1970/0316.html,316,Hovrätten för Västra Sverige,Göteborgs och bohus,87,Norrvikens domsaga,domsaga,Strömstad,Norrvikens,,FALSE,name,Norrvikens domsaga
+1970,https://runeberg.org/statskal/1970/0316.html,316,Hovrätten för Västra Sverige,Älvsborgs,88,Borås rådhusrätt,radhusratt,Borås,Borås,stad,FALSE,name,Rådhusrätten i Borås
+1970,https://runeberg.org/statskal/1970/0316.html,316,Hovrätten för Västra Sverige,Älvsborgs,89,Marks domsaga,domsaga,Skene,Marks,,FALSE,name,Marks domsaga
+1970,https://runeberg.org/statskal/1970/0316.html,316,Hovrätten för Västra Sverige,Älvsborgs,90,Kinds och Redvägs domsaga,domsaga,Svenljunga o. Ulricehamn,Kinds,,FALSE,name,Kinds och Redvägs domsaga
+1970,https://runeberg.org/statskal/1970/0316.html,316,Hovrätten för Västra Sverige,Älvsborgs,90,Kinds och Redvägs domsaga,domsaga,Svenljunga o. Ulricehamn,Redvägs,,FALSE,name,Kinds och Redvägs domsaga
+1970,https://runeberg.org/statskal/1970/0316.html,316,Hovrätten för Västra Sverige,Älvsborgs,91,Borås domsaga,domsaga,Borås,Borås,,FALSE,name,Borås domsaga
+1970,https://runeberg.org/statskal/1970/0316.html,316,Hovrätten för Västra Sverige,Älvsborgs,92,Vänersborgs domsaga,domsaga,"Vänersborg, Mellerud o. Tångelanda",Vänersborgs,,FALSE,name,Vänersborgs domsaga
+1970,https://runeberg.org/statskal/1970/0316.html,316,Hovrätten för Västra Sverige,Älvsborgs,93,Tössbo och Vedbo domsaga,domsaga,Åmål o. Bengtsfors,Tössbo,,FALSE,name,Tössbo och Vedbo domsaga
+1970,https://runeberg.org/statskal/1970/0316.html,316,Hovrätten för Västra Sverige,Älvsborgs,93,Tössbo och Vedbo domsaga,domsaga,Åmål o. Bengtsfors,Vedbo,,FALSE,name,Tössbo och Vedbo domsaga
+1970,https://runeberg.org/statskal/1970/0316.html,316,Hovrätten för Västra Sverige,Värmlands,94,Karlstad rådhusrätt,radhusratt,Karlstad,Karlstad,stad,FALSE,name,Rådhusrätten i Karlstad
+1970,https://runeberg.org/statskal/1970/0317.html,317,Hovrätten för Västra Sverige,Värmlands,95,Östersysslets domsaga,domsaga,Kristinehamn o. Filipstad,Östersysslets,,FALSE,name,Östersysslets domsaga
+1970,https://runeberg.org/statskal/1970/0317.html,317,Hovrätten för Västra Sverige,Värmlands,96,Mellansysslets domsaga,domsaga,Karlstad,Mellansysslets,,FALSE,name,Mellansysslets domsaga
+1970,https://runeberg.org/statskal/1970/0317.html,317,Hovrätten för Västra Sverige,Värmlands,97,Södersysslets domsaga,domsaga,Säffle o. Häljebol,Södersysslets,,FALSE,name,Södersysslets domsaga
+1970,https://runeberg.org/statskal/1970/0317.html,317,Hovrätten för Västra Sverige,Värmlands,98,Nordmarks domsaga,domsaga,Årjäng,Nordmarks,,FALSE,name,Nordmarks domsaga
+1970,https://runeberg.org/statskal/1970/0317.html,317,Hovrätten för Västra Sverige,Värmlands,99,Jösse domsaga,domsaga,Arvika,Jösse,,FALSE,name,Jösse domsaga
+1970,https://runeberg.org/statskal/1970/0317.html,317,Hovrätten för Västra Sverige,Värmlands,100,Fryksdals domsaga,domsaga,Sunne o. Torsby,Fryksdals,,FALSE,name,Fryksdals domsaga
+1970,https://runeberg.org/statskal/1970/0317.html,317,Hovrätten för Västra Sverige,Värmlands,101,Älvdals och Nyeds domsaga,domsaga,,Älvdals övre,tingslag,FALSE,list,Älvdals och Nyeds domsaga
+1970,https://runeberg.org/statskal/1970/0317.html,317,Hovrätten för Västra Sverige,Värmlands,101,Älvdals och Nyeds domsaga,domsaga,,Älvdals nedre,tingslag,FALSE,list,Älvdals och Nyeds domsaga
+1970,https://runeberg.org/statskal/1970/0317.html,317,Hovrätten för Västra Sverige,Värmlands,101,Älvdals och Nyeds domsaga,domsaga,,Nyeds,tingslag,FALSE,list,Älvdals och Nyeds domsaga
+1970,https://runeberg.org/statskal/1970/0317.html,317,HOVRÄTTEN FÖR NEDRE NORRLAND,Gävleborgs,102,Bollnäs domsaga,domsaga,Bollnäs,Bollnäs,,FALSE,name,Bollnäs domsaga
+1970,https://runeberg.org/statskal/1970/0317.html,317,HOVRÄTTEN FÖR NEDRE NORRLAND,Gävleborgs,103,Sydöstra Hälsinglands domsaga,domsaga,Söderhamn,Sydöstra Hälsinglands,,FALSE,name,Sydöstra Hälsinglands domsaga
+1970,https://runeberg.org/statskal/1970/0317.html,317,HOVRÄTTEN FÖR NEDRE NORRLAND,Gävleborgs,104,Norra Hälsinglands domsaga,domsaga,Hudiksvall o. Ede,Norra Hälsinglands,,FALSE,name,Norra Hälsinglands domsaga
+1970,https://runeberg.org/statskal/1970/0318.html,318,HOVRÄTTEN FÖR NEDRE NORRLAND,Gävleborgs,105,Västra Hälsinglands domsaga,domsaga,Ljusdal,Västra Hälsinglands,,FALSE,name,Västra Hälsinglands domsaga
+1970,https://runeberg.org/statskal/1970/0318.html,318,HOVRÄTTEN FÖR NEDRE NORRLAND,Västernorrlands,106,Sundsvall rådhusrätt,radhusratt,Sundsvall,Sundsvall,stad,FALSE,name,Rådhusrätten i Sundsvall
+1970,https://runeberg.org/statskal/1970/0318.html,318,HOVRÄTTEN FÖR NEDRE NORRLAND,Västernorrlands,107,Medelpads domsaga,domsaga,Sundsvall,Medelpads,,FALSE,name,Medelpads domsaga
+1970,https://runeberg.org/statskal/1970/0318.html,318,HOVRÄTTEN FÖR NEDRE NORRLAND,Västernorrlands,108,Ångermanlands södra domsaga,domsaga,Härnösand,Ångermanlands södra,,FALSE,name,Ångermanlands södra domsaga
+1970,https://runeberg.org/statskal/1970/0318.html,318,HOVRÄTTEN FÖR NEDRE NORRLAND,Västernorrlands,109,Sollefteå domsaga,domsaga,Sollefteå och Ramsele,Sollefteå,,FALSE,name,Sollefteå domsaga
+1970,https://runeberg.org/statskal/1970/0318.html,318,HOVRÄTTEN FÖR NEDRE NORRLAND,Västernorrlands,110,Ångermanlands norra domsaga,domsaga,Örnsköldsvik,Ångermanlands norra,,FALSE,name,Ångermanlands norra domsaga
+1970,https://runeberg.org/statskal/1970/0318.html,318,HOVRÄTTEN FÖR NEDRE NORRLAND,Jämtlands,111,Östersund rådhusrätt,radhusratt,Östersund,Östersund,stad,FALSE,name,Rådhusrätten i Östersund
+1970,https://runeberg.org/statskal/1970/0318.html,318,HOVRÄTTEN FÖR NEDRE NORRLAND,Jämtlands,112,Jämtlands östra domsaga,domsaga,Östersund o. Ragunda,Jämtlands östra,,FALSE,name,Jämtlands östra domsaga
+1970,https://runeberg.org/statskal/1970/0318.html,318,HOVRÄTTEN FÖR NEDRE NORRLAND,Jämtlands,113,Jämtlands norra domsaga,domsaga,Östersund o. Strömsund,Jämtlands norra,,FALSE,name,Jämtlands norra domsaga
+1970,https://runeberg.org/statskal/1970/0318.html,318,HOVRÄTTEN FÖR NEDRE NORRLAND,Jämtlands,114,Jämtlands västra domsaga,domsaga,Östersund,Jämtlands västra,,FALSE,name,Jämtlands västra domsaga
+1970,https://runeberg.org/statskal/1970/0319.html,319,HOVRÄTTEN FÖR NEDRE NORRLAND,Jämtlands,115,Härjedalens domsaga,domsaga,,Svegs o. Hede,tingslag,FALSE,list,Härjedalens domsaga
+1970,https://runeberg.org/statskal/1970/0319.html,319,HOVRÄTTEN FÖR NEDRE NORRLAND,Jämtlands,115,Härjedalens domsaga,domsaga,,Bergs,tingslag,FALSE,list,Härjedalens domsaga
+1970,https://runeberg.org/statskal/1970/0319.html,319,HOVRÄTTEN FÖR ÖVRE NORRLAND,Västerbottens,116,Umeå rådhusrätt,radhusratt,Umeå,Umeå,stad,FALSE,name,Rådhusrätten i Umeå
+1970,https://runeberg.org/statskal/1970/0319.html,319,HOVRÄTTEN FÖR ÖVRE NORRLAND,Västerbottens,117,Västerbottens södra domsaga,domsaga,"Umeå, Nordmaling o. Vindeln",Västerbottens södra,,FALSE,name,Västerbottens södra domsaga
+1970,https://runeberg.org/statskal/1970/0319.html,319,HOVRÄTTEN FÖR ÖVRE NORRLAND,Västerbottens och Norrbottens,118,Västerbottens västra domsaga,domsaga,,Åsele o. Vilhelmina,tingslag,FALSE,list,Västerbottens västra domsaga
+1970,https://runeberg.org/statskal/1970/0319.html,319,HOVRÄTTEN FÖR ÖVRE NORRLAND,Västerbottens och Norrbottens,119,Västerbottens mellersta domsaga,domsaga,Ånäset o. Burträsk,Västerbottens mellersta,,FALSE,name,Västerbottens mellersta domsaga
+1970,https://runeberg.org/statskal/1970/0319.html,319,HOVRÄTTEN FÖR ÖVRE NORRLAND,Västerbottens och Norrbottens,120,Skellefteå domsaga,domsaga,,Skellefteå,tingslag,FALSE,list,Skellefteå domsaga
+1970,https://runeberg.org/statskal/1970/0319.html,319,HOVRÄTTEN FÖR ÖVRE NORRLAND,Västerbottens och Norrbottens,120,Skellefteå domsaga,domsaga,,Malå o. Norsjö,tingslag,FALSE,list,Skellefteå domsaga
+1970,https://runeberg.org/statskal/1970/0319.html,319,HOVRÄTTEN FÖR ÖVRE NORRLAND,Norrbottens,121,Luleå rådhusrätt,radhusratt,Luleå,Luleå,stad,FALSE,name,Rådhusrätten i Luleå
+1970,https://runeberg.org/statskal/1970/0319.html,319,HOVRÄTTEN FÖR ÖVRE NORRLAND,Norrbottens,122,Piteå domsaga,domsaga,,Piteå o. Älvsby,tingslag,FALSE,list,Piteå domsaga
+1970,https://runeberg.org/statskal/1970/0319.html,319,HOVRÄTTEN FÖR ÖVRE NORRLAND,Norrbottens,122,Piteå domsaga,domsaga,,Arvidsjaurs o. Arjeplogs,tingslag,FALSE,list,Piteå domsaga
+1970,https://runeberg.org/statskal/1970/0319.html,319,HOVRÄTTEN FÖR ÖVRE NORRLAND,Norrbottens,123,Bodens domsaga,domsaga,,Bodens,tingslag,FALSE,list,Bodens domsaga
+1970,https://runeberg.org/statskal/1970/0319.html,319,HOVRÄTTEN FÖR ÖVRE NORRLAND,Norrbottens,123,Bodens domsaga,domsaga,,Jokkmokks,tingslag,FALSE,list,Bodens domsaga
+1970,https://runeberg.org/statskal/1970/0319.html,319,HOVRÄTTEN FÖR ÖVRE NORRLAND,Norrbottens,124,Kalix domsaga,domsaga,Kalix o. Bränna,Kalix,,FALSE,name,Kalix domsaga
+1970,https://runeberg.org/statskal/1970/0320.html,320,HOVRÄTTEN FÖR ÖVRE NORRLAND,Norrbottens,125,Torneå domsaga,domsaga,,Torneå,tingslag,FALSE,list,Torneå domsaga
+1970,https://runeberg.org/statskal/1970/0320.html,320,HOVRÄTTEN FÖR ÖVRE NORRLAND,Norrbottens,125,Torneå domsaga,domsaga,,Pajala o. Korpilombolo,tingslag,FALSE,list,Torneå domsaga
+1970,https://runeberg.org/statskal/1970/0320.html,320,HOVRÄTTEN FÖR ÖVRE NORRLAND,Norrbottens,126,Gällivare domsaga,domsaga,,Jukkasjärvi o. Karesuando,tingslag,FALSE,list,Gällivare domsaga
+1970,https://runeberg.org/statskal/1970/0320.html,320,HOVRÄTTEN FÖR ÖVRE NORRLAND,Norrbottens,126,Gällivare domsaga,domsaga,,Gällivare,tingslag,FALSE,list,Gällivare domsaga

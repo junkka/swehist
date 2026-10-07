@@ -1,0 +1,98 @@
+year,url,page,hovratt,county_raw,court_no,court_name,court_kind,seat,unit,unit_kind,partial,unit_source,source_text
+1984,https://runeberg.org/statskal/1984/0292.html,292,Svea hovrätt,Stockholms,1,Handens tingsrätt,tingsratt,Handen,,,FALSE,none,Handens tingsrätt
+1984,https://runeberg.org/statskal/1984/0292.html,292,Svea hovrätt,Stockholms,2,Huddinge tingsrätt,tingsratt,Huddinge,,,FALSE,none,Huddinge tingsrätt
+1984,https://runeberg.org/statskal/1984/0293.html,293,Svea hovrätt,Stockholms,3,Jakobsbergs tingsrätt,tingsratt,Jakobsberg,,,FALSE,none,Jakobsbergs tingsrätt
+1984,https://runeberg.org/statskal/1984/0293.html,293,Svea hovrätt,Stockholms,4,Nacka tingsrätt,tingsratt,Stockholm,,,FALSE,none,Nacka tingsrätt
+1984,https://runeberg.org/statskal/1984/0293.html,293,Svea hovrätt,Stockholms,5,Norrtälje tingsrätt,tingsratt,Norrtälje,,,FALSE,none,Norrtälje tingsrätt
+1984,https://runeberg.org/statskal/1984/0293.html,293,Svea hovrätt,Stockholms,6,Sollentuna tingsrätt,tingsratt,Sollentuna,,,FALSE,none,Sollentuna tingsrätt
+1984,https://runeberg.org/statskal/1984/0293.html,293,Svea hovrätt,Stockholms,7,Solna tingsrätt,tingsratt,Solna,,,FALSE,none,Solna tingsrätt
+1984,https://runeberg.org/statskal/1984/0293.html,293,Svea hovrätt,Stockholms,8,Stockholms tingsrätt,tingsratt,Stockholm,,,FALSE,none,Stockholms tingsrätt
+1984,https://runeberg.org/statskal/1984/0294.html,294,Svea hovrätt,Stockholms,9,Södertälje tingsrätt,tingsratt,Södertälje,,,FALSE,none,Södertälje tingsrätt
+1984,https://runeberg.org/statskal/1984/0294.html,294,Svea hovrätt,Stockholms,10,Södra Roslags tingsrätt,tingsratt,Stockholm,,,FALSE,none,Södra Roslags tingsrätt
+1984,https://runeberg.org/statskal/1984/0294.html,294,Svea hovrätt,C Uppsala,11,Enköpings tingsrätt,tingsratt,Enköping,,,FALSE,none,Enköpings tingsrätt
+1984,https://runeberg.org/statskal/1984/0295.html,295,Svea hovrätt,C Uppsala,12,Tierps tingsrätt,tingsratt,Tierp och Östhammar,,,FALSE,none,Tierps tingsrätt
+1984,https://runeberg.org/statskal/1984/0295.html,295,Svea hovrätt,C Uppsala,13,Uppsala tingsrätt,tingsratt,Uppsala,,,FALSE,none,Uppsala tingsrätt
+1984,https://runeberg.org/statskal/1984/0295.html,295,Svea hovrätt,Södermanlands,14,Eskilstuna tingsrätt,tingsratt,Eskilstuna och Strängnäs,,,FALSE,none,Eskilstuna tingsrätt
+1984,https://runeberg.org/statskal/1984/0295.html,295,Svea hovrätt,Södermanlands,15,Katrineholms tingsrätt,tingsratt,Katrineholm och Malmköping,,,FALSE,none,Katrineholms tingsrätt
+1984,https://runeberg.org/statskal/1984/0295.html,295,Svea hovrätt,Södermanlands,16,Nyköpings tingsrätt,tingsratt,Nyköping,,,FALSE,none,Nyköpings tingsrätt
+1984,https://runeberg.org/statskal/1984/0295.html,295,Svea hovrätt,Gotlands,17,Gotlands tingsrätt,tingsratt,Visby och Skogs,,,FALSE,none,Gotlands tingsrätt
+1984,https://runeberg.org/statskal/1984/0295.html,295,Svea hovrätt,Örebro,18,Hallsbergs tingsrätt,tingsratt,Hallsberg,,,FALSE,none,Hallsbergs tingsrätt
+1984,https://runeberg.org/statskal/1984/0295.html,295,Svea hovrätt,Örebro,19,Karlskoga tingsrätt,tingsratt,Karlskoga,,,FALSE,none,Karlskoga tingsrätt
+1984,https://runeberg.org/statskal/1984/0295.html,295,Svea hovrätt,Örebro,20,Lindesbergs tingsrätt,tingsratt,Lindesberg och Hällefors,,,FALSE,none,Lindesbergs tingsrätt
+1984,https://runeberg.org/statskal/1984/0295.html,295,Svea hovrätt,Örebro,21,Örebro tingsrätt,tingsratt,Örebro,,,FALSE,none,Örebro tingsrätt
+1984,https://runeberg.org/statskal/1984/0296.html,296,Svea hovrätt,Västmanlands,22,Köpings tingsrätt,tingsratt,Köping och Kolbäck,,,FALSE,none,Köpings tingsrätt
+1984,https://runeberg.org/statskal/1984/0296.html,296,Svea hovrätt,Västmanlands,23,Sala tingsrätt,tingsratt,Sala och Fagersta,,,FALSE,none,Sala tingsrätt
+1984,https://runeberg.org/statskal/1984/0296.html,296,Svea hovrätt,Västmanlands,24,Västerås tingsrätt,tingsratt,Västerås,,,FALSE,none,Västerås tingsrätt
+1984,https://runeberg.org/statskal/1984/0296.html,296,Svea hovrätt,Kopparbergs,25,Falu tingsrätt,tingsratt,Falun,,,FALSE,none,Falu tingsrätt
+1984,https://runeberg.org/statskal/1984/0296.html,296,Svea hovrätt,Kopparbergs,26,Hedemora tingsrätt,tingsratt,Hedemora och Krylbo,,,FALSE,none,Hedemora tingsrätt
+1984,https://runeberg.org/statskal/1984/0296.html,296,Svea hovrätt,Kopparbergs,27,Leksands tingsrätt,tingsratt,Leksand och Rättvik,,,FALSE,none,Leksands tingsrätt
+1984,https://runeberg.org/statskal/1984/0296.html,296,Svea hovrätt,Kopparbergs,28,Ludvika tingsrätt,tingsratt,Ludvika och Nås,,,FALSE,none,Ludvika tingsrätt
+1984,https://runeberg.org/statskal/1984/0296.html,296,Svea hovrätt,Kopparbergs,29,Mora tingsrätt,tingsratt,"Mora, Malung och Särna",,,FALSE,none,Mora tingsrätt
+1984,https://runeberg.org/statskal/1984/0296.html,296,Göta hovrätt,Östergötlands,30,Linköpings tingsrätt,tingsratt,Linköping,,,FALSE,none,Linköpings tingsrätt
+1984,https://runeberg.org/statskal/1984/0297.html,297,Göta hovrätt,Östergötlands,31,Mjölby tingsrätt,tingsratt,Mjölby,,,FALSE,none,Mjölby tingsrätt
+1984,https://runeberg.org/statskal/1984/0297.html,297,Göta hovrätt,Östergötlands,32,Motala tingsrätt,tingsratt,Motala,,,FALSE,none,Motala tingsrätt
+1984,https://runeberg.org/statskal/1984/0297.html,297,Göta hovrätt,Östergötlands,33,Norrköpings tingsrätt,tingsratt,Norrköping,,,FALSE,none,Norrköpings tingsrätt
+1984,https://runeberg.org/statskal/1984/0297.html,297,Göta hovrätt,Jönköpings,34,Eksjö tingsrätt,tingsratt,Eksjö och Tranås,,,FALSE,none,Eksjö tingsrätt
+1984,https://runeberg.org/statskal/1984/0297.html,297,Göta hovrätt,Jönköpings,35,Jönköpings tingsrätt,tingsratt,Jönköping,,,FALSE,none,Jönköpings tingsrätt
+1984,https://runeberg.org/statskal/1984/0297.html,297,Göta hovrätt,Jönköpings,36,Värnamo tingsrätt,tingsratt,Värnamo och Reftele,,,FALSE,none,Värnamo tingsrätt
+1984,https://runeberg.org/statskal/1984/0297.html,297,Göta hovrätt,Kronobergs,37,Ljungby tingsrätt,tingsratt,Ljungby,,,FALSE,none,Ljungby tingsrätt
+1984,https://runeberg.org/statskal/1984/0297.html,297,Göta hovrätt,Kronobergs,38,Växjö tingsrätt,tingsratt,Växjö,,,FALSE,none,Växjö tingsrätt
+1984,https://runeberg.org/statskal/1984/0297.html,297,Göta hovrätt,Kalmar,39,Kalmar tingsrätt,tingsratt,Kalmar och Borgholm,,,FALSE,none,Kalmar tingsrätt
+1984,https://runeberg.org/statskal/1984/0298.html,298,Göta hovrätt,Kalmar,40,Oskarshamns tingsrätt,tingsratt,Oskarshamn,,,FALSE,none,Oskarshamns tingsrätt
+1984,https://runeberg.org/statskal/1984/0298.html,298,Göta hovrätt,Kalmar,41,Västerviks tingsrätt,tingsratt,Västervik och Vimmerby,,,FALSE,none,Västerviks tingsrätt
+1984,https://runeberg.org/statskal/1984/0298.html,298,Göta hovrätt,Skaraborgs,42,Falköpings tingsrätt,tingsratt,Falköping,,,FALSE,none,Falköpings tingsrätt
+1984,https://runeberg.org/statskal/1984/0298.html,298,Göta hovrätt,Skaraborgs,43,Lidköpings tingsrätt,tingsratt,Lidköping,,,FALSE,none,Lidköpings tingsrätt
+1984,https://runeberg.org/statskal/1984/0298.html,298,Göta hovrätt,Skaraborgs,44,Mariestads tingsrätt,tingsratt,Mariestad,,,FALSE,none,Mariestads tingsrätt
+1984,https://runeberg.org/statskal/1984/0298.html,298,Göta hovrätt,Skaraborgs,45,Skövde tingsrätt,tingsratt,Skövde,,,FALSE,none,Skövde tingsrätt
+1984,https://runeberg.org/statskal/1984/0298.html,298,Hovrätten över Skåne och,Blekinge,46,Karlshamns tingsrätt,tingsratt,Karlshamn,,,FALSE,none,Karlshamns tingsrätt
+1984,https://runeberg.org/statskal/1984/0298.html,298,Hovrätten över Skåne och,Blekinge,47,Karlskrona tingsrätt,tingsratt,Karlskrona,,,FALSE,none,Karlskrona tingsrätt
+1984,https://runeberg.org/statskal/1984/0298.html,298,Hovrätten över Skåne och,Blekinge,48,Ronneby tingsrätt,tingsratt,Ronneby,,,FALSE,none,Ronneby tingsrätt
+1984,https://runeberg.org/statskal/1984/0298.html,298,Hovrätten över Skåne och,Blekinge,49,Sölvesborgs tingsrätt,tingsratt,Sölvesborg,,,FALSE,none,Sölvesborgs tingsrätt
+1984,https://runeberg.org/statskal/1984/0298.html,298,Hovrätten över Skåne och,Kristianstads,50,Hässleholms tingsrätt,tingsratt,Hässleholm,,,FALSE,none,Hässleholms tingsrätt
+1984,https://runeberg.org/statskal/1984/0298.html,298,Hovrätten över Skåne och,Kristianstads,51,Klippans tingsrätt,tingsratt,Klippan,,,FALSE,none,Klippans tingsrätt
+1984,https://runeberg.org/statskal/1984/0299.html,299,Hovrätten över Skåne och,Kristianstads,52,Kristianstads tingsrätt,tingsratt,Kristianstad,,,FALSE,none,Kristianstads tingsrätt
+1984,https://runeberg.org/statskal/1984/0299.html,299,Hovrätten över Skåne och,Kristianstads,53,Simrishamns tingsrätt,tingsratt,Simrishamn och Hammenhög,,,FALSE,none,Simrishamns tingsrätt
+1984,https://runeberg.org/statskal/1984/0299.html,299,Hovrätten över Skåne och,Kristianstads,54,Ängelholms tingsrätt,tingsratt,Ängelholm,,,FALSE,none,Ängelholms tingsrätt
+1984,https://runeberg.org/statskal/1984/0299.html,299,Hovrätten över Skåne och,Malmöhus,55,Eslövs tingsrätt,tingsratt,Eslöv,,,FALSE,none,Eslövs tingsrätt
+1984,https://runeberg.org/statskal/1984/0299.html,299,Hovrätten över Skåne och,Malmöhus,56,Helsingborgs tingsrätt,tingsratt,Helsingborg,,,FALSE,none,Helsingborgs tingsrätt
+1984,https://runeberg.org/statskal/1984/0299.html,299,Hovrätten över Skåne och,Malmöhus,57,Landskrona tingsrätt,tingsratt,Landskrona,,,FALSE,none,Landskrona tingsrätt
+1984,https://runeberg.org/statskal/1984/0299.html,299,Hovrätten över Skåne och,Malmöhus,58,Lunds tingsrätt,tingsratt,Lund,,,FALSE,none,Lunds tingsrätt
+1984,https://runeberg.org/statskal/1984/0299.html,299,Hovrätten över Skåne och,Malmöhus,59,Malmö tingsrätt,tingsratt,Malmö,,,FALSE,none,Malmö tingsrätt
+1984,https://runeberg.org/statskal/1984/0300.html,300,Hovrätten över Skåne och,Malmöhus,60,Trelleborgs tingsrätt,tingsratt,Trelleborg,,,FALSE,none,Trelleborgs tingsrätt
+1984,https://runeberg.org/statskal/1984/0300.html,300,Hovrätten över Skåne och,Malmöhus,61,Ystads tingsrätt,tingsratt,Ystad,,,FALSE,none,Ystads tingsrätt
+1984,https://runeberg.org/statskal/1984/0300.html,300,Hovrätten för Västra Sverige,Hallands,62,Halmstads tingsrätt,tingsratt,Halmstad och Laholm,,,FALSE,none,Halmstads tingsrätt
+1984,https://runeberg.org/statskal/1984/0300.html,300,Hovrätten för Västra Sverige,Hallands,63,Varbergs tingsrätt,tingsratt,Varberg och Kungsbacka,,,FALSE,none,Varbergs tingsrätt
+1984,https://runeberg.org/statskal/1984/0300.html,300,Hovrätten för Västra Sverige,Göteborgs och Bohus,64,Göteborgs tingsrätt,tingsratt,Göteborg,,,FALSE,none,Göteborgs tingsrätt
+1984,https://runeberg.org/statskal/1984/0300.html,300,Hovrätten för Västra Sverige,Göteborgs och Bohus,65,Mölndals tingsrätt,tingsratt,Göteborg,,,FALSE,none,Mölndals tingsrätt
+1984,https://runeberg.org/statskal/1984/0301.html,301,Hovrätten för Västra Sverige,Göteborgs och Bohus,66,Stenungsunds tingsrätt,tingsratt,Stenungsund,,,FALSE,none,Stenungsunds tingsrätt
+1984,https://runeberg.org/statskal/1984/0301.html,301,Hovrätten för Västra Sverige,Göteborgs och Bohus,67,Strömstads tingsrätt,tingsratt,Strömstad,,,FALSE,none,Strömstads tingsrätt
+1984,https://runeberg.org/statskal/1984/0301.html,301,Hovrätten för Västra Sverige,Göteborgs och Bohus,68,Uddevalla tingsrätt,tingsratt,Uddevalla,,,FALSE,none,Uddevalla tingsrätt
+1984,https://runeberg.org/statskal/1984/0301.html,301,Hovrätten för Västra Sverige,Alvsborgs,69,Alingsås tingsrätt,tingsratt,Alingsås,,,FALSE,none,Alingsås tingsrätt
+1984,https://runeberg.org/statskal/1984/0301.html,301,Hovrätten för Västra Sverige,Alvsborgs,70,Borås tingsrätt,tingsratt,Borås,,,FALSE,none,Borås tingsrätt
+1984,https://runeberg.org/statskal/1984/0301.html,301,Hovrätten för Västra Sverige,Alvsborgs,71,Sjuhäradsbygdens tingsrätt,tingsratt,Borås,,,FALSE,none,Sjuhäradsbygdens tingsrätt
+1984,https://runeberg.org/statskal/1984/0301.html,301,Hovrätten för Västra Sverige,Alvsborgs,72,Trollhättans tingsrätt,tingsratt,Trollhättan,,,FALSE,none,Trollhättans tingsrätt
+1984,https://runeberg.org/statskal/1984/0301.html,301,Hovrätten för Västra Sverige,Alvsborgs,73,Vänersborgs tingsrätt,tingsratt,Vänersborg och Mellerud,,,FALSE,none,Vänersborgs tingsrätt
+1984,https://runeberg.org/statskal/1984/0301.html,301,Hovrätten för Västra Sverige,Alvsborgs,74,Åmåls tingsrätt,tingsratt,Åmål och Bengtsfors,,,FALSE,none,Åmåls tingsrätt
+1984,https://runeberg.org/statskal/1984/0301.html,301,Hovrätten för Västra Sverige,Värmlands,75,Arvika tingsrätt,tingsratt,"Arvika, Säffle och Årjäng",,,FALSE,none,Arvika tingsrätt
+1984,https://runeberg.org/statskal/1984/0302.html,302,Hovrätten för Västra Sverige,Värmlands,76,Karlstads tingsrätt,tingsratt,Karlstad,,,FALSE,none,Karlstads tingsrätt
+1984,https://runeberg.org/statskal/1984/0302.html,302,Hovrätten för Västra Sverige,Värmlands,77,Kristinehamns tingsrätt,tingsratt,Kristinehamn och Filipstad,,,FALSE,none,Kristinehamns tingsrätt
+1984,https://runeberg.org/statskal/1984/0302.html,302,Hovrätten för Västra Sverige,Värmlands,78,Sunne tingsrätt,tingsratt,"Sunne, Råda och Likenäs",,,FALSE,none,Sunne tingsrätt
+1984,https://runeberg.org/statskal/1984/0302.html,302,Hovrätten för Nedre Norrland,Gävleborgs,79,Bollnäs tingsrätt,tingsratt,Bollnäs och Söderhamn,,,FALSE,none,Bollnäs tingsrätt
+1984,https://runeberg.org/statskal/1984/0302.html,302,Hovrätten för Nedre Norrland,Gävleborgs,80,Gävle tingsrätt,tingsratt,Gävle,,,FALSE,none,Gävle tingsrätt
+1984,https://runeberg.org/statskal/1984/0302.html,302,Hovrätten för Nedre Norrland,Gävleborgs,81,Hudiksvalls tingsrätt,tingsratt,Hudiksvall,,,FALSE,none,Hudiksvalls tingsrätt
+1984,https://runeberg.org/statskal/1984/0302.html,302,Hovrätten för Nedre Norrland,Gävleborgs,82,Ljusdals tingsrätt,tingsratt,Ljusdal,,,FALSE,none,Ljusdals tingsrätt
+1984,https://runeberg.org/statskal/1984/0302.html,302,Hovrätten för Nedre Norrland,Gävleborgs,83,Sandvikens tingsrätt,tingsratt,Sandviken,,,FALSE,none,Sandvikens tingsrätt
+1984,https://runeberg.org/statskal/1984/0302.html,302,Hovrätten för Nedre Norrland,Västernorrlands,84,Härnösands tingsrätt,tingsratt,Härnösand,,,FALSE,none,Härnösands tingsrätt
+1984,https://runeberg.org/statskal/1984/0302.html,302,Hovrätten för Nedre Norrland,Västernorrlands,85,Sollefteå tingsrätt,tingsratt,Sollefteå,,,FALSE,none,Sollefteå tingsrätt
+1984,https://runeberg.org/statskal/1984/0302.html,302,Hovrätten för Nedre Norrland,Västernorrlands,86,Sundsvalls tingsrätt,tingsratt,Sundsvall,,,FALSE,none,Sundsvalls tingsrätt
+1984,https://runeberg.org/statskal/1984/0302.html,302,Hovrätten för Nedre Norrland,Västernorrlands,87,Örnsköldsviks tingsrätt,tingsratt,Örnsköldsvik,,,FALSE,none,Örnsköldsviks tingsrätt
+1984,https://runeberg.org/statskal/1984/0303.html,303,Hovrätten för Nedre Norrland,Jämtlands,88,Svegs tingsrätt,tingsratt,Sveg och Svenstavik,,,FALSE,none,Svegs tingsrätt
+1984,https://runeberg.org/statskal/1984/0303.html,303,Hovrätten för Nedre Norrland,Jämtlands,89,Östersunds tingsrätt,tingsratt,Östersund och Strömsund,,,FALSE,none,Östersunds tingsrätt
+1984,https://runeberg.org/statskal/1984/0303.html,303,Hovrätten för Övre Norrland,Västerbottens,90,Lycksele tingsrätt,tingsratt,"Lycksele, Storuman, Vilhelmina och Åsele",,,FALSE,none,Lycksele tingsrätt
+1984,https://runeberg.org/statskal/1984/0303.html,303,Hovrätten för Övre Norrland,Västerbottens,91,Skellefteå tingsrätt,tingsratt,Skellefteå och Norsjö,,,FALSE,none,Skellefteå tingsrätt
+1984,https://runeberg.org/statskal/1984/0303.html,303,Hovrätten för Övre Norrland,Västerbottens,92,Umeå tingsrätt,tingsratt,Umeå,,,FALSE,none,Umeå tingsrätt
+1984,https://runeberg.org/statskal/1984/0303.html,303,Hovrätten för Övre Norrland,Norrbottens,93,Bodens tingsrätt,tingsratt,Boden och Jokkmokk,,,FALSE,none,Bodens tingsrätt
+1984,https://runeberg.org/statskal/1984/0303.html,303,Hovrätten för Övre Norrland,Norrbottens,94,Gällivare tingsrätt,tingsratt,"Gällivare, Kiruna och Karesuando",,,FALSE,none,Gällivare tingsrätt
+1984,https://runeberg.org/statskal/1984/0303.html,303,Hovrätten för Övre Norrland,Norrbottens,95,Haparanda tingsrätt,tingsratt,"Haparanda, Kalix, Pajala och Överkalix",,,FALSE,none,Haparanda tingsrätt
+1984,https://runeberg.org/statskal/1984/0303.html,303,Hovrätten för Övre Norrland,Norrbottens,96,Luleå tingsrätt,tingsratt,Luleå,,,FALSE,none,Luleå tingsrätt
+1984,https://runeberg.org/statskal/1984/0304.html,304,Hovrätten för Övre Norrland,Norrbottens,97,Piteå tingsrätt,tingsratt,"Piteå, Arjeplog och Arvidsjaur",,,FALSE,none,Piteå tingsrätt
